@@ -99,3 +99,403 @@
 1,97,SAR Analog to Digital Converter for bio-potential signals: A review,10.1109/ICSCTI.2015.7489544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7489544,0
 1,98,Design of a 10 Bit Low Power Split Capacitor Array SAR ADC,10.1109/SPICSCON54707.2021.9885682,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885682,0
 1,99,Design and Optimization of a Low-Power Comparator for a 10-Bit Successive Approximation Register (SAR) Analog-to-Digital Converter (ADC) for General-Purpose Applications,10.1109/IITCEE59897.2024.10468012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10468012,0
+2,0,A 1-V 225-nW 1KS/s current successive approximation ADC for pacemakers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5587127,0
+2,1,Design Optimization for Decimation Filter for High Performance Sigma-Delta ADC,10.1109/ISOCC56007.2022.10031411,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10031411,0
+2,2,A 10b 1.6GS/s 12.2mW 7/8-way Split Time-interleaved SAR ADC with Digital Background Mismatch Calibration,10.1109/CICC.2019.8780222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8780222,0
+2,3,A Low Power 8-Bit Asynchronous SAR ADC Design Using Charge Scaling DAC,10.1109/ISED.2014.55,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7172782,0
+2,4,A power-efficient successive approximation ADC using an improved control logic circuit,10.1109/IranianCEE.2012.6292332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292332,0
+2,5,A hybrid ADC combining capacitive DAC-based multi-bit/cycle SAR ADC with flash ADC,10.1109/ELINFOCOM.2016.7562950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7562950,0
+2,6,Analog to Digital Converters Performance Evaluation Using Figure of Merits in Industrial Applications,10.1109/EMS.2016.043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7920252,0
+2,7,A 50 MS/s First-Order Mismatch Error Shaping and Third-Order Noise-Shaping SAR ADC for IOT Applications,10.1109/IC-NIDC59918.2023.10390566,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10390566,0
+2,8,A Nyquist Rate SAR ADC Employing Incremental Sigma Delta DAC Achieving Peak SFDR = 107 dB at 80 kS/s,10.1109/JSSC.2017.2776299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8207772,0
+2,9,A 2.02–5.16 fJ/Conversion Step 10 Bit Hybrid Coarse-Fine SAR ADC With Time-Domain Quantizer in 90 nm CMOS,10.1109/JSSC.2015.2492781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7320947,0
+2,10,A 7.3-μ W 13-ENOB 98-dB SFDR Noise-Shaping SAR ADC With Duty-Cycled Amplifier and Mismatch Error Shaping,10.1109/JSSC.2022.3168588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9766432,0
+2,11,Design and Implementation of a Rail-to-Rail 460-kS/s 10-bit SAR ADC for the Power-Efficient Capacitance Measurement,10.1109/TIM.2014.2365405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6949145,0
+2,12,Hardware and Software for Learning Analog-toDigital Converters in Engineering Education,10.1109/ELECTRONICA.2019.8825619,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8825619,0
+2,13,High-Resolution SAR ADC With Enhanced Linearity,10.1109/TCSII.2016.2626300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7738440,0
+2,14,An Area-Efficient and Low-Power 12-b SAR/Single-Slope ADC Without Calibration Method for CMOS Image Sensors,10.1109/TED.2016.2587721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7515162,0
+2,15,A 10 Bit 5 MS/s Column SAR ADC With Digital Error Correction for CMOS Image Sensors,10.1109/TCSII.2019.2928204,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8759916,0
+2,16,A 9-bit Low-Power Fully Differential SAR ADC Using Adaptive Supply and Reference Voltages,10.1109/ICEE.2018.8472555,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8472555,0
+2,17,A General Purpose 1.8-V 12-b 4-MS/s Fully Differential SAR ADC With 7.2-Vpp Input Range in 28-nm FDSOI,10.1109/TCSII.2019.2893111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612947,0
+2,18,Verilog-A Based 8-Bit Pipeline ADC Tailored for Low Power Performance and High-Speed Operation in 90 nm Technology,10.1109/ICECCC61767.2024.10593971,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10593971,0
+2,19,A 0.6-V 12-bit Set-and-Down SAR ADC With a DAC-Based Bypass Window Switching Method,10.1109/TCSII.2023.3266605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100952,0
+2,20,A 1.33 $\mu{\rm W}$ 8.02-ENOB 100 kS/s Successive Approximation ADC With Supply Reduction Technique for Implantable Retinal Prosthesis,10.1109/TBCAS.2014.2300186,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6774474,0
+2,21,Recent Advances in High-Resolution Hybrid Discrete-Time Noise-Shaping ADCs,10.1109/OJSSCS.2021.3118668,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9564255,0
+2,22,A 1.5-MHz BW 81.2-dB SNDR Dual-Residue Pipeline ADC With a Fully Dynamic Noise-Shaping Interpolating-SAR ADC,10.1109/JSSC.2024.3360944,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10426783,0
+2,23,A 10-Bit 250-KS/s 1.24-uW SAR ADC for IoT Sensors with Energy-Efficient Comparator,10.1109/MWSCAS57524.2023.10405896,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10405896,0
+2,24,SAR ADC design using Golden ratio weight algorithm,10.1109/ISCIT.2015.7458367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7458367,0
+2,25,An Auxiliary-Loop-Enhanced Fast-Transient FVF LDO as Reference Buffer of a SAR ADC,10.1109/ISCAS48785.2022.9937923,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937923,0
+2,26,A 10-bit 120-MS/s SAR ADC in 90nm CMOS with redundancy compensation,10.1109/IEEE-IWS.2018.8400824,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8400824,0
+2,27,10-bit 30-MS/s SAR ADC Using a Switchback Switching Method,10.1109/TVLSI.2012.2190117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6172687,0
+2,28,Behavioral Modeling of A High-Resolution Sigma-Delta Analog-to-Digital Converter,10.1109/EIECS59936.2023.10435402,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10435402,0
+2,29,Accurate Digital Synthesis of Sinewaves,10.1109/TIM.2007.911583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4414364,0
+2,30,Digital Filter Design of A High Resolution Audio Sigma-delta ADC,10.1109/ICASID.2018.8693141,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8693141,0
+2,31,A 65-dB-SNDR Pipelined SAR ADC Using PVT-Robust Capacitively Degenerated Dynamic Amplifier,10.1109/JSSC.2023.3235521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10019264,0
+2,32,A 103-dB SFDR Calibration-Free Oversampled SAR ADC With Mismatch Error Shaping and Pre-Comparison Techniques,10.1109/JSSC.2021.3135559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663409,0
+2,33,Power and area optimization of decimation filter for application in Sigma Delta ADC,10.1109/CIMCA.2016.8053268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053268,0
+2,34,A 11.4-ENOB First-Order Noise-Shaping SAR ADC With PVT-Insensitive Closed-Loop Dynamic Amplifier and Two CDACs,10.1109/ICEIC61013.2024.10457134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10457134,0
+2,35,A charge redistribution SAR ADC for a pressure correction ASIC,10.1109/ICECS.2005.4633536,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633536,0
+2,36,A Physically Unclonable Function Embedded in a SAR ADC,10.1109/ITCAsia55616.2022.00025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9946325,0
+2,37,A 10-Bit 5 MS/s VCO-SAR ADC in 0.18- $\mu$ m CMOS,10.1109/TCSII.2018.2833866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8356115,0
+2,38,A Time-Based Bandpass ADC Using Time-Interleaved Voltage-Controlled Oscillators,10.1109/TCSI.2008.925823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4526220,0
+2,39,An Automated Design Environment for CT Incremental Sigma-Delta ADCs,10.1109/ICECS49266.2020.9294970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294970,0
+2,40,A 91 dB SNDR Calibration-Free Fully-Passive Noise-Shaping SAR ADC with Mismatch Error Shaping,10.1109/ISCAS58744.2024.10557948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557948,0
+2,41,Analysis and Calibration of Nonbinary-Weighted Capacitive DAC for High-Resolution SAR ADCs,10.1109/TCSII.2014.2331111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6839002,0
+2,42,Dynamic Specification Testing and Diagnosis of High-Precision Sigma-Delta ADCs,10.1109/MDT.2012.2217111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6296281,0
+2,43,Design of Different High-Speed Data Converters using Verilog,10.1109/ICKECS56523.2022.10060679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10060679,0
+2,44,A 6.25 MHz BW 8-OSR fifth-order single-stage sigma-delta ADC,10.1109/ISCAS.2011.5937766,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5937766,0
+2,45,A 0.8V 875 MS/s 7b low-power SAR ADC for ADC-Based Wireline Receivers in 22nm FDSOI,10.1109/VLSI-SOC46417.2020.9344084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9344084,0
+2,46,A 2nd-Order Noise-Shaping SAR ADC With Lossless Dynamic Amplifier Assisted Integrator,10.1109/TCSII.2019.2957727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924772,0
+2,47,A 6bit 1.2GS/s Symmetric Successive Approximation Energy-Efficient Time-to-Digital Converter in 40nm CMOS,10.1109/ISCAS45731.2020.9180949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180949,0
+2,48,A Pipeline SAR ADC With Second-Order Interstage Gain Error Shaping,10.1109/JSSC.2019.2962140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8954617,0
+2,49,Fully Synthesizable Low-Area Analogue-to-Digital Converters With Minimal Design Effort Based on the Dyadic Digital Pulse Modulation,10.1109/ACCESS.2020.2986949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9062548,0
+2,50,A 16-Bit Calibration-Free SAR ADC With Binary-Window and Capacitor-Swapping DAC Switching Schemes,10.1109/TCSI.2021.3096242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490329,0
+2,51,Wideband low-distortion sigma-delta ADC for WLAN,10.1109/ICICS.2007.4449742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4449742,0
+2,52,14 -bit Low Power Successive Approximation ADC using Two Step Split Capacitive array DAC with multiplexer switching,10.1109/ICAECC.2018.8479477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8479477,0
+2,53,A 0.0033 mm2 3.5 fJ/conversion-step SAR ADC with 2× Input Range Boosting,10.1109/ISCAS46773.2023.10182072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10182072,0
+2,54,Design of 16-Bit Sigma Delta ADC Modulator and its Digital Decimation Filter,10.1109/CSRSWTC60855.2023.10426869,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10426869,0
+2,55,A 13.8-ENOB Fully Dynamic Third-Order Noise-Shaping SAR ADC in a Single-Amplifier EF-CIFF Structure With Hardware-Reusing kT/C Noise Cancellation,10.1109/JSSC.2021.3108620,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531965,0
+2,56,A 5-GHz Low-Power Low-Noise Integer-N Digital Subsampling PLL With SAR ADC PD,10.1109/TMTT.2018.2840987,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376015,0
+2,57,A low-power single-ended 11-bit SA-ADC with 1 V supply voltage and 2 V input voltage range for CMOS image sensors,10.1109/APCCAS.2016.7803989,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803989,0
+2,58,A Sigma-Delta ADC with Complementary T-Switch,10.1109/ICICM54364.2021.9660298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660298,0
+2,59,Implementation of Low-Power 6–8 b 30–90 GS/s Time-Interleaved ADCs With Optimized Input Bandwidth in 32 nm CMOS,10.1109/JSSC.2016.2519397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7409925,0
+2,60,Analog-Digital Converters of Successive Approximation Intellectual Property Blocks,10.1109/NCS60404.2023.10397507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10397507,0
+2,61,Design of High Speed Time – Interleaved SAR Analog to Digital Converter,10.1109/ICDCS54290.2022.9780703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780703,0
+2,62,Behavioral Modeling of A High-Resolution Sigma-Delta ADC,10.1109/ISNE56211.2023.10221631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221631,0
+2,63,A 0.5 V 1.28-MS/s 4.68-fJ/Conversion-Step SAR ADC With Energy-Efficient DAC and Trilevel Switching Scheme,10.1109/TVLSI.2015.2448575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161385,0
+2,64,A 12.5-ENOB 10-kS/s Redundant SAR ADC in 65-nm CMOS,10.1109/TCSII.2015.2482618,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7279120,0
+2,65,Design of CMOS difference amplifier circuit for sigma delta ADC for aerospace applications,10.1109/ICOMICON.2017.8279119,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8279119,0
+2,66,A Power-Efficient Successive Approximation Algorithm for Low-Activity Signals,10.1109/PRIME58259.2023.10161935,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161935,0
+2,67,Slew-rate effects in first order sigma-delta ADC's,10.1109/MELCON.2004.1346781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1346781,0
+2,68,A 16b 5MSPS two-stage pipeline ADC with self-calibrated technology,10.1109/INFOCT.2018.8356860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8356860,0
+2,69,Analysis and Design of Calibration Technique for Capacitor Mismatch in SAR ADCs,10.1109/ICCS59502.2023.10367290,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367290,0
+2,70,A 12-b 1-GS/s 31.5-mW Time-Interleaved SAR ADC With Analog HPF-Assisted Skew Calibration and Randomly Sampling Reference ADC,10.1109/JSSC.2019.2915583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727467,0
+2,71,A 16-bit 8-channel Sigma-Delta ADC for Harmonics Detection System in Power Network,10.1109/ICSICT.2018.8565031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8565031,0
+2,72,A femto-ampere sensitive direct-interface current-input sigma delta ADC for amperometric bio-sensor signal acquisition,10.1109/BioCAS.2015.7348403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7348403,0
+2,73,A 12-b 10-GS/s Interleaved Pipeline ADC in 28-nm CMOS Technology,10.1109/JSSC.2017.2747758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100718,0
+2,74,Split ADC background self-calibration of a 16-b successive approximation ADC in 180nm CMOS,10.1109/I2MTC.2013.6555430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6555430,0
+2,75,Analog to Information Converter with Random Demodulation Based on SAR ADC,10.1109/ElConRus51938.2021.9396361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9396361,0
+2,76,A 1.4 GS/s TI Pipelined-SAR analog-to-digital converter in 22-nm FDSOI CMOS,10.1109/NorCAS58970.2023.10305443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10305443,0
+2,77,A New DAC Mismatch Shaping Technique for Sigma–Delta Modulators,10.1109/TCSII.2010.2083172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5624575,0
+2,78,Modeling non-idealities of Sigma Delta ADC in simulink,10.1109/ICCCAS.2008.4657946,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4657946,0
+2,79,An 8-bit 0.35-V 5.04-fJ/Conversion-Step SAR ADC With Background Self-Calibration of Comparator Offset,10.1109/TVLSI.2014.2337236,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6876033,0
+2,80,A Third-order Band-pass Fully-passive Noise-Shaping Modulator Based on a Time-interleaved SAR ADC,10.1109/MWSCAS.2018.8623973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8623973,0
+2,81,A 10-b 900-MS/s Single-Channel Pipelined-SAR ADC Using Current-Mode Reference Scaling,10.1109/A-SSCC48613.2020.9336103,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9336103,0
+2,82,An 8-bit 2 MS/s successive approximation register analog-to-digital converter for bioinformatics and computational biology Application,10.1109/ICNSC.2015.7116101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7116101,0
+2,83,A 21 fJ/Conversion-Step 100 kS/s 10-bit ADC With a Low-Noise Time-Domain Comparator for Low-Power Sensor Interface,10.1109/JSSC.2010.2102590,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5703143,0
+2,84,Effect of Timing Jitter on Sigma Delta ADC for SDR Mobile Receiver,10.1109/ICETET.2009.87,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5395033,0
+2,85,A 220-MS/s 9-Bit 2X Time-Interleaved SAR ADC With a 133-fF Input Capacitance and a FOM of 37 fJ/conv in 65-nm CMOS,10.1109/TCSII.2015.2455431,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154416,0
+2,86,Beyond 3G wideband and high linearity ADCs,10.1109/FTFC.2011.5948918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5948918,0
+2,87,"A 0.5V, 1 µ W successive approximation ADC",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471512,0
+2,88,A Successive Approximation Algorithm with Machine Learning for ECG Signals,10.1109/BioCAS58349.2023.10388629,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388629,0
+2,89,A digital PWM controlled KY step-up converter based on frequency domain ΣΔ ADC,10.1109/ISIE.2017.8001307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8001307,0
+2,90,A 77.1-dB-SNDR 6.25-MHz-BW Pipeline SAR ADC With Enhanced Interstage Gain Error Shaping and Quantization Noise Shaping,10.1109/JSSC.2020.3038914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286522,0
+2,91,A 10-bit 20 MS/s successive approximation register analog-to-digital converter using single-sided DAC switching method for control application,10.1109/CACS.2014.7097157,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7097157,0
+2,92,A 10b 1MS/s-to-10MS/s 0.11um CMOS SAR ADC for analog TV applications,10.1109/ISOCC.2012.6407055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6407055,0
+2,93,An equalization-based adaptive digital background calibration technique for successive approximation analog-to-digital converters,10.1109/ICASIC.2007.4415624,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415624,0
+2,94,Elimination of false codes in an asynchronous parallel successive approximation A/D converter,10.1109/MWSCAS.2013.6674637,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6674637,0
+2,95,Evaluation of the Effect of Nonlinearity of the Successive Approximation ADC to the Measurement Error of RMS,10.1109/INDEL.2018.8637630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637630,0
+2,96,Design and implementation of digital compensation method for the drooping sine response of Sigma Delta ADCs,10.1109/WiSPNET.2017.8300171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8300171,0
+2,97,A 12.5-fJ/Conversion-Step 8-Bit 800-MS/s Two-Step SAR ADC,10.1109/TCSII.2016.2608908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7565573,0
+2,98,A 0.5-V 1-μW successive approximation ADC,10.1109/JSSC.2003.813217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1208477,0
+2,99,An Energy-Efficient Low Frequency-Dependence Switching Technique for SAR ADCs,10.1109/TCSII.2014.2304890,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6750043,0
+3,0,Design of Low Power Area efficient SAR ADC at Submicron Level for Medical Application,10.1109/ICDSIS61070.2024.10594068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10594068,0
+3,1,A Two-step SAR ADC with Synchronous DEM Calibration Achieving Up to 15% Power Reduction,10.1109/APCCAS50809.2020.9301655,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9301655,0
+3,2,A 12 bit 100 MS/s SAR-Assisted Digital-Slope ADC,10.1109/JSSC.2016.2591822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7530827,0
+3,3,A mixed mode background calibration technique for pipeline ADCs,10.1109/ICIEA.2009.5138643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5138643,0
+3,4,Self-Dithering Technique for High-Resolution SAR ADC Design,10.1109/TCSII.2015.2468921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7206550,0
+3,5,TID Radiation Effects on a 0.6 μm Sigma Delta ADC Radiation-Hardened-by-Design using ELTs,10.1109/AERO55745.2023.10115568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10115568,0
+3,6,A 13-bit 180-MS/s SAR ADC with Efficient Capacitor-Mismatch Estimation and Dither Enhancement,10.1109/ISCAS.2019.8702487,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702487,0
+3,7,An Area-Efficient Dynamic-Comparator-Reuse Noise-Shaping SAR ADC for Biosensor System,10.1109/LSENS.2023.3323901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10278495,0
+3,8,Digitally Calibrated 768-kS/s 10-b Minimum-Size SAR ADC Array With Dithering,10.1109/JSSC.2012.2198350,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6225401,0
+3,9,"A 600-MS/s, 65-dB SNDR, 75-MHz BW Time-Interleaved Noise-Shaping SAR ADC",10.1109/TCSII.2023.3243691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10041207,0
+3,10,A 0.16mm2 12b 30MS/s 0.18μm CMOS SAR ADC based on low-power composite switching,10.1109/ISOCC.2015.7401641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401641,0
+3,11,A 40-MHz Bandwidth 0–2 MASH VCO-Based Delta-Sigma ADC With 35-fJ/Step FoM,10.1109/TCSII.2015.2458111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161322,0
+3,12,A Speed-Enhancing Dual-Trial Instantaneous Switching Architecture for SAR ADCs,10.1109/TCSII.2014.2362722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922504,0
+3,13,A 100dB-SNR mixed CT/DT audio-band sigma delta ADC,10.1109/ICSICT.2010.5667800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667800,0
+3,14,An Inherent Gain Error Tolerance Noise-Shaping SAR-Assisted Pipeline ADC With Code-Counter-Based Offset Calibration,10.1109/JSSC.2021.3111912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9547668,0
+3,15,"A new architecture for area and power efficient, high conversion rate successive approximation ADCs",10.1109/NEWCAS.2004.1359079,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1359079,0
+3,16,A 7-bit 2 GS/s Time-Interleaved SAR ADC With Timing Skew Calibration Based on Current Integrating Sampler,10.1109/TCSI.2020.3039252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286902,0
+3,17,An experimental 0.6-V 57.5-fJ/conversion-step 250-kS/s 8-bit rail-to-rail successive approximation ADC in 0.18µm CMOS,10.1109/ICECS.2009.5410973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5410973,0
+3,18,An 11-bit 100-MS/s Subranged-SAR ADC in 65-nm CMOS,10.1109/TVLSI.2017.2742515,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8017495,0
+3,19,An 11-bit 250-nW 10-kS/s SAR ADC with doubled input range for biomedical applications,10.1109/MWSCAS.2017.8052941,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052941,0
+3,20,A 12-bit SAR ADC Using Pseudo-Dynamic Weighting C-DAC for Capacitor Error Calibration,10.1109/MWSCAS48704.2020.9184583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184583,0
+3,21,1V 10-bit successive approximation ADC for low power biomedical applications,10.1109/ECCTD.2007.4529570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4529570,0
+3,22,Segmented Architecture for Successive Approximation Analog-to-Digital Converters,10.1109/TVLSI.2013.2246592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6490419,0
+3,23,A High-Speed Energy-Efficient Segmented Prequantize and Bypass DAC for SAR ADCs,10.1109/TCSII.2015.2435432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7111238,0
+3,24,A 9-Bit 500-ms/s 4-Stage Pipelined SAR ADC With Wide Input Common-Mode Range Using Replica-Biased Dynamic Residue Amplifiers,10.1109/ACCESS.2023.3248784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10052667,0
+3,25,A Steep-Slope Tunnel FET Based SAR Analog-to-Digital Converter,10.1109/TED.2014.2359663,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922528,0
+3,26,Reinforcement-Learning-Based Successive Approximation Algorithm,10.1109/ISCAS58744.2024.10558578,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558578,0
+3,27,8-bit 22nW SAR ADC using output offset cancellation technique,10.1109/ICENCO.2015.7416328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7416328,0
+3,28,SAR-ADC design for neural recording system with energy efficient quaternary capacitive DAC switching scheme,10.1109/ICCSP.2015.7322874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322874,0
+3,29,Comparator Circuits for Successive Approximation Register Based Analog-to-Digital Converters,10.1109/NCS60404.2023.10397528,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10397528,0
+3,30,A 97dB 10MS/s Fully-Differential Noise-Shaping Successive Approximation Analog-to-Digital Converter,10.1109/IFEEA60725.2023.10429342,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10429342,0
+3,31,A Single-Channel Voltage-Scalable 8-GS/s 8-b >37.5-dB SNDR Time-Domain ADC With Asynchronous Pipeline Successive Approximation in 28-nm CMOS,10.1109/JSSC.2022.3230697,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10003071,0
+3,32,A 10-Bit 10-Ms/S 5.72 nW Mixed SAR Logic for ADC Used in Wireless Sensor Node,10.1109/ICNTE44896.2019.8946000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946000,0
+3,33,A Low-Noise and Area-Efficient PWM- $\Delta \Sigma $  ADC Using a Single-Slope Quantizer for CMOS Image Sensors,10.1109/TED.2015.2430846,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7112101,0
+3,34,Recent Advances and Trends in Noise Shaping SAR ADCs,10.1109/TCSII.2020.3046170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9300225,0
+3,35,Design of 8-bit Low power & High performance SAR ADC using current steering DAC,10.1109/GCITC60406.2023.10426165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10426165,0
+3,36,Analysis on Capacitor Mismatch and Parasitic Capacitors Effect of Improved Segmented-Capacitor Array in SAR ADC,10.1109/IITA.2009.193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5369251,0
+3,37,A 3-mW 12b 160-MS/s 2-Way Time-Interleaved Subrange SAR ADC in 65-nm CMOS,10.1109/TCSII.2019.2925888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8752059,0
+3,38,A Jitter-Robust 40 Gb/s ADC-Based Multicarrier Receiver Front-End With 4-GS/s Baseband Pipeline-SAR ADCs in 22-nm FinFET,10.1109/JSSC.2022.3226489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9989508,0
+3,39,Low-Cost Low-Power Self-Test Design and Verification of On-Chip ADC for System-on-a-Chip Applications,10.1109/IMTC.2006.328498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4124552,0
+3,40,A Low-Power Incremental Delta–Sigma ADC for CMOS Image Sensors,10.1109/TCSII.2015.2503706,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337425,0
+3,41,A 10-Bit 200-kS/s 1.76- $\mu$ W SAR ADC With Hybrid CAP-MOS DAC for Energy-Limited Applications,10.1109/TCSI.2019.2899162,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666173,0
+3,42,Design and modeling of a successive approximation ADC for the electrostatic harvester of vibration energy,10.1109/BMAS.2010.6156599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6156599,0
+3,43,Analysis of integrator for continuous time Digital sigma Delta ADC on Xilinx FPGA,10.1109/ICEEOT.2016.7755184,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7755184,0
+3,44,A 14-b 2MSPS Low Power Sigma-Delta ADC Using Feed-Forward Structure,10.1109/ICMTMA.2011.7,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5720686,0
+3,45,A design of 8 bit SAR ADC using monotonie capacitive switching procedure in 90nm,10.1109/CIMCA.2016.8053287,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053287,0
+3,46,A 1-µW 10-bit 200-kS/s SAR ADC With a Bypass Window for Biomedical Applications,10.1109/JSSC.2012.2217635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6339066,0
+3,47,A 10-bit 100MS/s time domain Flash-SAR ADC,10.1109/EDSSC.2014.7061088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061088,0
+3,48,A behavior-oriented simulation tool for design and optimization of sigma-delta ADCs,10.1109/ICASIC.2007.4415867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415867,0
+3,49,A Software Level Calibration Based on Bayesian Regression for a Successive Stochastic Approximation Analog-to-Digital Converter System,10.1109/TCYB.2018.2795238,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320839,0
+3,50,$SigmaDelta$ADC-Based Frequency-Error Measurement in Single-Carrier Digital Modulations,10.1109/TIM.2006.880287,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1703895,0
+3,51,A 24–72-GS/s 8-b Time-Interleaved SAR ADC With 2.0–3.3-pJ/Conversion and >30 dB SNDR at Nyquist in 14-nm CMOS FinFET,10.1109/JSSC.2018.2859757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8436447,0
+3,52,Design of 8-bit SAR-ADC CMOS,10.1109/SCORED.2009.5443038,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5443038,0
+3,53,Design of comparator with offset cancellation for 12-bit 1.6MS/s successive approximation ADC,10.1109/CircuitsAndSystems.2015.7394061,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7394061,0
+3,54,A Time-Interleaved SAR ADC With Bypass-Based Opportunistic Adaptive Calibration,10.1109/JSSC.2020.2987687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9080084,0
+3,55,Design Techniques to Improve Blocker Tolerance of Continuous-Time  $\Delta\Sigma$  ADCs,10.1109/TVLSI.2014.2303815,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6756987,0
+3,56,A 26.24uW 9.26-ENOB Dynamic RAM Based SAR ADC for Biomedical Applications,10.1109/ICM50269.2020.9331493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331493,0
+3,57,A 10-GS/s 8-bit 2850-μm2 Two-Step Time-Domain ADC With Speed and Efficiency Enhanced by the Delay-Tracking Pipelined-SAR TDC,10.1109/JSSC.2022.3196924,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9856661,0
+3,58,A Reconfigurable Dual-Mode Tracking SAR ADC without Analog Subtraction,10.23919/SPA.2019.8936832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936832,0
+3,59,Design and Verification Challenges in SoC Integration of PicoRV32 RISC-V with Sigma-Delta ADC,10.1109/MIPRO60963.2024.10569876,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10569876,0
+3,60,Low-power comb decimation filter for RF Sigma-Delta ADCs,10.1109/ISCAS.2014.6865455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865455,0
+3,61,A 98.1-dB SNDR 188-dB FoMS Noise-Shaping SAR ADC Using Series Connection Capacitors,10.1109/MWSCAS47672.2021.9531721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531721,0
+3,62,Bootstrapping Techniques for Energy-Efficient SAR ADCs : A State-of-the-Art Review,10.1109/MWSCAS47672.2021.9531736,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531736,0
+3,63,A 10-bit Charge-Redistribution ADC Consuming 1.9 $\mu$W at 1 MS/s,10.1109/JSSC.2010.2043893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5453302,0
+3,64,Novel Method to Measure the Capacitive Matching of A/D Converter Based on Successive Approximation,10.1109/TIM.2013.2261616,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6523956,0
+3,65,"A 2.5-MHz BW, 75-dB SNDR Noise-Shaping SAR ADC With a 1st-Order Hybrid EF-CIFF Structure Assisted by Unity-Gain Buffer",10.1109/TVLSI.2022.3213365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9927302,0
+3,66,An Energy Efficient SAR ADC Architecture with DAC Separation,10.1109/NEWCAS49341.2020.9159764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9159764,0
+3,67,An 8-Bit Single-Ended Ultra-Low-Power SAR ADC With a Novel DAC Switching Method and a Counter-Based Digital Control Circuitry,10.1109/TCSI.2012.2230587,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547197,0
+3,68,A 12.5-MHz Bandwidth 77-dB SNDR SAR-Assisted Noise Shaping Pipeline ADC,10.1109/JSSC.2019.2944842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869922,0
+3,69,An Efficient 1.4-GS/s 10-bit Timing-Skew-Free Time-Interleaved SAR ADC With a Centralized Sampling Frontend,10.1109/TVLSI.2024.3392611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10510262,0
+3,70,“Split ADC” Calibration for All-Digital Correction of Time-Interleaved ADC Errors,10.1109/TCSII.2009.2019161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4895228,0
+3,71,A 2.5-V 8-Bit Low power SAR ADC using POLC and SMTCMOS D-FF for IoT Applications,10.1109/ICICT48043.2020.9112548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112548,0
+3,72,A 52-Gb/s ADC-Based PAM-4 Receiver With Comparator-Assisted 2-bit/Stage SAR ADC and Partially Unrolled DFE in 65-nm CMOS,10.1109/JSSC.2018.2878850,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8540906,0
+3,73,High-resolution ADCs design in sensors,10.1109/LASCAS.2018.8399935,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8399935,0
+3,74,A 38-mW 7-bit 5-GS/s Time-Interleaved SAR ADC with Background Skew Calibration,10.1109/ASSCC.2018.8579318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579318,0
+3,75,A 6.38 fJ/conversion 0.6V 0.43μW 100 kS/s 10-bit successive approximation ADC,10.1109/ISNE.2016.7543364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7543364,0
+3,76,A Compiled 9-bit 20-MS/s 3.5-fJ/conv.step SAR ADC in 28-nm FDSOI for Bluetooth Low Energy Receivers,10.1109/JSSC.2017.2685463,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906479,0
+3,77,Low Power 10-BIT 8MS/s Asynchronous SAR ADC with Wake-up and Sample Logic for BLE Application,10.1109/ICEIC49074.2020.9051214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051214,0
+3,78,A 0.9V 15fJ/conversion-step 8-bit 1.5GS/s two-step SAR ADC,10.1109/ASSCC.2016.7844140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844140,0
+3,79,A 95-MS/s 11-bit 1.36-mW asynchronous SAR ADC with embedded passive gain in 65nm CMOS,10.1109/CICC.2013.6658423,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6658423,0
+3,80,"An 8-bit, 1mW successive approximation ADC in SOI CMOS",10.1109/ISCAS.2003.1205560,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205560,0
+3,81,A 0.18 pJ/Conversion Step Hybrid Structure based ADC,10.1109/ASIANCON55314.2022.9908678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9908678,0
+3,82,A 1.55-mW 2-GHz ERBW 7-b 800-MS/s Pipelined SAR ADC in 28-nm CMOS Using a 7T Dynamic Residue Amplifier,10.1109/LSSC.2022.3166753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9755977,0
+3,83,A non-binary capacitor array calibration circuit with 22-bit accuracy in successive approximation analog-to-digital converters,10.1109/MWSCAS.2002.1187284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187284,0
+3,84,"A 12-Bit 1.6, 3.2, and 6.4 GS/s 4-b/Cycle Time-Interleaved SAR ADC With Dual Reference Shifting and Interpolation",10.1109/JSSC.2018.2808244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8356765,0
+3,85,A self-testing and calibration method for embedded successive approximation register ADC,10.1109/ASPDAC.2011.5722279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5722279,0
+3,86,Design and analysis of a first-order sigma-delta analog-to-digital converter for MEMS resistive sensor,10.1109/SMELEC.2010.5549366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5549366,0
+3,87,A 8.9-ENOB 2.5-εW 150-KS/s non-binary redundant successive approximation ADC in 0.18-μm CMOS for bio-implanted devices,10.1109/IEMBS.2010.5627231,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5627231,0
+3,88,An optimized design for a decimation filter and implementation for Sigma-Delta ADC,10.1109/EDSSC.2009.5394251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5394251,0
+3,89,Analysis of SAR ADC Performance Enhancement Utilizing Stochastic Resonance,10.1109/TCSII.2023.3292318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10173546,0
+3,90,10-Bit Successive Approximation Register Analog-to-Digital Converter for BLDC Motor Drive,10.1109/IS3C50286.2020.00065,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9394021,0
+3,91,A 10MS/s 12 bits successive approximation ADC using an extended C-2C capacitor array,10.1109/ICSP58490.2023.10248763,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10248763,0
+3,92,A Time-based All-Digital Analog to Digital converter for IOT Applications,10.1109/IranianCEE.2019.8786741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786741,0
+3,93,A Fully Dynamic Low-Power Wideband Time-Interleaved Noise-Shaping SAR ADC,10.1109/JSSC.2021.3072034,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9409067,0
+3,94,A 6-bit 1-GS/s Two-Step SAR ADC in 40-nm CMOS,10.1109/TCSII.2014.2312642,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6786013,0
+3,95,A Compact 10-bit Nonbinary Weighted Switched Capacitor Integrator Based SAR ADC Architecture,10.1109/PrimeAsia47521.2019.8950727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950727,0
+3,96,A CMOS Image Sensor with Improved Readout Speed using Column SAR ADC with Digital Error Correction,10.1109/ISCAS.2019.8702292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702292,0
+3,97,A 12-Bit 260-MS/s Pipelined-SAR ADC With Ring-TDC-Based Fine Quantizer for Automatic Cross-Domain Scale Alignment,10.1109/JSSC.2023.3272640,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129856,0
+3,98,Modified SR latch in dynamic comparator for ultra-low power SAR ADC,10.1109/CircuitsAndSystems.2015.7394084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7394084,0
+3,99,Thermal and Reference Noise Analysis of Time-Interleaving SAR and Partial-Interleaving Pipelined-SAR ADCs,10.1109/TCSI.2015.2452331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7217852,0
+4,0,10-bit SAR ADC Design in a Double-Poly 180 nm CMOS Process,10.1109/ElConRus51938.2021.9396523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9396523,0
+4,1,A 0.6-V 400-KS/s Low Noise Asynchronous SAR ADC With Dual-Domain Comparison,10.1109/ISOCC53507.2021.9613979,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9613979,0
+4,2,A 50-MHz SAR ADC-Based fS/4 Noise-Shaping Bandpass ADC,10.1109/ICET51757.2021.9450975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9450975,0
+4,3,A 12-bit 40-kS/s VCM-based switching C-C SAR ADC,10.1109/ISOCC.2015.7401644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401644,0
+4,4,A Wide-band 2-path cross-coupled sigma delta ADC,10.1109/ISCAS.2008.4541644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541644,0
+4,5,An energy recovery approach for a charge redistribution successive approximation ADC,10.1109/ICM.2010.5696093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5696093,0
+4,6,A low-power 14-bit hybrid incremental sigma-delta/cyclic ADC for X-ray sensor array,10.1109/INEC.2016.7589266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7589266,0
+4,7,A 12-Bit Synchronous-SAR ADC for IoT Applications,10.1109/ISCAS.2019.8702620,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702620,0
+4,8,A Novel Approach to Design SAR-ADC: Design Partitioning Method,10.1109/TCAD.2015.2474379,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7229265,0
+4,9,A 1-V 8-bit 0.95mW successive approximation ADC for biosignal acquisition systems,10.1109/ISCAS.2009.5117832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5117832,0
+4,10,A 2nd-Order Noise-Shaping SAR ADC with Reused Dynamic Amplifier Assisted Integrator,10.1109/ASID60355.2023.10425971,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10425971,0
+4,11,Efficient Broadband Current-Mode Adder- Quantizer Design for Continuous-Time Sigma–Delta Modulators,10.1109/TVLSI.2014.2353058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909078,0
+4,12,A novel digital calibration technique for gain and offset mismatch in parallel TIΣΔ ADCs,10.1109/ICASSP.2010.5495721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5495721,0
+4,13,Maximal Entropy Reduction Algorithm for SAR ADC Clock Compression,10.1109/COMCAS44984.2019.8958366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8958366,0
+4,14,Noise Modeling and Analysis of SAR ADCs,10.1109/TVLSI.2014.2379613,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999942,0
+4,15,A 348-μW 68.8-dB SNDR 20-MS/s Pipelined SAR ADC With a Closed-Loop Two-Stage Dynamic Amplifier,10.1109/LSSC.2021.3114318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542953,0
+4,16,A Second-Order Noise-Shaping SAR ADC With Passive Integrator and Active Amplifier,10.1109/ASID60355.2023.10425952,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10425952,0
+4,17,Detection and Removal of Limit Cycles in Sigma Delta Modulators,10.1109/TCSI.2008.925078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4518931,0
+4,18,Level-Crossing Detection based Low-Power Sigma-Delta ADC for Sensor Applications,10.1109/MWSCAS48704.2020.9184615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184615,0
+4,19,A Reconfigurable SAR ADC Based on Nested Quantized-Analog Sample and Hold,10.1109/ESSERC62670.2024.10719481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719481,0
+4,20,Compressive sampling with a successive approximation ADC architecture,10.1109/ICASSP.2011.5947209,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5947209,0
+4,21,A digital correction technique for channel mismatch in TI ΣΔ ADCs,10.1109/IMWS.2010.5440993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5440993,0
+4,22,A 12-Bit SAR ADC with Reference Voltage Ripple Suppression,10.1109/ISCAS51556.2021.9401764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401764,0
+4,23,A 0.45mW 12b 12.5MS/s SAR ADC with digital calibration,10.1109/CICC.2014.6946083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6946083,0
+4,24,A Output Code Density Histograms Based Calibration Algorithm of Capacitor Mismatch for SAR ADC,10.1109/ICTA60488.2023.10364329,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10364329,0
+4,25,A 12-Bit 100-MS/s Subrange SAR ADC With a Foreground Offset Tracking Calibration Scheme,10.1109/TCSII.2018.2876874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8501538,0
+4,26,A 2.7-M Pixels 64-mW CMOS Image Sensor With Multicolumn-Parallel Noise-Shaping SAR ADCs,10.1109/TED.2018.2795005,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281441,0
+4,27,A novel coefficient automatic calculation method for sinc filter in sigma-delta ADCs,10.1109/APCCAS.2008.4746251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746251,0
+4,28,A 10-b Ternary SAR ADC With Quantization Time Information Utilization,10.1109/JSSC.2012.2211696,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6302208,0
+4,29,A 20 MHz Bandwidth 79 dB SNDR SAR-Assisted Noise-Shaping Pipeline ADC With Gain and Offset Calibrations,10.1109/JSSC.2021.3137342,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9670448,0
+4,30,The use of sigma-delta-ADC in the commutation mode,10.1109/SIBCON.2017.7998562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7998562,0
+4,31,A successive-approximation ADC for CMOS image sensors,10.1109/ICMCS.2011.5945569,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5945569,0
+4,32,Architecture Analysis and Simulink Modeling of a High Resolution Zoom ADC,10.1109/ICICM59499.2023.10365867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365867,0
+4,33,Mismatch aware power and area optimization of successive-approximation ADCs,10.1109/ICECS.2010.5724653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5724653,0
+4,34,Features of Modeling of Analog-to-Digital Converter Transfer Function by Simulink,10.1109/INFORINO.2018.8581797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8581797,0
+4,35,A 0.4-V 13-bit 270-kS/s SAR-ISDM ADC With Opamp-Less Time-Domain Integrator,10.1109/JSSC.2019.2894998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8642505,0
+4,36,A low power Successive Approximation ADC with variable-resolution for CMOS Image sensor,10.1109/WITS.2019.8723786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723786,0
+4,37,Flexible Ultra Low Power Successive Approximation Analog-to-Digital Converter with Asynchronous Clock Generator,10.1109/CCECE.2007.412,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4233071,0
+4,38,Examination of Incremental ADC with SAR ADC to Reduce Conversion Time with High Accuracy,10.1109/ISPACS48206.2019.8986286,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8986286,0
+4,39,Comparative Study and Review on Successive Approximation/Stochastic Approximation Analog to Digital Converters for Biomedical Applications,10.1109/CONIT55038.2022.9847947,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847947,0
+4,40,A 20 k-to-100kS/s Sub- $\mu$ W 9.5b-ENOB Asynchronous SAR ADC for Energy-Harvesting Body Sensor Node SoCs in 0.18- $\mu$ m CMOS,10.1109/TCSII.2018.2871247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8468092,0
+4,41,On the Static Resolution of Digitally Corrected Analog-to-Digital and Digital-to-Analog Converters With Low-Precision Components,10.1109/TCSI.2006.887453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4061014,0
+4,42,A 0.6-V 108-nW 100-kHz Sub-Threshold Delay-Locked Loop with Digital Linearization for Low-Power SAR ADC,10.1109/MWSCAS60917.2024.10658793,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658793,0
+4,43,A 5-GS/s 158.6-mW 9.4-ENOB Passive-Sampling Time-Interleaved Three-Stage Pipelined-SAR ADC With Analog–Digital Corrections in 28-nm CMOS,10.1109/JSSC.2019.2960476,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951264,0
+4,44,A 500-MS/s 13-Bit SAR-Assisted Time-Interleaved Digital-Slope ADC,10.1109/ISCAS.2019.8702383,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702383,0
+4,45,A 12-bit 75 MS/s Asynchronous SAR ADC with Gain-Boosting Dynamic Comparator,10.1109/ISCAS58744.2024.10558594,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558594,0
+4,46,Design of time reduction for successive approximation register A/D converter,10.1109/ICITEED.2015.7408966,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7408966,0
+4,47,The effect of clock jitter on the performance of bandpass ∑△ ADCs,10.1109/ISCCSP.2008.4537433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4537433,0
+4,48,"Putting the ""FLEX"" in flexible mobile wireless radios - A wideband continuous-time baudpass sigma-delta ADC software radios",10.1109/MCD.2006.307273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4099512,0
+4,49,A 13-Bit ENOB Third-Order Noise-Shaping SAR ADC Employing Hybrid Error Control Structure and LMS-Based Foreground Digital Calibration,10.1109/JSSC.2021.3137540,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9670441,0
+4,50,A novel approach in sar-adc for variable conversion time using window detector,10.1109/ICACCI.2017.8126162,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126162,0
+4,51,A 500-MS/s 8-b Low Power High Speed Asynchronous SAR ADC in 40-nm CMOS,10.1109/ICFSP48124.2019.8938045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8938045,0
+4,52,Digital Calibration of DAC Unit Elements Mismatch in Pipelined ADCs,10.1109/TCSI.2015.2512700,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7398020,0
+4,53,A 4 Bit Continuous-Time  $\Sigma \Delta $  Modulator With Fully Digital Quantization Noise Reduction Algorithm Employing a 7 Bit Quantizer,10.1109/JSSC.2016.2557809,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7479477,0
+4,54,A Continuous-Time  $\Delta \Sigma$ ADC Utilizing Time Information for Two Cycles of Excess Loop Delay Compensation,10.1109/TCSII.2015.2457011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7163556,0
+4,55,A 12-Bit 31.1- $\mu$ W 1-MS/s SAR ADC With On-Chip Input-Signal-Independent Calibration Achieving 100.4-dB SFDR Using 256-fF Sampling Capacitance,10.1109/JSSC.2018.2883084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8580603,0
+4,56,Design and modeling of a 12-bit SAR ADC IP with non-lumped capacitor array,10.1109/ICFCC.2010.5497583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5497583,0
+4,57,A Systematic Design Methodology of Asynchronous SAR ADCs,10.1109/TVLSI.2015.2494063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332786,0
+4,58,Combined spectral and histogram analysis for fast ADC testing,10.1109/TIM.2005.851057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1468578,0
+4,59,Development of a low power 8-bit successive approximation register ADC in 90nm process technology for biomedical application,10.1109/TENCON.2017.8228061,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8228061,0
+4,60,Optimization of High Precision SAR ADC Used in the Remote Sensing Technology,10.1109/IGARSS39084.2020.9323692,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9323692,0
+4,61,Predictive Successive Approximation ADC,10.1109/ISCAS.2018.8351230,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351230,0
+4,62,Asynchronous Sigma-Delta Analog-to-Digital Converter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733870,0
+4,63,A SAR-Assisted Continuous-Time Incremental ΣΔ ADC With First-Order Noise Coupling,10.1109/ASICON47005.2019.8983671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8983671,0
+4,64,A high speed 12-bit pipelined ADC using Switched Capacitor and fat tree encoder,10.1109/ACTEA.2009.5227844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5227844,0
+4,65,An 8-bit 35-MS/s successive approximation register ADC,10.1109/PIC.2015.7489904,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7489904,0
+4,66,Design of a Low-Power Sigma-Delta ADC Digital Filter,10.1109/ICECAI62591.2024.10674964,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10674964,0
+4,67,A High Speed 180 NM CMOS Cryogenic SAR ADC,10.1109/MMS.2018.8611968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611968,0
+4,68,Design of a 0.005mm<sup>2</sup> 8.5ENoB 14.9 fJ/conv-step SAR ADC for Biomedical Application,10.1109/ICICM54364.2021.9660262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660262,0
+4,69,Analysis of Nonideal Behaviors Based on INL/DNL Plots for SAR ADCs,10.1109/TIM.2016.2562198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7470271,0
+4,70,An 8-bit 10 kS/s 0.18 μm CMOS SAR ADC for RFID applications with sensing capabilities,10.1109/NORCHP.2007.4481048,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4481048,0
+4,71,Low power successive approximation ADC for biomedical applications,10.1109/ISNE.2014.6839354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6839354,0
+4,72,Passive Noise Shaping in SAR ADC With Improved Efficiency,10.1109/TVLSI.2017.2764742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8093699,0
+4,73,A Quad-Channel 11-bit 1-GS/s 40-mW Collaborative ADC Enabling Digital Beamforming for 5G Wireless,10.1109/TMTT.2019.2916788,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734009,0
+4,74,A Temperature-Stabilized Single-Channel 1-GS/s 60-dB SNDR SAR-Assisted Pipelined ADC With Dynamic Gm-R-Based Amplifier,10.1109/JSSC.2019.2948170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892554,0
+4,75,A Micro Power High Precision Sigma-Delta ADC with Adjustable Decimation Ratio,10.1109/ASICON47005.2019.8983614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8983614,0
+4,76,High Linearity SAR ADC for High Performance Sensor System,10.1109/ISCAS.2018.8350998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8350998,0
+4,77,A 13b-ENOB Noise Shaping SAR ADC with a Two-Capacitor DAC,10.1109/MWSCAS.2018.8623994,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8623994,0
+4,78,On Optimizing Capacitor Array Design for Advanced Node SAR ADC,10.1109/SMACD55068.2022.9816200,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816200,0
+4,79,A 12-bit charge-redistribution SAR ADC for silicon drift detector readout ASICs,10.1109/NSSMIC.2014.7431050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7431050,0
+4,80,A sigma-delta bandpass ADC modelling in superconducting RSFQ technology with VHDL-AMS,10.1109/FDL.2008.4641427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4641427,0
+4,81,An Oversampling SAR ADC With DAC Mismatch Error Shaping Achieving 105 dB SFDR and 101 dB SNDR Over 1 kHz BW in 55 nm CMOS,10.1109/JSSC.2016.2592623,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7565619,0
+4,82,Low-Power CMOS Laser Doppler Imaging Using Non-CDS Pixel Readout and 13.6-bit SAR ADC,10.1109/TBCAS.2014.2365515,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6985687,0
+4,83,"A 1-V, 10-bit rail-to-rail successive approximation analog-to-digital converter in standard 0.18 /spl mu/m CMOS technology",10.1109/ISCAS.2001.921892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921892,0
+4,84,A ΔΣ ADC using 4-bit SAR type quantizer for audio applications,10.1109/ISOCC.2011.6138649,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138649,0
+4,85,Design of 14-bit Digital Decimation Filter for Transimpedance Amplifier Based Sensor Application,10.1109/ICCE-Asia49877.2020.9276912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9276912,0
+4,86,Channel Estimation in MIMO Systems With One-Bit Spatial Sigma-Delta ADCs,10.1109/TSP.2022.3206588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891827,0
+4,87,Implementation of low power Successive Approximation ADC for MAV's,10.1109/ICSIPR.2013.6497969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6497969,0
+4,88,"A 16-bit, 250ksps successive approximation register ADC based on the charge-redistribution technique",10.1109/EDSSC.2011.6117627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6117627,0
+4,89,A 10-bit 100-MS/s power-efficient asynchronous SAR ADC,10.1109/ICSICT.2016.7999023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7999023,0
+4,90,Noise Shaping Techniques for SNR Enhancement in SAR Analog to Digital Converters,10.1109/ISCAS45731.2020.9180536,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180536,0
+4,91,A Reference Voltage Interpolation-Based Calibration Method for Flash ADCs,10.1109/TVLSI.2015.2478835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7299685,0
+4,92,Analysis simulation and comparison different types of the Sigma Delta ADC modulators based on ideal model system level and behavioral model using MATLAB,10.1109/KBEI.2017.8324982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8324982,0
+4,93,A 0.636 mW 8-bit 90 kS/s SAR ADC in 130 nm CMOS Process,10.1109/TELSIKS57806.2023.10316029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10316029,0
+4,94,A second-order Switched Capacitor Passive Sigma Delta Modulator with Bootstrapped switches in FinFET Technology,10.1109/ICECCE52056.2021.9514234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9514234,0
+4,95,An ultra low power 8 bit SAR ADC suitable for wireless medical applications,10.1109/ICCSP.2014.6950188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6950188,0
+4,96,A Multi-channel 12-bits 100MS/s SAR ADC in 65nm CMOS,10.1109/ASICON58565.2023.10396653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396653,0
+4,97,Noise-Shaping SAR ADC Using a Two-Capacitor Digitally Calibrated DAC With 82.6-dB SNDR and 90.9-dB SFDR,10.1109/TCSI.2021.3098471,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497698,0
+4,98,A direct RF sampling receiver using continuous-time band-pass sigma-delta ADC with active inductor in CMOS,10.1109/LAMC.2016.7851261,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7851261,0
+4,99,A low power Successive Approximation A/D converter based on PWM technique,10.1109/LASCAS.2012.6180319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6180319,0
+5,0,An Algorithm for the Search of a Low Capacitor Count DAC Switching Scheme for SAR ADCs,10.1109/TCAD.2020.2983132,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046245,0
+5,1,A 1.5-GS/s 6-bit Single-Channel Loop-Unrolled SAR ADC With Speculative CDAC Switching Control Technique in 28-nm CMOS,10.1109/TCSI.2022.3185677,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810522,0
+5,2,Deterministic Dithering-Based 12-b 8-MS/s SAR ADC in 0.18-μm CMOS,10.1109/LSSC.2022.3210768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905707,0
+5,3,A SAR logic for glitch-less operation of a currentsteering DAC in a SAR ADC,10.1109/ET.2018.8549592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8549592,0
+5,4,A Combined Capacitance and Resistance Digital Readout Circuit for Sensory Nodes,10.1109/SENSORS47087.2021.9639763,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9639763,0
+5,5,A 11-bit 1.2V 40.3μW SAR ADC with self-dithering technique,10.1109/IEEE-IWS.2016.7585432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585432,0
+5,6,Design of Analog to Digital Converter Using CMOS Logic,10.1109/ARTCom.2009.84,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5328075,0
+5,7,Design considerations for low-power ADC for retinal prosthesis applications,10.1109/IB2Com.2011.6217926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6217926,0
+5,8,Stochastic Flash Analog to Digital Converter Compared with Conventional Resistor ladder Flash Analog to Digital Converter,10.1109/INCOFT55651.2022.10094440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094440,0
+5,9,Analysis and Design of Voltage-Controlled Oscillator Based Analog-to-Digital Converter,10.1109/TCSI.2009.2018928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4804641,0
+5,10,A 13-ENOB Second-Order Noise-Shaping SAR ADC Realizing Optimized NTF Zeros Using the Error-Feedback Structure,10.1109/JSSC.2018.2871081,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8492338,0
+5,11,A 12-bit 104 MS/s SAR ADC in 28 nm CMOS for Digitally-Assisted Wireless Transmitters,10.1109/JSSC.2016.2582861,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7509634,0
+5,12,Advanced Noise-Shaping SAR ADCs Utilizing Single-Capacitor Arbitrary-Resolution DACs for Miniaturized Neural Interfaces,10.1109/BioCAS58349.2023.10388439,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388439,0
+5,13,A 23.1µW 8 Bit 1.1 MS/s SAR ADC with counter based control logic,10.1109/INDCON.2012.6420683,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6420683,0
+5,14,A front-end circuit with 16-channel 12-bit 100-kSps RC-hybrid SAR ADC for industrial monitoring application,10.1109/APCCAS.2016.7803970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803970,0
+5,15,8.9-Megapixel Video Image Sensor With 14-b Column-Parallel SA-ADC,10.1109/TED.2009.2030649,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5280329,0
+5,16,A Calibration-Free Time-Interleaved Fourth-Order Noise-Shaping SAR ADC,10.1109/JSSC.2019.2938626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848451,0
+5,17,A Low-Power High-Speed Hybrid ADC With Merged Sample-and-Hold and DAC Functions for Efficient Subranging Time-Interleaved Operation,10.1109/TVLSI.2017.2739108,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8017456,0
+5,18,Design of 12 Bit 100MS/s Low Power Delta Sigma ADC Using Telescopic Amplifier,10.1109/ICDCSyst.2018.8605152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605152,0
+5,19,FIR Feedback in Continuous- Time Incremental Sigma-Delta ADCs,10.1109/NEWCAS44328.2019.8961214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961214,0
+5,20,A l0-bit 4 MS/s SAR ADC with Fully-Dynamic Duty-Cycled Input Driver,10.1109/ICECS202256217.2022.9971059,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9971059,0
+5,21,A Second-Order Noise-Shaping SAR ADC Using Two Passive Integrators Separated by the Comparator,10.1109/TVLSI.2020.3033415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9253708,0
+5,22,Asynchronous successive approximation ADC for wireless applications in 180 nm CMOS technology,10.1109/ICCSP.2014.6949998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6949998,0
+5,23,A 8-bit SAR ADC using current mode approach for bio-medical applications,10.1109/NCCSN.2014.7001152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7001152,0
+5,24,A 0.029-mm2 17-fJ/Conversion-Step Third-Order CT  $\Delta\Sigma$  ADC With a Single OTA and Second-Order Noise-Shaping SAR Quantizer,10.1109/JSSC.2018.2879955,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543627,0
+5,25,A 900-MS/s SAR-Based Time-Interleaved ADC With a Fully Programmable Interleaving Factor and On-Chip Scalable Background Calibrations,10.1109/TCSII.2022.3182217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9793854,0
+5,26,Comparator Power Reduction in Low-Frequency SAR ADC Using Optimized Vote Allocation,10.1109/TVLSI.2014.2362545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6936370,0
+5,27,Blocker Tolerant Sigma Delta ADC,10.1109/NRSC.2019.8734561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734561,0
+5,28,Clock compression for SAR ADC array with Gaussian input vector,10.1109/COMCAS52219.2021.9629109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9629109,0
+5,29,Increasing the ADC precision with oversampling in a flash ADC,10.1109/ICSICT.2012.6467786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6467786,0
+5,30,Evaluation of the Effect of Successive Approximation ADC Nonlinearity on the Measurement Error of the Phase Spectrum,10.1109/REPSGIE.2018.8488807,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488807,0
+5,31,"""Split ADC"" architecture for deterministic digital background calibration of a 16-bit 1-MS/s ADC",10.1109/JSSC.2005.856291,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1546220,0
+5,32,Built-In Self-Test for Low-Voltage High-Speed Analog-to-Digital Converters,10.1109/TIM.2007.908343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4389150,0
+5,33,Design of clock generation circuitry for high-speed subranging time-interleaved ADCs,10.1109/ISCAS.2017.8050895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050895,0
+5,34,A 100-nW 9.1-ENOB 20-kS/s SAR ADC for Portable Pulse Oximeter,10.1109/TCSII.2014.2387680,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7001238,0
+5,35,An 8-Bit 800 MS/s Loop-Unrolled SAR ADC With Common-Mode Adaptive Background Offset Calibration in 28 nm FDSOI,10.1109/TCSI.2021.3074039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9415412,0
+5,36,Enhancing Performance of SAR ADC through Supervised Machine Learning,10.1109/ISCAS58744.2024.10558198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558198,0
+5,37,Design of a low power 0.25 µm CMOS comparator for sigma-delta Analog-to-Digital Converter,10.1109/SCORED.2015.7449416,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7449416,0
+5,38,A 40-nm CMOS 7-b 32-GS/s SAR ADC With Background Channel Mismatch Calibration,10.1109/TCSII.2019.2916913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715458,0
+5,39,Design of linear ramp generator for ADC,10.1109/ICSCN.2017.8085728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8085728,0
+5,40,A High Speed Low Power Pipelined SAR Analog to Digital Converter,10.1109/ICICDT.2019.8790872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8790872,0
+5,41,A 151-nW Adaptive Delta-Sampling ADC for Ultra-Low Power Sensing Applications,10.1109/TCSII.2016.2530148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7407367,0
+5,42,Jittered random sampling with a successive approximation ADC,10.1109/ICASSP.2014.6853908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6853908,0
+5,43,Analysis of Power Consumption and Linearity in Capacitive Digital-to-Analog Converters Used in Successive Approximation ADCs,10.1109/TCSI.2011.2107214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5711005,0
+5,44,A 90-dB-SNDR Calibration-Free Fully Passive Noise-Shaping SAR ADC With 4× Passive Gain and Second-Order DAC Mismatch Error Shaping,10.1109/JSSC.2021.3087661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459709,0
+5,45,A 1-V 690 μW 8-bit 200 MS/s flash-SAR ADC with pipelined operation of flash and SAR ADCs in 0.13μm CMOS,10.1109/ISCAS.2015.7168627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168627,0
+5,46,Low power high speed comparator design for neural recording application,10.1109/ICCSP.2017.8286414,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8286414,0
+5,47,A 2.2mW 12-bit 200MS/s 28nm CMOS Pipelined SAR ADC with Dynamic Register-Based High-Speed SAR Logic,10.1109/A-SSCC48613.2020.9336146,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9336146,0
+5,48,A Comparative Study of Dynamic Comparators in Low-Voltage SAR ADC,10.1109/MWSCAS60917.2024.10658857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658857,0
+5,49,A low-voltage low-power successive approximation reconfigurable ADC based on SC techniques,10.1109/RME.2009.5201319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5201319,0
+5,50,A full custom half-band filter used for sigma-delta ADC,10.1109/ICASID.2010.5551520,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5551520,0
+5,51,Optimizing analog-to-digital converters for sampling extracellular potentials,10.1109/EMBC.2012.6346266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6346266,0
+5,52,A 9.2b 47fJ/conversion-step asynchronous SAR ADC with input range prediction DAC switching,10.1109/ISCAS.2012.6271768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6271768,0
+5,53,A 0.6V 8b 100MS/s SAR ADC with minimized DAC capacitance and switching energy in 65nm CMOS,10.1109/ISCAS.2013.6572322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572322,0
+5,54,A sigma-delta modulator with optimized biquad-based loop filter for WCDMA application,10.1109/NEWCAS.2007.4488004,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488004,0
+5,55,Analog-digital and digital-analog converters using single-electron and MOS transistors,10.1109/TNANO.2005.858600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1528477,0
+5,56,A Low Power PVT Stabilization Technique for Dynamic Amplifier in Pipelined SAR ADC,10.1109/MWSCAS47672.2021.9531829,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531829,0
+5,57,16-Bit Low Power Feedforward Architecture Sigma-Delta ADC with Integrator Time Multiplexing for Microprocessors,10.1109/ICCEREC.2018.8712099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8712099,0
+5,58,A Power Efficient Quadruple Time- Interleaved 2.5 GS/s 7 bit SAR ADC with Real-Time Data Output,10.1109/IMOC57131.2023.10379693,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379693,0
+5,59,A novel design of an ADC converter using for sensor network receiver,10.1109/ICCVIA.2015.7351889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7351889,0
+5,60,Simulink Modeling and Performance Verification of a High Resolution Zoom ADC,10.1109/ICASID.2019.8925296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8925296,0
+5,61,An approach for evaluating the performance of a multiband wideband receiver with one sigma-delta ADC and one AGC,10.1109/MILCOM.2009.5380102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5380102,0
+5,62,High Resolution ADC for Ultrasound Color Doppler Imaging Based on MASH Sigma-Delta Modulator,10.1109/TBME.2019.2938275,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8820023,0
+5,63,ASIC implementation of an auto ranging data converter,10.1109/ICCCA.2012.6179131,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6179131,0
+5,64,A 10b 400MS/s 2x-Time-Interleaved 2-Then-1b/Cycle SAR ADC in 90nm CMOS,10.1109/ISCAS58744.2024.10558122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558122,0
+5,65,A Non-Linearity Compensation Technique for Charge-Redistribution SAR ADCs,10.1109/LATW.2019.8704611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704611,0
+5,66,A 12-Bit 125-MS/s 2.5-Bit/Cycle SAR-Based Pipeline ADC Employing a Self-Biased Gain Boosting Amplifier,10.1109/TCSI.2020.3006149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139258,0
+5,67,A 10-b 50-MS/s 820- $\mu $W SAR ADC With On-Chip Digital Calibration,10.1109/TBCAS.2010.2081362,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5621876,0
+5,68,A 10-bit 110 kS/s 1.16  $\mu\hbox{W}$ SA-ADC With a Hybrid Differential/Single-Ended DAC in 180-nm CMOS for Multichannel Biomedical Applications,10.1109/TCSII.2014.2327373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6823161,0
+5,69,M-PAM receiver with successive approximation register analog-to-digital converter on wireless robotic applications,10.1109/CACS.2016.7973906,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7973906,0
+5,70,A Sigma-Delta Resistance to Digital Converter Suitable for Differential Resistive Sensors,10.1109/IMTC.2008.4547214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4547214,0
+5,71,Digital calibration implementation for track-and-hold offset in a high-speed timing-interleaved folding and interpolating analog-to-digital converter,10.1109/ICSICT.2010.5667796,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667796,0
+5,72,A 0.6V 6.4fJ/conversion-step 10-bit 150MS/s subranging SAR ADC in 40nm CMOS,10.1109/ASSCC.2014.7008865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7008865,0
+5,73,Design and Simulation of 8-Bit SAR ADC,10.1109/ECNCT63103.2024.10704295,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704295,0
+5,74,LSB-Reused Protection Technique in Secure SAR ADC against Power Side-Channel Attack,10.1109/AsianHOST56390.2022.10022192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10022192,0
+5,75,A 10-bit 100MS/s subrange SAR ADC with time-domain quantization,10.1109/ISCAS.2014.6865125,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865125,0
+5,76,A 9-bit 100-MS/s flash-SAR ADC without track-and-hold circuits,10.1109/ISWCS.2012.6328494,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6328494,0
+5,77,A power-efficient polyphase sharpened CIC filter for sigma-delta ADCs,10.1109/MWSCAS.2011.6026689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6026689,0
+5,78,A Calibration-Free 13-Bit 10-MS/s Full-Analog SAR ADC With Continuous-Time Feedforward Cascaded Op-Amps,10.1109/JSSC.2019.2919161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8740883,0
+5,79,A Frequency-Translating Hybrid Architecture for Wide-Band Analog-to-Digital Converters,10.1109/TCSII.2007.893734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4273642,0
+5,80,A 1.8-GS/s 6-Bit Two-Step SAR ADC in 65-nm CMOS,10.1109/ISCAS51556.2021.9401495,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401495,0
+5,81,A 6 bit 10 GS/s TI-SAR ADC With Low-Overhead Embedded FFE/DFE Equalization for Wireline Receiver Applications,10.1109/JSSC.2014.2358568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6915909,0
+5,82,A low-power 6-bit successive approximation register ADC using a new split capacitor array method,10.1109/APCCAS51387.2021.9687815,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687815,0
+5,83,A Split-Based Digital Background Calibration Technique in Pipelined ADCs,10.1109/TCSII.2009.2034077,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5337791,0
+5,84,Small-Area SAR ADCs With a Compact Unit-Length DAC Layout,10.1109/TCSII.2022.3186064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9805764,0
+5,85,Gain-boosted Complementary Dynamic Residue Amplifier for a 160 MS/s 61 dB SNDR Noise-Shaping SAR ADC,10.1109/MWSCAS.2018.8624092,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8624092,0
+5,86,A 12.9-ENOB 50.6 fJ/conv.step Time-Amplitude Aligned Level-Crossing SAR ADC,10.1109/NewCAS58973.2024.10666343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10666343,0
+5,87,A High-Speed 2-bit/Cycle SAR ADC With Time-Domain Quantization,10.1109/TVLSI.2018.2837030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8372621,0
+5,88,A 12.1 fJ/Conv.-Step 12b 140 MS/s 28-nm CMOS Pipelined SAR ADC Based on Energy-Efficient Switching and Shared Ring Amplifier,10.1109/TCSII.2018.2880288,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527538,0
+5,89,A 12 Bit 4.7-MS/s 260.5-μW Digital Feed-Forward Incremental-ΣΔ-SAR ADC in 0.13-μm CMOS for Image Sensors,10.1109/JSEN.2021.3102082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9504573,0
+5,90,Logarithmic Successive Approximation Analog to Digital Converter for High Dynamic Range,10.1109/LASCAS60203.2024.10506118,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506118,0
+5,91,A 12-Bit 1 GS/s RF Sampling Pipeline-SAR ADC With Harmonic Injecting Cross-Coupled Pair Achieving 7.5 fj/Conv-Step,10.1109/TCSI.2022.3169508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9763888,0
+5,92,"A Single-Channel, 1.25-GS/s, 6-bit, 6.08-mW Asynchronous Successive-Approximation ADC With Improved Feedback Delay in 40-nm CMOS",10.1109/JSSC.2012.2204543,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6248179,0
+5,93,Randomized Switching SAR (RS-SAR) ADC for Power and EM Side-Channel Security,10.1109/LSSC.2022.3211705,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9910470,0
+5,94,A 6-bit 2.5-GS/s Time-Interleaved Analog-to-Digital Converter Using Resistor-Array Sharing Digital-to-Analog Converter,10.1109/TVLSI.2014.2372033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6977959,0
+5,95,A 12-bit Multi-Channel Non-Calibrating Dual-Mode Successive Approximation ADC for Power Management Bus (PMBus) Devices,10.1109/IMTC.2008.4547101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4547101,0
+5,96,A 7.6-nW 1-kS/s 10-bit SAR ADC for Biomedical Applications,10.1109/APCCAS47518.2019.8953105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953105,0
+5,97,A 1V supply successive approximation ADC with rail-to-rail input voltage range,10.1109/ISCAS.2005.1464557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1464557,0
+5,98,Low power 120 KSPS 12bit SAR ADC with a novel switch control method for internal CDAC,10.1109/SOCC.2011.6085099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6085099,0
+5,99,Low power design of asynchronous SAR ADC,10.1109/ICEEOT.2016.7755511,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7755511,0

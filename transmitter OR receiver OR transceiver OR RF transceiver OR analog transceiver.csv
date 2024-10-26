@@ -97,3 +97,402 @@
 1,97,A fully integrated 2.4 GHz IEEE 802.15.4 transceiver for Zigbee applications,10.1109/APMC.2006.4429754,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429754,1
 1,98,An ultra-low power 900 MHz RF transceiver for wireless sensor networks,10.1109/CICC.2004.1358833,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358833,1
 1,99,"Digital Arrays using Commercial Transceivers: Noise, Spurious, and Linearity Measurements",10.1109/PAST43306.2019.9020709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9020709,1
+2,0,In-Situ TID Testing and Characterization of a Highly Integrated RF Agile Transceiver for Multi-Band Radio Applications in a Radiation Environment,10.1109/WiSEE.2019.8920328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8920328,0
+2,1,An RF transceiver with auto signal detection and combined PGA/RSSI in 0.18µm CMOS for V2.1 Bluetooth applications,10.1109/RFIC.2009.5135501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135501,0
+2,2,Interference Analysis of 2.4 GHz RF Transceivers Using ZigBee Standard in Multiple Integrated Laser Engagement System (MILES),10.1109/APMC.2007.4554578,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4554578,0
+2,3,Impact of spectral shaping location on the performance of communication transceivers,10.1109/ICIT.2004.1490293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1490293,0
+2,4,An 802.11a/b/g RF Transceiver in an SoC,10.1109/ISSCC.2007.373544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4242515,0
+2,5,A cost-efficient 0.18 /spl mu/m CMOS RF transceiver using a fractional-N synthesizer for 802.11b/g wireless LAN applications,10.1109/CICC.2004.1358834,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358834,0
+2,6,"NB-IoT and GNSS All-In-One System-On-Chip Integrating RF Transceiver, 23-dBm CMOS Power Amplifier, Power Management Unit, and Clock Management System for Low Cost Solution",10.1109/JSSC.2020.3012742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9170636,0
+2,7,A WiMedia/MBOA-Compliant CMOS RF Transceiver for UWB,10.1109/JSSC.2006.884804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014633,0
+2,8,"Towards fully integrated wideband transceivers: fundamental challenges, solutions and future",10.1109/RFIT.2005.1598866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1598866,0
+2,9,A Fully CMOS Integrated RF Transceiver for Ubiquitous Networks in Sub-GHz ISM-band,10.1109/APCC.2005.1554152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1554152,0
+2,10,Development of 3.6 Gbps RF Transceiver for Wireless Nomadic Local Area Networks,10.1109/CENICS.2010.19,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5558162,0
+2,11,A Comparison of All-Digital Transmitter Architectures for Cellular Handsets,10.1109/Austrochip.2019.00015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8904519,0
+2,12,Impact of Analog and Digital Pre-Emphasis on the Signal-to-Noise Ratio of Bandwidth-Limited Optical Transceivers,10.1109/JPHOT.2020.2966617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8959171,0
+2,13,Widely tunable RF transceiver front end for software-defined radio,10.1109/MILCOM.2009.5379829,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5379829,0
+2,14,Design of digital transceiver unit based on multi-channel signal synthesis and new filter combination,10.1109/ITOEC.2017.8122343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8122343,0
+2,15,A 2.4 GHz RF transceiver with digital channel-selection filter for Bluetooth,10.1109/ISSCC.2002.992955,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=992955,0
+2,16,A low power CMOS transceiver for 915 MHz-band IEEE 802.15.4b standard,10.1109/ASSCC.2007.4425757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4425757,0
+2,17,Millimeter-Wave Double-Directional Channel Sounder using COTS RF Transceivers,10.23919/ISAP47053.2021.9391484,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9391484,0
+2,18,Fully integrated ultra-low-power 900 MHz RF transceiver for batteryless wireless microsystems,10.1109/ICECS.2011.6122247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6122247,0
+2,19,A High-Precision Hybrid Analog and Digital Beamforming Transceiver System for 5G Millimeter-Wave Communication,10.1109/ACCESS.2019.2923836,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8740955,0
+2,20,RF transceiver concepts for reconfigurable and multi-standard radio,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4753799,0
+2,21,An auto-I/Q calibrated CMOS transceiver for 802.11g,10.1109/JSSC.2005.857348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1522558,0
+2,22,A CMOS Ultra-Wideband Impulse Radio Transceiver for Interchip Wireless Communications,10.1109/ICUWB.2007.4381020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4381020,0
+2,23,Digital Compensation of RF Analog Impairments,10.1002/9781118438046.ch4,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10519102.pdf&bkn=10518184&pdfType=chapter,0
+2,24,RF Analog Impairments Description and Modeling,10.1002/9781118438046.ch2,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10518830.pdf&bkn=10518184&pdfType=chapter,0
+2,25,A Sub-6-GHz 5G New Radio RF Transceiver Supporting EN-DC With 3.15-Gb/s DL and 1.27-Gb/s UL in 14-nm FinFET CMOS,10.1109/JSSC.2019.2938132,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8842567,0
+2,26,A 45 nm RFSOI CMOS-based 24.25-29.5 GHz 2×16-Channel Phased-Array Transceiver IC for 5G NR Applications,10.1109/RFIC61187.2024.10600022,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600022,0
+2,27,Wideband Transceiver Architectures for TV Whitespace Applications,10.1109/DYSPAN.2010.5457884,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5457884,0
+2,28,Front end design of Software Defined BTS for interoperability between GSM and CDMA,10.1109/WIRELESSVITAE.2009.5172524,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5172524,0
+2,29,Digitally-Augmented Wideband Self-Interference Cancellation In Full-Duplex Transceiver,10.1109/WAMICON60123.2024.10522866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522866,0
+2,30,On-Chip Testing Techniques for RF Wireless Transceivers,10.1109/MDT.2006.100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1683713,0
+2,31,High Bandwidth Optical Transceiver Module for Analog Optical Link in Ku Band,10.1109/LPT.2011.2176113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6095591,0
+2,32,Frequency-Packed Multiband-Coherent Transceiver With Symbol Rate-Adaptive Nyquist WDM Signals,10.1109/LPT.2021.3114063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9543679,0
+2,33,A High-Precision Quadrature Modulator Using a Fully-Differential CMOS Flip-Flop Phase-Shifter Suitable for the Next-Generation RF Transceivers,10.1109/RFIT49453.2020.9226237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9226237,0
+2,34,A Digital Adjustable Fully Integrated Bistatic Interferometric Radar Transceiver at 60 GHz in a 130 nm BiCMOS Technology,10.23919/EuMIC.2019.8909608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909608,0
+2,35,A fully-integrated low-power high-coexistence 2.4-GHz ZigBee transceiver for biomedicai applications,10.1109/IMWS-BIO.2013.6756235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6756235,0
+2,36,A 0.8V 2.4GHz 1Mb/s GFSK RF transceiver with on-chip DC-DC converter in a standard 0.18µm CMOS technology,10.1109/ESSCIRC.2010.5619742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5619742,0
+2,37,Index,10.1002/9781118438046.index,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10518386.pdf&bkn=10518184&pdfType=chapter,0
+2,38,Front Matter,10.1002/9781118438046.fmatter,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10519097.pdf&bkn=10518184&pdfType=chapter,0
+2,39,A Single Chain 800M/1.8G/2.4GHz Multistandard Transceiver With Multibranch Transformer for Low-Cost IoT Applications,10.1109/TCSII.2022.3196434,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9850374,0
+2,40,Real time adaptive RF and digital self-interference cancellation for full-duplex transceivers,10.1109/ACSSC.2016.7869640,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7869640,0
+2,41,A Low Cost Spectral Power Extraction Technique for RF Transceiver Testing,10.1109/VTS.2007.5,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4209943,0
+2,42,Design of a low power multistandard transceiver chain based on current-reuse VCO,10.1109/SOCC.2014.6948961,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6948961,0
+2,43,A Full-Duplex Transceiver With Two-Stage Analog Cancellations for Multipath Self-Interference,10.1109/TMTT.2017.2752167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053906,0
+2,44,A 122 GHz ISM-Band FMCW Radar Transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9080209,0
+2,45,Gilbert Based Power Detector for 5G mm-Wave Transceivers Built-in-Self Test,10.1109/ISCAS.2019.8702130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702130,0
+2,46,An ultra-low-power 868/915 MHz RF transceiver for wireless sensor network applications,10.1109/RFIC.2009.5135502,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135502,0
+2,47,Single-Measurement Diagnostic Test Method for Parametric Faults of I/Q Modulating RF Transceivers,10.1109/VTS.2008.39,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511724,0
+2,48,Built-in Loopback Test for IC RF Transceivers,10.1109/TVLSI.2009.2019085,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5325816,0
+2,49,Design of a high performance compact RF transceiver for WiMAX access points,10.1109/MAPE.2009.5355802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5355802,0
+2,50,A CMOS 5GHz RF transceiver for wireless HDTV distribution,10.1109/APMC.2006.4429420,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429420,0
+2,51,A process-scalable RF transceiver for short range communication in 90 nm Si CMOS,10.1109/RFIC.2012.6242320,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242320,0
+2,52,Design of high performance RF transceiver for next generation wireless communications,10.1109/ICMMT.2012.6229976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6229976,0
+2,53,A 2mW CMOS MICS-band BFSK transceiver with reconfigurable antenna interface,10.1109/RFIC.2010.5477282,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477282,0
+2,54,A CMOS Ka-Band SATCOM Transceiver with ACI-Cancellation Enhanced Dual-Channel Low-NF Wide-Dynamic-Range RX and High-Linearity TX,10.1109/RFIC49505.2020.9218421,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218421,0
+2,55,The Implementation of a New All-Digital Phase-Locked Loop on an FPGA and Its Testing in a Complete Wireless Transceiver Architecture,10.1109/CNSR.2009.44,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4939132,0
+2,56,300-GHz-band CMOS transceiver,10.1109/IMaRC.2017.8611247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611247,0
+2,57,Design of a Low-Noise UWB Transceiver SiP,10.1109/MDT.2008.9,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4447906,0
+2,58,A fully integrated 2.4GHz low IF CMOS transceiver for 802.15.4 ZigBee applications,10.1109/ASSCC.2007.4425756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4425756,0
+2,59,All digital wireless transceiver using modified BPSK and 2/3 sub-sampling technique,10.1109/ASICON.2009.5351341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351341,0
+2,60,"An ultra-low power, low-cost, multi-standard transceiver",10.1109/WMCaS.2015.7233220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7233220,0
+2,61,Adaptive Power Management Unit for a Wireless Transceiver with an Integrated Wake-Up Receiver,10.1109/ICECS49266.2020.9294974,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294974,0
+2,62,"A 4Rx, 4Tx Ka-band transceiver in 40nm bulk CMOS technology for satellite terminal applications",10.1109/RFIC51843.2021.9490428,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490428,0
+2,63,A 64-QAM 45-GHz SiGe Transceiver for IEEE 802.11aj,10.1109/RFIC49505.2020.9218308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218308,0
+2,64,An IQ Image Cancellation Method for Digital-Intensive Transmitters,10.1109/ISCAS.2019.8702388,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702388,0
+2,65,A low power interference robust IR-UWB transceiver SoC for WBAN applications,10.1109/RFIT.2012.6401644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401644,0
+2,66,A 40nm 4-downlink and 2-uplink RF Transceiver Supporting LTE-Advanced Carrier Aggregation,10.1109/RFIC.2018.8428998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8428998,0
+2,67,A 65nm CMOS 2×2 MIMO multi-band LTE RF transceiver for small cell base stations,10.1109/ESSCIRC.2017.8094593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094593,0
+2,68,"Short-Range Low-Data-Rate FM-UWB Transceivers: Overview, Analysis, and Design",10.1109/TCSI.2015.2512744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7438930,0
+2,69,Spline-Based Adaptive Cancellation of Even-Order Intermodulation Distortions in LTE-A/5G RF Transceivers,10.1109/TVT.2021.3076843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420303,0
+2,70,A single-chip 0.13 /spl mu/m CMOS UMTS W-CDMA multi-band transceiver,10.1109/RFIC.2006.1651116,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651116,0
+2,71,A Fully Integrated MIMO Multi-Band Direct-Conversion CMOS Transceiver for WLAN Applications (802.11n),10.1109/ISSCC.2007.373543,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4242514,0
+2,72,Cooperative Indoor Localization Using 24-GHz CMOS Radar Transceivers,10.1109/TMTT.2014.2337281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6861456,0
+2,73,An ultra low power 130nm CMOS direct conversion transceiver for IEEE802.15.4,10.1109/RFIC.2008.4561434,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561434,0
+2,74,An 86.71875GHz RF transceiver for 57.8125Gb/s waveguide links with a CDR-assisted carrier synchronization loop in 28nm,10.1109/ESSCIRC59616.2023.10268802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268802,0
+2,75,I/Q Imbalance Calibration Method for 5G Ultra-Wideband Transceivers,10.1109/TCSII.2020.2999570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9107217,0
+2,76,A 2.4GHz Dual-Mode CMOS Transceiver for Bluetooth and 802.11b,10.1109/ICITECHNOLOGY.2007.4290520,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4290520,0
+2,77,Highly-Integrated Low-Power WCDMA SiGe Transceiver for Mobile Terminals,10.1109/MWSYM.2005.1616529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387904,0
+2,78,Strategic Test Cost Reduction with On-Chip Measurement Circuitry for RF Transceiver Front-Ends - An Overview,10.1109/MWSCAS.2006.381813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4267437,0
+2,79,A LS estimation algorithm on quadrature modulation correction scheme for LTE/WCDMA RF transceiver,10.1109/ICSPCC.2013.6663893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6663893,0
+2,80,A CMOS RF BeiDou-1 Transceiver for Regional Positioning and Short Message Service Applications,10.1109/ACCESS.2020.2967097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962097,0
+2,81,Low cost parametric failure diagnosis of RF transceivers,10.1109/ETS.2006.30,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1628176,0
+2,82,A RF CMOS base-band analog circuit for IEEE 802.11a/b/g/n WLAN transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5296060,0
+2,83,A RF CMOS base-band analog circuit for IEEE 802.11a/b/g/n WLAN transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5290952,0
+2,84,A Self-Calibration Method of I/Q Mismatch in Direct-Conversion Transceiver,10.1109/AUTOTESTCON47465.2024.10697433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10697433,0
+2,85,A 3.2-mA 6-bit pipelined A/D converter for a bluetoothTM1RF transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471453,0
+2,86,A low-power compact IEEE 802.15.6 compatible human body communication transceiver with digital sigma-delta IIR mask shaping,10.1109/ESSCIRC.2017.8094605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094605,0
+2,87,Compensation of ADC-induced distortion in broadband full-duplex transceivers,10.1109/ICCW.2017.7962813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7962813,0
+2,88,MSE based transceiver designs for bi-directional full-duplex MIMO systems,10.1109/SPAWC.2014.6941786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6941786,0
+2,89,Design of a high performance RF transceiver for TDD-LTE system,10.1109/MWSYM.2012.6259508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6259508,0
+2,90,RF transceiver for wireless backhaul system,10.1109/ICTC.2015.7354747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354747,0
+2,91,A 0.48mm2 Sub-2.4GHz Transceiver with Reused Matching Network and Duty-Cycle Controlled Class-E PA for Medical Band,10.1109/RFIC61187.2024.10599929,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599929,0
+2,92,A transceiver module for quad band EGPRS (GSM/GPRS/EDGE) class 12 applications,10.1109/ECWT.2005.1617643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1617643,0
+2,93,A Robust Mixed-Signal Cancellation Approach for Even-Order Intermodulation Distortions in LTE-A/5G-Transceivers,10.1109/TCSII.2020.3022918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9187987,0
+2,94,CMOS Distributed Active Power Combiners and Splitters for Multi-Antenna UWB Beamforming Transceivers,10.1109/JSSC.2007.899121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4261019,0
+2,95,Radio transceivers for wireless personal area networks using IEEE802.15.4,10.1109/MCOM.2009.5277469,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5277469,0
+2,96,A fully-integrated dual-polarization 16-element W-band phased-array transceiver in SiGe BiCMOS,10.1109/RFIC.2013.6569608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6569608,0
+2,97,A compact K-band FDD transceiver front-end,10.1109/IEEE-IWS.2013.6616767,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6616767,0
+2,98,VHF/UHF Transceiver with Digital Signal Processing,10.1109/ELMAR52657.2021.9550927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9550927,0
+2,99,A Design of W-band CW Transceiver Module,10.1109/ICMMT52847.2021.9618368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9618368,0
+3,0,"Low-Power, High-Data Rate 915 MHz Transceiver with Fully Passive Wake-Up Receiver for Biomedical Implants",10.1109/ICUWB.2015.7324471,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324471,0
+3,1,Efficient chain optimization of multiplexable RF transceiver based on the improved DE algorithm,10.1109/ICMMT61774.2024.10672354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10672354,0
+3,2,Transceiver Design with Hybrid Beamforming for Sub 6 GHz MIMO Communication,10.1109/WiSPNET51692.2021.9419435,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419435,0
+3,3,Multi-board Synchronization of n-channel Direct RF Digital Transceiver for Active Phased Array Radar using JESD204 Interface,10.1109/I2CT61223.2024.10543803,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10543803,0
+3,4,Design and Implementation of Broadband Satellite IF Transceiver,10.1109/ICEICT53123.2021.9531171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531171,0
+3,5,A 19.2mW 1Gb/s secure proximity transceiver with ISI pre-correction and hysteresis energy detection,10.1109/RFIC.2016.7508254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508254,0
+3,6,Design and implementation of a direct RF-to-digital UHF-TV multichannel transceiver,10.1109/ISCAS.2010.5537685,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537685,0
+3,7,Design and analysis of RF CMOS transceivers for wireless applications in 0.18-µm CMOS Technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5738725,0
+3,8,Agile All-Digital RF Transceiver Implemented in FPGA,10.1109/TMTT.2017.2689739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7898863,0
+3,9,A fully-integrated Ka-band 4TX/4RX phased-array transceiver IC in 65nm CMOS,10.1109/RFIT.2016.7578153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7578153,0
+3,10,A highly reconfigurable 65nm CMOS RF-to-bits transceiver for full-band multicarrier TDD/FDD 2G/3G/4G/5G macro basestations,10.1109/ISSCC.2018.8310234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310234,0
+3,11,"2.5-GHz fully-integrated WiMAX transceiver IC for a compact, low-power-consumption RF module",10.1109/RFIC.2008.4561397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561397,0
+3,12,Design considerations for bluetooth low energy CMOS RF transceivers for IoT,10.1109/URSIAP-RASC.2016.7601307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7601307,0
+3,13,CMOS Transceiver Pixels for Terahertz Imaging,10.1109/RFIT.2019.8929129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8929129,0
+3,14,Joint hybrid RF/baseband transceiver design for multi-user MIMO downlink in millimeter wave communication system,10.1109/PIMRC.2017.8292527,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8292527,0
+3,15,A Reconfigurable 28/56 Gb/s PAM4/NRZ Dual-mode SerDes with Hardware-reuse,10.1109/ISCAS.2018.8351612,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351612,0
+3,16,Self-Interference in LTE-Advanced and 5G NR Transceivers,10.23919/RADIO.2018.8572347,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8572347,0
+3,17,Two-step channel selection-a novel technique for reconfigurable multistandard transceiver front-ends,10.1109/TCSI.2005.851722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1487659,0
+3,18,Implementation of greenhouse monitoring system based on RF transceiver,10.1109/ICINDMA.2010.5538107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5538107,0
+3,19,Low-Cost/Power Coherent Transceivers for Intra-Datacenter Interconnections and 5G Fronthaul Links,10.1109/ICTON.2019.8840195,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8840195,0
+3,20,"A multistandard, triple band wireless transceiver in a 130 nm CMOS technology with integrated PAs for IoT applications",10.1109/RWS.2018.8304953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304953,0
+3,21,A dual-band RF transceiver for multistandard WLAN applications,10.1109/TMTT.2005.843509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1406310,0
+3,22,Baud-Rate-Adaptive OLT Integrated-Coherent Transceiver for Nyquist Spectral Shaped/Channel Spaced WDM-PON,10.1109/OECC48412.2020.9273737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9273737,0
+3,23,System design for an experimental cognitive transceiver,10.1109/PRIME.2013.6603149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6603149,0
+3,24,A 4-Channel Transceiver Array for Indoor Wireless Communication System Based on IEEE 802.11aj Standard,10.1109/ICMMT58241.2023.10276533,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10276533,0
+3,25,Dithering Concepts for Spur-Free Nonlinear DTC-Based Frequency Synthesizers,10.1109/TCSI.2021.3060907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369377,0
+3,26,An integrated X-band FMCW radar transceiver in 130-nm CMOS technology,10.1109/IMaRC.2015.7411385,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7411385,0
+3,27,Ultra-wideband transceiver with high interference mitigation for secure high data rate communication,10.1109/URSI-EMTS.2016.7571385,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7571385,0
+3,28,A 1.8mW 2Mb/s chirp-UWB transceiver with burst-mode transmission and slope-based detection,10.1109/RFIT.2016.7578216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7578216,0
+3,29,An ultra low power CMOS transceiver having a short range wake-up for lR-WPAN applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5296080,0
+3,30,A Programmable Calibration/BIST Engine for RF and Analog Blocks in SoCs Integrated in a 32 nm CMOS WiFi Transceiver,10.1109/JSSC.2013.2253401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6488888,0
+3,31,High performance LNA in 0.35 um SiGe RF transceiver one chip for cellular applications,10.1109/APMC.2006.4429406,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429406,0
+3,32,"A Configurable, Multi-Channel, Direct Wideband RF Sampling SWaP-C Optimized Transceiver and Processing Module for EW Systems",10.1109/ICCC57789.2023.10165038,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10165038,0
+3,33,Frequency-to-amplitude converter based FSK receiver for ultra-low power transceivers,10.1109/NEWCAS.2014.6934049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6934049,0
+3,34,Ultra Low Power Small Size RF Transceiver Design for Wireless Sensor Networks,10.1109/CTS.2011.5928700,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5928700,0
+3,35,RF Transceiver Security Against Piracy Attacks,10.1109/TCSII.2022.3165709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751077,0
+3,36,A 94-GHz 4TX/4RX Phased-array Transceiver for FMCW Radar with 16dBm Output and 8.8 dB NF in 65nm CMOS,10.1109/IMWS-AMP54652.2022.10107198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107198,0
+3,37,"Multi-standard 5 Gbps to 28.2 Gbps adaptive, single voltage SerDes transceiver with analog FIR and 2-tap unrolled DFE in 28nm CMOS",10.1109/RFIC.2017.7969007,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969007,0
+3,38,Synchronization in IEEE 802.15.4 Zigbee transceiver using Matlab Simulink,10.1109/ICACCI.2015.7275599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7275599,0
+3,39,Anti-Piracy Design of RF Transceivers,10.1109/TCSI.2022.3214111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9928037,0
+3,40,Modeling of an IQ RF-DAC with error-free LO-switching,10.1109/ISCAS.2018.8351573,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351573,0
+3,41,A 2×2 MIMO multi-band RF transceiver and power amplifier for compact LTE small cell base station,10.1109/RFIT.2017.8048282,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8048282,0
+3,42,RF transceiver design and performance analysis for WCDMA user equipment,10.1109/ICC.2002.996905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=996905,0
+3,43,Time-of-Arrival measurement extension to a non-coherent impulse radio UWB transceiver,10.1109/WPNC.2008.4510384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4510384,0
+3,44,Artificial Noise Shielded Frequency-Hopping Systems: Transceiver Design and Performance Analysis,10.1109/LWC.2021.3064300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9372299,0
+3,45,Intermodulation distortion characterization of RF transceivers by means of a Transverse Electromagnetic cell,10.1109/EMCEurope51680.2022.9901293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9901293,0
+3,46,An integrated low power transceiver system,10.1109/MWSYM.2011.5972877,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972877,0
+3,47,"Built-in tuning of the local oscillator for open loop modulation of low cost, low power RF transceiver",10.1109/LATW.2013.6562686,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6562686,0
+3,48,Towards Ultra-Low RF Power Simultaneous Transmit and Receive (STAR) MRI with a Wearable RF Transceiver Head Coil,10.1109/IMS40175.2024.10600294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600294,0
+3,49,A highly integrated low-power 2.4GHz transceiver using a direct-conversion diversity receiver in 0.18µm CMOS for IEEE802.15.4 WPAN,10.1109/ISSCC.2009.4977484,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4977484,0
+3,50,A fully integrated 2.4 GHz RF transceiver by 0.18 /spl mu/m CMOS technologies,10.1109/VTSA.2003.1252571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1252571,0
+3,51,A Single-Chip CMOS Bluetooth v2.1 Radio SoC,10.1109/JSSC.2008.2005741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4684630,0
+3,52,A CMOS RF RMS detector for built-in testing of wireless transceivers,10.1109/VTS.2005.8,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1443431,0
+3,53,A HSPA+/WCDMA/EDGE 40nm Modem SoC with embedded RF transceiver supporting RX diversity,10.1109/RFIC.2014.6851678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851678,0
+3,54,Design of a Helical Antenna for Handheld Transceivers,10.1109/HNICEM51456.2020.9400052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9400052,0
+3,55,EMC strategy in 340 MHz RF transceiver design,10.1109/MAPE.2005.1617968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1617968,0
+3,56,Impact of circuit non-idealities on wireless interconnect based on OOK modulated RF transceiver,10.1109/NORCHP.2009.5397802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5397802,0
+3,57,79pJ/b 80Mb/s full-duplex transceiver and 42.5jiW 100kb/s super-regenerative transceiver for body channel communication,10.1109/IMWS-BIO.2015.7303751,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7303751,0
+3,58,A File Transfer Method for RF Transceiver Modules Used in Internet of Things Applications,10.23919/ELECO54474.2021.9677636,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9677636,0
+3,59,A single-chip 24 GHz SiGe BiCMOS transceiver for FMCW automotive radars,10.1109/RFIC.2009.5135580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135580,0
+3,60,A single-chip 24 GHz SiGe BiCMOS transceiver for low cost FMCW airborne radars,10.1109/NAECON.2009.5426619,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5426619,0
+3,61,RF transceiver parameter identification using regressive models,10.1109/DTIS.2008.4540208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540208,0
+3,62,Millimeter-Wave Band CMOS RF Phased-Array Transceiver IC Designs for 5G Applications,10.1109/IEDM13553.2020.9371948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9371948,0
+3,63,MIMO/multi-channel RF transceiver for Cognitive Radio system,10.1109/IMWS2.2011.6027195,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6027195,0
+3,64,Full Software Radio transceivers,10.1109/ASICON.2013.6811860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6811860,0
+3,65,A proven MIMO capable TDD/FDD frequency converter enabling cognitive features for LTE transceivers,10.1109/LANMAN.2017.7972176,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7972176,0
+3,66,A 2mW 400MHz RF transceiver SoC in 0.18um CMOS technology for wireless medical applications,10.1109/RFIC.2008.4561437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561437,0
+3,67,A single-chip dual-band direct-conversion IEEE 802.11a/b/g WLAN transceiver in 0.18-/spl mu/m CMOS,10.1109/JSSC.2005.848182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1501993,0
+3,68,TD-SCDMA/HSDPA Transceiver and Analog Baseband Chipset in 0.18- $\mu\hbox{m}$ CMOS Process,10.1109/TCSII.2010.2040301,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5420308,0
+3,69,A through-wall radar transceiver for fire-fighting operations,10.1109/ICEIC54506.2022.9748755,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9748755,0
+3,70,Simultaneous Transmit and Receive System with 1 GHz RF Cancellation Bandwidth,10.1109/APUSNCURSINRSM.2018.8609293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8609293,0
+3,71,Low Power FMCW Transceiver Design With 140-ghz in CMOS 45nm Technology,10.1109/INOCON50539.2020.9298342,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298342,0
+3,72,Pilot design for Joint Channel and Frequency-Dependent Transmit/Receive IQ Imbalance Estimation and Compensation in OFDM-Based Transceivers,10.1109/ICC.2007.802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4289473,0
+3,73,EM Based Frequency-Dependent Transmit/Receive IQ Imbalance Estimation and Compensation in OFDM-Based Transceivers,10.1109/GLOCOM.2007.813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4411723,0
+3,74,A low-complexity noncoherent IR-UWB transceiver architecture with TOA estimation,10.1109/TMTT.2006.872056,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1618591,0
+3,75,An ultra-low power OOK RF transceiver for wireless sensor networks,10.23919/EUMC.2009.5296510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5296510,0
+3,76,A fully integrated 0.18um CMOS UWB SoC for wireless body area network applications,10.1109/RFIC.2015.7337751,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337751,0
+3,77,A CMOS direct-conversion transceiver for IEEE 802.11a/b/g WLANs,10.1109/CICC.2004.1358835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358835,0
+3,78,A 39GHz 64-Element Phased-Array CMOS Transceiver with Built-in Calibration for Large-Array 5G NR,10.1109/RFIC.2019.8701856,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701856,0
+3,79,Design and implementation of a rf transceiver for 2×2 mimo wlan module,10.1109/ICACCI.2017.8126129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126129,0
+3,80,"A 2.4-GHz Full-Duplex Transceiver With Broadband, Linearity-Enhanced, and Long-Delay Spread Self-Interference Cancellation",10.1109/JSSC.2023.3312675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10254553,0
+3,81,Digital Suppression of Power Amplifier Spurious Emissions at Receiver Band in FDD Transceivers,10.1109/LSP.2013.2291032,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6664984,0
+3,82,Automatic Test Stimulus Generation for Diagnosis of RF Transceivers Using Model Parameter Estimation,10.1109/TVLSI.2014.2385863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7097075,0
+3,83,RC sequence asymmetric polyphase networks for RF integrated transceivers,10.1109/82.818891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=818891,0
+3,84,Feed-forward neural networks for analog impairment mitigation in high power RF transceivers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174084,0
+3,85,A quad-band 8PSK/GMSK polar transceiver,10.1109/RFIC.2005.1489171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1489171,0
+3,86,Low-Power 2.4-GHz Transceiver in Wireless Sensor Network for Bio-medical Applications,10.1109/BIOCAS.2007.4463353,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463353,0
+3,87,A CMOS single-chip transceiver design for 700/800/900MHz wireless sensor network applications,10.1109/ICTC.2014.6983260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6983260,0
+3,88,Low-Cost SDR-Based RF Transceiver for Microwave Breast Screening,10.1109/IMBioC60287.2024.10590302,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10590302,0
+3,89,A 24-mW 60-GHz OOK RF transceiver for 3-Gbps data communication,10.1109/ISOCC.2014.7087661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7087661,0
+3,90,MIMO Transceiver Design in Dynamic-Range-Limited VLC Systems,10.1109/LPT.2016.2606341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7562531,0
+3,91,Reference receiver based digital self-interference cancellation in MIMO full-duplex transceivers,10.1109/GLOCOMW.2014.7063564,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7063564,0
+3,92,A low-power reconfigurable GFSK RF transceiver with sub-1GHz band for short range applications,10.1109/ICECS.2013.6815502,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815502,0
+3,93,On the Energy-Efficiency of Hybrid Analog–Digital Transceivers for Single- and Multi-Carrier Large Antenna Array Systems,10.1109/JSAC.2017.2720918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7961162,0
+3,94,Digitized Radio-over-Fiber Transceivers for SDM/WDM Back-/Front-Haul,10.1109/ICTON.2019.8840508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8840508,0
+3,95,A CMOS UHF Harmonic Rejection Transceiver With 2-D LO Phase Calibration for TV White Space Applications,10.1109/TCSII.2017.2696044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906592,0
+3,96,Quad-band RF transceiver front end module for GSM/GPS/PCS/DCS/WCDMA applications,10.1109/TSSA.2011.6095410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6095410,0
+3,97,Impulse based range-gated UWB wireless transceiver IC in 90nm CMOS for medical sensing applications and communications,10.1109/ICUWB.2009.5288772,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5288772,0
+3,98,A 65nm CMOS carrier-aggregation transceiver for IEEE 802.11 WLAN applications,10.1109/RFIC.2016.7508252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508252,0
+3,99,Experimental evaluation of an RF-MIMO transceiver for 802.11a WLAN,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5722363,0
+4,0,A single-chip CMOS UHF RFID reader transceiver,10.1109/RFIC.2010.5477352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477352,0
+4,1,"A single-chip, 5.15GHz-5.35GHz, 2.4GHz-2.5GHz, 0.18/spl mu/m CMOS RF transceiver for 802.11a/b/g wireless LAN",10.1109/ESSCIRC.2003.1257112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1257112,0
+4,2,RF transceiver of WiMAX base station for 802.16d,10.1109/ICMMT.2008.4540319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540319,0
+4,3,Low Cost Testing of Low Power Wireless Transceivers,10.1109/ISCE.2007.4382212,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4382212,0
+4,4,Modeling of widely linear digitally controlled self-interference canceller for full-duplex transceiver,10.1109/WiSPNET.2017.8299753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8299753,0
+4,5,Optimization design of phase characteristics of RF transceiver module in radar system,10.1109/ICICM50929.2020.9292266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292266,0
+4,6,4.3 A 43mm2 Fully Integrated Legacy Cellular and 5G FR1 RF Transceiver with 24RX/3TX Supporting Inter-Band 7CA/5CA 4×4 MIMO with 1K-QAM,10.1109/ISSCC49657.2024.10454281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10454281,0
+4,7,A single-chip CMOS transceiver for 802.11a/b/g wireless LANs,10.1109/JSSC.2004.836334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1362833,0
+4,8,A 401-406 MHz Wireless Transceiver Analogue Front-End for Medical Implantable Applications,10.1109/NEWCAS50681.2021.9462780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9462780,0
+4,9,A fully integrated CMOS IF module for C-band RF transceiver,10.1109/IEEE-IWS.2015.7164545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7164545,0
+4,10,A 60 GHz CMOS Full-Duplex Transceiver and Link with Polarization-Based Antenna and RF Cancellation,10.1109/JSSC.2015.2507367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387701,0
+4,11,Frequency-Agile and Filter-Free Wireless Communication Transceiver based on Photonics,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8385745,0
+4,12,An Energy-Efficient OOK Transceiver for Wireless Sensor Networks,10.1109/JSSC.2007.894323,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4160068,0
+4,13,A 5-bit 1.35-GSPS DAC for UWB transceivers,10.1109/ICUWB.2009.5288865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5288865,0
+4,14,FPGA Emulation of a RF Transceiver System Based on Software-Defined Radio,10.1109/ICMEAE58636.2022.00030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10414489,0
+4,15,A Bias-Controlled Noise-Canceling CMOS Tuned Low Noise Amplifier for UWB Transceivers,10.1109/ICECS.2007.4511212,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511212,0
+4,16,Design & simulation of energy efficient AQ-DBPSK based RF transmitter for wireless sensor networks,10.1109/iccsp.2013.6577052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6577052,0
+4,17,FPGA prototyping of digital RF transmitter employing Delta Sigma modulation for SDR,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5233994,0
+4,18,A 2.4GHz low power wireless transceiver analog front-end for endoscopy capsule system,10.1109/ISCAS.2006.1693731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693731,0
+4,19,"Joint Impact of Phase Error, Transceiver Hardware Impairments, and Mobile Interferers on RIS-Aided Wireless System Over κ-μ Fading Channels",10.1109/LCOMM.2022.3191706,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9831781,0
+4,20,On the energy-efficiency of hybrid analog-digital transceivers for large antenna array systems,10.1109/ICC.2017.7997328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997328,0
+4,21,Transceiver Noise Characterization Based on Perturbations,10.1109/JLT.2021.3088908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454392,0
+4,22,A Bimodal Low-Power Transceiver Featuring a Ring Oscillator-Based Transmitter and Magnetic Field-Based Receiver for Insertable Smart Pills,10.1109/LSSC.2022.3179458,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9786050,0
+4,23,"An Agile, Ultra-Wideband Pulse Radio Transceiver With Discrete-Time Wideband-IF",10.1109/JSSC.2009.2020681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4907327,0
+4,24,A 76- to 81-GHz packaged single-chip transceiver for automotive radar,10.1109/BCTM.2016.7738943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7738943,0
+4,25,A 1 V 433/868 MHz 25 kb/s-FSK 2 kb/s-OOK RF transceiver SoC in standard digital 0.18 /spl mu/m CMOS,10.1109/ISSCC.2005.1493967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1493967,0
+4,26,An impulse radio UWB transceiver with high-precision TOA measurement unit,10.1109/IPIN.2010.5647785,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5647785,0
+4,27,Transceiver parameter detection using a high conversion gain RF amplitude detector,10.1109/ISCAS.2010.5537235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537235,0
+4,28,A Survey of Self-Interference in LTE-Advanced and 5G New Radio Wireless Transceivers,10.1109/TMTT.2019.2951166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9005407,0
+4,29,SICNet—Low Complexity Sample Adaptive Neural Network-Based Self-Interference Cancellation in LTE-A/5G Mobile Transceivers,10.1109/OJCOMS.2022.3181685,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9792296,0
+4,30,Concurrent dual-channel RF transceiver module with diversity for 802.11p WAVE,10.1109/VCSC.2012.6281239,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6281239,0
+4,31,A Low-Power Fullband 802.11a/b/g WLAN Transceiver With On-Chip PA,10.1109/JSSC.2007.894303,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4160063,0
+4,32,Built-in Self Test of RF Transceiver SoCs: from Signal Chain to RF Synthesizers,10.1109/RFIC.2007.380895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266443,0
+4,33,An Inverter-Based Analog Front-End for a 56-Gb/s PAM-4 Wireline Transceiver in 16-nm CMOS,10.1109/LSSC.2019.2894933,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8624457,0
+4,34,A 7.25-7.75GHz 5.9mW UWB Transceiver with -23.8dBm NBI Tolerance and 1.5cm Ranging Accuracy Using Uncertain IF and Pulse-Triggered Envelope/Energy Detection,10.1109/CICC53496.2022.9772857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772857,0
+4,35,A Wideband Four-Channel SiGe D-Band Transceiver MMIC For TDM MIMO FMCW Radar,10.1109/SiRF56960.2023.10046260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10046260,0
+4,36,A Smart Digital Software Radio Transceiver Design Concept for UAV and Autonomous Vehicles Application,10.1109/ICASET.2019.8714288,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714288,0
+4,37,An optical transceiver design for analog transmission using direct intensity modulation,10.1109/APACE.2005.1607835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1607835,0
+4,38,RFIC Plenary Speaker 1: Transceiver Roadmap for 2035 and Beyond,10.1109/RFIC51843.2021.9490421,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490421,0
+4,39,A novel approach towards hardware and software co-design perspective for low power communication centric RF transceiver in wireless sensor node,10.1109/CESYS.2016.7889891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7889891,0
+4,40,Design of RF transceiver with CC1100 chip for wireless data acquisition,10.1109/IWASID.2008.4688368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4688368,0
+4,41,Indoor RF link budget analysis and design simulation of 2.4 GHz and 5.7 GHz dual band wireless transceiver,10.1109/COMTECH.2017.8065740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8065740,0
+4,42,A 35-GHz TX and RX CMOS Front-Ends for Ka-Band FMCW Phased-Array Radar Transceivers,10.1109/ISCAS45731.2020.9181164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181164,0
+4,43,Subharmonically pumped CMOS frequency conversion (up and down) circuits for 2-GHz WCDMA direct-conversion transceiver,10.1109/JSSC.2004.827792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1302264,0
+4,44,Design of Simple Bleeding Detector and Alarm System Using RF Transceiver and GSM System,10.1109/CSE.2014.255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7023765,0
+4,45,A Flexible Control and Calibration Architecture Using RISC-V MCU for 5G Millimeter-wave Mobile RF Transceivers,10.1109/RFIC49505.2020.9218424,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218424,0
+4,46,Event driven analog modeling of RF frontends,10.1109/BMAS.2007.4437523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4437523,0
+4,47,Multi-site test of RF transceivers on low-cost digital ATE,10.1109/TEST.2011.6139142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6139142,0
+4,48,"A 90nm-CMOS, 500Mbps, fully-integrated IR-UWB transceiver using pulse injection-locking for receiver phase synchronization",10.1109/RFIC.2010.5477371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477371,0
+4,49,A study of dual-mode bandpass filter integrated in BGA package for single-chip RF transceivers,10.1109/TADVP.2006.873135,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1629178,0
+4,50,A Dual-Antenna Phased-Array UWB Transceiver in 0.18-$\mu{\hbox {m}}$ CMOS,10.1109/JSSC.2006.884803,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014621,0
+4,51,Radio receiver mixer model for event-driven simulators to support functional verification of RF-SOC wireless links,10.1109/BMAS.2010.6156596,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6156596,0
+4,52,Hardware Design of RF Temperature Measurement Transceiver System Based on Delayed Linear SAW Temperature Sensor,10.1109/ICCEA50009.2020.00142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9103874,0
+4,53,Hybrid Transceiver Optimization for Multi-Hop Communications,10.1109/JSAC.2020.3000808,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112292,0
+4,54,A 2.4GHz LNA with Active Inductor in RF Transceiver for WBAN,10.1109/RTEICT42901.2018.9012568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012568,0
+4,55,Transceiver Design for Simultaneous Wireless Information and Power Multicast in Multi-User mmWave MIMO System,10.1109/TVT.2020.3010158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9145622,0
+4,56,Yield Recovery of RF Transceiver Systems Using Iterative Tuning-Driven Power-Conscious Performance Optimization,10.1109/MDAT.2014.2361716,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6917024,0
+4,57,An Efficient CMOS On-Chip Antenna Structure for System in Package Transceiver Applications,10.1109/RWS.2007.351874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4160757,0
+4,58,LoRa Transceiver With Improved Characteristics,10.1109/LWC.2018.2855744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410763,0
+4,59,A Multi-Site Test Solution for Quadrature Modulation RF Transceivers,10.1109/TCAD.2011.2144594,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5989986,0
+4,60,System Design of a High-Temperature Downhole Transceiver: Part I – Receiver,10.1109/MWSCAS.2019.8885296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8885296,0
+4,61,A 0.13 $\mu$ m CMOS Quad-Band GSM/GPRS/EDGE RF Transceiver Using a Low-Noise Fractional-N Frequency Synthesizer and Direct-Conversion Architecture,10.1109/JSSC.2009.2015797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4907339,0
+4,62,A 35-GHz TX and RX Front End With High TX Output Power for Ka-Band FMCW Phased-Array Radar Transceivers in CMOS Technology,10.1109/TVLSI.2020.3008423,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9144639,0
+4,63,"2×2 MIMO, multi-mode, wideband transceiver system for worldwide m-WiMAX (IEEE 802.16e) / WLAN (IEEE 802.11n) applications",10.1109/TRANSDUCERS.2011.5969890,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5969890,0
+4,64,An 802.11ba 495μW -92.6dBm-Sensitivity Blocker-Tolerant Wake-up Radio Receiver Fully Integrated with Wi-Fi Transceiver,10.1109/RFIC.2019.8701780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701780,0
+4,65,The Key Technology of Configurable RF Front End,10.1109/EIECT58010.2022.00057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10066659,0
+4,66,"A 2.4GHz Full-Duplex Transceiver with Broadband (+120MHz), Linearity-Calibrated and Long-Delayed Self-Interference Cancellation",10.1109/ESSCIRC55480.2022.9911395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9911395,0
+4,67,A Heterodyne Transceiver With Integrated Calibrator for K/Ka-Band Phased Arrays,10.23919/EuMC50147.2022.9784214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9784214,0
+4,68,Balancing the benefits inherent in reconfigurable coherent optical transceivers,10.1109/ICTON.2013.6603013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6603013,0
+4,69,Optical transceivers for 100 gigabit Ethernet and its transport [100 gigabit ethernet transport],10.1109/MCOM.2010.5434376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5434376,0
+4,70,SyncLock: RF Transceiver Security Using Synchronization Locking,10.23919/DATE54114.2022.9774556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774556,0
+4,71,A novel architectural approach for control architectures in RF transceivers,10.1109/SOCC.2010.5784667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5784667,0
+4,72,A reconfigurable four-channel transceiver testbed with signalling-wavelength-spaced antennas under centralized FPGA control,10.1109/CNSR.2006.10,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1628130,0
+4,73,Dual stage analog cancellation of linear and nonlinear self interference for full duplex radio,10.1109/PIMRC.2015.7343350,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7343350,0
+4,74,A 5-GHz direct-conversion CMOS transceiver,10.1109/JSSC.2003.819088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1253870,0
+4,75,Wireline transceivers,10.1109/CICC.2014.6946110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6946110,0
+4,76,A Fully Integrated 150-GHz Transceiver Front-End in 65-nm CMOS,10.1109/TCSII.2018.2870926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8467352,0
+4,77,An O-QPSK modem using an FSK RF front end for IEEE 802.15.4 operation providing Maximum-Likelihood data,10.1109/ICCNC.2018.8390368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8390368,0
+4,78,Implementation of OFDM baseband transceiver with dynamic spectrum access for cognitive radio systems,10.1109/ISCIT.2009.5341161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5341161,0
+4,79,A Direct Conversion Transceiver for Portable Microfluidic NMR Flowmeters,10.1109/ESSERC62670.2024.10719403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719403,0
+4,80,Wafer-Level Test Solution Development for a Quad-Channel Linear Driver Die in a 400G Silicon Photonics Transceiver Module,10.1109/ICMTS.2019.8730947,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8730947,0
+4,81,Self-Shielded Quad-Band EGPRS Transceiver With Spur Avoidance,10.1109/TMTT.2009.2014431,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4797792,0
+4,82,"Past, current, and future trend in reconfigurable transceiver research and development",10.1109/RFIT.2012.6401597,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401597,0
+4,83,Unified radar-communication (RadCom) multi-port interferometer transceiver,10.23919/EuMC.2013.6687026,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6687026,0
+4,84,Unified radar-communication (RadCom) multi-port interferometer transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6689218,0
+4,85,"Software defined, Plug-and-Play (PNP) Radar Transceiver for phased-array applications",10.1109/APS.2012.6348922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6348922,0
+4,86,Analysis of Spectral Degradation and Error Compensation in 5G NR Digital Polar Transmitters,10.1109/TCSI.2020.2982074,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051838,0
+4,87,Enhanced Receiver Architecture For Leakage Reduction in Wideband EW Transceivers With Overlapping RF And IF,10.1109/IMaRC.2018.8877147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8877147,0
+4,88,A Scalable 77 GHz Massive MIMO FMCW Radar by Cascading Fully-Integrated Transceivers,10.23919/APMC.2018.8617548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617548,0
+4,89,Implementation of reconfigurable transceiver based on digital IF for multiple wideband CDMA signals,10.1109/VETECS.2003.1208912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1208912,0
+4,90,Efficient TV white space filter bank transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6334306,0
+4,91,A 1.9GHz fully integrated CMOS DECT transceiver,10.1109/ISSCC.2003.1234382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1234382,0
+4,92,A Systematic Solution for the Problem of Spectral Degradation in Multiphase TX Architectures,10.1109/TCSII.2021.3095338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9476014,0
+4,93,Ultra-High Total Ionizing Dose Effects in a Highly Integrated and RF-Agile Transceiver,10.1109/REDW51883.2020.9325832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325832,0
+4,94,A human body communication transceiver based on on-off keying modulation,10.1109/ISBB.2011.6107645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6107645,0
+4,95,Field Test and Experimental Characterization of 5GHz RF Transceivers for Coverage Extension,10.1109/WCNC.2009.4917723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4917723,0
+4,96,System Design of a High-Temperature Downhole Transceiver: Part II – Transmitter,10.1109/MWSCAS.2019.8884892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884892,0
+4,97,A 6.5-to-10GHz IEEE 802.15.4/4z-Compliant 1T3R UWB Transceiver,10.1109/ISSCC42614.2022.9731638,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731638,0
+4,98,A tunable UWB pulse transceiver for microwave applied metrology applications,10.1109/ICUWB.2012.6340455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6340455,0
+4,99,Loopback Transceiver Self-Calibration Design for Wideband RF Impairments,10.1109/VTC2020-Spring48590.2020.9129393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129393,0
+5,0,A radio transceiver architecture for coexistence of 4G-LTE and 5G systems used in mobile devices,10.1109/MWSYM.2017.8059075,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8059075,0
+5,1,A low complexity multi standard dual band CMOS polar transmitter for smart utility networks,10.1109/SOCC.2014.6948967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6948967,0
+5,2,High-Performance Implementation of Adaptive IQ Mismatch Compensator in Direct-Conversion Transceiver,10.1109/APCCAS50809.2020.9301681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9301681,0
+5,3,A Low-Power NB-IoT Transceiver With Digital-Polar Transmitter in 180-nm CMOS,10.1109/TCSI.2017.2707412,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7948788,0
+5,4,Stacked Intelligent Metasurface-Aided MIMO Transceiver Design,10.1109/MWC.013.2300259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10515204,0
+5,5,A 260-mW Ku-Band FMCW Transceiver for Synthetic Aperture Radar Sensor With 1.48-GHz Bandwidth in 65-nm CMOS Technology,10.1109/TMTT.2017.2700271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7929393,0
+5,6,A 0.5-V 5.8-GHz ultra-low-power RF transceiver for wireless sensor network in 65nm CMOS,10.1109/RFIC.2014.6851649,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851649,0
+5,7,Wireless network architecture and RF transceiver front-end to provide multilingual speech translation and local positioning system for Hajj operations,10.1109/SIECPC.2011.5876929,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5876929,0
+5,8,mm-wave integrated wireless transceivers: Enabling technology for high bandwidth connections in IoT,10.1109/WF-IoT.2015.7389043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7389043,0
+5,9,A 1.25–12.5Gb/s 5.28mW/Gb/s multi-standard serial-link transceiver with 32dB of equalization in 40nm CMOS,10.1109/EDSSC.2017.8126496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126496,0
+5,10,A Robust Nonlinear RLS Type Adaptive Filter for Second-Order-Intermodulation Distortion Cancellation in FDD LTE and 5G Direct Conversion Transceivers,10.1109/TMTT.2019.2896513,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8653992,0
+5,11,LTCC quad band GSM RF transceiver using integrated passive matching network,10.1109/ECWT.2005.1617743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1617743,0
+5,12,LTCC quad band GSM RF transceiver using integrated passive matching network,10.1109/EUMC.2005.1610312,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1610312,0
+5,13,A Power Detector for Built-In Self-Test of 4-Channel Beamforming Transceiver in Phased Array Systems,10.1109/PAST49659.2022.9975100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9975100,0
+5,14,Advance on pulse-based UWB integrated transceiver circuits and systems: Invited paper,10.1109/ICUWB.2010.5615558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5615558,0
+5,15,Green and Highly Efficient MIMO Transceiver System for 5G Heterogenous Networks,10.1109/TGCN.2021.3100399,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497351,0
+5,16,Digital predistortion of power amplifier non-linearities for full-duplex transceivers,10.1109/SPAWC.2016.7536811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536811,0
+5,17,Novel BiST methods for parametric test in wireless transceivers,10.1109/SMIC.2010.5422977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5422977,0
+5,18,A multi-standard OFDM-MIMO transceiver for WLAN applications,10.1109/MWSCAS.2005.1594425,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594425,0
+5,19,Direct-conversion RF transceiver and modem IC for UHF RFID reader system,10.1109/APMC.2008.4958404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4958404,0
+5,20,Behavioral approach to design universal UHF RFID reader transceiver ICs,10.1109/MIEL.2014.6842176,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6842176,0
+5,21,"26.4 A 160-to-960MHz ETSI class-1-compliant IoE transceiver with 100dB blocker rejection, 70dB ACR and 800pA standby current",10.1109/ISSCC.2016.7418097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418097,0
+5,22,An IEEE 802.15.4g SUN OFDM-based RF CMOS transceiver for Smart Grid and CEs,10.1109/ICCE.2013.6487003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6487003,0
+5,23,On the theory of multiGigabit transceiver implementations,10.1109/SPCOM.2010.5560463,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5560463,0
+5,24,A direct-conversion receiver for multi-carrier 3G/4G small-cell base stations in 65nm CMOS,10.1109/RFIC.2016.7508253,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508253,0
+5,25,New Standardized EMC Evaluation Methods for Communication Transceivers,10.1109/LEMCPA.2019.2912588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700497,0
+5,26,A Low-Power Compact IEEE 802.15.6 Compatible Human Body Communication Transceiver With Digital Sigma–Delta IIR Mask Shaping,10.1109/JSSC.2018.2873586,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8520924,0
+5,27,Transceiver module using GaAs gunn diode and Schottky diode mixer for W-band FMCW radar sensor application,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6101068,0
+5,28,A 400MHz RF Transceiver for Implantable Biomedical Micro-Stimulators,10.1109/CICC.2007.4405706,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405706,0
+5,29,DSP implementation of OFDM-based underwater acoustic communication transceiver,10.1109/WCSP.2014.6992117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6992117,0
+5,30,A single chip radio transceiver for 802.11a/b/g WLAN in 0.18/spl mu/ CMOS,10.1109/ICECS.2003.1301942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301942,0
+5,31,A Reconfigurable Sliding-IF Transceiver for 400 MHz/2.4 GHz IEEE 802.15.6/ZigBee WBAN Hubs With Only 21% Tuning Range VCO,10.1109/JSSC.2013.2274893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6581913,0
+5,32,An Ultra-Low-Power RF Energy-Harvesting Transceiver for Multiple-Node Sensor Application,10.1109/TCSII.2015.2456511,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7160750,0
+5,33,A Single-Chip CMOS-Based Parallel Optical Transceiver Capable of 240-Gb/s Bidirectional Data Rates,10.1109/JLT.2008.927759,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4814839,0
+5,34,Low complexity UWB circuit transceiver architecture for low cost sensor tag systems,10.1109/PIMRC.2004.1370863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1370863,0
+5,35,"A triple-standard transceiver architecture for GSM, WCDMA and WI-FI applications",10.1109/ICECS.2005.4633611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633611,0
+5,36,Die-on-wafer and wafer-level 3D integration for millimeter-wave smart antenna transceivers,10.1109/WAMIC.2005.1528399,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1528399,0
+5,37,An Iterative Hybrid Transceiver Design Algorithm for Millimeter Wave MIMO Systems,10.1109/LWC.2015.2409268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055330,0
+5,38,Adaptive Background Compensation of Frequency Interleaved DACs With Application to Coherent Optical Transceivers,10.1109/ACCESS.2021.3065269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9374421,0
+5,39,A 5 mm$^{2}$  40 nm LP CMOS Transceiver for a Software-Defined Radio Platform,10.1109/JSSC.2010.2075210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5599940,0
+5,40,A Phased-Array Transceiver With 2-Dimension Continuously Auto Link-Tracking Operation and Time Division Modulator,10.1109/JSSC.2024.3360120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423017,0
+5,41,High Sensitive SRD Data Transceiver,10.1109/RADIOELEK.2008.4542714,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4542714,0
+5,42,Experimental Demonstration of Simultaneously Precise Tx and Rx Skew Calibration for Coherent Optical Transceiver,10.1109/JLT.2021.3125094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9601301,0
+5,43,30.3 A SAW-Less NB-IoT RF Transceiver with Hybrid Polar and On-Chip Switching PA Supporting Power Class 3 Multi-Tone Transmission,10.1109/ISSCC19947.2020.9063093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063093,0
+5,44,A high performance dual band/dual mode CMOS RF transceiver for WiMAX and WLAN systems,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4753812,0
+5,45,Wideband RF front-end transceiver with integrated phase-locked loop,10.1109/APMC.2016.7931321,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7931321,0
+5,46,A fully integrated reconfigurable low-power Sub-GHz transceiver for 802.11ah in 65nm CMOS,10.1109/RFIC.2017.7969062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969062,0
+5,47,Design & simulation of MCM technology based MM wave transceiver,10.1109/AMTA.2008.4763123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4763123,0
+5,48,Enhancement of Visible Light Communication Transceiver using LDPC Codes,10.1109/FIT.2018.00024,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616973,0
+5,49,A 5.8GHz low-IF multi-data rate GFSK transceiver with clock recovery and integrated 21dBm power amplifier,10.1109/RFIC.2008.4561433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561433,0
+5,50,A 4×4 5-6GHz CMOS Wi-Fi Transceiver Front-End for Fiber-to-the-Room with Analog Beamforming Achieving 27dBm 1024 QAM MCS11 EIRP and −45dB EVM Floor,10.1109/CICC60959.2024.10529059,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10529059,0
+5,51,Energy efficient OOK transceiver for wireless sensor networks,10.1109/RFIC.2006.1651137,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651137,0
+5,52,Thermal Performance Comparison between Various RF Transceiver Modules,10.1109/ITHERM.2006.1645353,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1645353,0
+5,53,Review of 28GHz CMOS Phased-Array Transceivers for 5G New Radio,10.1109/ICMMT45702.2019.8992068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8992068,0
+5,54,340GHz High Speed Communication System Based on Solid State Transceiver,10.1109/UCMMT45316.2018.9015917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9015917,0
+5,55,Living and Dealing with RF Impairments in Communication Transceivers,10.1109/ISCAS.2007.378172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252561,0
+5,56,Compact Frequency Offset Circuit for Testing IC RF Transceivers,10.1109/ICSICT.2006.306636,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098645,0
+5,57,Study of detection capability of Novelda impulse transceiver with external RF circuit,10.1109/IDAACS.2015.7341392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7341392,0
+5,58,Offset Loopback Test For IC RF Transceivers,10.1109/MIXDES.2006.1706647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1706647,0
+5,59,Unified Regime Controller for Optical Communication Transceiver of a Pico-Cell Base Station,10.1109/ICT49546.2020.9239458,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9239458,0
+5,60,Transceiver circuit design based on OFDM technology for well-logging cable telemetry system,10.1109/ICEIEC.2017.8076609,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8076609,0
+5,61,Transceiver imperfections compensation and calibration methods,10.1109/ICOCN59242.2023.10236233,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10236233,0
+5,62,Transceiver In-phase and Quadrature Imbalance Monitoring by Two Stage MIMO Equalizers,10.1109/ACP.2018.8596202,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8596202,0
+5,63,Joint Monitoring Scheme for PMD Compensation with ML-MIMO in Transceiver Hardware Impairments Scenario,10.1109/OGC59456.2023.10314604,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10314604,0
+5,64,Design and performance analysis of HomePNA 2.0 transceiver chip circuit,10.1109/ICACT.2006.206316,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1625921,0
+5,65,Multipath Polyphase Circuits and their Application to RF Transceivers,10.1109/ISCAS.2007.378388,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252624,0
+5,66,Optimization of broadband characterization for pluggable parallel optical transceiver modules on multilayer substrates,10.1109/ICEPT.2010.5582415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5582415,0
+5,67,Predistortion for power amplifier linearization in full-duplex transceivers without extra RF chain,10.1109/ICASSP.2017.7953421,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7953421,0
+5,68,Ultra low power transceivers for wireless sensors and body area networks,10.1109/ISMICT.2014.6825247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6825247,0
+5,69,Progress in Photonic Digital Radio Transceivers,10.23919/MWP48676.2020.9314369,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314369,0
+5,70,A digital signal processing solution for PA linearization and RF impairment correction for multi-standard wireless transceiver systems,10.23919/EUMC.2010.5616529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5616529,0
+5,71,Digital predistortion for mitigating transmitter-induced receiver desensitization in carrier aggregation FDD transceivers,10.1109/GlobalSIP.2016.7905931,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7905931,0
+5,73,Self-Interference Cancellation in LTE/5G Transceivers with Sliding Window Kernel Recursive Least Squares Filters,10.1109/IEEECONF53345.2021.9723127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723127,0
+5,74,A ully CMOS Integrated R Transceiver for biquitous Sensor etworks in Sub- z ISM-band,10.1109/ICASIC.2005.1611352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1611352,0
+5,75,Modeling and efficient cancellation of nonlinear self-interference in MIMO full-duplex transceivers,10.1109/GLOCOMW.2014.7063527,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7063527,0
+5,76,31.2 A Fully Integrated IEEE 802.15.4/4z-Compliant 6.5-to-8GHz UWB System-on-Chip RF Transceiver Supporting Precision Positioning in a CMOS 28nm Process,10.1109/ISSCC42615.2023.10067364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10067364,0
+5,77,Analog baseband receiver chip for 100 Mbps/1 Gbps broadband symmetric cable modem,10.1109/BIPOL.2002.1042914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1042914,0
+5,78,Impact of Transceiver Subsystems on Digital Back Propagation Performance,10.1109/IPCon.2018.8527268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527268,0
+5,79,A 60-GHz CMOS RF sub-harmonic RF transceiver front-end with integrated artificial-magnetic-conductor (AMC) on-chip Yagi-antenna and balun filter,10.1109/EuMIC.2014.6997847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6997847,0
+5,80,A low-power high-performance SiGe BiCMOS 802.11a/b/g transceiver IC for cellular and bluetooth Co-existence applications,10.1109/JSSC.2006.873933,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1644859,0
+5,81,A new approach of stochastic computing for arithmetic functions in wideband RF transceivers,10.1109/MWSCAS.2017.8053225,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053225,0
+5,82,Low power UWB impulse radio transceiver front-end based on statistical correlation technique,10.1109/ICUWB.2007.4380970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4380970,0
+5,83,Efficient Wideband mmW Transceiver Front End for 5G Base Stations in 22-nm FD-SOI CMOS,10.1109/JSSC.2023.3282696,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10154117,0
+5,84,Developing innovation — Wireless transceiver design for implantable medical devices,10.1109/IMWS-BIO.2015.7303752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7303752,0
+5,85,A scalable low-power digital communication network architecture and an automated design path for controlling the analog/RF part of SDR transceivers,10.1109/DATE.2008.4484762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4484762,0
+5,86,A direct-conversion transmitter for small-cell cellular base stations with integrated digital predistortion in 65nm CMOS,10.1109/RFIC.2016.7508251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508251,0
+5,87,K Band Transceiver Components,10.1109/ICEICT57916.2023.10244839,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10244839,0
+5,88,Fully-integrated CMOS RF transceivers,10.1109/APMC.2006.4429758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429758,0
+5,89,OFDM-UWB MIMO transceiver implementation in realistic fading channels,10.1109/PIMRC.2011.6140094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6140094,0
+5,90,Study of 28 GHz Transceiver Module Integrated With LO Source for 5G mmWave Communication,10.1109/IMWS-AMP49156.2020.9199679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9199679,0
+5,91,High Dynamic Range DSP Chirp Radar Transceiver Employing Multi-bit ͤ-Σ Modulator,10.1109/WiSNeT46826.2020.9037615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9037615,0
+5,92,A digital IQ imbalance self-calibration in FDD transceiver,10.1109/VLSI-DAT.2017.7939681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7939681,0
+5,93,Full-Duplex Wireless Transceiver Self-Interference Cancellation Through FD-SOI Buried-Gate Signaling,10.1109/ISCAS.2018.8351823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351823,0
+5,94,IEEE Standard for Withstand Capability of Relay Systems to Radiated Electromagnetic Interference from Transceivers,10.1109/IEEESTD.2004.95602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1378611,0
+5,95,"A low power, low datarate integrated 433 MHz wireless transceiver in CMOS",10.1109/UGIM.2003.1225699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1225699,0
+5,96,Evaluation of Ground Sensor Terminal (GST) Transceiver System for UiTMSAT-1 Store & Forward Mission,10.1109/IconSpace.2019.8905977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905977,0
+5,97,"A planar, scalable active transceiver array for mobile Satcom applications",10.1109/RWS.2013.6486656,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6486656,0
+5,98,Recent Progress of ILO-Based Novel Synchronization Techniques for Transceivers Used in Broadband Wireless Communication Systems,10.1109/CNSR.2008.28,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4519875,0
+5,99,Full Four-Channel 6.3-Gb/s 60-GHz CMOS Transceiver With Low-Power Analog and Digital Baseband Circuitry,10.1109/JSSC.2012.2218066,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6339016,0

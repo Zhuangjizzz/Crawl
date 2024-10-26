@@ -99,3 +99,403 @@
 1,97,Complexity Study of the Continuous Valued Number System Adders,10.1109/ISMVL.2012.36,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6214794,1
 1,98,"Design, Implementation and Comparative Analysis of Kogge Stone Adder Using CMOS and GDI Design: A VLSI Based Approach",10.1109/CICN.2016.117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8082709,1
 1,99,Design of a log-domain differentiator and integrator based universal analog biquadratic filter,10.1109/MWSCAS.2004.1353914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1353914,1
+2,0,Design of a log-domain differentiator and integrator based universal analog biquadratic filter,10.1109/MWSCAS.2004.1353914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1353914,0
+2,1,Linear ultra-broadband NPN-only analog correlator at 33 Gbps in 130 nm SiGe BiCMOS technology,10.1109/BCTM.2016.7738962,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7738962,0
+2,2,High-Resolution Fractional Digital Frequency Divider using a Binary-Rate Multiplier,10.1109/NEWCAS57931.2023.10198118,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198118,0
+2,3,Computational accelerators for analog-to-digital and digital processing of sensor signals in information measuring systems,10.1109/TCSET.2018.8336175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8336175,0
+2,4,The accuracy and scalability of continuous-time Bayesian inference in analogue CMOS circuits,10.1109/ISCAS.2014.6865450,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865450,0
+2,5,Energy-Efficient Low-Latency Signed Multiplier for FPGA-Based Hardware Accelerators,10.1109/LES.2020.2995053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094238,0
+2,6,High speed direct digital frequency synthesizer with pipelining phase accumulator based on Brent-Kung adder,10.1109/SMElec.2012.6417205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6417205,0
+2,7,A compact 16-bit dual-slope integrating circuit for direct analog-to-residue conversion,10.1109/APCCAS.2012.6419024,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6419024,0
+2,8,Design of low-error fixed-width multipliers for DSP applications,10.1109/82.769795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=769795,0
+2,9,Hardware optimization of complex multiplication scheme for DSP application,10.1109/IC4.2015.7375548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7375548,0
+2,10,Design and implementation of a high speed digital FIR filter using unfolding,10.1109/POWERI.2016.8077361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8077361,0
+2,11,A 96dB Dynamic Range 2kHz Bandwidth 2nd Order Delta-Sigma Modulator Using Modified Feed-Forward Architecture With Delayed Feedback,10.1109/TCSII.2021.3066628,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9380651,0
+2,12,Design and Synthesis of a Three Input Flagged Prefix Adder,10.1109/ISCAS.2007.378197,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252826,0
+2,13,Analog digits: bit level redundancy in a binary multiplier,10.1109/ACSSC.1998.750861,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=750861,0
+2,14,An 8-Bit Voltage Mode Analog to Digital Converter Based on Integer Division,10.1109/ISVLSI.2010.27,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5572779,0
+2,15,Bit-level optimized FIR filter architectures for high-speed decimation applications,10.1109/ISCAS.2008.4541817,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541817,0
+2,16,Spiking Neural Streaming Binary Arithmetic,10.1109/ICRC53822.2021.00021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743190,0
+2,17,"Design and Synthesis of Low Power, High Speed 5th Order Digital Decimation Filter for Sigma- Delta Analog to Digital Converter",10.1109/ICCSP48568.2020.9182295,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9182295,0
+2,18,A four-quadrant analog divider multiplier with 0.01% distortion,10.1109/ISSCC.1983.1156514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1156514,0
+2,19,Implementation of the FFT butterfly with redundant arithmetic,10.1109/82.539004,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=539004,0
+2,20,Novel approaches to the design of VLSI RNS multipliers,10.1109/82.204109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=204109,0
+2,21,A Design of Analog Multiplier and Divider Using Current Controlled Current Differencing Buffered Amplifiers,10.1109/ISICIR.2007.4441925,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441925,0
+2,22,Inherently digital stochastic analog AC to DC transfer,10.1109/IMTC.2001.929562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=929562,0
+2,23,Basic analog circuits with a-GIZO thin-film transistors: Modeling and simulation,10.1109/SMACD.2012.6339389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6339389,0
+2,24,"Design of a 4 Bit Arithmetic & Logic Unit, Evaluation of Its Performance Metrics & its Implementation in a Processor",10.1109/INCET49848.2020.9154017,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154017,0
+2,25,Analog Neural Network Model based on Improved Logarithmic Multipliers,10.1109/IIAIAAI55812.2022.00082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894612,0
+2,26,LSAC: A Low-Power Adder Tree for Digital Computing-in-Memory by Sparsity and Approximate Circuits Co-Design,10.1109/TCSII.2023.3304752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215371,0
+2,27,A four quadrant analog multiplier based on a novel CMOS linear current divider,10.1109/RME.2009.5201326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5201326,0
+2,28,High frequency analog signal processing circuits based on a CMOS transconductor,10.1109/MWSCAS.1990.140702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=140702,0
+2,29,Basic Arithmetics Based on Analog Signal with Molecular Reactions,10.1109/ICC.2018.8422670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422670,0
+2,30,Tunable Microwave Photonic Temporal Signal Processor: Differentiator and Integrator,10.1109/LPT.2013.2285179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6630085,0
+2,31,Design of an Energy Efficient Analog Two-Quadrant Multiplier Cell Operating in Weak Inversion,10.1109/NEWCAS52662.2022.9842251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9842251,0
+2,32,Analog Optical Differentiator and Integrator Based on Cascaded Metalenses,10.1109/IEEECONF59639.2023.10367352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367352,0
+2,33,"An SRAM-Based Multibit In-Memory Matrix-Vector Multiplier With a Precision That Scales Linearly in Area, Time, and Power",10.1109/TVLSI.2020.3037871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9288639,0
+2,34,The Use of Analog Techniques in Binary Arithmetic Units,10.1109/PGEC.1965.264051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4038346,0
+2,35,Current mode multiple-valued adder for cryptography processors,10.1109/ISCAS.2012.6271522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6271522,0
+2,36,An implementation of a simple neuron model in field programmable analog arrays,10.1109/IEMBS.2004.1404266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1404266,0
+2,37,A Trim-Free PVT Invariant Current Reference with 0.48% Process Inaccuracy Using VTH Tracking Approach,10.1109/MWSCAS60917.2024.10658710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658710,0
+2,38,Efficient Modular Adder Designs Based on Thermometer and One-Hot Coding,10.1109/TVLSI.2019.2919609,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8747375,0
+2,39,A number system with continuous valued digits and modulo arithmetic,10.1109/TC.2002.1047754,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1047754,0
+2,40,Stochastic Flash Analog to Digital Converter Compared with Conventional Resistor ladder Flash Analog to Digital Converter,10.1109/INCOFT55651.2022.10094440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094440,0
+2,41,Computer Aided Design of Nonlinear Systems’ Emulators with Analog Circuit,10.1109/PACET60398.2024.10497053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10497053,0
+2,42,A decimal fully parallel and pipelined floating point multiplier,10.1109/ACSSC.2008.5074737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5074737,0
+2,43,A Low-Power CMOS Analog Error-Based Statistical Module for Characterizing the Nonlinear Distortions of Millimeter-Wave Power Amplifiers,10.1109/LMWT.2023.3306554,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10235945,0
+2,44,MOS only oscillator using adder and subtractor circuits,10.1109/ELECO.2015.7394618,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7394618,0
+2,45,A Delta Sigma Modulator-Based Stochastic Divider,10.1109/TCSI.2022.3168286,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9763874,0
+2,46,An efficient power multiple valued look up table for adder circuit using quaternary FPGA,10.1109/ISCO.2016.7726979,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7726979,0
+2,47,Four-quadrant Analog Multiplier Based On CMOS Inverters,10.1109/MIXDES.2006.1706586,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1706586,0
+2,48,Implementation of first and third order fractional order differentiators and integrators using switched capacitors,10.1109/IICPE.2011.5728088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728088,0
+2,49,A Hybrid 4th-Order 4-Bit Continuous-Time ΔΣ Modulator in 65-nm CMOS Technology,10.1109/NEWCAS49341.2020.9159836,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9159836,0
+2,50,Delta–Sigma D/A Converter Using Binary- Weighted Digital-to-Analog Differentiator for Second-Order Mismatch Shaping,10.1109/TCSII.2007.905874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358637,0
+2,51,Design of an Overcurrent Protection Relay Based on Electronics Technology,10.23919/MIXDES52406.2021.9497582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497582,0
+2,52,A Low-Power Analog Adder and Driver Using a-IGZO TFTs,10.1109/TCSI.2016.2635442,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7828118,0
+2,53,An Analog Multiplier Controlled Buck-Boost Converter,10.1109/TCSII.2022.3189537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9820774,0
+2,54,Analog integrator and analog-to-digital converter effect on a Multi-Resolution Spectrum Sensing (MRSS) for cognitive radio systems,10.1109/APMC.2006.4429573,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429573,0
+2,55,Current Comparator-Based Reconfigurable Adder and Multiplier on Hybrid Memristive Crossbar,10.1109/ISVLSI49217.2020.000-8,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154992,0
+2,56,CMOS analog divider and four-quadrant multiplier using pool circuits,10.1109/4.406403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=406403,0
+2,57,Analog CMOS four-quadrant multiplier and divider,10.1109/ISCAS.1999.777589,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=777589,0
+2,58,System design of a mixed signal PSSS transceiver using a linear ultra-broadband analog correlator for the receiver baseband designed in 130 nm SiGe BiCMOS technology,10.1109/EUROCON.2017.8011110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011110,0
+2,59,Novel first order Digital Differentiator for Analog-to-Digital Transform,10.1109/ISSC.2018.8585375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8585375,0
+2,60,Switching Activity Analysis of Shifters and Multipliers for Application to ROM-less DDFS Architecture Selection for Low Power Performance,10.1109/EECCIS.2018.8692887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8692887,0
+2,61,Implementation of High-Speed Hybrid Carry Select Adder using Binary to Excess-1 Converter,10.1109/ICAISS55157.2022.10010750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10010750,0
+2,62,A low-power CMOS analog multiplier,10.1109/TCSII.2005.857089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1593964,0
+2,63,Electronically Tunable Current Mode Temperature Insensitive Active Only Analog Multiplier/Divider,10.1109/ICRAIE.2018.8710403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8710403,0
+2,64,Arithmetic circuit design with memristor based high fan-out logic gates,10.1109/UEMCON.2016.7777840,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7777840,0
+2,65,A configurable CMOS multiplier/divider for analog VLSI,10.1109/ISCAS.1993.393923,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=393923,0
+2,66,An analog sinusoidal frequency-to-voltage converter,10.1109/19.119769,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=119769,0
+2,67,Hybrid integrators for analog computers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954508,0
+2,68,Circuit Design of a Novel Analog Multiplier,10.1109/ICCSSE59359.2023.10244912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10244912,0
+2,69,Novel high-radix residue number system architectures,10.1109/82.877147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=877147,0
+2,70,A distributed arithmetic online rotator for signal processing applications,10.1109/DSD.2004.1333311,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1333311,0
+2,71,High speed arithmetic design using CPL and DPL logic,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1470938,0
+2,72,Design and Demonstration of MEM Relay-Based Arithmetic and Sequential Circuit Blocks,10.1109/TED.2021.3118663,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9580546,0
+2,73,Analog Circuits With High-Gain Topologies Using a-GIZO TFTs on Glass,10.1109/JDT.2014.2378058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6974998,0
+2,74,Area-efficient multipliers for digital signal processing applications,10.1109/82.486455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=486455,0
+2,75,First-Order Recursive CIC Filters in Time-Interleaved VCO-Based ADCs for Direct-RF Sampling Receivers,10.1109/APCCAS47518.2019.8953087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953087,0
+2,76,A novel four quadrant CMOS analog multiplier/divider,10.1109/ISCAS.2004.1328393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328393,0
+2,77,A new multiplier-divider circuit based on switched capacitor data converters,10.1109/ISCAS.1990.112318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=112318,0
+2,78,A Small-Area 2nd-Order Adder-Less Continuous-Time ΔΣ Modulator With Pulse Shaping FIR DAC for Magnetic Sensing,10.1109/OJCAS.2024.3378653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475189,0
+2,79,Bi-directional Current-Starved Pseudo Floating-Gate differentiator / integrator,10.1109/ICECS.2008.4674844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4674844,0
+2,80,MOS Translinear Principle Based Analogue Multiplier Divider,10.1109/MIXDES.2006.1706594,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1706594,0
+2,81,"Comments on ""Minimum number of adders for implementing a multiplier and its application to the design of multiplierless digital filters""",10.1109/82.661661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=661661,0
+2,82,Applying non-ideal mixed analog-digital multipliers in electronic processing circuits based on neural networks,10.1109/ETFA.2003.1248722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1248722,0
+2,83,Four-quadrant CMOS analog multiplier based on new current squarer circuit with high-speed,10.1109/EURCON.2009.5167644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5167644,0
+2,84,Design and implementation of an analog complex correlator for passive millimeter wave imaging system,10.1109/IBCAST.2016.7429941,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7429941,0
+2,85,A Wide Dynamic Range Four-Quadrant CMOS Analog Multiplier Using Active Feedback,10.1109/APCCAS.2006.342105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4145491,0
+2,86,A simple analog rank filter,10.1109/ISCAS.1992.229999,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=229999,0
+2,87,A low voltage low power four quadrant analog multiplier using submicron technology,10.1109/RTEICT.2017.8256752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256752,0
+2,88,Nonideal Behavior of Analog Multipliers for Chaos Generation,10.1109/TCSII.2015.2503650,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337405,0
+2,89,4-bit adder-accumulator at 41-GHz clock frequency in InP DHBT technology,10.1109/LMWC.2005.844199,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1406057,0
+2,90,Analog techniques for residue operations,10.1109/ARITH.1972.6153892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6153892,0
+2,91,A Modified Analog Predistorter Using Tunable Power Divider for Wideband 5G Transmitters,10.1109/TCSII.2023.3341363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352953,0
+2,92,A CMOS current-mode multiplier/divider using a current amplifier,10.1109/PEOCO.2013.6564645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6564645,0
+2,93,A 0.4V 53dB SNDR 250 MS/s time-based CT ΔΣ analog to digital converter,10.1109/ASICON.2015.7517109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517109,0
+2,94,Review of Vedic Multiplier Using Various Full Adders,10.1109/ICCMC51019.2021.9418339,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9418339,0
+2,95,A modular approach to the computation of convolution sum using distributed arithmetic principles,10.1109/82.749106,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=749106,0
+2,96,"A novel, high performance and power efficient implementation of 8×8 multiplier unit using MT-CMOS technique",10.1109/IC3.2013.6612187,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6612187,0
+2,97,The Effects of Flying-Adder Clocks on Digital-to-Analog Converters,10.1109/TCSII.2009.2036545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5373839,0
+2,98,Efficient FPGA Implementation Architecture of Fast FIR Algorithm Using Han-Carlson Adder Based Vedic Multiplier,10.1109/ICIRCA.2018.8597432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8597432,0
+2,99,Design and Implementation of Low Power-Novel Encoder Based Flash ADC,10.1109/ICSSES58299.2023.10200521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10200521,0
+3,0,Synthesizable 10-bit Stochastic TDC Using Common-Mode Time Dithering and Passive Approximate Adder with 0.012mm2 Active Area in 12nm FinFET,10.1109/VLSITechnologyandCir46783.2024.10631528,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10631528,0
+3,1,A low spurious level fractional-N frequency divider based on a DDS-like phase accumulation operation,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6015963,0
+3,2,Recursive cellular nonlinear neural networks for ultra-low noise digital arithmetic,10.1109/MWSCAS.2003.1562235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1562235,0
+3,3,Diagnosing integrator leakage of single-bit first-order ΔΣ modulator using DC input,10.1109/ASPDAC.2009.4796574,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4796574,0
+3,4,A Brief Review on Hardware Efficient Cascaded Integrator Comb Filters,10.1109/ICSCNA58489.2023.10370269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10370269,0
+3,5,RNS arithmetic multiplier for medium and large moduli,10.1109/82.868463,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=868463,0
+3,6,Reconfigurable Bit-Serial Operation Using Toggle SOT-MRAM for High-Performance Computing in Memory Architecture,10.1109/TCSI.2022.3192165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844140,0
+3,7,Residue-to-binary converters based on new Chinese remainder theorems,10.1109/82.826745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=826745,0
+3,8,Analog Representations in Digital Arithmetic: A Review,10.1109/ACSSC.2018.8645309,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645309,0
+3,9,Adaptive blind calibration of timing mismatches for time-interleaved ADCs based on differentiator multiplier cascade,10.1109/ICCPS.2011.6092286,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6092286,0
+3,10,Reconstruction of Two-Periodic Nonuniformly Sampled Band-Limited Signals Using a Discrete-Time Differentiator and a Time-Varying Multiplier,10.1109/TCSII.2007.896801,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4273650,0
+3,11,A Novel Current-Mode Micropower Four Quadrant CMOS Analog Multiplier/Divider,10.1109/EDSSC.2007.4450127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4450127,0
+3,12,Vector matrix multiplier on field programmable analog array,10.1109/ICASSP.2010.5495508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5495508,0
+3,13,"In situ measurement of ""Open Window"" electron multipliers' gain",10.1109/TIM.2005.847204,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1433199,0
+3,14,Digital correction of mismatches in time-interleaved ADCs for digital-RF receivers,10.1109/ICECS.2017.8292022,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8292022,0
+3,15,Non-Inverting Buck-Boost Converter Design using Analog Multiplier,10.1109/ICAECT60202.2024.10469670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10469670,0
+3,16,A Low Voltage and Low Power Analog Multiplier,10.1109/ICAECC59324.2023.10560170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10560170,0
+3,17,An analog-digital adaptive image-reject technique for quadrature receivers,10.1109/ECCTD.2005.1523115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1523115,0
+3,18,Nonlinear PID DC-link Voltage Control for Hybrid Power Filter Based on Robust Exact Differentiator with Improved Transient Response,10.1109/IECON49645.2022.9968788,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9968788,0
+3,19,Decimal Floating-Point Multiplication,10.1109/TC.2008.218,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711044,0
+3,20,On the representation of discrete functions. Introduction to S/sub N/-algebra,10.1109/TELSKS.2001.954845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954845,0
+3,21,Mixed Signal Multiply and Adder Parallel Circuit for Deep Learning Convolution Operations,10.1109/ISCAS45731.2020.9180757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180757,0
+3,22,"Analog amplitude modulation of a high voltage, solid state inductive adder, pulse generator using MOSFETs",10.1109/MODSYM.2002.1189479,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1189479,0
+3,23,A prototype analog/mixed-signal fast fourier transform processor IC for OFDM receivers,10.1109/RWS.2008.4463614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463614,0
+3,24,An Area-Efficient Column-Parallel Digital Decimation Filter With Pre-BWI Topology for CMOS Image Sensor,10.1109/TCSI.2018.2795086,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8307239,0
+3,25,Applications of a CMOS current squaring circuit in analog signal processing,10.1109/TSP.2015.7296280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7296280,0
+3,26,A Few-Step and Low-Cost Memristor Logic Based on MIG Logic for Frequent-Off Instant-On Circuits in IoT Applications,10.1109/TCSII.2018.2882388,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8543196,0
+3,27,Efficient Data Comparison through Multiplexer Logic for Low Power and Low Area,10.1109/OTCON60325.2024.10688006,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10688006,0
+3,28,Reconfigurable 2T2R ReRAM Architecture for Versatile Data Storage and Computing In-Memory,10.1109/TVLSI.2020.3028848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9234102,0
+3,29,A quantized analog delay for an ir-UWB quadrature downconversion autocorrelation receiver,10.1109/ICU.2005.1570008,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1570008,0
+3,30,A Mixed Signal (Analog-Digital) Integrator Design,10.1109/TCSI.2011.2177133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6132448,0
+3,31,A Simple Analog Controller for Single-Phase Half-Bridge Rectifier and its Application to Transformerless UPS,10.1109/PESC.2005.1581798,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1581798,0
+3,32,A Polynomial-Based Time-Varying Filter Structure for the Compensation of Frequency-Response Mismatch Errors in Time-Interleaved ADCs,10.1109/JSTSP.2009.2020554,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4939432,0
+3,33,An Accurate Analog Multiplier and Divider,10.1109/TEC.1961.5219198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5219198,0
+3,34,A low voltage supply four-quadrant analog multiplier circuit,10.1109/ICASID.2009.5276907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5276907,0
+3,35,Single-chip FIR adaptive filter using CMOS analog circuits,10.1109/ASIC.1991.242948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=242948,0
+3,36,FlashMAC: An Energy-Efficient Analog-Digital Hybrid MAC with Variable Latency-Aware Scheduling,10.1109/A-SSCC53895.2021.9634746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9634746,0
+3,37,Design and Implementation of 4-bit and 8-bit KSA in 18nm FinFET Technology,10.1109/SCEECS54111.2022.9741058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741058,0
+3,38,"Closed-Form Rational Approximations of Fractional, Analog and Digital Differentiators/Integrators",10.1109/JETCAS.2013.2268949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547753,0
+3,39,MATLAB model of analog multiplier based on the sigma-delta modulation,10.1109/CADSM.2015.7230886,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7230886,0
+3,40,A 600-MHz 54/spl times/54-bit multiplier with rectangular-styled Wallace tree,10.1109/4.902765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=902765,0
+3,41,A New Family of High.Performance Parallel Decimal Multipliers,10.1109/ARITH.2007.6,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4272866,0
+3,42,A family of very low-power analog building blocks based on CMOS translinear loops,10.1109/AMICD.1997.637194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=637194,0
+3,43,Analog circuit sizing based on formal methods using affine arithmetic,10.1109/ICCAD.2002.1167576,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167576,0
+3,44,XtokaxtikoX: A stochastic computing-based autonomous cyber-physical system,10.1109/ICRC.2016.7738716,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7738716,0
+3,45,Pulsed Analog Computer for Simulation of Aircraft,10.1109/JRPROC.1959.287278,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4065744,0
+3,46,A Hybrid Approximate Multiplier for Energy Efficient Image Processing,10.1109/ICSSES62373.2024.10561378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10561378,0
+3,47,Programming floating-gate circuits with UV-activated conductances,10.1109/82.913182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=913182,0
+3,48,Distributed arithmetic based filters for satellite video signals demodulation,10.1109/iccsp.2013.6577027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6577027,0
+3,49,"High Speed, Low Power Four-Quadrant CMOS Current-Mode Multiplier",10.1109/ICECS.2007.4511238,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511238,0
+3,50,The design of hybrid carry-lookahead/carry-select adders,10.1109/82.996053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=996053,0
+3,51,A 22.4 μW 80dB SNDR ΣΔ modulator with passive analog adder and SAR quantizer for EMG application,10.1109/IPEC.2012.6522674,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6522674,0
+3,52,A Very Compact CMOS Analog Multiplier for Application in CNN Synapses,10.1109/LASCAS.2019.8667594,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667594,0
+3,53,Towards In-Memory Computing: Arithmetic Operations on Real Memristors,10.1109/IECON43393.2020.9254441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9254441,0
+3,54,Design and analysis of low-power 10-transistor full adders using novel XOR-XNOR gates,10.1109/82.996055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=996055,0
+3,55,CMOS Continuous-Time Integrator with Capacitance Multiplier,10.1109/NEWCAS57931.2023.10198049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198049,0
+3,56,A Mixed-Signal TIA with Input Restoring ADC,10.1109/ISCAS58744.2024.10557979,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557979,0
+3,57,Robust Analog Circuit Sizing Using Ellipsoid Method and Affine Arithmetic,10.1109/ASPDAC.2007.357986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4196032,0
+3,58,A Second-Order Noise-Shaping SAR ADC With Passive Integrator and Active Amplifier,10.1109/ASID60355.2023.10425952,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10425952,0
+3,59,A stable inverting integrator with an extended high-frequency range,10.1109/82.664249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=664249,0
+3,60,VLSI design of analog multiplier in weak inversion region,10.1109/ICCSP.2016.7754262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7754262,0
+3,61,A 40-MHz Bandwidth 0–2 MASH VCO-Based Delta-Sigma ADC With 35-fJ/Step FoM,10.1109/TCSII.2015.2458111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161322,0
+3,62,IIR digital filter design using minimum adder multiplier blocks,10.1109/82.686699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=686699,0
+3,63,A digitally-enhanced 2-0 ΔΣ ADC,10.1109/MWSCAS.2007.4488722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488722,0
+3,64,A BiCMOS dynamic carry look-ahead circuit with carry skip for high-speed arithmetic circuits,10.1109/82.208580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=208580,0
+3,65,190 GBd PAM-4 Signal Generation using Analog Multiplexer IC with On-Chip Clock Multiplier,10.23919/EuMIC58042.2023.10288816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288816,0
+3,66,Analog Convolutional Neural Network,10.1109/SoutheastCon44009.2020.9368273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9368273,0
+3,67,On the implementation of input-feedforward delta-sigma modulators,10.1109/TCSII.2006.873829,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1643460,0
+3,68,Compact Filtering Power Divider with Low Insertion Loss for GNSS Signals,10.1109/LAMC59011.2023.10375598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375598,0
+3,69,The 5th Order Single-Bit Sigma-Delta Modulator with Passive Adder Design,10.1109/EDM61683.2024.10615071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10615071,0
+3,70,Fully digital feedforward delta-sigma modulator,10.1109/RME.2005.1543013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1543013,0
+3,71,An Electronic Analog Multiplier,10.1109/TEC.1957.5221579,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5221579,0
+3,72,A systolic architecture for modulo multiplication,10.1109/82.475251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=475251,0
+3,73,"Optical differentiators and integrators: Recent advances and applications, and enormous potential applications",10.1109/ISSPA.2012.6310517,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6310517,0
+3,74,A third-order /spl Sigma//spl Delta/ modulator in 0.18-/spl mu/m CMOS with calibrated mixed-mode integrators,10.1109/JSSC.2005.845558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1424223,0
+3,75,16.9 4.48GHz 0.18μm SiGe BiCMOS Exact-Frequency Fractional-N Frequency Synthesizer with Spurious-Tone Suppression Yielding a -80dBc In-Band Fractional Spur,10.1109/ISSCC.2019.8662327,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662327,0
+3,76,An Iterative Analog Computer Using Pulse-Ratio Modulation,10.1109/T-C.1971.223103,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1671696,0
+3,77,High Speed Modified Booth Encoder Multiplier for Signed and Unsigned Numbers,10.1109/UKSim.2012.99,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6205523,0
+3,78,SC amplifier and SC integrator with an accurate gain of 2,10.1109/TCSII.2005.843594,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1417087,0
+3,79,"Fundamentals of the analog computer: circuits, technology, and simulation",10.1109/MCS.2005.1432596,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1432596,0
+3,80,Implementation of a CMOS mixed-signal digital FLC chip using new fuzzifier and current mode A/D,10.1109/ICICS.2007.4449743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4449743,0
+3,81,Analog VLSI design of neural network architecture for implementation of forward only computation,10.1109/PrimeAsia.2012.6458642,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6458642,0
+3,82,Performance of a fast analog VLSI implementation of the DFT,10.1109/MWSCAS.1992.271089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=271089,0
+3,83,A Mixed-Signal Integrator-Differentiator-TIA,10.1109/TCSII.2023.3318725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10261498,0
+3,84,Analog multiplier using DTMOS-CCII suitable for biomedical application,10.1109/CCAA.2015.7148588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7148588,0
+3,85,Low Power Hierarchical Multiplier and Carry Look-Ahead Architecture,10.1109/AICCSA.2006.205072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1618337,0
+3,86,Design of a Digital Decimation Filter with High Speed and Low Complexity,10.1109/ICCS52645.2021.9697215,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9697215,0
+3,87,Efficient Broadband Current-Mode Adder- Quantizer Design for Continuous-Time Sigma–Delta Modulators,10.1109/TVLSI.2014.2353058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909078,0
+3,88,A 6-digit RSD analog-to-quaternary converter with CMOS Current Mode Quaternary Adders,10.1109/ICASIC.2007.4415623,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415623,0
+3,89,Frequency deviation measurement based on two-arm /spl Delta/-/spl Sigma/ modulated bridge,10.1109/TIM.2003.822709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284858,0
+3,90,Novel FPGA Radiation Benchmarking Structures,10.1109/RADECS50773.2020.9857717,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9857717,0
+3,91,High Performance Current-Mode Four Quadrant Analog Multiplier Circuit,10.1109/IMPACT55510.2022.10029193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029193,0
+3,92,Microwave Parametric Frequency Dividers With Conversion Gain,10.1109/TMTT.2007.906490,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4339613,0
+3,93,Optimized Multi-Memristor Model based Low Energy and Resilient Current-Mode Multiplier Design,10.23919/DATE51398.2021.9473926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9473926,0
+3,94,An On-Chip Analog Spectrum Analyzer Based on Miller Frequency Divider,10.1109/Austrochip51129.2020.9232983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9232983,0
+3,95,A 2nd-Order Noise-Shaping SAR ADC With Lossless Dynamic Amplifier Assisted Integrator,10.1109/TCSII.2019.2957727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924772,0
+3,96,A 6.22pJ/conv-step Split Design and Subtractor Based Binary Search ADC,10.1109/ICECCME52200.2021.9591083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591083,0
+3,97,Trigonometric Resolution in Analog Computers by Means of Multiplier Elements,10.1109/TEC.1957.5221576,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5221576,0
+3,98,Novel Pulse-Based Analog Divider With Digital Output,10.1109/LSSC.2019.2959778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8933119,0
+3,99,Novel linear analog-adder using a-IGZO TFTs,10.1109/ISCAS.2016.7538993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7538993,0
+4,0,Time-Domain Characterization of Frequency Dividers,10.1109/LMWC.2019.2939538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8846073,0
+4,1,"AGNI: In-Situ, Iso-Latency Stochastic-to-Binary Number Conversion for In-DRAM Deep Learning",10.1109/ISQED57927.2023.10129301,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129301,0
+4,2,A 25 MHz Bandwidth 5th-Order Continuous-Time Low-Pass Sigma-Delta Modulator With 67.7 dB SNDR Using Time-Domain Quantization and Feedback,10.1109/JSSC.2010.2050942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5556409,0
+4,3,Analog Modulo Integrator For Use In Open-Loop Sigma-Delta Modulators,10.1109/NORCHP.2006.329259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4126962,0
+4,4,A 0.9-V 100- $\mu$ W Feedforward Adder-Less Inverter-Based MASH  $\Delta\Sigma$  Modulator With 91-dB Dynamic Range and 20-kHz Bandwidth,10.1109/TCSI.2018.2854220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8440665,0
+4,5,A novel on chip circuit for fault detection in digital to analog converters,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5204364,0
+4,6,High-Speed Digital Signal Integrator,10.23919/Measurement52780.2021.9446828,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446828,0
+4,7,"A Historical Perspective on Hardware AI Inference, Charge-Based Computational Circuits and an 8 bit Charge-Based Multiply-Add Core in 16 nm FinFET CMOS",10.1109/JETCAS.2019.2933795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8790819,0
+4,8,Reduced Capacitance Multiplier in Impedance-Mode with Large Scaling Factor and High Accuracy,10.1109/CCE50788.2020.9299159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9299159,0
+4,9,A new current mode high speed four quadrant CMOS analog multiplier,10.1109/IranianCEE.2016.7585735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585735,0
+4,10,An analog multiplier based on asynchronous sigma-delta pulse amplitude modulation,10.1109/TELSKS.2011.6143209,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6143209,0
+4,11,Using Two-Dimensional DC Characterization to Improve Distortion Level of Analog Multipliers,10.1109/INSCIT.2019.8868724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868724,0
+4,12,An efficient DMT modem for the G.LITE ADSL transceiver,10.1109/TVLSI.2003.817131,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1255475,0
+4,13,Integrator-Differentiator Circuits,,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6290144.pdf&bkn=6267299&pdfType=chapter,0
+4,14,Circuit for Reversible Quantum Multiplier Based on Binary Tree Optimizing Ancilla and Garbage Bits,10.1109/VLSID.2014.101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6733190,0
+4,15,Implementing signal processing functions on ternary encoded delta-modulated pulse streams,10.1109/ISCAS.1988.15227,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=15227,0
+4,16,A divide-by-three regenerative frequency divider using a subharmonic mixer,10.1109/NORCHP.2011.6126726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126726,0
+4,17,Enhanced Grounded Capacitor Multiplier and Its Floating Implementation for Analog Filters,10.1109/TCSII.2015.2435751,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7110575,0
+4,18,Analog Acceleration in Digital and Real-Time Simulation for Power Engineering Applications,10.1109/IECON51785.2023.10312681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10312681,0
+4,19,Improved accuracy current-mode analog function synthesizer,10.1109/MIPRO.2014.6859534,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6859534,0
+4,20,A simple switched-capacitor algorithmic digital-to-analog converter using sample/hold and divider,10.1109/APCCAS.2014.7032715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7032715,0
+4,21,On linear integrators and differentiators using instantaneous companding,10.1109/82.404077,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=404077,0
+4,22,Simulation study of Time-Average-Frequency based clock signal driving systems with embedded Digital-to-Analog Converters,10.1109/ISCAS.2009.5117786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5117786,0
+4,23,Arithematic for VLSI Signal Processing,10.1109/ACSSC.2006.354881,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4176691,0
+4,24,A Single-Loop Third-Order 10-MHz BW Source-Follower-Integrator Based Discrete-Time Delta-Sigma ADC,10.1109/TCSII.2022.3212147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9911704,0
+4,25,An Integrator-Based Pipelined ADC With Digital Calibration,10.1109/TCSII.2015.2435514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7111240,0
+4,26,High bandwidth four-quadrant analog multiplier,10.1109/IranianCEE.2017.7985440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985440,0
+4,27,Dual-mode RNS based programmable decimation filter for WCDMA and WLANa,10.1109/ISCAS.2008.4541577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541577,0
+4,28,A low voltage supply four-quadrant analog multiplier circuit,10.1109/ISPACS.2009.5383843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383843,0
+4,29,A 77.3-dB SNDR 62.5-kHz Bandwidth Continuous-Time Noise-Shaping SAR ADC With Duty-Cycled Gm-C Integrator,10.1109/JSSC.2022.3227678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9989513,0
+4,30,Speed up the conversion rate of integrator type Analog-to-Digital (A/D) converter combining it with flash type converter,10.1109/IFOST.2014.6991175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6991175,0
+4,31,FPGA Implementation of 8-bit SSA Multiplier for designing OFDM Transceiver,10.1109/ICCES45898.2019.9002167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002167,0
+4,32,A 1-17-GHz InGaP-GaAs HBT MMIC analog multiplier and mixer with broad-band input-matching networks,10.1109/TMTT.2002.804506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1046030,0
+4,33,Voltage mode implementation of highly accurate analog multiplier circuit,10.1109/IranianCEE.2015.7146368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146368,0
+4,34,VLSI analog multiplier/divider circuit,10.1109/ISIE.1998.711588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=711588,0
+4,35,Dynamic pipeline design of an adaptive binary arithmetic coder,10.1109/82.964994,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=964994,0
+4,36,Research on High Voltage Ride Through of Wind Turbine based on Combination of Series Impedance Divider and Parallel High Impedance Grounding,10.1109/iSPEC48194.2019.8975094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8975094,0
+4,37,A small area 10-bit linear gamma DAC with voltage adder for large-sized active matrix flat panel displays,10.1109/ISICIR.2014.7029461,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7029461,0
+4,38,Four quadrant analog multiplier with VCVS in deep-submicron technology,10.1109/CICT.2013.6558261,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6558261,0
+4,39,A Primal-Dual Architecture for Embedded Implementation of Linear Model Predictive Control,10.1109/CDC.2018.8619294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8619294,0
+4,40,CMOS analog multiplier with high rejection of power supply ripple,10.1109/LASCAS.2018.8399976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8399976,0
+4,41,Self-Amplifying Current-Mode Multiplier Design using a Multi-Memristor Crossbar Cell Structure,10.1109/ICECS49266.2020.9294797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294797,0
+4,42,Implementation of Amplitude Modulation and Demodulation Using Analog Multiplier for 2.4GHz to 2.5GHz,10.1109/ICETET.2012.34,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6495225,0
+4,43,Memristor-Based Analog Multiplier,10.1109/ICNC59488.2023.10462752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462752,0
+4,44,"A 1.2V single supply and low power, CMOS four-quadrant analog multiplier",10.1109/SM2ACD.2010.5672334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5672334,0
+4,45,Low-Power/Low-Voltage Integrated CMOS Sense Resistor-Free Analog Power/Current Sensor Compatible With High-Voltage Switching DC–DC Converter,10.1109/TCSI.2019.2897049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8661754,0
+4,46,A Mixed-Signal Successive Approximation Architecture for Energy-Efficient Fixed-Point Arithmetic in 16nm FinFET,10.1109/ISCAS.2019.8702136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702136,0
+4,47,A very low-power CMOS mixed-signal IC for implantable pacemaker applications,10.1109/JSSC.2004.837027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1362855,0
+4,48,A 0.13-$\mu{\hbox {m}}$ 1-GS/s CMOS Discrete-Time FFT Processor for Ultra-Wideband OFDM Wireless Receivers,10.1109/TMTT.2011.2132733,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5759107,0
+4,49,Molecular Sensing and Computing Systems,10.1109/TMBMC.2016.2537301,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7423734,0
+4,50,A low-voltage low-power sigma-delta modulator for broadband analog-to-digital conversion,10.1109/JSSC.2005.852161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1501984,0
+4,51,A Compensation System using Analog Voltage Adder with Continuous Output for AMOLED Display Drivers,10.1109/ISCAS45731.2020.9181062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181062,0
+4,52,An Asynchronous Spike Event Coding Scheme for Programmable Analog Arrays,10.1109/TCSI.2010.2089552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5641622,0
+4,53,A 7.5mW 101dB SNR low-power high-performance audio delta-sigma modulator utilizing opamp sharing technique,10.1109/ISOCC.2011.6138647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138647,0
+4,54,"Compact, low-voltage, low-power and high-bandwidth CMOS four-quadrant analog multiplier",10.1109/SM2ACD.2010.5672341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5672341,0
+4,55,Distortion analysis of integrated analog multipliers: DC versus AC approaches,10.1109/LASCAS.2016.7451016,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7451016,0
+4,56,Evaluation of Distortion Level in Analog Multipliers through DC Analysis Only,10.1109/LASCAS.2019.8667570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667570,0
+4,57,On the Compensation of Timing Mismatch in Two-Channel Time-Interleaved ADCs: Strategies and a Novel Parallel Compensation Structure,10.1109/TSP.2022.3174407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772929,0
+4,58,Multiplier Design for Digital Modulator for Wireless Communication Applications,10.1109/I2CT57861.2023.10126154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10126154,0
+4,59,Low complexity sequential normal basis multipliers over GF(2/sup m/),10.1109/ARITH.2003.1207678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1207678,0
+4,60,Analog circuit simulation using range arithmetics,10.1109/ASPDAC.2008.4484053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4484053,0
+4,61,Approximate Adder Tree Design with Sparsity-Aware Encoding and In-Memory Swapping for SRAM-based Digital Compute-In-Memory Macros,10.1109/AICAS59952.2024.10595967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10595967,0
+4,62,A Delta-Sigma-Based Computing-In-Memory Macro Targeting Edge Computation,10.1109/ISCAS58744.2024.10558023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558023,0
+4,63,Digital estimation and calibration algorithm for 2-order nonlinearity mismatch in time-interleaved sampling system,10.1109/TSP.2015.7296387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7296387,0
+4,64,A 72.4-dB SNDR 92-dB SFDR Blocker Tolerant CT  $\Delta\Sigma$  Modulator With Inherent DWA,10.1109/TCSII.2018.2852599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8402119,0
+4,65,1000-Fold Double-Flux-Quantum Voltage Multiplier Employing Directional Propagation of Flux Quanta Through Asymmetrically Damped Junction Branches,10.1109/TASC.2019.2895606,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8627991,0
+4,66,Two-stage ΔΣ ADC with noise-coupled VCO-based quantizer,10.1109/ISCAS.2015.7168631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168631,0
+4,67,Superconducting high-order cascaded lowpass sigma-delta modulator,10.1109/TASC.2005.849799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1439633,0
+4,68,A single-chip 10000 frames/s CMOS sensor with in-situ 2D programmable image processing,10.1109/CAMP.2007.4350367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4350367,0
+4,69,Resistors Over Digital Analog Converter on PRBS Threat Generator with PLL Synchronizer: Comparison Between R2R & Weighted,10.1109/eSmarTA59349.2023.10293268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10293268,0
+4,70,Hybrid Integrator Topology with Digital Input Control and Analog Signal Processing,10.1109/INSCIT55544.2022.9913760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9913760,0
+4,71,Transfer-Path-Based Hardware-Reuse Strong PUF Achieving Modeling Attack Resilience With200 Million Training CRPs,10.1109/TIFS.2023.3263621,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089859,0
+4,72,A Reconfigurable Mixed-Signal VLSI Implementation of Distributed Arithmetic Used for Finite-Impulse Response Filtering,10.1109/TCSI.2007.913735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4400057,0
+4,73,Design of Fractional Delay Filter Using Hermite Interpolation Method,10.1109/TCSI.2011.2177136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6132451,0
+4,74,Proportional Source Transconductances Integrator for CMOS Analog Filtering with Calibration,10.1109/ISCAS45731.2020.9180561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180561,0
+4,75,Analog Modeling of Fractional-Order Elements: A Classical Circuit Theory Approach,10.1109/ACCESS.2021.3101160,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9500213,0
+4,76,Simulation and First Test of a Microdosimetric Detector Based on a Thick Gas Electron Multiplier,10.1109/TNS.2008.2009214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5076082,0
+4,77,A 10-MHz BW 77.9 dB SNDR DT MASH  $\Delta\!\Sigma$  ADC With NC-VCO-Based Quantizer and OPAMP Sharing,10.1109/TCSI.2019.2928591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8778730,0
+4,78,Polyphase Implementation of Non-recursive Comb Decimators for Sigma-Delta A/D Converters,10.1109/EDSSC.2007.4450253,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4450253,0
+4,79,Mixed-mode input feedforward delta-sigma modulator,10.1109/MWSCAS.2005.1594194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594194,0
+4,80,A Floating-Point Analog-To-Digital Converter with Voltage Reference Subdivision,10.1109/CPEM.2018.8501089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8501089,0
+4,81,A high-slew integrator for switched-capacitor circuits,10.1109/VLSIC.1993.920568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=920568,0
+4,82,VLSI neural network with digital weights and analog multipliers,10.1109/ISCAS.2001.921290,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921290,0
+4,83,Design and Analysis of a Gilbert Analog Multiplier for Input Dynamic Range optimization,10.1109/DTIS48698.2020.9081262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9081262,0
+4,84,A 2.38-mW 93.22-dB SNR third-order switched capacitor feedforward delta sigma ADC,10.1109/RCSLPLT.2010.5615350,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5615350,0
+4,85,Implementation of a Mixed Signal Chip for Multichannel Audio Equalizer with Sigma-delta A/D Conversion,10.1109/ICECS.2006.379937,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263515,0
+4,86,Analysis and implementation of a stochastic multiplier for electrical power measurement,10.1109/SBCCI.2002.1137630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1137630,0
+4,87,Continuous-time analog defuzzifier for product-sum based implementations,10.1109/ICMNN.1994.593727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=593727,0
+4,88,A 3.25 GS/s 4-Tap analog FIR filter design with coefficient control using 6-bit split-capacitor DAC as a tunable coefficient multiplier,10.1109/DCAS.2016.7791142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7791142,0
+4,89,Monolithic analog multiplier-divider,10.1109/JSSC.1982.1051678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1051678,0
+4,90,FPAA Implementation and Validation of an SC Integrator Leakage Measurement Technique,10.1109/IMS3TW.2011.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6132748,0
+4,91,Configurable multi-layer CNN-UM emulator on FPGA using distributed arithmetic,10.1109/ICECS.2002.1046481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1046481,0
+4,92,Statistics-Based Correction Method for Sample-and-Hold Mismatch in 2-Channel TIADCs,10.1109/TSP.2018.8441306,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8441306,0
+4,93,Reduction of simultaneous switching noise in analog signal band,10.1109/ECCTD.2007.4529558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4529558,0
+4,94,Correlation-Based Calibration for Nonlinearity Mismatches in Dual-Channel TIADCs,10.1109/ISCAS45731.2020.9180462,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180462,0
+4,95,Analog CMOS Computational Circuits,10.1109/ESSCIRC.1986.5468339,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5468339,0
+4,96,Verification of transient response of linear analog circuits,10.1109/VTEST.1995.512615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=512615,0
+4,97,Efficient technique for improving the frequency response of CIC decimation filter,10.1109/ISCIT.2005.1566855,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1566855,0
+4,98,A Two-Stage Switched-Capacitor Integrator for High Gain Inverter-Like Architectures,10.1109/TCSII.2019.2905786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8668555,0
+4,99,Memristor-based material implication logic design for full adders,10.1109/ASICON.2017.8252465,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252465,0
+5,0,An Input-Feedforward Multibit Adder-Less  $\Delta{-}\Sigma$ Modulator for Ultrasound Imaging Systems,10.1109/TIM.2013.2253911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6527293,0
+5,1,Single-ended input four-quadrant multiplier for analog neural networks,10.1109/ECCTD.2009.5274983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5274983,0
+5,2,Solution of massively parallel systems of nonlinear equations using analog circuits,10.1109/MWSCAS.1992.271213,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=271213,0
+5,3,A low-complexity combinatorial RNS multiplier,10.1109/82.958337,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=958337,0
+5,4,A True 0.4-V Delta–Sigma Modulator Using a Mixed DDA Integrator Without Clock Boosted Switches,10.1109/TCSII.2014.2305214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6754134,0
+5,5,A novel four quadrant CMOS analog multiplier,10.1109/ICDCSyst.2012.6188693,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6188693,0
+5,6,Realisation of integrating analog-digital converter with intermediate time-impulse modulation using NI Multisim,10.1109/MWENT.2018.8337179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8337179,0
+5,7,Rogowski Switch-Current Sensor Self-Calibration on Enhanced Gate Driver for 10 kV SiC MOSFETs,10.1109/ECCE-Asia49820.2021.9478973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9478973,0
+5,8,Domino-Logic-Based ADC for Digital Synthesis,10.1109/TCSII.2011.2168019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6080721,0
+5,9,An 8-14GHz 180fs-rms DTC-Less Fractional ADPLL with ADC-Based Direct Phase Digitization in 40nm CMOS,10.1109/CICC60959.2024.10529006,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10529006,0
+5,10,A low-power parasitic-insensitive switched-capacitor integrator for Delta-Sigma ADCs,10.1109/ISCAS.2014.6865303,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865303,0
+5,11,The design of peak-constrained least squares FIR filters with low-complexity finite-precision coefficients,10.1109/TCSII.2002.1002517,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1002517,0
+5,12,Robust Symmetric Multiplication for Programmable Analog VLSI Array Processing,10.1109/ICECS.2006.379728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263621,0
+5,13,Root raised cosine filter for a WCDMA receiver using distributed arithmetic for power optimization and enhanced speed,10.1109/ISPACS.2004.1439108,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1439108,0
+5,14,Design of tunnel FET based low power digital circuits,10.1109/ISVDAT.2014.6881075,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6881075,0
+5,15,Rényi's Entropy Based Method for Analog Circuits Soft Fault Detection,10.1109/CSE.2014.168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7023678,0
+5,16,CMOS Analog Four-Quadrant Multiplier Free of Voltage Reference Generators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8862299,0
+5,17,A hybrid radix-4/madix-8 low power signed multiplier architecture,10.1109/82.618039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=618039,0
+5,18,New Phase Accumulator for Direct Digital Frequency Synthesizer,10.1109/INFOCOMMST.2018.8632148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8632148,0
+5,19,Hardware implementation of adder for pulse signal processing,10.1109/GlobalSIP.2017.8309177,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8309177,0
+5,20,A 0.75-mW analog processor IC for wireless biosignal monitor,10.1109/LPE.2003.1231948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1231948,0
+5,21,Demonstration of a MIMO visible light communication system utilizing analog circuits,10.1109/PHOSST.2016.7548720,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7548720,0
+5,22,Single Low-Supply Current-mode CMOS Analog Multiplier Circuit,10.1109/ISCIT.2006.339949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4141388,0
+5,23,A Perceptron Circuit with DAC-Based Multiplier for Sensor Analog Front-Ends,10.1109/NGCAS.2017.23,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052277,0
+5,24,Low-frequency differentiators and integrators for biomedical and seismic signals,10.1109/81.940191,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=940191,0
+5,25,On wideband minimum-phase CIC compensators,10.1109/EIT.2016.7535268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7535268,0
+5,26,Time-Domain Arithmetic Logic Unit With Built-In Interconnect,10.1109/TVLSI.2017.2724600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7990571,0
+5,27,A 0.6V 8b 100MS/s SAR ADC with minimized DAC capacitance and switching energy in 65nm CMOS,10.1109/ISCAS.2013.6572322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572322,0
+5,28,Arithmetic operations within memristor-based analog memory,10.1109/CNNA.2010.5430319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5430319,0
+5,29,Simulation of SSTL IO standard based power optimized parallel integrator design on FPGA,10.1109/iCREATE.2014.6828328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6828328,0
+5,30,Switching-based charger with continuously built-in resistor detector (CBIRD) and analog multiplication-division unit (AMDU) for fast charging in Li-Ion battery,10.1109/ESSCIRC.2013.6649096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6649096,0
+5,31,Residue-to-binary number converters for three moduli sets,10.1109/82.752949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=752949,0
+5,32,A Fast and Fully Parallel Analog CMOS Solver for Nonlinear PDEs,10.1109/TCSI.2021.3085214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449935,0
+5,33,Integral nonlinearity correction of ADC using multi-resistors voltage divider,10.1109/IDAACS.2015.7341407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7341407,0
+5,34,A Digitally Enhanced Dynamically Reconfigurable Analog Platform for Low-Power Signal Processing,10.1109/JSSC.2012.2194847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6208832,0
+5,35,Design and implementation of reconfigurable digital filter bank for hearing aid,10.1109/ICETT.2016.7873664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7873664,0
+5,36,SAWs enable the advent of the signal microprocessor development station,10.1109/ULTSYM.1990.171358,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=171358,0
+5,37,Implementation alternatives of a DBNS adder,10.1109/CNNA.2005.1543180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1543180,0
+5,38,Power comparison of low bitwidth multipliers,10.1109/ICM.2004.1434234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1434234,0
+5,39,Analysis of the potentiating digital-to-analog converter,10.1109/APUAVD.2015.7346588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7346588,0
+5,40,A 101 dB Dynamic Range Delta-Sigma Modulator Using Modified Feed-Forward Architecture for Audio Application,10.1109/ISOCC47750.2019.9027739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9027739,0
+5,41,Miniaturized Balanced Filtering Power Dividers With Arbitrary Power Division Ratio Using Multimode Dielectric Resonator in Single Cavity,10.1109/TCSII.2022.3144574,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686050,0
+5,42,CMOS wide-range four-quadrant analog multiplier circuit,10.1109/ISPACS.2005.1595380,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1595380,0
+5,43,Experimental Evaluation of Different Realizations of Recursive CIC Filters,10.1109/CCECE.2006.277385,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4054831,0
+5,44,All-Digital Full-Precision In-SRAM Computing with Reduction Tree for Energy-Efficient MAC Operations,10.1109/ICTA56932.2022.9963042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963042,0
+5,45,Efficient Test Generation Framework for Analog LSI with Behavior Model : (Invited Paper),10.1109/ATC.2018.8587549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587549,0
+5,46,A 92-MHz 13-bit IF digitizer using optimized SC integrators in 0.35-/spl mu/m CMOS technology,10.1109/TCSII.2006.870217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1632355,0
+5,47,High performance low voltage low power voltage mode analog multiplier circuit,10.1109/SETIT.2016.7939926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7939926,0
+5,48,Analog IC Design Techniques for Nanopower Biomedical Signal Processing,,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=9227908.pdf&bkn=9218905&pdfType=chapter,0
+5,49,Error analysis of FIR filters implemented using logarithmic arithmetic,10.1109/82.686694,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=686694,0
+5,50,Implementing backpropagation with analog hardware,10.1109/ICNN.1994.374522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=374522,0
+5,51,"Residue-to-binary arithmetic converter for the moduli set (2/sup k/, 2/sup k/-1, 2/sup k-1/-1)",10.1109/82.661651,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=661651,0
+5,52,"A /spl beta/-error elimination in the translinear reduction of the ""log-antilog"" multiplier/divider",10.1109/IMTC.1999.776806,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=776806,0
+5,53,Implementation of switched-current FIR filter using distributed arithmetic technique: exploitation of digital concept in analogue domain,10.1109/ISCIT.2004.1412467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1412467,0
+5,54,Monolithic Analog Multiplier-Divider,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5469038,0
+5,55,A wide-band current-mode OTA-based analog multiplier-divider,10.1109/ISCAS.2003.1205572,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205572,0
+5,56,Redundant analog number system,10.1109/TENCON.2004.1414561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1414561,0
+5,57,Measurement of Microcontroller Radiated Emissions at Different Operation Modes,10.1109/EDM52169.2021.9507688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9507688,0
+5,58,Modeling and analysis of directly-forced divide-by-3 analog frequency dividers,10.1109/MWSCAS.2013.6674760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6674760,0
+5,59,Flash type MEMS-based Analog-to-Digital Converter of field emission,10.1109/SENSOR.2009.5285918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5285918,0
+5,60,A wideband two-quadrant analog multiplier,10.1109/ISSCC.1980.1156069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1156069,0
+5,61,A Non-Linear Flash Analog to Digital Architecture for Sinusoidal Input Signals,10.1109/NAECON.2008.4806521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4806521,0
+5,62,A Hybrid Opto-Electrical Floating-point Multiplier,10.1109/MCSoC57363.2022.00057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10008431,0
+5,63,360° Phase Detector Cell for Measurement Systems Based on Switched Dual Multipliers,10.1109/LMWC.2017.2690841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7904653,0
+5,64,Sigma-delta analog to digital converter architecture based upon a modulator design employing a mirrored integrator,10.1109/ISCAS.2004.1328399,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328399,0
+5,65,Optimal choice of arithmetic compactors for mixed-signal systems,10.1109/DFT.2012.6378221,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6378221,0
+5,66,Design and implementation of analog multitone signal generator using regenerative frequency divider for OFDM transceiver,10.1109/DELTA.2006.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1581182,0
+5,67,Serial to parallel conversion of pulse-rate signals using binary rate multiplier principle,10.1109/INDICO.2004.1497772,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1497772,0
+5,68,Multi-stage delta-sigma modulator with a relaxed opamp gain using a back-end digital integrator,10.1109/ISCAS.2016.7527544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527544,0
+5,69,An integrating analog-to-digital data converter with variable resolution,10.1109/VDAT.2010.5496721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5496721,0
+5,70,Integrator frequency synthesizer,10.1109/ICEEC.2004.1374531,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1374531,0
+5,71,A Novel High Precision Low Power Current-Mode Multiplier,10.1109/ICICM54364.2021.9660279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660279,0
+5,72,Automatic generation of simulation models for analog filters,10.1109/ISCAS.1990.112140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=112140,0
+5,73,VLSI Implementation of Low Power Thermometer Code to Digital Converter Using Wallace Tree Encoder,10.1109/ICPC2T53885.2022.9777054,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777054,0
+5,74,On computing addition related arithmetic operations via controlled transport of charge,10.1109/ARITH.2003.1207685,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1207685,0
+5,75,A Single-Opamp Third Order CT ΔΣ Modulator With SAB-ELD-Merged Integrator and Three-Stage Hybrid Compensation Opamp,10.1109/TCSI.2021.3098826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9501162,0
+5,76,A novel simple current-mode multiplier/divider employing only single multiple-output current controlled CTTA,10.1109/TENCON.2009.5395877,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5395877,0
+5,77,A digital square-law compander,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1438693,0
+5,78,A Low-Power Incremental Delta–Sigma ADC for CMOS Image Sensors,10.1109/TCSII.2015.2503706,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337425,0
+5,79,A 1.8V CMOS polar transmitter front-end for 900MHz EDGE system,10.1109/ASICON.2009.5351410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351410,0
+5,80,A novel four-quadrant analog multiplier using laterally nonuniform gate voltage MOSFET,10.1109/ICECE.2008.4769253,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4769253,0
+5,81,Arithmetic with signed analog digits,10.1109/ARITH.1999.762838,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=762838,0
+5,82,EEG Signal Compression Based on Adaptive Arithmetic Coding and First-Order Markov Model for an Ambulatory Monitoring System,10.1109/CICN.2012.103,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6375124,0
+5,83,CMOS current mode analog multiplier,10.1109/ICONSIP.2016.7857457,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7857457,0
+5,84,FGMOS four-quadrant analog multiplier,10.1109/ICEEE.2012.6421200,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421200,0
+5,85,A 2.5 V 100 MS/s 8 bit ADC using pre-linearization input buffer and level up DAC/subtractor,10.1109/VLSIC.1998.688073,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=688073,0
+5,86,On the parasitic-sensitivity of switched-capacitor summing-integrator structures for /spl Sigma//spl Delta/ modulators,10.1109/TCSII.2003.816940,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1232538,0
+5,87,Compact low-voltage CMOS analog divider using a four-quadrant multiplier and biasing control circuit,10.1109/MWSCAS.2012.6292067,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292067,0
+5,88,A current-mode CCCII-based analog multiplier/divider,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5491497,0
+5,89,An analogue four-quadrant CMOS multiplier-divider with switched capacitors,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7542005,0
+5,90,Design of a new log-domain differentiator based universal analog biquadratic filter,10.1109/MWSCAS.2003.1562228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1562228,0
+5,91,Spike-Based Sensing and Communication for Highly Energy-Efficient Sensor Edge Nodes,10.1109/JCS54387.2022.9743501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743501,0
+5,92,A K-Delta-1-Sigma modulator for wideband analog to digital conversion,10.1109/MWSCAS.2009.5236069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5236069,0
+5,93,Efficient VLSI-realizable decimators for sigma-delta analog-to-digital converters,10.1109/ISCAS.1988.15220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=15220,0
+5,94,Multiple-valued logic approach for a systolic AB/sup 2/ circuit in Galois field,10.1109/ISMVL.2005.30,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1423167,0
+5,95,Some techniques for low-voltage continuous-time analog circuit operation,10.1109/DCAS.2004.1360439,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1360439,0
+5,96,RRAM IMC based Efficient Analog Carry Propagation and Multi-bit MVM,10.1109/EDTM58488.2024.10511694,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10511694,0
+5,97,A Fully Integrated 10-V Pulse Driver Using Multiband Pulse-Frequency Modulation in 65-nm CMOS,10.1109/TVLSI.2021.3092066,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9478306,0
+5,98,New architecture for delta-sigma analog-digital converter,10.1109/ISCAS.1991.176668,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=176668,0
+5,99,An Integrated Frequency Response Characterization System With a Digital Interface for Analog Testing,10.1109/JSSC.2006.881561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1703685,0

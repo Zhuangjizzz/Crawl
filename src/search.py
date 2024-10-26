@@ -78,7 +78,7 @@ def get_search_res(headers, session, recordCfgf:str, keyword:str=None, thread_id
         csvHeader = False
     # running
     # while page <= max_page:
-    while page <= 1:
+    while page <= 5:
         # search
         if page == 1:
             records, totalRecords, max_page = search(headers,session, query_text=keyword, page_number=page, thread_id=thread_id)

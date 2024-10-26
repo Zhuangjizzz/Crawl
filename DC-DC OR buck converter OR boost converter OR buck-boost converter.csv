@@ -99,3 +99,403 @@
 1,97,Microcontroller Based Implementation of Peak Current Control Method in a Bidirectional Buck-Boost DC-DC Converter,10.1109/SIELA.2018.8447148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447148,1
 1,98,Low Switching Loss Non-isolated DC-DC Buck-Boost Converter with ZCS Characteristics,10.1109/ICIEA.2019.8833950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8833950,1
 1,99,A new approach to improve dynamic characteristics of digitally controlled buck-boost dc-dc converter,10.1109/SPEEDAM.2010.5542133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5542133,1
+2,0,Low Switching Loss Non-isolated DC-DC Buck-Boost Converter with ZCS Characteristics,10.1109/ICIEA.2019.8833950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8833950,0
+2,1,A new approach to improve dynamic characteristics of digitally controlled buck-boost dc-dc converter,10.1109/SPEEDAM.2010.5542133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5542133,0
+2,2,Performance Analysis of Unidirectional and Bidirectional Buck-Boost Converter Using PID Controller,10.1109/IEMENTECH.2018.8465229,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8465229,0
+2,3,Average Current Control of Buck-Boost Converter,10.1109/UPCON56432.2022.9986371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9986371,0
+2,4,Design and Analysis of Interleaved buck-boost Converter for household appliances,10.1109/ICOEI48184.2020.9143011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9143011,0
+2,5,Performance Analysis of Fuzzy Logic Controlled DC-DC Converters,10.1109/ICCSP.2019.8698113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698113,0
+2,6,DCM and CCM Operation of Buck-Boost Full-Bridge DC-DC Converter,10.1109/APEC42165.2021.9487340,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9487340,0
+2,7,Derivation of the buck-boost PWM DC-DC converter circuit topology,10.1109/ISCAS.2002.1010835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010835,0
+2,8,Buck-Boost DC-DC Converter Designed for PCB Applications,10.1109/ICEST52640.2021.9483556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9483556,0
+2,9,A DC-DC Converter Based on a Single-Switch Topology with Buck-Boost Wide Voltage Gain,10.1109/IECON51785.2023.10312559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10312559,0
+2,10,Modeling and dynamic feedback linearization of a 5-switch tri-state buck-boost bidirectional DC-DC converter,10.1109/ICIT46573.2021.9453569,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9453569,0
+2,11,"Analysis and control design of transformerless high gain, high efficient buck-boost DC-DC converters",10.1109/ICSET.2016.7811759,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7811759,0
+2,12,Asynchronous non-inverter buck-boost DC to DC converter for battery charging in a solar MPPT system,10.1109/URUCON.2017.8171863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8171863,0
+2,13,Mitigation of Oscillation during Transition in Four-Switch Buck-Boost Converter,10.1109/ISIE51582.2022.9831464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9831464,0
+2,14,A noninverting buck-boost converter with reduced components using a microcontroller,10.1109/SECON.2001.923091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=923091,0
+2,15,Analysis and Application of Linear ADRC for the Control of DC-DC Converters,10.1109/INDIANCC.2019.8715625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715625,0
+2,16,A Bidirectional Buck-Boost Converter in Cascade with a Dual Active Bridge Converter to Increase the Maximum Input and Output Currents and Extend Zero Voltage Switching Range,10.1109/PEDSTC49159.2020.9088491,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088491,0
+2,17,Research on Soft Start Method for Buck-Boost Bi-directional DC-DC Converter of Fuel Cell Power System,10.1109/PACCS.2009.129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5232352,0
+2,18,Double-Paralleled Bidirectional Buck-Boost DC-DC Converter for Battery Energy Storage System on More Electric Aircraft,10.1109/ICEMS59686.2023.10344991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10344991,0
+2,19,Buck-Boost Converter Topologies for PV Applications: A Comparative Analysis of Design Trade-Offs and Performance Metrics,10.1109/ICSCAN58655.2023.10394987,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10394987,0
+2,20,Comparative analysis of PV FED DC-DC converters,10.1109/ICGCCEE.2014.6922349,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922349,0
+2,21,Floating high step-down stacked dc-dc converter based on buck-boost cells,10.1109/EPE.2015.7309181,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7309181,0
+2,22,A novel ZCS bidirectional buck-boost DC-DC converters for energy storage applications,10.1109/ICIT.2015.7125207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7125207,0
+2,23,Three-level buck-boost dc-dc converter with voltage-lift-type switched-inductor,10.1109/IECON.2013.6699332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6699332,0
+2,24,"Design and performance evaluation of a DC-DC buck-boost converter with cascode GaN FET, SiC JFET, and Si IGBT power devices",10.1109/NAPS.2017.8107322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8107322,0
+2,25,A low leakage transformer-less 3-level DC-DC boost converter for transformer-less PV inverters,10.1109/EPE.2015.7309321,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7309321,0
+2,26,Inductor Current Ripples Minimization in Coupled SIDO Buck and Buck-Boost Converter by Gate Pulse Shifting,10.1109/PEDES49360.2020.9379406,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9379406,0
+2,27,A Non-Isolated Buck-Boost DC-DC Converter for On-Board Electric Vehicle Powertrain,10.1109/PESGRE58662.2023.10404684,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10404684,0
+2,28,A Novel High Gain Unidirectional Buck-Boost DC-DC Converter with Active Switched-Inductor Configuration,10.1109/PESGRE58662.2023.10404688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10404688,0
+2,29,Comparative Analysis of DC-DC Converters for Tracking MPP for Roof-Top PV Power Systems with and without Partial Shading Condition,10.1109/ICCES45898.2019.9002376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002376,0
+2,30,A Novel Converter Integrating Buck-Boost and DAB Converter for Wide Input Voltage,10.1109/IECON43393.2020.9254322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9254322,0
+2,31,A novel buck-boost AC-AC converter with inverting and non-inverting operation and no commutation problem,10.1109/ICPE.2015.7167891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7167891,0
+2,32,Stability analysis and AC modeling of high-efficiency BUCK/BOOST converter,10.1109/EDSSC.2008.4760746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4760746,0
+2,33,A novel high step-up DC-DC multilevel buck-boost converter using voltage-lift switched-inductor cell,10.1109/ICCCS.2014.7068205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7068205,0
+2,34,Simulation of a SEPIC Based Single Switch Buck-Boost DC-DC Converter,10.1109/ICCISc52257.2021.9484864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9484864,0
+2,35,Performance Evaluation of Interleaved Concept for Non-Isolated Converter Topology,10.1109/ICECCT.2019.8869415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869415,0
+2,36,Design of Bidirectional DC-DC Converter for Energy Storage System in High Power Application,10.1109/IFEEC47410.2019.9015038,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9015038,0
+2,37,A Compensation Technique for Smooth Transitions in Non-inverting Buck-Boost Converter,10.1109/APEC.2009.4802721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4802721,0
+2,38,Passivity-Based Control for Battery Charging/Discharging Applications by Using a Buck-Boost DC-DC Converter,10.1109/GreenTech.2018.00025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8373608,0
+2,39,A Common Ground Transformer-less High Gain DC-DC Buck-Boost Converter,10.1109/PEDSTC52094.2021.9405964,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405964,0
+2,40,A novel ZCS interleaved bidirectional buck-boost DC-DC converter for energy storage applications,10.1109/ELEKTRO.2016.7512061,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7512061,0
+2,41,Hysteretic Buck-Boost Converter for Wearable Applications,10.1109/PRIME.2019.8787827,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8787827,0
+2,42,"The comparative study of Buck-boost, Cuk, Sepic and Zeta converters for maximum power point tracking photovoltaic using P&O method",10.1109/ICITACEE.2015.7437823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7437823,0
+2,43,Ratio buck-boost (RBB) converter with feed-forward technique for achieving fast line response,10.1109/PESC.2008.4592590,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4592590,0
+2,44,A soft-switching non-inverting buck-boost converter,10.1109/APEC42165.2021.9487051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9487051,0
+2,45,Transformerless Buck-Boost DC-DC Converter,10.1109/GCWCN.2018.8668646,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8668646,0
+2,46,High-Efficient High-Power-Factor Off-Line LED Driver based on Integrated Buck and Boost Converter,10.1109/IAS.2019.8912367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8912367,0
+2,47,A Multi-input DC-DC Converter with AC-DC PFC Buck-boost Stage for Hybrid Energy storage Systems,10.1109/SECON.2018.8478879,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8478879,0
+2,48,Analysis and Design of Non-Isolated SEPIC Based Buck-Boost Converter Suitable for LVDC Systems,10.1109/ICSSIT48917.2020.9214131,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9214131,0
+2,49,Isolated Buck-Boost DC/DC converter for PV grid-connected system,10.1109/ISIE.2010.5637196,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5637196,0
+2,50,Extended boost three phase matrix converter using switched capacitor topology having buck boost ability,10.1109/PEDES.2016.7914375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7914375,0
+2,51,Loss Comparison of Two Bidirectional Isolated DC/DC Converters for Reversible Solid Oxide Fuel Cell Systems,10.1109/PEAC.2018.8590249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8590249,0
+2,52,A novel high gain switched inductor multilevel buck-boost DC-DC converter for solar applications,10.1109/ICEES.2014.6924159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6924159,0
+2,53,A Nonisolated Bidirectional DC-DC Converter with Current Ripple Cancellation at a Selectable Duty Ratio,10.1109/GlobConHT56829.2023.10087790,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10087790,0
+2,54,DC/DC Buck Converter Using Fuzzy Logic Controller,10.1109/ICCES48766.2020.9138084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138084,0
+2,55,Verification and implementation of the non-inverting buck-boost converter in energy-harvesting battery charger,10.1109/ICIEA.2012.6360844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6360844,0
+2,56,A Single-Switch DC/DC Buck-Boost Converter with Extended Output Voltage,10.1109/ICRERA.2018.8566996,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8566996,0
+2,57,LPV-based Cascade Control for Three Mode Non-inverting Buck-Boost Converter,10.1109/IFEEC47410.2019.9015003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9015003,0
+2,58,Realization of a Single Phase Matrix Converter with Reduce switch count as a buck/boost rectifier with close loop control,10.1109/ICCEET.2012.6203791,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6203791,0
+2,59,Design of a SiC-based Non-Inverting Buck-Boost (NIBB) Converter for High-Temperature Environments,10.1109/PEDES49360.2020.9379426,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9379426,0
+2,60,A Transformer less Quadratic Buck-Boost Converter with Wide Range of Output Voltage and Low Switch Stresses,10.1109/PEDSTC49159.2020.9088421,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088421,0
+2,61,Analysis and experimental results of switched-resonator-based buck-boost and inverting-buck converters,10.1109/PEDG.2010.5545775,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5545775,0
+2,62,An Efficient Transfer-Function-Based Approach for the Fast Tuning and Design of DC-DC Converters,10.1109/ICIEA.2007.4318493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4318493,0
+2,63,Effects of TID on transistor parameters of dc-dc converters,10.1109/RADECS.2007.5205497,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205497,0
+2,64,A port-Hamiltonian Approach in Current Controller Design for Buck Boost Converter,10.1109/iEECON53204.2022.9741575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741575,0
+2,65,"Modeling, Analysis and Implementation of an Improved Interleaved Buck-Boost Converter",10.1109/TCSII.2021.3056478,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9344815,0
+2,66,Adaptive control of non-inverting buck-boost converter,10.1109/PEDSTC.2014.6799373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6799373,0
+2,67,Simplified DC-DC Converter Models for Interconnecting Loads to a DC Microgrid,10.1109/SACI60582.2024.10619841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10619841,0
+2,68,A Bidirectional DC-DC Converter to Interlink Unipolar and Bipolar DC Microgrids,10.1109/icSmartGrid52357.2021.9551209,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551209,0
+2,69,Partial Buck-Boost Resonant Power Converter for Residential PV Applications,10.1109/ENERGYCON53164.2022.9830394,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9830394,0
+2,70,A New Three-Port Non-Isolated DC-DC Converter for Renewable Energy Sources Application,10.1109/ICEE.2018.8472538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8472538,0
+2,71,A Partial Power Processing Buck-Boost DC-DC Converter without Polarity Reversal,10.1109/IECON51785.2023.10311860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10311860,0
+2,72,A Modified Buck-Boost Zero Voltage Switching Converter for Photo-voltaic Applications,10.1109/PEDES.2018.8707453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8707453,0
+2,73,Comparison Study of Buck-Boost and Zeta Converter for Real Time Application,10.1109/ICERECT56837.2022.10059676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10059676,0
+2,74,Tapped inductor technology based DC-DC converter,10.1109/ICSCCN.2011.6024650,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6024650,0
+2,75,A Novel Multiple Gain Inductorless Buck-Boost DC-DC Converter,10.1109/ICACC.2014.90,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6906059,0
+2,76,Bidirectional DISO DC-DC Converter Based on Lyapunov Control Strategy,10.1109/PEDSTC57673.2023.10087050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10087050,0
+2,77,Design of a PV Based Power Supply with a NonInverting Buck-Boost Converter,10.1109/PowerAfrica.2019.8928656,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8928656,0
+2,78,A multi-port DC-DC converter topology with simultaneous buck and boost outputs,10.1109/ISIE.2013.6563802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6563802,0
+2,79,Derivation of The Flyback Converter From Buck-Boost Converter For Modelling,10.1109/INDICON59947.2023.10440761,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440761,0
+2,80,Novel Isolated Multiple-Input Buck-Boost DC-DC Converter for Renewable Energy Sources,10.1109/IECON48115.2021.9589538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9589538,0
+2,81,Mixed-Ripple Adaptive On-Time Controlled Non-Inverting Buck-Boost DC-DC Converter With Adaptive-Window-Based Mode Selector,10.1109/TCSII.2021.3139100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664803,0
+2,82,Analysis and evaluation of a series-combined connected boost and buck-boost dc-dc converter for photovoltaic application,10.1109/APEC.2006.1620657,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1620657,0
+2,83,Modeling and simulation of interleaved Buck-boost converter with PID controller,10.1109/ISCO.2015.7282392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282392,0
+2,84,A Family of Modular Multilevel Bidirectional DC-DC Converters for High Voltage-Ratio and Low-Ripple Applications,10.1109/ECCE44975.2020.9236423,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9236423,0
+2,85,High efficiency and smooth transition buck-boost converter for extending battery life in portable devices,10.1109/ECCE.2009.5316448,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5316448,0
+2,86,Efficiency improvement in buck-boost converter aimed at SOC utilization,10.1109/ICIT.2008.4608490,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4608490,0
+2,87,A positive output buck boost converter combining KY and SR-buck converters,10.1109/PICC.2015.7455775,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7455775,0
+2,88,Buck-Boost Type Ac-Dc Single-Stage Converters,10.1109/ISIE.2006.295794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4078244,0
+2,89,"Conventional and switched inductor buck boost converter circuit for solar power system: Simulation, comparison and results",10.1109/ICEEOT.2016.7754811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7754811,0
+2,90,A Comparison Between the Quality of Two Level and Three Levels Bidirectional Buck-Boost Converter Using the Neural Network Controller,10.1109/ACCESS.2024.3403769,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535512,0
+2,91,Buck-Boost Charge Pump based DC-DC converter,10.1109/PACET56979.2022.9976361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976361,0
+2,92,Comprehensive Small Signal Modeling of the DC/DC Converters with CDM Controller Design,10.1109/ICPC2T48082.2020.9071508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9071508,0
+2,93,An independent AC-DC converter operating on buck and buck-boost topology for low power harvesting,10.1109/ICPCSI.2017.8391820,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8391820,0
+2,94,Power budgeting of a multiple-input buck-boost converter,10.1109/TPEL.2005.857531,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1528603,0
+2,95,Regulated Soft-Switching Power Supply Using Buck-Boost Converter,10.1109/CISPSSE49931.2020.9212245,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9212245,0
+2,96,A Novel Control for a Cascaded Buck–Boost PFC Converter Operating in Discontinuous Capacitor Voltage Mode,10.1109/TIE.2016.2539247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7432032,0
+2,97,Input-Parallel Output-Parallel Current-Fed Isolated DC-DC Converters with Double Step-Down Converter,10.1109/ICCE55644.2022.9852076,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852076,0
+2,98,Photo Voltaic Application of Two Switch Enhanced Gain Buck Boost Converter in Buck Mode,10.1109/ICSCC59169.2023.10335088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10335088,0
+2,99,A Single-Inductor Multiple-Output Auto-Buck-Boost DC–DC Converter With Autophase Allocation,10.1109/TPEL.2015.2432040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7105949,0
+3,0,Family of Bidirectional Boost/Buck DC-DC Converter,10.1109/COBEP53665.2021.9684095,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9684095,0
+3,1,Analysis of DC-DC Converters by Averaging Method based on Lagrange Theorems,10.1109/KhPIWeek53812.2021.9570089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9570089,0
+3,2,Control of Split-inductor Based Buck-Boost Converter,10.1109/POWERI.2018.8704452,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704452,0
+3,3,Control of Non Inverting Buck Boost Converter Based Three Phase Differential Mode Rectifier Using PR Controller with Harmonic Compensation,10.1109/SeFeT55524.2022.9909415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9909415,0
+3,4,AC/DC Four-Switches Boost Buck Converter for EV Battery Charging,10.1109/CPE-POWERENG58103.2023.10227436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227436,0
+3,5,Four Switch Buck-Boost Converter for Photovoltaic DC-DC power applications,10.1109/IECON.2010.5674983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5674983,0
+3,6,An Integrated Buck-Boost DBSRC Cascade Converter with Wide Input Voltage Range,10.1109/ICIEA58696.2023.10241957,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241957,0
+3,7,Design and Implementation of Renewable Energy Applications Based Bi-Directional Buck-Boost Converter,10.1109/ICIPTM57143.2023.10117728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10117728,0
+3,8,Reliability Assessment of Photovoltaic Buck-Boost Microconverter for Estonian Climate Conditions,10.1109/CPE-POWERENG58103.2023.10227505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227505,0
+3,9,An Isolated High-Efficient Impedance-Source AC-AC Converter with Extended Buck-Boost Operation for DVR Application,10.1109/PEDSTC57673.2023.10087125,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10087125,0
+3,10,Analysis and design of a low-stress buck-boost converter in universal-input PFC applications,10.1109/TPEL.2005.869744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1603663,0
+3,11,Regulated output voltage double switch Buck-Boost converter for photovoltaic energy application,10.1109/IRSEC.2015.7455114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7455114,0
+3,12,New High-Gain Non-Inverting Buck-Boost Converter,10.1109/IECON48115.2021.9590003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9590003,0
+3,13,Disturbance Observation Oriented Novel Sliding Mode Control of Buck-Boost Converter,10.1109/ICICT57646.2023.10134515,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10134515,0
+3,14,"Modeling, Analysis, and Adaptive Sliding-Mode Control of a High-Order Buck/Boost DC-DC Converter",10.1109/IECON.2019.8927665,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8927665,0
+3,15,Bidirectional Battery Charger Circuit using Buck/Boost Converter,10.1109/ICECA55336.2022.10009062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10009062,0
+3,16,A highly efficient non-isolated DC-DC buck-boost converter with a cascode GaN-FET and SiC-Schottky diode,10.1109/SusTech.2017.8333529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8333529,0
+3,17,QFT robust controller for Buck-Boost DC-DC converters in solar PV applications,10.1109/ANDESCON56260.2022.9989648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9989648,0
+3,18,A novel two switch buck-boost converter with reduced switching and conduction components,10.1109/COMPEL.2017.8013417,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8013417,0
+3,19,Sliding Mode Control of Output Voltage in DC-DC Boost Converter Using PI Sliding Surface,10.1109/IEIT53149.2021.9587410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9587410,0
+3,20,Four Switch Buck-Boost Converter for Telecom DC-DC power supply applications,10.1109/APEC.2008.4522927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4522927,0
+3,21,Control of Fourth-order Buck-Boost Converter,10.1109/ITEC-India48457.2019.ITECINDIA2019-139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9080763,0
+3,22,Performance Measurement of Linear and Non Linear Controllers for Buck-Boost Converter in Solar Energy System,10.1109/ICCPEIC.2018.8525210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8525210,0
+3,23,Control of chaos by resonant parametric perturbation in a current mode controlled buck-boost Dc-Dc converter,10.1109/APEC.2008.4522741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4522741,0
+3,24,A Simple Smooth Transition Technique for the Noninverting Buck–Boost Converter,10.1109/TPEL.2017.2731974,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7993071,0
+3,25,SPV array powered non inverting buck-boost converter fed SRM drive for water pumping,10.1109/NATSYS.2015.7489109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7489109,0
+3,26,"Analysis of Transient Processes of Buck-Boost Converter: Theoretical analysis, physical experiments, modeling and simulation",10.1109/IECON.2012.6388959,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6388959,0
+3,27,Design and Stability Analysis of Low Source Current Ripple Buck Converters,10.1109/PEDES49360.2020.9379822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9379822,0
+3,28,A Non-Inverting Multi Device Interleaved Buck Boost Converter for Fuel Cell Low Voltage Applications,10.1109/GCAT47503.2019.8978393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978393,0
+3,29,Multiple PMSG fed Non-inverting buck-boost converter for HEVs,10.1109/ICPES.2016.7584156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7584156,0
+3,30,Improved power quality buck-boost converter fed LLC resonant converter for induction heater,10.1109/ICPES.2016.7584248,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7584248,0
+3,31,A Multi-Mode Four-Switch Buck-Boost DC/DC Converter,10.1109/APPEEC.2009.4918058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4918058,0
+3,32,A multiple-input dc-dc positive buck-boost converter topology,10.1109/APEC.2008.4522926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4522926,0
+3,33,A Comparative Analysis of DC - DC Boost Converter Voltages for Renewable Electrolysis,10.1109/SPIN52536.2021.9566103,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9566103,0
+3,34,Bidirectional DC-DC converter with high step-down and step-up voltage conversion ratio,10.1109/SPEC.2016.7846082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7846082,0
+3,35,Research on the Switch Reuse Dual Buck/Boost-DAB Four-Port DC/DC Converter,10.1109/IPEMC-ECCEAsia60879.2024.10567314,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10567314,0
+3,36,Modeling and analysis of a buck/boost bidirectional converter with developed PWM switch model,10.1109/ICPE.2011.5944647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5944647,0
+3,37,An approach on T-S fuzzy model and control of buck-boost converter,10.1109/WCICA.2008.4592905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4592905,0
+3,38,Electrolytic-Capacitor-less Off-Line LED Driver based on Integrated Parallel Buck-Boost and Boost Converter,10.1109/IAS44978.2020.9334804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9334804,0
+3,39,Quasi-Single Stage DC-DC Converter Integrating DAB and Buck-Boost for Wide Output Voltage Range Applications,10.1109/ICIEA58696.2023.10241460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241460,0
+3,40,A Novel Non-Inverting Quadratic Double Switch Buck Boost Converter for Charging Lithium-ion Batteries in Electrical Vehicles,10.1109/ICCA56443.2022.10039648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10039648,0
+3,41,MPPT with bi-directional DC-DC converter and multi-level inverter for grid connected hybrid system,10.1109/ICCPEIC.2017.8290467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8290467,0
+3,42,A new zero voltage switching buck-boost bidirectional DC_DC converter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5599615,0
+3,43,The large-signal SFG model of DC-DC buck-boost converters,10.1109/ICAwST.2017.8256501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256501,0
+3,44,Voltage Power Quality Control for dc Power Distribution System with Large Voltage Variations using Buck-Boost Dual Active Bridge Converter,10.1109/iSPEC53008.2021.9735543,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9735543,0
+3,45,A Wide Input and Output Voltage Range Battery Charger Using Buck-Boost Power Factor Correction Converter,10.1109/APEC.2019.8721797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721797,0
+3,46,Simulation and performance comparison of Silicon and Silicon carbide based DC-DC Buck Boost converter using LTSpice,10.1109/PICC.2015.7455783,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7455783,0
+3,47,Design and Implementation of Partial M-Type Zero Voltage Resonant Circuit Interleaved Bidirectional DC-DC Converter (Energy Storage and Load Sharing),10.1109/ELECSYM.2018.8615465,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8615465,0
+3,48,A Comprehensive Design and Analysis of the Split Inductor Buck-Boost Converter for Automotive Applications,10.1109/CONECCT62155.2024.10677053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677053,0
+3,49,Buck-Boost Flying Capacitor DC-DC Converter for Electric Vehicle Charging Stations,10.1109/CPE-POWERENG58103.2023.10227461,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227461,0
+3,50,Design and Analysis of Non-linear Voltage Gain Buck-Boost Converter,10.1109/GUCON48875.2020.9231217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9231217,0
+3,51,A Six-Phase Interleaved Buck-Boost Converter using Adaptive Delta Modulation Control loop for Renewable Energy Applications,10.1109/SMART55236.2022.9990174,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990174,0
+3,52,Detailed analysis of Fuzzy Logic Controller for Second order DC-DC Converters,10.1109/ICPS48983.2019.9067607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067607,0
+3,53,A Modular Multilevel HVDC Buck–Boost Converter Derived From Its Switched-Mode Counterpart,10.1109/TPWRD.2017.2690635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7892043,0
+3,54,Dead-Zone Free Control Scheme for H-Bridge Buck–Boost Converter,10.1109/TIA.2020.3018423,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9173715,0
+3,55,Multiphase Interleaved Converter Based on Cascaded Non-Inverting Buck-Boost Converter,10.1109/ACCESS.2022.3168389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9759288,0
+3,56,Characteristics of Buck/Boost Operation in an Isolated DC-DC Converter based on a Phase-Shift-Controlled High-Frequency Inverter,10.1109/ECCE47101.2021.9595603,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9595603,0
+3,57,Modelling of Passivity based Controller for Buck Boost Converter,10.1109/ICNGIS54955.2022.10079798,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10079798,0
+3,58,High gain buck-boost matrix converter,10.1109/PEDES.2016.7914331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7914331,0
+3,59,A General Method to Study Multiple Discontinuous Conduction Modes in DC–DC Converters With One Transistor and Its Application to the Versatile Buck–Boost Converter,10.1109/TPEL.2022.3187963,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814866,0
+3,60,Two Types of KY Buck–Boost Converters,10.1109/TIE.2009.2023100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4957105,0
+3,61,Didactic prototype for study of DC-DC converters based on the canonical switching cell,10.1109/COBEP.2015.7420241,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7420241,0
+3,62,Voltage control in a ZETA Converter compared with a DC-DC converter by varying duty cycle,10.1109/IITCEE59897.2024.10467858,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467858,0
+3,63,A novel DSP based non inverting buck-boost converter for PV system,10.1109/SPICES.2015.7091475,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7091475,0
+3,64,Nonlinear Modelling and Control of PWM DC-DC Buck-Boost Converter for CCM,10.1109/IECON.2018.8591756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8591756,0
+3,65,Nonlinear compensation of uncertain DC-DC converter with bilinear dynamics,10.1109/ICAMechS.2014.6911612,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6911612,0
+3,66,A new digital control boundary current mode buck-boost DC-DC converter,10.1109/SPEEDAM.2012.6264564,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6264564,0
+3,67,Control of Multi-Input Integrated Buck-Boost Converter,10.1109/ICIINFS.2008.4798489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4798489,0
+3,68,Model-Based Optimisation of a Buck-Boost DC-DC Converter,10.1109/SIELA49118.2020.9167056,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9167056,0
+3,69,A non-isolated buck-boost DC-DC converter with single switch,10.1109/PEDSTC.2018.8343825,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8343825,0
+3,70,A novel DC-DC converter with high step-down/high step-up voltage gain,10.1109/ITEC-AP.2017.8080914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8080914,0
+3,71,A novel buck/boost/buck-boost three-input DC/DC converter,10.1109/IECON.2011.6119460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6119460,0
+3,72,Integrated Dual Output Buck Boost converter for industrial application,10.1109/ICEEOT.2016.7755327,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7755327,0
+3,73,Soft switching high frequency AC-link DC-DC buck-boost converters,10.1109/APEC.2015.7104332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7104332,0
+3,74,H∞ Controller for Buck Boost Converter,10.1109/INCOS45849.2019.8951358,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8951358,0
+3,75,A Novel DC-DC Converter with Extended Range of Gain for Buck-Boost Applications,10.1109/PESGRE52268.2022.9715912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9715912,0
+3,76,CCM Noninverting Buck–Boost Converter With Fast Duty-Cycle Calculation Control for Line Transient Improvement,10.1109/TPEL.2017.2734808,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7999246,0
+3,77,Half-bridge bidirectional buck boost converter with an opportunity for zero voltage switching,10.1109/EEEIC.2015.7165467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7165467,0
+3,78,Extended Bucking Range Fifth-Order Buck-Boost Converter,10.1109/PEDES49360.2020.9379378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9379378,0
+3,79,Implementation and Design of Fuzzy Controller for high Performance Buck-Boost and FIyback Converters,10.1109/ENERGYCon48941.2020.9236496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9236496,0
+3,80,A Soft-Switching Non-Inverting Buck–Boost Converter With Efficiency and Performance Improvement,10.1109/TPEL.2019.2920310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727514,0
+3,81,A 2MHz 4-48V $\mathrm{V}_{\text{IN}}$ Flying-Capacitor Based Floating-Ground GaN DC-DC Converter with Real-Time Inductor Peak-Current Detection and $6\mu \mathrm{s}$ Load Transient Response,10.1109/RFIC54546.2022.9863089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9863089,0
+3,82,Performance Investigation of Closed-Loop Dual Phase Interleaved Buck-Boost Converter With Dragonfly Optimized Type-III Controller,10.1109/TCSII.2021.3131567,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628164,0
+3,83,A novel buck-boost DC-DC converter using close-coupled inductors,10.1109/PEDG.2015.7223009,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7223009,0
+3,84,Analysis and Comparison of Inductor Current Characteristics for Non-Inverting Buck-Boost Converter With Four-Mode Modulation,10.1109/CIEEC54735.2022.9846753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9846753,0
+3,85,Reliability Analysis of Buck-Boost Converter Considering the Effects of Operational Factors,10.1109/PEDSTC.2019.8697266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8697266,0
+3,86,Performance Analysis of a High Power Quality Single Phase AC-DC Buck Boost Converter,10.1109/ICASERT.2019.8934848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8934848,0
+3,87,Analysis and control of DC-DC converters using average power balance control (APBC) in solar power applications,10.1109/SCEECS.2014.6804477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804477,0
+3,88,A simple control architecture for four-switch buck-boost converter based power factor correction rectifier,10.1109/COMPEL.2017.8013343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8013343,0
+3,89,GaN-based High Frequency NIBB dc-dc Converter with Feedback Control Using FPGA,10.23919/IPEC-Himeji2022-ECCE53331.2022.9807114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9807114,0
+3,90,T-S fuzzy modeling and control based on BUCK-BOOST converter,10.1109/CHICC.2008.4605170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4605170,0
+3,91,Asymmetrical PWM Switching Scheme of Switched-Capacitor Based Buck- Boost Converter for Source Current Ripple Minimization,10.1109/GlobConPT57482.2022.9938263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9938263,0
+3,92,The Non-Isolated DC to DC Converters for MPPT Controller Based on the Load Line Analysis used for Solar PV Applications,10.1109/ETI4.051663.2021.9619311,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619311,0
+3,93,Energy Recovery from High-Frequency Clocks Using DC-DC Converters,10.1109/ISVLSI.2008.102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4556788,0
+3,94,Direct Model Predictive Control of Noninverting Buck-boost DC-DC Converter,10.30941/CESTEMS.2022.00043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9910365,0
+3,95,A Wide Output Non-Isolated Boost-Buck Converter,10.1109/IGBSG.2019.8886254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8886254,0
+3,96,Series Buck-Boost Partial Power Converter based on the Push-Pull converter,10.1109/IECON49645.2022.9968574,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9968574,0
+3,97,Design and analysis of soft-switched Buck-Boost Converter for PV applications,10.1109/INDICON.2015.7443509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443509,0
+3,98,Analysis of Non-Minimum Phase Fourth-Order Buck Boost Converter,10.1109/CERA59325.2023.10455739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10455739,0
+3,99,Energy Based Switching Control Scheme for DC-DC Buck-Boost Converter Circuits,10.1109/PEDS.2005.1619930,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1619930,0
+4,0,Sensitivity Analyses of Pulse Adjustment Control Technique of a Buck-Boost Converter Operating in Discontinuous Conduction Mode and Driving Constant Power Loads,10.1109/VPPC.2006.364356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4211266,0
+4,1,A buck-boost converter based multi-input DC-DC/AC converter,10.1109/POWERCON.2016.7753892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7753892,0
+4,2,Energy management based on two-phase interleaved buck-boost and boost converters for Electric Vehicles applications - using lithium-battery and fuel cell,10.1109/ICRERA.2012.6477433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6477433,0
+4,3,A review of non-isolated bidirectional dc-dc converters for energy storage systems,10.1109/YSF.2016.7753752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7753752,0
+4,4,A Noninverting Buck–Boost DC–DC Switching Converter With High Efficiency and Wide Bandwidth,10.1109/TPEL.2011.2108668,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5701795,0
+4,5,SPV array powered SC buck-boost converter fed SRM drive for water pumping,10.1109/ICETEESES.2016.7581392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7581392,0
+4,6,Analysis and Implementation of a New SEPIC-Based Single-Switch Buck–Boost DC–DC Converter With Continuous Input Current,10.1109/TPEL.2018.2799876,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275031,0
+4,7,Analysis of the non-inverting buck-boost converter with four-mode control method,10.1109/IECON.2017.8216151,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8216151,0
+4,8,Voltage regulated interleaved Marx topology DC-DC converter,10.1109/UPEC.2017.8232034,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8232034,0
+4,9,Analysis of Modified Buck Boost Converter fed DC Motor drive,10.1109/ICSES60034.2023.10465535,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465535,0
+4,10,Bidirectional power flow Z-source dc-dc converter,10.1109/VPPC.2008.4677467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4677467,0
+4,11,A Novel Isolated Buck-Boost dc-dc Converter with Wide Range of Voltage Regulations,10.1109/CPE-POWERENG58103.2023.10227443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227443,0
+4,12,Three-level quadratic non-insulated basic DC-DC converters,10.1109/EPE.2007.4417584,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4417584,0
+4,13,Closed-Loop Control for Cascaded Bidirectional Buck+Boost Converter with A Low-Loss Modulaiton Strategy,10.1109/PEDG56097.2023.10215294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215294,0
+4,14,Analysis of Distinctive DC-DC Power Converters for an Enabled Freestanding Solar Water Pump,10.1109/ICPECTS56089.2022.10047812,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10047812,0
+4,15,Implementation of three-phase frequency converters based on PWM AC matrix-reactance chopper with buck-boost topology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5279202,0
+4,16,Non-Linear Modeling and Control of DC-DC Buck and Boost Converters For EV Application,10.1109/STPES54845.2022.10006486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10006486,0
+4,17,Bidirectional tapped-inductor-based buck-boost convertor and its circuit application,10.1109/PESA.2013.6828226,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6828226,0
+4,18,A novel fuzzy logic control for bidirectional DC-DC converter and comparison with dual phase-shift control method in medium voltage applications,10.1109/CIVEMSA.2016.7524324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7524324,0
+4,19,"Revisiting the Reverse Switched Current of Buck, Boost, and Buck–Boost Converters in Voltage-Mode TCM–ZVS Control Considering Parasitic Resistances",10.1109/TPEL.2024.3382051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10479986,0
+4,20,Modeling and analysis of CCM non-isolated high step-up interleaved buck-boost dc/dc converters,10.1109/PECon.2012.6450224,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6450224,0
+4,21,Combination of Buck and Boost Modes to Minimize Transients in the Output of a Positive Buck-Boost Converter,10.1109/IECON.2006.347797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4153526,0
+4,22,A Modular Multilevel HVDC Buck-Boost Converter Derived from its Switched-Mode Counterpart,10.1109/PESGM.2018.8586639,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8586639,0
+4,23,"Pulse Adjustment, a Novel Digital Control Technique, for Control of a DC-DC Buck-Boost Converter Operating in Discontinuous Conduction Mode and Driving Constant Power Loads",10.1109/VPPC.2006.364355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4211265,0
+4,24,Solar PV array buck-boost converter fed single phase induction motor drives for water pumping,10.1109/ICOMICON.2017.8279090,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8279090,0
+4,25,Comparing efficiency of PV array connected to DC-DC converters applying modified P&O algorithm in real time hardware,10.1109/ICIEV.2016.7760065,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7760065,0
+4,26,A Combined Single-Phase Boost Rectifier and DCDC Buck Converter into Three-Phase Open-Winding Machine Drive for EV Battery Charger,10.1109/ICECET61485.2024.10698232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10698232,0
+4,27,A Bidirectional High-Power-Quality Grid Interface With a Novel Bidirectional Noninverted Buck–Boost Converter for PHEVs,10.1109/TVT.2012.2192459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6178021,0
+4,28,Photovoltaic system MPPTracker investigation and implementation using DSP engine and buck - boost DC-DC converter,10.1109/EPEPEMC.2008.4635533,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4635533,0
+4,29,Finite Control Set Model Predictive Control of Noninverting Buck-Boost DC-DC Converter,10.1109/ICT-PEP57242.2022.9988799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9988799,0
+4,30,Modified Pulse-Adjustment Technique to Control DC/DC Converters Driving Variable Constant-Power Loads,10.1109/TIE.2007.909757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4401145,0
+4,31,Design of Stable Digital V2 Controllers for the Synchronous Noninverting Buck–Boost Converter,10.1109/JESTPE.2022.3233250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10003211,0
+4,32,Multimode Operation of Non-inverting Buck Boost Converter for Energy Storage System,10.1109/ISIE45552.2021.9576382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9576382,0
+4,33,Extended Boosting Range-Based-Non-Isolated Buck-Boost Converters With Continuous Input Current and Common Grounded Structure,10.1109/JESTIE.2023.3321580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268990,0
+4,34,A Zero Voltage Switching Topology for Non-Inverting Buck–Boost Converter,10.1109/TCSII.2018.2887105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579210,0
+4,35,Non-isolated multiphase buck-boost converter design for electric vehicle applications,10.1109/AICERA.2014.6908181,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908181,0
+4,36,Accelerated Global MPPT for Multimode Series Resonant DC-DC Converter,10.1109/CPE-POWERENG50821.2021.9501077,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9501077,0
+4,37,A simple hybrid 3-level buck-boost DC-DC converter with efficient PWM regulation scheme,10.1109/ICECS.2015.7440325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7440325,0
+4,38,Modelling and model predictive control of a DC-DC Boost converter,10.1109/STA.2014.7086663,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7086663,0
+4,39,On accuracy of averaged control-to-output frequency responses of switched DC-DC converters,10.1109/RADIOELEK.2010.5478554,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5478554,0
+4,40,Control of Bidirectional Quadratic DC-DC Converters for Storage Support of DC Power Grids,10.1109/ICRERA.2018.8566946,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8566946,0
+4,41,Bi-directional DC-DC converter for battery charging — Discharging applications using buck-boost switch,10.1109/SCEECS.2012.6184993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6184993,0
+4,42,Bidirectional DC-DC Converter for Battery Storage Systems with Support for Mitigation of Voltage Imbalance in Bipolar DC Microgrids,10.1109/IECON49645.2022.9968519,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9968519,0
+4,43,Buck/boost converter based smart adapter for automobiles,10.1109/ICGCCEE.2014.6922348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922348,0
+4,44,Design and Analysis of Two-Switch-Based Enhanced Gain Buck–Boost Converters,10.1109/TIE.2021.3071696,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9403936,0
+4,45,Switched-Capacitor/Switched-Inductor Structures for Getting Transformerless Hybrid DC–DC PWM Converters,10.1109/TCSI.2008.916403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4432307,0
+4,46,Implementation of Universal Solar Charger for EV applications using a Cascaded Buck-Boost Converter,10.1109/I2CT51068.2021.9418156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9418156,0
+4,47,Eight Switch Buck Boost Regulator topology for high efficiency in DC voltage regulation,10.1109/ICECE.2008.4769197,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4769197,0
+4,48,Output ripple reduction of an automotive multi-phase bi-directional dc-dc converter,10.1109/ECCE.2009.5316346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5316346,0
+4,49,A Novel High Gain Single-Switch DC-DC Buck-Boost Converter with Continuous Input and Output Power,10.1109/EPDC.2019.8903599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8903599,0
+4,50,Online Learning Neural Network Control of Buck-Boost Converter,10.1109/ITNG.2011.216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5945284,0
+4,51,Analysis and Comparison of DC - DC Converter Topologies for the Design and Development of a Solar Based Inverterless System,10.1109/ICECA.2018.8474867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8474867,0
+4,52,A bidirectional multiport dc-dc converter topology for hybrid energy system,10.1109/ICECDS.2017.8390097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8390097,0
+4,53,"A high-efficiency, dual-mode, dynamic, buck-boost power supply IC for portable applications",10.1109/ICVD.2005.15,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1383387,0
+4,54,Design of PID controller using cuckoo search algorithm for buck-boost converter of LED driver circuit,10.1109/SPEC.2016.7846102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7846102,0
+4,55,Design and Analysis of High Gain Buck-Boost Converter Topology With Reduced Voltage Stress,10.1109/NPEC47332.2019.9034787,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9034787,0
+4,56,Double-Input/Double-Output Buck-Zeta Converter,10.1109/ICEE52715.2021.9544131,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9544131,0
+4,57,PFC interleaved buck-boost converter for telecom power application,10.1109/IECON.2017.8216387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8216387,0
+4,58,Four-Quadrant Supply using Buck-Boost Converter with Common Ground and Non-Isolation,10.1109/APPEEC57400.2023.10561907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10561907,0
+4,59,MPPT of solar photovoltaic cell using perturb & observe and fuzzy logic controller algorithm for buck-boost DC-DC converter,10.1109/EPETSG.2015.7510125,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7510125,0
+4,60,A New Single-Switch Wide Voltage Gain Nonisolated DC-DC Buck-Boost Converter Integrating a Switched Inductor Network,10.1109/CPE-POWERENG60842.2024.10604323,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10604323,0
+4,61,Digital dead-time control for an integrated tri-mode buck-boost DC-DC converter,10.1109/ICPE.2015.7168017,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168017,0
+4,62,Validation of direct current control in LED lamp with non-inverting buck-boost converter,10.1109/IECON.2013.6700123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6700123,0
+4,63,Transient Performance Analysis of Buck Boost Converter Using Various PID Gain Tuning Methods,10.1109/CICN49253.2020.9242557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9242557,0
+4,64,Analysis and Control of an Input-Parallel Output-Series Connected Buck-Boost DC–DC Converter for Electric Vehicle Powertrains,10.1109/TTE.2022.3216610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9927453,0
+4,65,Design and Analysis of Two-Quadrant DC-DC Converter,10.1109/GUCON50781.2021.9573707,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9573707,0
+4,66,Implementation of Bi-Directional DC-DC Converter for PV Energy System,10.1109/RESEM57584.2023.10236388,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10236388,0
+4,67,Dc-Dc buck and boost converter design issues in recent VLSI platform,10.1109/RSM.2011.6088309,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6088309,0
+4,68,"Comparative Study of Single-Switch and Double-Switch Converter Topologies, Working on Dead-Zone Mode, for Fuel Cell Applications",10.1109/SMART55236.2022.9990356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990356,0
+4,69,A single switch buck-boost converter with a high conversion ratio,10.1109/EPE.2005.219508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1665698,0
+4,70,Non Inverting Buck-Boost Converter with PV fed BLDC Drive for Irrigation,10.1109/IPRECON49514.2020.9315216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9315216,0
+4,71,Comparison of Four-Switch Buck-Boost and Dual Active Bridge Converter for DC Microgrid Applications,10.1109/PEDG54999.2022.9923074,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923074,0
+4,72,A new simple high performance control method for DC-DC converters,10.1109/MEPCON.2016.7836904,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7836904,0
+4,73,Voltage Stability Assessment of a Dual Active Bridge Based Solid State Transformer in a Smart Distribution System with Buck-Boost Converter,10.1109/ICECE57408.2022.10088878,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10088878,0
+4,74,Design and small signal analysis of solar PV fed FPGA based Closed Loop control Bi-Directional DC-DC converter,10.1109/ICCPCT.2013.6529011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6529011,0
+4,75,A novel three-phase buck-boost ac-dc converter,10.1109/APEC.2011.5744645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5744645,0
+4,76,A Transformerless Quadratic Buck-Boost Converter Suitable for Renewable Applications,10.1109/PEDSTC.2019.8697232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8697232,0
+4,77,Power-electronics learning through experiment and simulation: DC-DC converters,10.1109/TALE.2016.7851830,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7851830,0
+4,78,Design of PWM based sliding mode voltage controller for DC-DC converters operating in continuous conduction mode,10.1109/EPE.2005.219672,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1665862,0
+4,79,Decoding and Synthesizing Transformerless PWM Converters,10.1109/TPEL.2015.2499784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7327223,0
+4,80,A New Bi-directional Three-phase Interleaved Isolated Converter with Active Clamp,10.1109/APEC.2009.4802909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4802909,0
+4,81,A New ZVS-PWM Active-Clamping Buck-Boost Converter,10.1109/PESC.2005.1581817,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1581817,0
+4,82,Performance evaluations on soft-switching boost power converter with a single auxiliary passive resonant snubber,10.1109/PESC.2001.954259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954259,0
+4,83,One-Cycle Control applied to a bidirectional Buck-Boost converter in energy storage applications,10.1109/COBEP.2015.7420204,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7420204,0
+4,84,Control of Switching-Capacitor Based Buck-Boost Converter,10.23919/IPEC.2018.8508005,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8508005,0
+4,85,Distinguished DC-DC Converter for an Electric Vehicle,10.1109/ICCMC53470.2022.9753880,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9753880,0
+4,86,A fixed-frequency auto-buck-boost SIMO DC-DC converter with duty-cycle redistribution and duty-predicted current control,10.1109/ISCAS.2015.7168611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168611,0
+4,87,A Bidirectional Hybrid Switched-Capacitor DC-DC Converter with a High Voltage Gain,10.1109/ACEMP-OPTIM44294.2019.9007160,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007160,0
+4,88,Design and Simulation of Five Level Buck Boost Converter for Grid Connected Hybrid Power System using Matlab/Simulink,10.1109/ICSSIT55814.2023.10061069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061069,0
+4,89,Comparison of Power Electronic Converters with Sliding Mode Control and Open Loop Control,10.1109/ICCDW45521.2020.9318726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9318726,0
+4,90,Low-complexity SIMO buck-boost DC-DC converter for gigascale systems,10.1109/ISCAS.2016.7527315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527315,0
+4,91,A comparison of DC-DC converters for power point tracking in Photovoltaic Applications,10.1109/iSSSC56467.2022.10051489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10051489,0
+4,92,Phase-Shift-Controlled Isolated Buck-Boost Converter With Active-Clamped Three-Level Rectifier (AC-TLR) Featuring Soft-Switching Within Wide Operation Range,10.1109/TPEL.2015.2441111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7117438,0
+4,93,A New Application of the Buck-Boost-Derived Converters to Obtain the I-V Curve of Photovoltaic Modules,10.1109/PESC.2007.4342022,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4342022,0
+4,94,New step-up DC-DC converters for PV power generation systems,10.1109/ISITIA.2017.8124078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8124078,0
+4,95,A novel single switch transformerless quadratic DC/DC buck-boost converter,10.23919/EPE17ECCEEurope.2017.8099120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099120,0
+4,96,A Nonlinear State Machine for Dead Zone Avoidance and Mitigation in a Synchronous Noninverting Buck–Boost Converter,10.1109/TPEL.2012.2198924,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6198899,0
+4,97,Modeling and analysis of two-input DC-DC converter,10.1109/PEDES.2014.7042053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7042053,0
+4,98,Developed Experimental Analysis of Current THD of The CPV System Using Continuous Input-current Buck-Boost DC-DC Converter,10.1109/PEDSTC52094.2021.9405910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405910,0
+4,99,Buck-boost PWM converters having two independently controlled switches,10.1109/PESC.2001.954206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954206,0
+5,0,Dual mode predictive control of buck-boost converters based on state estimation,10.23919/CCC52363.2021.9550259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9550259,0
+5,1,Evaluation of DC-DC buck-boost partial power converters for EV fast charging application,10.1109/IECON48115.2021.9589068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9589068,0
+5,2,Simulation based Performance Analysis of Dual Supply Bi-directional Improved Power Quality AC-DC Matrix Converter with Four Quadrant Switch Realizations,10.1109/INDCON.2005.1590242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590242,0
+5,3,Non-Inverting Three-Level Buck-Boost Converter for Wide Voltage Range Application,10.1109/ECCE.2018.8557724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8557724,0
+5,4,Development of Bidirectional AC-DC Converter for Energy Storage Systems,10.1109/ICEMS.2019.8922024,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8922024,0
+5,5,Control of Fifth-order Buck-Boost Converter,10.1109/POWERI.2018.8704360,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704360,0
+5,6,A Comparative Analysis of Multiport DC-DC Converters in Microgrid using Small-Signal Modelling,10.1109/iSSSC56467.2022.10051601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10051601,0
+5,7,A resonant Bi-directional buck-boost converter with distributed voltage stress using eGaN HEMTs,10.1109/WiPDA.2017.8170537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8170537,0
+5,8,Design and development of MPPT algorithm for high efficient DC-DC converter for solar energy system connected to grid,10.1109/ICESA.2015.7503345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7503345,0
+5,9,Design and development of MPPT algorithm for high efficient DC-DC converter for wind energy system connected to grid,10.1109/IC4.2015.7375634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7375634,0
+5,10,A Non-Isolated High Gain DC-DC Converters with Positive Output Voltage and Reduced Current Stresses,10.1109/PEDSTC49159.2020.9088362,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088362,0
+5,11,Design a Electric Vehicle Charger Based Sepic Topology with PI Controller,10.1109/ICADEE51157.2020.9368918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9368918,0
+5,12,Comparative Study of PI and Fuzzy Control Strategies to A Novel Buck-Boost Converter,10.1109/ICEEICT53079.2022.9768625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768625,0
+5,13,Study on the output controllability of BUCK-BOOST Converter,10.1109/ICMA.2017.8015797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8015797,0
+5,14,Digital Noninverting-Buck–Boost Converter With Enhanced Duty-Cycle-Overlap Control,10.1109/TCSII.2016.2546881,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7442128,0
+5,15,A study of hybrid control algorithms for buck-boost converter based on fixed switching frequency,10.1109/ICIEA.2013.6566548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6566548,0
+5,16,Non-inverting Magnetically Coupled Buck-Boost Bidirectional DC-DC Converter,10.1109/CPE-POWERENG48600.2020.9161698,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161698,0
+5,17,A family of high efficiency bidirectional DC-DC converters using switching cell structure,10.1109/IPEMC.2016.7512455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7512455,0
+5,18,Analysis of PV module with buck-boost and zeta converters with incremental conductance maximum power point tracking method,10.1109/SmartTechCon.2017.8358633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8358633,0
+5,19,Robust switching strategy for buck-boost converter,10.1109/ICCKE.2014.6993371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6993371,0
+5,20,Novel Multi-Mode DC-DC Converter for Battery Storage Applications,10.1109/IECON51785.2023.10312415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10312415,0
+5,21,Selection of DC-DC Converters for PV-Battery based Hybrid Systems,10.1109/ICOEI56765.2023.10125982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10125982,0
+5,22,Efficacy of Interleaved Two-leg Buck-boost Converter in EV Charger Design,10.1109/SPEEDAM.2018.8445351,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445351,0
+5,23,Synthesis and Modelling of A Novel Multi-Input Multi-Output System Topology Implemented on Non-Inverting Buck-Boost Converter for Renewable Energy Applications,10.1109/ICEEICT53079.2022.9768503,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768503,0
+5,24,Small wind generator system with non-inverting buck-boost converter and battery storage,10.1109/ELMA.2017.7955452,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7955452,0
+5,25,An Overview of Converter Topologies and Their Derivations and Interrelationships,10.1109/JESTPE.2022.3181217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791379,0
+5,26,A comparative analysis between three stage and two stage bidirectional dc-dc converter in battery storage application,10.1109/ICPEDC.2017.8081107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8081107,0
+5,27,Review and comparison Of DC-DC converters for maximum power point tracking system in standalone photovoltaic (PV) module,10.1109/ICAMIMIA.2017.8387595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8387595,0
+5,28,General Power Electric Converter Model,10.23919/IPEC.2018.8507548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8507548,0
+5,29,An isolated soft-switching buck-boost converter utilizing two transformers and embedded bidirectional switches on secondary-side for wide voltage applications,10.1109/APEC.2016.7468053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7468053,0
+5,30,Transformerless Bidirectional DC-DC Converter for Battery Storage System with High Voltage Gain,10.23919/ICPE2019-ECCEAsia42246.2019.8796887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8796887,0
+5,31,Design and development of fly-back converter with buck-boost regulator for DC motor used in electric vehicle for the application of renewable energy,10.1109/ICCPCT.2017.8074256,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8074256,0
+5,32,Four Port DC-DC Buck Boost Converter for Hybrid Renewable Energy Sources,10.1109/ICESC54411.2022.9885297,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885297,0
+5,33,Analysis and Design of an Improved Single Switch Quadratic DC/DC Converter for Continuous Conduction Mode (CCM) Operation in Renewable Energy Systems,10.1109/PECon48942.2020.9314545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314545,0
+5,34,A novel high gain buck-boost multilevel converter using double voltage-lift switched-inductor cell,10.1109/ICCCS.2014.7068201,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7068201,0
+5,35,Modeling and stability analysis of buck-boost dc-dc converter based on Z-transform,10.1109/IICPE.2012.6450405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6450405,0
+5,36,Interactive DC-DC converters tools for instant design and education,10.1109/COBEP.2009.5347725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5347725,0
+5,37,Control Analysis of PMSG Based Wind Energy Conversion System Using Buck-Boost Converter,10.1109/CICT.2016.84,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546638,0
+5,38,Comparative Study of DC-DC Converters in PV Systems Using Fuzzy Logic MPPT Algorithm,10.1109/DELCON54057.2022.9753494,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9753494,0
+5,39,Application of Artificial Dynamics to Represent Non-isolated Single-Input Multiple-Output DC-DC Converters with Averaged Models,10.1109/UPEC50034.2021.9548217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9548217,0
+5,40,Four-Phase Interleaved Bidirectional DC-DC Converter for Battery Energy Storage System,10.1109/CERA59325.2023.10455518,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10455518,0
+5,41,A 400 nW Single-Inductor Dual-Input–Tri-Output DC–DC Buck–Boost Converter With Maximum Power Point Tracking for Indoor Photovoltaic Energy Harvesting,10.1109/JSSC.2015.2476379,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7293118,0
+5,42,Efficiency optimization of an automotive multi-phase bi-directional DC-DC converter,10.1109/IPEMC.2009.5157451,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5157451,0
+5,43,Small signal analysis of current mode active-clamp ZVS dc-dc converters,10.1109/PEDES.2010.5712420,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5712420,0
+5,44,Design and Analysis of Fifth-order Buck-Boost Converter,10.1109/ICPEICES.2018.8897492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897492,0
+5,45,Improvement of Light Load Efficiency for Buck-Boost DC-DC converter with ZVS using Switched Auxiliary Inductors,10.1109/PEAC.2018.8590671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8590671,0
+5,46,A Survey of DC-DC Converters for Fuel Cell Electric Vehicle Applications,10.1109/INCET51464.2021.9456335,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9456335,0
+5,47,Two novel modulation schemes for Buck-Boost matrix converter,10.1109/CAC.2015.7382861,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7382861,0
+5,48,Adaptive Tracking Control for a Boost DC – DC Converter: A Switched Systems Approach,10.1109/GTSD.2018.8595580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8595580,0
+5,49,Performance Analysis of A New High Step-Up Boost-Buck-Boost Interleaved Converter for Bipolar LVDC Applications,10.23919/EPE23ECCEEurope58414.2023.10264547,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10264547,0
+5,50,High Gain Buck Boost Converter with Single Switch and Low Voltage Stress,10.1109/RAICS61201.2024.10689752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10689752,0
+5,51,A Family of Coupled-Inductor-Based Soft-Switching DC–DC Converter With Double Synchronous Rectification,10.1109/TIE.2018.2877156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8511057,0
+5,52,A Charge-Pump-Based SIMO Buck-Boost DC-DC Converter with Three Operation Modes,10.1109/ISCAS51556.2021.9401624,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401624,0
+5,53,A Survey On Optimal Tuning Of PID Controller For Buck-Boost converter Using Cuckoo-Search Algorithm,10.1109/ICCPCCT.2018.8574321,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574321,0
+5,54,Wild Load Range Operation for Bidirectional Non-Inverting Buck Boost Converter,10.1109/IFEEC53238.2021.9662032,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9662032,0
+5,55,Buck-Boost Converter Associated with Active Clamp Forward Converter for PV Power System,10.1109/PEDS.2007.4487702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487702,0
+5,56,Hardware based comparison of buck-boost converter topologies in MPPT systems,10.1109/ELECO.2015.7394617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7394617,0
+5,57,Performance Evaluation of Single-Switch Non-Isolated DC-DC Converter Employing TEG using MPPT Control Techniques,10.1109/ICCTCT.2018.8550874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8550874,0
+5,58,A new high efficiency and high power density 48V to 1V converter,10.1109/PEAS53589.2021.9628611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628611,0
+5,59,Miniaturization of buck-boost DC-DC converter with fast P control,10.1109/ICRERA.2015.7418580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418580,0
+5,60,Multi-Mode PWM Modulator for a 4-Switch DC-DC Converter Operating with Tri-State,10.1109/CPE-POWERENG58103.2023.10227409,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10227409,0
+5,61,A new soft switching bidirectional buck or boost DC-DC converter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4770895,0
+5,62,PWM switch model of a buck-boost converter operated under discontinuous conduction mode,10.1109/MWSCAS.2005.1594189,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594189,0
+5,63,DC/DC Converter Architecture for Use of Second-Life Batteries,10.1109/ELEKTRO60337.2024.10556926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556926,0
+5,64,A comparison between buck and boost topologies as module integrated converters to mitigate partial shading effects on PV arrays,10.1109/PEDSTC.2016.7556889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7556889,0
+5,65,High-Efficiency Single Phase Passive LC3 Component AC-DC Buck-Boost Converter,10.1109/ICAICT51780.2020.9333459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333459,0
+5,66,"Comparative Analysis of Quadratic Buck-Boost Converters: Topology, Electric Stress, Reliability",10.1109/IECON48115.2021.9589610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9589610,0
+5,67,Design of discrete Pi-based current controller for reversible buck boost converter. Digital implementation using Arduino Due board,10.1109/ICMIC.2016.7804235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7804235,0
+5,68,Mathematical Modeling of Transformerless DC-DC Converters,10.1109/ET.2018.8549627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8549627,0
+5,69,Performance Analysis of Bidirectional DC–DC Converters for Electric Vehicles,10.1109/TIA.2015.2388862,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7005431,0
+5,70,Enhanced control of a buck-boost DC-DC converter via a closed-form MPC reference governor scheme,10.1109/IECON.2019.8927486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8927486,0
+5,71,Boost Converter With Coupled Inductors and Buck–Boost Type of Active Clamp,10.1109/TIE.2007.903925,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4387791,0
+5,72,Non-Inverting Buck-Boost Converter Design using Analog Multiplier,10.1109/ICAECT60202.2024.10469670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10469670,0
+5,73,Design of robust sliding mode and fuzzy logic controllers for boost and buck-boost converters,10.1109/ICICICT1.2017.8342607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8342607,0
+5,74,A novel control method of boost and buck-boost converters with a hysteretic PWM controller,10.1109/EPE.2005.219398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1665588,0
+5,75,Bifurcation analysis in continuous input output buck boost PFC converter,10.1109/ICCPEIC.2016.7557284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7557284,0
+5,76,Modelling and Analysis of a Magnetically Coupled Multi Device Buck Boost Converter for Fuel Cells,10.1109/CONIT51480.2021.9498317,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9498317,0
+5,77,A Soft Switched Coupled Inductor based Interleaved Buck-Boost Converter for LED Driver,10.1109/ICAECT60202.2024.10468719,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10468719,0
+5,78,Low Source Current Ripple Buck-Boost Converter,10.1109/PEDES.2018.8707843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8707843,0
+5,79,Performance Analysis of DC-DC Converter for Electric Vehicle Charging Applications,10.1109/ICCMC56507.2023.10084154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10084154,0
+5,80,Single and interleaved split-pi DC-DC converter,10.1109/ICRERA.2017.8191207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8191207,0
+5,81,A Common Ground Dual-Output Quasi-Z-Source DC-DC Converter,10.1109/IranianCEE.2019.8786412,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786412,0
+5,82,PV Emulator Based on a Four-Switch Buck-Boost DC-DC Converter,10.1109/COBEP/SPEC44138.2019.9065364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9065364,0
+5,83,Cascaded DC-DC converter connection of photovoltaic modules,10.1109/PSEC.2002.1023842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1023842,0
+5,84,A Simple Seamless Switching Strategy for Four-Switch Buck-Boost Converter,10.1109/IPEMC-ECCEAsia60879.2024.10568022,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10568022,0
+5,85,Development of DC-DC converter coupling 2 energy sources and load,10.1109/EPSCICON.2018.8379600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8379600,0
+5,86,PWM Technique for Non-Isolated Three-phase Soft-Switching Buck-boost PFC Converter,10.1109/PCCON.2007.373130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4239320,0
+5,87,A Single-Inductor Multiple-Output Buck/Boost DC–DC Converter With Duty-Cycle and Control-Current Predictor,10.1109/TPEL.2020.2988940,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9072538,0
+5,88,A novel highly reliable three-phase buck-boost ac-ac converter,10.1109/ECCE.2016.7854732,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7854732,0
+5,89,A Series Partial Power Converter Based on Dual Active Bridge Converter for Residential Battery Energy Storage System,10.1109/RTUCON53541.2021.9711725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9711725,0
+5,90,Single-phase two-switch PCCM buck-boost PFC converter with fast dynamic response for universal input voltage,10.1109/ICPE.2011.5944581,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5944581,0
+5,91,A new buck-boost dc/dc converter of high efficiency by soft switching technique,10.1109/IPEMC.2009.5157585,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5157585,0
+5,92,An auto-tuning digital control for buck-boost dc-dc converter,10.1109/INTLEC.2010.5525703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5525703,0
+5,93,Cascaded Buck-Boost Derived Interlink Multi-port Converter For simultaneous operation of isolated and non-isolated Loads in a DC Nanogrid,10.1109/PEDES56012.2022.10080072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10080072,0
+5,94,A Soft-Switching Synchronous Rectification Noninverting Buck–Boost Converter With a New Auxiliary Circuit,10.1109/TIE.2020.3009574,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9145794,0
+5,95,Design of a nonlinear control and dc-dc converter applied to Electric Vehicles,10.1109/CIEP.2010.5598910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5598910,0
+5,96,Bumpless transfer of non-inverting buck boost converter among multiple working modes,10.1109/APEC.2018.8341278,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8341278,0
+5,97,Performance Analysis of Switched Inductor-based Dual-Input DC-DC Converter with High DC- Voltage Gain,10.1109/TENSYMP50017.2020.9230821,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9230821,0
+5,98,Dual-Input Dual-Output DC-DC Converter for DC Microgrid Applications,10.1109/PEDES.2018.8707726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8707726,0
+5,99,A Uni-Stage Isolated Charging System for Electric Vehicles Employing SEPIC and Buck-Boost Converter for Different Supply Voltage Semi -Cycles,10.1109/EPEE59859.2023.10351961,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10351961,0

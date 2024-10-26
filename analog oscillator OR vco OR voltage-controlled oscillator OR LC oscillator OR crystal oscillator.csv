@@ -99,3 +99,403 @@
 1,97,An Optimum Current Mirror Ratio for Low Phase Noise LC–VCO,10.1109/LMWC.2008.2007709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4686769,1
 1,98,Frequency Domain Modeling and Performance Analysis of Injection-Locked LC Oscillator,10.1109/TCSII.2023.3296778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10186458,1
 1,99,Tuning range optimization of a voltage controlled oscillator,10.1109/INVENTIVE.2016.7824859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824859,1
+2,0,A Wide-Range Multiport LC-Ladder Oscillator and Its Applications to a 1.2–10.1 GHz PLL,10.1109/TVLSI.2014.2298864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6731595,0
+2,1,Analyzing of Phase Noise in CMOS LC Oscillators,10.1109/ICM.2005.1590096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590096,0
+2,2,An approach for temperature and frequency control of a crystal oscillator,10.1109/IECON.2008.4758434,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4758434,0
+2,3,"A 0.5V supply, 49nW band-gap reference and crystal oscillator in 40nm CMOS",10.1109/CICC.2017.7993603,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7993603,0
+2,4,"Low power, low phase noise current reuse 2.45 GHz LC oscillator with MOS resistor",10.1109/RISE.2017.8378196,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8378196,0
+2,5,Time-Domain Operational Amplifier With Voltage-Controlled Oscillator and Its Application to Active-RC Analog Filter,10.1109/TCSII.2019.2918803,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721511,0
+2,6,A 1.3V Low Phase Noise 2-GHz CMOS Quadrature LC VCO,10.1109/EMICC.2006.282778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057601,0
+2,7,A 0.082mm2 24.5-to-28.3GHz Multi-LC-Tank Fully-Differential VCO Using Two Separate Single-Turn Inductors and a 1D-Tuning Capacitor Achieving 189.4dBc/Hz FOM and 200±50kHz 1/f3 PN Corner,10.1109/RFIC49505.2020.9218290,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218290,0
+2,8,A Low Gain Variation LC-VCO With Mutual Inductive Tuning for KVCO Linearity Compensation,10.1109/LMWC.2022.3193003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9866526,0
+2,9,A 5GHz LC VCO with extended linear-range varactor in purely digital 0.15um CMOS Process,10.1109/RFIC.2009.5135605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135605,0
+2,10,A low phase-noise CMOS voltage-controlled oscillator with a series LC resonator,10.1109/ELINFOCOM.2014.6914419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6914419,0
+2,11,100-MHz Low-Phase-Noise Microprocessor Temperature-Compensated Crystal Oscillator,10.1109/TCSII.2015.2415652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7065313,0
+2,12,Design of Crystal-Oscillator Frequency Quadrupler for Low-Jitter Clock Multipliers,10.1109/JSSC.2018.2872539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486730,0
+2,13,Voltage controlled crystal oscillator,10.1109/SARNOF.2009.4850272,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4850272,0
+2,14,Analysis of Single Events Effects on Supply-Regulated LC-Tank Voltage-Controlled Oscillator,10.1109/ASICON52560.2021.9620241,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9620241,0
+2,15,Linearization of Voltage-Controlled Oscillators Using Floating-Gate Transistors,10.1109/TCSII.2021.3059109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9353694,0
+2,16,Wideband LC VCO with 39.3 % Frequency Tuning Range for Dielectric Spectroscopy System,10.1109/ISOCC53507.2021.9613982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9613982,0
+2,17,A Low Phase Noise Fully Integrated CMOS LC VCO Using a Large Gate Length pMOS Current Source and Bias Filtering Technique for 5-GHz WLAN,10.1109/ISSSE.2007.4294527,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4294527,0
+2,18,Design of Improved Performance Voltage Controlled Ring Oscillator,10.1109/ACCT.2015.127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7079124,0
+2,19,A Comparative Study of Switchable Capacitor Structures for LC Oscillators in a 28-nm Technology,10.1109/ICECS53924.2021.9665608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665608,0
+2,20,Analysis of supply and ground noise sensitivity in ring and LC oscillators,10.1109/ISCAS.2005.1466003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1466003,0
+2,21,A Novel Direct Injection-Locked QPSK Modulator Based on Ring VCO in 180 nm CMOS,10.1109/LMWC.2014.2299534,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6729102,0
+2,22,A 98/196 GHz Low Phase Noise Voltage Controlled Oscillator With a Mode Selector Using a 90 nm CMOS Process,10.1109/LMWC.2009.2013742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4796227,0
+2,23,A single-LC-tank 5–10 GHz quadrature local oscillator for cognitive radio applications,10.1109/RFIC.2011.5940682,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940682,0
+2,24,A comparative analysis of differential LC VCOs with different tank structures in InGaP/GaAs HBT technology,10.1109/APMC.2005.1606501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1606501,0
+2,25,A wide tuning 1.3 GHz LC VCO with fast settling noise filtering voltage regulator in 0.18 µm CMOS process,10.1109/RFIC.2010.5477408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477408,0
+2,26,A Voltage Controlled Oscillator with Inductive Divider Design and Analysis at Frequencies Above 100 GHz,10.1109/NorCAS51424.2020.9265130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9265130,0
+2,27,Design of LC-Tank Digitally Controlled Oscillator with Variable Capacitor,10.1109/I2CT42659.2018.9058250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9058250,0
+2,28,Measurement and modeling of the sensitivity of LC-VCO's to substrate noise perturbations,10.1109/IMTC.2007.379389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258451,0
+2,29,A 6-13.5GHz Wideband Single-Core LC VCO with Lookup Table Algorithm,10.1109/ICISE.2018.00028,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8614730,0
+2,30,A low noise class-C voltage-controlled oscillator with left-handed resonator,10.1109/ISNE.2016.7543352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7543352,0
+2,31,Performance Degradation Analysis and Hot-Carrier Injection Impact on the Lifetime Prediction of  $LC$  Voltage Control Oscillator,10.1109/TED.2015.2436905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7118659,0
+2,32,A 1-GHz LC voltage-controlled oscillator with high linearity and wide range,10.1109/EDSSC.2008.4760692,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4760692,0
+2,33,On the Design of mm-Wave Self-Mixing-VCO Architecture for High Tuning-Range and Low Phase Noise,10.1109/JSSC.2015.2511158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7409990,0
+2,34,Tail Current-Shaping to Improve Phase Noise in LC Voltage-Controlled Oscillators,10.1109/JSSC.2006.877273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1661756,0
+2,35,A low-power low-phase-noise LC VCO with MEMS Cu inductors,10.1109/LMWC.2005.850565,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1435448,0
+2,36,A Stimulation Artifacts Removal Technique Employing VCO and Phase Detector for Simultaneous Neural Stimulation and Recording,10.1109/ISCAS58744.2024.10558281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558281,0
+2,37,Novel VCO Architecture Using Series Above-IC FBAR and Parallel LC Resonance,10.1109/JSSC.2006.881567,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1703679,0
+2,38,A performance comparison of PLLs for clock generation using ring oscillator VCO and LC oscillator in a digital CMOS process,10.1109/ASPDAC.2004.1337641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1337641,0
+2,39,A 2-Bit Voltage-Controlled Oscillator (VCO) for Multiband Wireless Applications,10.1109/LMWC.2022.3182020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844237,0
+2,40,80GHz 12.2mW p-MOS cross-coupled CMOS LC oscillator,10.1109/IMFEDK.2012.6218629,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6218629,0
+2,41,Design of 10.6 GHZ low phase noise LC-voltage controlled oscillator in 0.18μm CMOS technology,10.1109/STA.2017.8314868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8314868,0
+2,42,An accurate 1.08-GHz CMOS LC voltage-controlled oscillator,10.1109/ASPDAC.2005.1466482,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1466482,0
+2,43,Inductor-Based Tuning in $LC$-Quadrature Oscillators: A Comparative Study,10.1109/TCSII.2012.2208673,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6265379,0
+2,44,An X-band LC VCO Using a New Boosted Active Capacitor With 53 % Tuning Range and -202.4 dBc/Hz FoMT,10.1109/IMS30576.2020.9223827,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223827,0
+2,45,An optimally coupled 5 GHz quadrature LC oscillator,10.1109/VLSIC.2001.934211,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=934211,0
+2,46,Multiphase LC oscillators,10.1109/TCSI.2006.876415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1652980,0
+2,47,5-GHz Oscillator Array With Reduced Flicker Up-Conversion in 0.13-$muhboxm$CMOS,10.1109/JSSC.2006.883315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1717669,0
+2,48,Implementation & comparison of different oscillators for ISM and WI-FI band applications,10.1109/ISCO.2017.7856011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7856011,0
+2,49,Improved Amplitude Control Technique of Low Phase Noise LC VCO,10.1109/ICCT.2018.8599912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599912,0
+2,50,A variable negative resistance VCO suitable for measuring quartz crystal microbalance,10.1109/ECTICon.2013.6559641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6559641,0
+2,51,"Modeling the Effects of SBD, HCI, and NBTI in CMOS Voltage Controlled Oscillator Design for PLL Applications",10.1109/IEMCON53756.2021.9623166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9623166,0
+2,52,A 1.9–3 GHz broadband LC VCO with low phase noise for wireless communications,10.1109/ICAM.2016.7813573,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7813573,0
+2,53,Double-resonance quartz crystal oscillator and excitation of a resonator immersed in liquid media,10.1109/TUFFC.2011.1871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5750100,0
+2,54,The Quadrature LC Oscillator: A Complete Portrait Based on Injection Locking,10.1109/JSSC.2007.903047,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4295200,0
+2,55,A 1.8-V 6/9-GHz reconfigurable dual-band quadrature LC VCO in SiGe BiCMOS technology,10.1109/JSSC.2003.811970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1202005,0
+2,56,The Design and Implementation of an Oscillator Chip with Negative Resistance,10.1109/ICITBS53129.2021.00091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9526190,0
+2,57,A 1.1V Low Phase Noise CMOS Quadrature LC VCO with 4-Way Center-tapped Inductor,10.1109/MWSYM.2007.380092,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263953,0
+2,58,A Wide-Band CMOS LC VCO With Linearized Coarse Tuning Characteristics,10.1109/TCSII.2007.914896,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4459251,0
+2,59,Optimal design of a wideband 10GHz LC-VCO with small KVCo variation in 0.13um GSMC CMOS process,10.1109/ELTECH.2018.8401396,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8401396,0
+2,60,The body driven low phase noise injection-locked V-band push-push complementary-Colpitts oscillator,10.1109/HSIC.2012.6213001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6213001,0
+2,61,Design and Performance Analysis of Voltage-Controlled Oscillator,10.1109/CONIT59222.2023.10205948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10205948,0
+2,62,A Linearization Technique for Ring VCO Exploiting Bulk-Modulation,10.1109/MWSCAS47672.2021.9531742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531742,0
+2,63,Design and Implementation of Voltage Controlled Ring Oscillator using 90nm CMOS Technology,10.1109/ICIC3S61846.2024.10603093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10603093,0
+2,64,Substrate Coupling Effect under Various Noise Injection Topologies in LC-Voltage Controlled Oscillator,10.1109/RFIC.2007.380980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266528,0
+2,65,A Voltage-Controlled Ring Oscillator With VCO-Gain Variation Compensation,10.1109/LMWC.2020.2967391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994170,0
+2,66,Dual-band rotary standing wave voltage-controlled oscillator for fiber lasers in microwave generation,10.1109/IMWS-AMP.2016.7588412,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7588412,0
+2,67,A VCO-Based Nonuniform Sampling ADC Using a Slope-Dependent Pulse Generator,10.1109/ICM50269.2020.9331795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331795,0
+2,68,The tuning range improvement of voltage controlled crystal oscillators by using multiple crystals in parallel,10.1109/RAWCON.2003.1227946,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1227946,0
+2,69,Noise minimization techniques for voltage controlled crystal oscillator (VCXO) circuits,10.1109/RWS.2009.4957333,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4957333,0
+2,70,Design of a 1.85-4.3 GHz LC-VCO in 65 nm CMOS Technology for L-Band Applications,10.1109/INSCIT62583.2024.10693382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10693382,0
+2,71,CMOS Quadrature VCO Implemented With Two First-Harmonic Injection-Locked Oscillators,10.1109/LMWC.2008.2003476,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4639545,0
+2,72,An X-band low voltage cross-coupled voltage-controlled oscillator IC in 56-nm SOI CMOS,10.1109/IEEE-IWS.2018.8400967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8400967,0
+2,73,A Time-Based Bandpass ADC Using Time-Interleaved Voltage-Controlled Oscillators,10.1109/TCSI.2008.925823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4526220,0
+2,74,Multiple output LC tank varactor VCO with ultra-low power consumption and low-phase noise,10.1109/MICC.2015.7725453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7725453,0
+2,75,Development of Self-Limiting LC Oscillators Using Cascade Structure of Monolithic CCIIs,10.23919/MIXDES58562.2023.10203234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10203234,0
+2,76,Design of Voltage Controlled Oscillator with Resistive and IMOS Varactor Tuning,10.1109/CCAA.2018.8777455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8777455,0
+2,77,An Ultra-Compact Differentially Tuned 6-GHz CMOS LC-VCO With Dynamic Common-Mode Feedback,10.1109/JSSC.2007.903068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4277881,0
+2,78,A low-noise and low-power voltage-controlled oscillator,10.1109/MWSCAS.2014.6908430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908430,0
+2,79,Low phase noise CMOS voltage-controlled oscillators,10.1109/ICASIC.2007.4415626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415626,0
+2,80,Performance Evaluation of Opto-electronic Oscillators Employing Photonic Crystal Fibers,10.1109/EUMC.2006.281150,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4058019,0
+2,81,A Temperature-Compensated Crystal Oscillator With Piecewise Polynomial Varactor Compensation Achieving ±3.75-ppm Inaccuracy From −30°C to 90°C,10.1109/TCSII.2021.3138774,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9667098,0
+2,82,Design of 2.4 GHz CMOS LC Tank Voltage Controlled Oscillator (VCO) for PLL using 0.18 µm CMOS Technology,10.1109/SMELEC.2018.8481242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481242,0
+2,83,Scaling $LC$ Oscillators in Nanometer CMOS Technologies to a Smaller Area But With Constant Performance,10.1109/TCSII.2009.2019163,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4895219,0
+2,84,Integrated Frequency Synthesizer with an Improved LC-Tank Colpitts Voltage-Controlled Oscillator,10.1109/GSMM53818.2022.9792366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9792366,0
+2,85,A CMOS Colpitts Voltage-Controlled Oscillator with Bias-Free pMOSFET Tails,10.1109/APMC47863.2020.9331625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331625,0
+2,86,Experimental study of injected interference effects on modulated sidebands in CMOS LC VCO,10.1109/COMCAS.2017.8244812,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8244812,0
+2,87,High Q-Factor Graphene-Based Inductor CMOS LC Voltage Controlled Oscillator for PLL Applications,10.1109/CCECE53047.2021.9569050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9569050,0
+2,88,"A 12-GHz Transformer Feedback Class-F₂,₃ Voltage-Controlled Oscillator Using Noise Circulating With FoM of 190.5 dBc/Hz",10.1109/LMWC.2021.3091978,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9464228,0
+2,89,A K-Band Fractional-N Frequency Synthesizer With a Low Phase Noise LC VCO in 90nm CMOS,10.1109/ISCAS.2018.8350887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8350887,0
+2,90,Design of low phase noise LC VCO for UHF RFID reader,10.1109/APCC.2009.5375605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5375605,0
+2,91,"A low power consumption, low phase noise, and wide tuning range LC VCO with ACC",10.1109/ICCT.2011.6158045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6158045,0
+2,92,A fully integrated differential double frequency wide tuning range CMOS LC VCO for 2.4GHz IEEE802.15.4/ZigBee,10.1109/ISSSE.2010.5607073,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5607073,0
+2,93,Study and design of integrated crystal oscillator,10.1109/WCSP.2009.5371715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5371715,0
+2,94,Design of an optimized CMOS series-parallel coupled LC quadrature phase oscillator,10.1109/EDSSC.2016.7785266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7785266,0
+2,95,A low phase noise VCO using enhanced LC resonator in an single-chip ASK receiver,10.1109/ICASIC.2005.1611403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1611403,0
+2,96,A Capacitively Coupled Noise Circulating VCO,10.1109/LMWC.2021.3101287,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9502085,0
+2,97,A 5.56 GHz Single Core Digitally-Controlled Oscillator With Direct Fine Tuning Steps of 2.85 kHz,10.1109/CCECE49351.2022.9918299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9918299,0
+2,98,A kind of LC voltage-controlled oscillator based on centre-tapped inductance,10.1109/MACE.2011.5988689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5988689,0
+2,99,Design of 0.13-μm CMOS Voltage-Controlled Oscillator (VCO) for 2.45 GHz IoT Application,10.1109/INCET54531.2022.9824839,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824839,0
+3,0,Design of CMOS Based Lc-Voltage Control Oscillator Using Substrate Bias Effect and Low-Voltage Folded-Cascade Current Mirror Circuit,10.1109/ICCPCT61902.2024.10672658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10672658,0
+3,1,A 5 GHz BiCMOS I/Q VCO with 360° variable phase outputs using the vector sum method,10.1109/PIMRC.2008.4699403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4699403,0
+3,2,Phase Noise Reduction in LC VCO’s Using an Array of Cross-Coupled Nanoscale MOSFETs and Intelligent Post-Fabrication Selection,10.1109/TMTT.2022.3164949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760180,0
+3,3,Low-noise fractional-N PLL design with mixed-mode triple-input LC VCO in 65nm CMOS,10.1109/RFIC.2010.5477397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477397,0
+3,4,A 900-MHz CMOS low-phase-noise voltage-controlled ring oscillator,10.1109/82.917794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=917794,0
+3,5,The effect of substrate noise on a 5.2 GHz LC-Tank VCO performance in a lightly doped substrate,10.1109/DTIS.2008.4540259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540259,0
+3,6,A Digital-to-Time Converter with Coupled Phase-Rotating LC Oscillators in 90-nm CMOS Technology,10.1109/ISCAS.2019.8702744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702744,0
+3,7,Low phase noise load independent switched LC VCO,10.1109/MWSYM.2010.5514811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5514811,0
+3,8,Power-Optimized Digitally Controlled Oscillator in 28-nm CMOS for Low-Power FMCW Radars,10.1109/LMWC.2021.3092182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9464297,0
+3,9,A multi-tap inductor based 2.0–4.1 GHz wideband LC-oscillator,10.1109/APCCAS.2016.7803967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803967,0
+3,10,A 4.8 GHz RF CMOS wideband LC VCO for wireless sensor networks RFICs,10.1109/WCSP.2009.5371587,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5371587,0
+3,11,A Fully Integrated LC VCO with 1V Voltage Supply in 0.18µm CMOS Process for Wireless Sensor Network Applications,10.1109/CSSS.2012.134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6394372,0
+3,12,Phase noise and phase accuracy in multiphase LC oscillators,10.1109/MWSYM.2005.1516760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1516760,0
+3,13,A 4.5-mW 22-nm CMOS Label-Free Frequency-Shift 3 × 3 × 2 3-D Biosensor Array Using Vertically Stacked 60-GHz LC Oscillators,10.1109/TCSII.2022.3185542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9803228,0
+3,14,A 1-mW 12-GHz LC VCO in 65-nm CMOS technology,10.1109/ICECS.2016.7841237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841237,0
+3,15,Design of active inductor based tunable voltage controlled oscillator,10.1109/ICCSP.2017.8286495,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8286495,0
+3,16,A 0.18 µm low power CMOS radio frequency LC oscillator for broadband wireless communication applications,10.1109/ICBNMT.2010.5705129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705129,0
+3,17,A 31.8–40.8GHz Continuously Wide-Tuning VCO Based on Class-B Oscillator using Single Varactor and Inductor,10.1109/RFIC.2018.8429032,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8429032,0
+3,18,A 4.6–5.9 GHz fully integrated 0.25-µm CMOS complementary LC VCO with buffer,10.1109/MIKON.2016.7492051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7492051,0
+3,19,A Novel DCXO Module for Clock Synchronization in MPEG2 Transport System,10.1109/TCSI.2008.918232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4448968,0
+3,20,Wideband local oscillator design for wideband transceivers,10.1109/RFM.2011.6168689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6168689,0
+3,21,On Stability of Synchronized van der Pol Oscillators,10.1109/ICECS.2006.379689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263601,0
+3,22,A time-to-digital converter using a multi-phase voltage-controlled oscillator,10.1109/EDSSC.2010.5713764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5713764,0
+3,23,A low phase-noise CMOS VCO with harmonic tuned LC tank,10.1109/TMTT.2006.877439,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1650429,0
+3,24,A Time-Domain High-Order MASH  $\Delta\Sigma$ ADC Using Voltage-Controlled Gated-Ring Oscillator,10.1109/TCSI.2012.2209298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6266713,0
+3,25,An 11.7–17.2GHz digitally-controlled oscillator in 65nm CMOS for high-band UWB applications,10.1109/ICSICT.2012.6466667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6466667,0
+3,26,Design of A Low-Supply Sensitivity LC VCO with Complementary Varactors,10.1109/MWSCAS.2018.8624113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8624113,0
+3,27,A 1.8 GHz CMOS quadrature voltage-controlled oscillator (VCO) using the constant-current LC ring oscillator structure,10.1109/ISCAS.1998.698867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=698867,0
+3,28,Mode-Selection and Mode-Feedback Techniques Optimizes VCXO (Voltage Controlled Crystal Oscillator) Performances,10.1109/SARNOF.2008.4520080,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4520080,0
+3,29,A 2.4 GHz Very Low Phase Noise Fully Integrated Quadrature LC Oscillator,10.1109/ICECS.2007.4511185,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511185,0
+3,30,Design Techniques for Linearity in Time-Based  $\Sigma\Delta$ Analog-to-Digital Converter,10.1109/TCSII.2015.2506004,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7347382,0
+3,31,Analysis and design of analog-based voltage controlled oscillator linearization technique,10.1109/IDT.2013.6727106,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6727106,0
+3,32,An Ultra-Low Phase Noise Low-Power 10-GHz LC VCO with High-Q Common-Mode Harmonic Resonance for 5G Systems,10.1109/IMAS55807.2023.10066937,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10066937,0
+3,33,High Performance VCO Design Using High Q SIW Resonator,10.1109/ICCES51350.2021.9489000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9489000,0
+3,34,Comparison of a fully integrated differential voltage controlled Colpitts oscillator to the cross-coupled oscillator topology,10.1109/SMIC.2005.1587938,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1587938,0
+3,35,An LC voltage-controlled oscillator with supply sensitivity compensation method,10.1109/MWSCAS.2017.8053044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053044,0
+3,36,A low phase noise VCO using injection locking,10.1109/ICOMICON.2017.8279101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8279101,0
+3,37,A Low-Phase Noise and High Output Swing RF LC-VCO in CMOS Technology,10.1109/RFM.2006.331068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4133583,0
+3,38,A RHBD LC-Tank Oscillator Design Tolerant to Single-Event Transients,10.1109/TNS.2010.2084593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5658053,0
+3,39,Accurate circuit based non linear perturbation model of phase noise in LC oscillators,10.1109/MWSCAS.2005.1594210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594210,0
+3,40,A 5.3 GHz phase shift tuned I/Q LC oscillator with 1.1 GHz tuning range,10.1109/RFIC.2003.1214030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1214030,0
+3,41,A 5.3 GHz phase shift tuned I/Q LC oscillator with 1.1 GHz tuning range,10.1109/MWSYM.2003.1211052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1211052,0
+3,42,A 2.4GHz low-power low-phase-noise CMOS LC VCO,10.1109/ISVLSI.2004.1339533,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1339533,0
+3,43,Strong Injection Locking in Low- $Q$ LC Oscillators: Modeling and Application in a Forwarded-Clock I/O Receiver,10.1109/TCSI.2009.2027509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5164943,0
+3,44,Noise Optimization of a Resistively-Driven Ring Oscillator for VCO-Based ADCs,10.1109/ISCAS48785.2022.9937724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937724,0
+3,45,Design of A Voltage-Controlled Oscillator Based on Butterworth Bandpass Filter,10.1109/NRSC61581.2024.10510514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10510514,0
+3,46,RF CMOS$LC$-Oscillator With Source Damping Resistors,10.1109/LMWC.2006.880700,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1683809,0
+3,47,A Temperature-Compensated Digitally-Controlled Crystal Pierce Oscillator for Wireless Applications,10.1109/ISSCC.2008.4523202,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4523202,0
+3,48,610-GHz Fourth Harmonic Signal Reactively Generated in a CMOS Voltage Controlled Oscillator Using Differentially Pumped Varactors,10.1109/LSSC.2020.2978150,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022919,0
+3,49,A fully integrated LC VCO with 1V voltage supply for wireless sensor network applications,10.1109/ATC.2013.6698159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6698159,0
+3,50,Low phase noise LC VCO with self-bias tail,10.1109/ICCPS.2014.7062346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7062346,0
+3,51,A 2-GHz wide band low phase noise voltage-controlled oscillator with on-chip LC tank,10.1109/CICC.2003.1249460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1249460,0
+3,52,Integrated LC VCO Compatible with Memory Process for Gigahertz Clock Generation,10.1109/SMELEC.2006.380718,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266701,0
+3,53,A 23.7 to 29.9 GHz Tunable Fully Differential Voltage Controlled Oscillator Designed in 180nm CMOS process,10.1109/DCAS57389.2023.10130248,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130248,0
+3,54,1/f² Phase Noise Analysis in Active-Coupling LC-Tank Oscillators With Frequency Mismatch,10.1109/TCSII.2021.3094937,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9475456,0
+3,55,Analysis and Design of Voltage-Controlled Oscillator Based Analog-to-Digital Converter,10.1109/TCSI.2009.2018928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4804641,0
+3,56,A time-based analog-to-digital converter using a multi-phase voltage controlled oscillator,10.1109/ISCAS.2006.1693489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693489,0
+3,57,A 1.8 GHz monolithic LC voltage-controlled oscillator,10.1109/ISSCC.1992.200460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=200460,0
+3,58,A wideband dual-mode VCO with analog and digital automatic amplitude control circuitry,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955463,0
+3,59,LC-VCO in the 3.3- to 4-GHz Band Implemented in 32-nm Low-Power CMOS Technology,10.1109/TCSII.2011.2160033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940214,0
+3,60,A 4.0/7.5-GHz dual-band LC VCO in 0.18-μm SiGe BiCMOS technology,10.1109/VLDI-DAT.2013.6533836,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6533836,0
+3,61,Performance degradation of LC-tank VCOs by impact of digital switching noise in lightly doped substrates,10.1109/JSSC.2005.847301,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1458990,0
+3,62,Power-Efficient Body-Coupled Self-Cascode LC Oscillator for Low-Power Injection-Locked Transmitter Applications,10.1109/ISVLSI.2009.14,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5076415,0
+3,63,"Ultralow Power, 3.15 mW, 76.7 GHz Digitally Controlled Oscillator in 65 nm CMOS for High Data-Rate Application",10.23919/EuMIC.2019.8909398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909398,0
+3,64,An 80GHz range synchronized push-push oscillator for automotive radar application,10.1109/RFIC.2010.5477324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477324,0
+3,65,An Active Inductor Based Quadrature Voltage-Controlled Oscillator in $\mathbf{0.13}\mu\mathbf{m}$ CMOS,10.1109/ICAM.2018.8596537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8596537,0
+3,66,A low phase noise 0.9 / 1.8 GHz dual-band LC VCO in 0.18 μm CMOS technology,10.23919/ELINFOCOM.2018.8330717,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8330717,0
+3,67,Study of 1 MHz /spl sim/ 30 MHz voltage-controlled LC oscillator,10.1109/APRASC.2004.1422459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1422459,0
+3,68,A single LC tank self-compensated CMOS oscillator with frequency stability of ±100ppm from −40°C to 85°C,10.1109/FCS.2012.6243676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6243676,0
+3,69,A novel voltage controlled temperature compensated crystal oscillator for eliminating the trim effect,10.1109/FCS.2016.7546741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546741,0
+3,70,A wideband CMOS LC VCO with low tuning sensitivity for CMMB applications,10.1109/PRIMEASIA.2009.5397397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5397397,0
+3,71,Design of a K-Band VCO Implementing T-Type LC Network in 0.18-μm CMOS Technology,10.1109/LMWT.2023.3266315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109110,0
+3,72,Design of LC-VCO for low power narrowband electronic applications,10.1109/WIRELESSVITAE.2011.5940827,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940827,0
+3,73,On the selection of passive elements for low phase noise LC tank VCO in 65 nm process,10.1109/CEEICT.2016.7873163,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7873163,0
+3,74,Design of current starved voltage control oscillator with band gap reference in 0.18μm CMOS process,10.1109/RISE.2017.8378185,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8378185,0
+3,75,A 0.7-mW LC Voltage-Controlled Oscillator Leveraging Switched Biasing Technique for Low Phase Noise,10.1109/TCSII.2018.2886171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8572759,0
+3,76,Design of a wide-tuning-range lithium tantalate low-phase-noise voltage-controlled oscillator,10.1109/TCSII.2013.2240812,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6475989,0
+3,77,A Darlington-Enhanced CMOS Oscillator Architecture,10.1109/TCSII.2011.2177699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6104124,0
+3,78,"A programmable 8-bit, 10MHz BW, 6.8mW, 200MSample/sec, 70dB SNDR VCO-based ADC using SC feedback for VCO linearization",10.1109/ICECS.2013.6815378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815378,0
+3,79,A new small-sized pierce crystal oscillator readout with novel on-chip all-digital temperature sensing and compensation,10.1109/ICSENS.2014.6984974,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6984974,0
+3,80,Analysis of die-to-die vertical crosstalk between Clock-tree and Voltage Controlled Oscillator in 3-D IC,10.1109/ISEMC.2011.6038279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6038279,0
+3,81,A Highly-Digital VCO-Based Analog-to-Digital Converter Using Phase Interpolator and Digital Calibration,10.1109/TVLSI.2011.2159635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955090,0
+3,82,A 40 GHz Low Phase Noise VCO in 40 nm CMOS,10.1109/PACET56979.2022.9976322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9976322,0
+3,83,A wideband 0.13μm CMOS LC-VCO for IMT-Advanced and UWB applications,10.1109/IMWS2.2012.6338194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6338194,0
+3,84,An Ultra-Wideband 3-23 GHz VCO Array with high continuous tuning range for FMCW Radar application,10.23919/GEMIC.2019.8698168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698168,0
+3,85,Synchronization of two LC-oscillators using nonlinear models,10.1109/MWSCAS.2007.4488631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488631,0
+3,86,A low phase noise VCO for multi band wireless transceivers,10.1109/DTIS.2007.4449509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4449509,0
+3,87,A 28GHz Injection-Locked Voltage-Controlled Oscillator Pair with Tunable Phase Outputs in 130nm CMOS,10.1109/ICICDT.2019.8790895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8790895,0
+3,88,A 2.22–2.92GHz LC-VCO demonstrated with an integrated magnetic-enhanced inductor in 180nm SOI CMOS,10.1109/RFIC.2016.7508263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508263,0
+3,89,Comparison of gm-boosted oscillators in silicon field effect transistor and silicon-germanium hetero-junction bipolar transistor technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5291047,0
+3,90,A 0.009–1.4-GHz Frequency Synthesizer With Suppressed Transients During VCO Band Switching,10.1109/TCSII.2015.2468914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7202810,0
+3,91,Electrothermal Tunable MEMS Oscillators for MEMS-Based Reservoir Computing,10.1109/LSENS.2024.3417614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10568323,0
+3,92,A 4.48-5.98 GHz Frequency Range LC VCO-Based PLL for Wireless Applications with -138.6 dBc/Hz Phase Noise Suppression at 1 MHz Offset,10.1109/ICCIT60459.2023.10441598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10441598,0
+3,93,A Quadrature-Phase Voltage Controlled Oscillator for Offset Phase and Frequency Compensation,10.1109/VLSID.2018.58,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326921,0
+3,94,The Analog Behavior of Pseudo Digital Ring Oscillators Used in VCO ADCs,10.1109/TCSI.2021.3073817,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9415137,0
+3,95,A silicon-based 2.4GHz fully-differential LC-VCO: A design methodology proposal,10.1109/SMACD.2015.7301688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7301688,0
+3,96,Coupling effects on one-dimensional RF coupled oscillator arrays using monolithic LC-VCOs,10.1109/WMCaS.2013.6563559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6563559,0
+3,97,13.95GHz–15.03GHz LC VCO using triple-coupling,10.1109/KBEI.2019.8735014,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8735014,0
+3,98,Design and Implementation of KU Band LC-VCO using 90nm CMOS Process,10.1109/ICOSEC49089.2020.9215283,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9215283,0
+3,99,Design of low power 3.3–4 GHz LC VCO using CMODE,10.1109/ICE-CCN.2013.6528598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6528598,0
+4,0,LC oscillator driver for safety critical applications [automotive applications],10.1109/DATE.2005.194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1395813,0
+4,1,Automated synthesis of integrated RF CMOS LC VCOs,10.1109/ICEEC.2004.1374506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1374506,0
+4,2,"A Comparative Study of Ring VCO and LC-VCO: Design, Performance Analysis, and Future Trends",10.1109/ACCESS.2023.3331308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10311506,0
+4,3,Design of low phase noise K-band Voltage-Controlled Oscillator using 180 nm CMOS and integrated passive device technologies,10.1109/NORCHIP.2014.7004743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7004743,0
+4,4,Design a 5GHz low power CMOS LC VCO for IEEE 802.11a application,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728657,0
+4,5,LC-Voltage-Controlled-Oscillator-Based Biosensor in 180-nm CMOS Process Targeting β-Dispersion for Detecting Exosomes,10.1109/APCCAS47518.2019.8953109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953109,0
+4,6,A Low Power Injection Locked $LC$-Tank Oscillator With Current Reused Topology,10.1109/LMWC.2006.890493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4118210,0
+4,7,A 20GHz LC-VCO for Satellite Microwave Communication Application,10.1109/IMWS-AMP49156.2020.9199678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9199678,0
+4,8,VCO-Based ADC With Built-In Supply Noise Immunity Using Injection-Locked Ring Oscillators,10.1109/TCSII.2018.2875867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490746,0
+4,9,Low Phase Noise 2.45GHz LC VCO Based On Current Reuse Technique in 180nm CMOS Technology,10.1109/IESPC.2019.8902390,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902390,0
+4,10,A Center Frequency Calibration Technique for Ring VCO Exploiting Delay−1 Detection,10.1109/MWSCAS47672.2021.9531788,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531788,0
+4,11,Modeling and Mitigating Single-Event Transients in Voltage-Controlled Oscillators,10.1109/TNS.2007.907988,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4395054,0
+4,12,A low cost microcontroller compensated crystal oscillator,10.1109/FREQ.1997.639215,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=639215,0
+4,13,"Design, Simulation and Measurement of a Flexible Voltage-controlled Oscillator (VCO) Chip with Bending Radius",10.1109/EPEPS48591.2020.9231415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9231415,0
+4,14,"A high-stability, ultra-low-power quartz differential oscillator circuit for demanding radio applications",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471472,0
+4,15,A Discrete-Time Input $\Delta\Sigma$ ADC Architecture Using a Dual-VCO-Based Integrator,10.1109/TCSII.2010.2068111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5606195,0
+4,16,A low-jitter phase-locked loop architecture for clock generation in Analog to Digital Converters,10.1109/RAICS.2011.6069277,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6069277,0
+4,17,Diode-Based Piecewise Linear Tuning Design of Ku-Band Voltage-Controlled Oscillator,10.1109/LMWT.2023.3335664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10330809,0
+4,18,A 4.5-5.8 GHz Differential LC VCO using 0.35 μm SiGe BiCMOS Technology,10.1109/EMICC.2006.282671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057665,0
+4,19,Design of a LC VCO and injection locked frequency divider special for Ka-band application,10.1109/ICSICT.2012.6467787,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6467787,0
+4,20,Fully Integrated Frequency Reference With 1.7 ppm Temperature Accuracy Within 0–80°C,10.1109/JSSC.2013.2280052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6600879,0
+4,21,/spl Sigma/High-frequency LC VCO design using capacitive degeneration,10.1109/JSSC.2004.835643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1362844,0
+4,22,Quadrature Van der Pol oscillators using second harmonic coupling,10.1109/ISCAS.2006.1692922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692922,0
+4,23,Beating the power limit of LC oscillators,10.1109/MWSCAS.2007.4488625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488625,0
+4,24,VCO Design With On-Chip Calibration System,10.1109/TCSI.2006.883844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1710195,0
+4,25,Nonlinear Analysis of Voltage-Controlled Oscillators: A Systematic Approach,10.1109/TCSI.2008.917996,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4446767,0
+4,26,CMOS technology based LC VCO review,10.1109/eStream.2015.7119493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7119493,0
+4,27,A Study of Multi-Phase Injection on Accelerating Crystal Oscillator Start-Up,10.1109/TCSII.2020.2978097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022889,0
+4,28,Design of a 4.2-5.4 GHz Differential LC VCO using 0.35 μm SiGe BiCMOS Technology,10.1109/SARNOF.2006.4534780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4534780,0
+4,29,Enhancement of VCO Linearity and Phase Noise by Implementing Frequency Locked Loop,10.1109/EURCON.2007.4400681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4400681,0
+4,30,21.5-to-33.4 GHz Voltage-Controlled Oscillator Using NMOS Switched Inductors in CMOS,10.1109/LMWC.2014.2317112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6824860,0
+4,31,"Low-Power, Low-Phase-Noise Gm-Boosted 10-GHz VCO With Center-Tap Transformer and Stacked Transistor",10.1109/TCSII.2019.2945123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8854865,0
+4,32,Dual C- and S-Band CMOS VCO Using the Shunt Varactor Switch,10.1109/TVLSI.2014.2346815,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6881738,0
+4,33,Graphical method for the phase noise optimization applied to a 6-GHz fully integrated NMOS differential LC VCO,10.1109/NEWCAS.2011.5981225,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5981225,0
+4,34,A 40-MHz Bandwidth 0–2 MASH VCO-Based Delta-Sigma ADC With 35-fJ/Step FoM,10.1109/TCSII.2015.2458111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161322,0
+4,35,A Digital Background Calibration Circuit for Coarse-Fine Timing Mismatch in VCO-Based ADCs,10.1109/TCSII.2024.3369044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443877,0
+4,36,Analog PLL Design With Ring Oscillators at Low-Gigahertz Frequencies in Nanometer CMOS: Challenges and Solutions,10.1109/TCSII.2009.2019171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4908985,0
+4,37,High linearity voltage-controlled oscillator,10.1109/ASICON.2009.5351417,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351417,0
+4,38,2.8 A pulse-position-modulation phase-noise-reduction technique for a 2-to-16GHz injection-locked ring oscillator in 20nm CMOS,10.1109/ISSCC.2014.6757334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6757334,0
+4,39,Broadband amplitude-stabilized oscillator,10.1109/ASDAM.2010.5667018,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667018,0
+4,40,A Switched-Capacitor DC-DC Converter Powering an LC Oscillator to Achieve 85% System Peak Power Efficiency and −65dBc Spurious Tones,10.1109/TCSI.2020.3012106,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162442,0
+4,41,A 1.0 V 10.2 GHz CMOS frequency divider with differential injection locking,10.1109/WCT.2003.1321470,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1321470,0
+4,42,An 8.5–12.5GHz wideband LC PLL with dual VCO cores for multi-protocol SerDes,10.1109/MWSCAS.2017.8053042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053042,0
+4,43,Analysis and Design of a Double-Quadrature CMOS VCO for Subharmonic Mixing at $Ka$-Band,10.1109/TMTT.2007.914365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4428279,0
+4,44,A Hardened-By-Design Technique for LC-Tank Voltage Controlled Oscillator,10.1109/CCECE.2018.8447659,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447659,0
+4,45,A 100/10-MHz injection controlled LC-VCO,10.1109/ICCPCT.2016.7530171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7530171,0
+4,46,Chip Design of Low Consumption Voltage-Controlled Oscillator with Even Harmonic Mixer,10.1109/RFIT52905.2021.9565261,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565261,0
+4,47,Origin of Frequency-Dependent Distortion and Calibration for Ring Oscillator VCO ADCs,10.1109/TCSII.2024.3370121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445510,0
+4,48,Analysis and Design of Dual-Mode CMOS LC-VCOs,10.1109/TCSI.2015.2426956,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7124535,0
+4,49,Linvill and Rollett Stability Factor and Condition of Feedback Oscillator Design,10.1109/TELSKS.2007.4376096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4376096,0
+4,50,A temperature compensated crystal oscillator based on analog storage method and its test system,10.1109/FREQ.1996.560243,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=560243,0
+4,51,A 57.15–59.00GHz CMOS LC-VCO for V-Band high speed WPAN communication system,10.23919/EuMC.2011.6101773,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6101773,0
+4,52,Compact sub-1mW low phase noise CMOS LC-VCO based on power reduction technique,10.1109/MWSYM.2011.5972904,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972904,0
+4,53,A Very Low Phase Noise Fully Integrated Quadrature LC Oscillator for 2.4 GHz band Applications,10.1109/ICM.2007.4497646,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4497646,0
+4,54,A Very Low Phase Noise Fully Integrated Quadrature LC Oscillator for 2.4 GHz band Applications,10.1109/RFIT.2007.4443977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443977,0
+4,55,Amplitude detection inside CMOS LC oscillators,10.1109/ISCAS.2006.1693791,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693791,0
+4,56,A K-band LC Voltage Controlled Oscillator in 65-nm CMOS technology,10.1109/ICMMT55580.2022.10023071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10023071,0
+4,57,A 2.56-GHz SEU Radiation Hard $LC$ -Tank VCO for High-Speed Communication Links in 65-nm CMOS Technology,10.1109/TNS.2017.2764501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8076710,0
+4,58,A novel voltage controlled crystal oscillator circuit,10.1109/ISCE.2009.5156805,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5156805,0
+4,59,High-performance 2-GHz CMOS LC VCO with high-Q embedded inductors using wiring metal layer in a package,10.1109/TADVP.2006.875404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1667886,0
+4,60,LC-oscillators above 100 GHz in silicon-based technology,10.1109/ESSCIR.2004.1356635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1356635,0
+4,61,Integrated LC oscillators for frequency synthesis in wireless applications,10.1109/35.1000231,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1000231,0
+4,62,A Neural-Recording 0.2-V VCO-based ADC with Machine-Learning-Programmable Coupled Oscillator Ensembles,10.1109/ISSC59246.2023.10162043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10162043,0
+4,63,MMCC-based current-mode fractional-order voltage-controlled oscillators,10.1109/ICISC.2018.8398901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8398901,0
+4,64,A 0.3 V −190.2 dBc/Hz FoM 14-GHz Band LC-VCO IC with Harmonic Tuned LC Tank in 56-nm SOI CMOS,10.23919/EuMIC.2018.8539876,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8539876,0
+4,65,A Subthreshold Low Phase Noise CMOS LC VCO for Ultra Low Power Applications,10.1109/LMWC.2007.908057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358000,0
+4,66,Frequency-Tuning Negative-Conductance Boosted Structure and Applications for Low-Voltage Low-Power Wide-Tuning-Range VCO,10.1109/TVLSI.2014.2333692,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6856164,0
+4,67,A microwave real-time dielectric sensor based on a K-band BICMOS LC oscillator,10.1109/EuMC.2014.6986615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986615,0
+4,68,A High-Linearity 19 GHz LC-Based VCO for PVT Compensation,10.1109/IAEAC59436.2024.10503944,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10503944,0
+4,69,LC-VCO Design Optimization Methodology Based on the  $g_m/I_D$ Ratio for Nanometer CMOS Technologies,10.1109/TMTT.2011.2132735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5756468,0
+4,70,A Low Phase Noise  $LC$ VCO in 65 nm CMOS Process Using Rectangular Switching Technique,10.1109/LMWC.2007.901795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4285672,0
+4,71,A Time-Domain Oscillator Envelope Tracking Algorithm Employing Dual Phase Conditions,10.1109/TCAD.2007.907259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358323,0
+4,72,Multi-swarm Optimization of a Graphene FET Based Voltage Controlled Oscillator Circuit,10.1109/ISVLSI.2015.24,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7309632,0
+4,73,A Subthreshold Time-Domain Analog Spiking Neuron With PLL-Based Leak Circuit and Capacitive DAC Synapse,10.1109/LSSC.2024.3384762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10492988,0
+4,74,Sub-1mW RF Voltage Controlled Oscillator Design Optimization for IoT,10.1109/MMS.2017.8497152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8497152,0
+4,75,16-Core BiCMOS VCOs With Phase Noise Down to –130 dBc/Hz at 1-MHz Offset From 20 GHz,10.1109/LSSC.2022.3193236,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837311,0
+4,76,A Novel Technique of Component Sharing in Analog Integrated Circuits,10.1109/EICT54103.2021.9733585,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733585,0
+4,77,A −197.3-dBc/Hz FoMT Wideband LC-VCO IC With a Single Voltage-Controlled IMOS-Based Novel Varactor in 40-nm CMOS SOI,10.1109/TMTT.2020.2990441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091010,0
+4,78,A 10 GHz frequency-drift temperature compensated LC VCO with fast-settling low-noise voltage regulator in 0.13 µm CMOS,10.1109/CICC.2010.5617448,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5617448,0
+4,79,Digital design for a self-temperature compensating oscillator,10.1109/FREQ.2002.1075953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1075953,0
+4,80,"A 28-nm 368-fJ/Cycle, 0.43%/V Supply-Sensitivity, FLL-Based RC Oscillator Featuring Positive-TC-Only Resistors and ΔΣM-Based Trimming",10.1109/TCSII.2023.3277617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129158,0
+4,81,Optimization of the data rate of an OOK CMOS medical transmitter based on LC oscillators,10.1109/ISCAS.2016.7539161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539161,0
+4,82,Analog-to-digital converter using CML based Ring oscillator with tuning range 1–7.2 GHz in 90 nm CMOS,10.1109/ICCCS.2014.7068180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7068180,0
+4,83,Performance Improved Voltage Controlled Oscillator and Double Balanced Mixer Chip Design,10.23919/ACES-China52398.2021.9581977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9581977,0
+4,84,The architecture of delta sigma analog-to-digital converters using a voltage-controlled oscillator as a multibit quantizer,10.1109/82.775391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=775391,0
+4,85,Investigation of the Electrical Performance of Voltage-Controlled-Oscillators in HCBT BiCMOS Technology,10.1109/SST55530.2022.9954636,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954636,0
+4,86,Analysis and characterization of Voltage Controlled Oscillator for UWB application based on OFDM in 90 nm CMOS technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5233472,0
+4,87,Double temperature compensated crystal oscillator,10.1109/FREQ.2004.1418557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1418557,0
+4,88,A 2-GHz Dual-Path Sub-Sampling PLL with Ring VCO Phase Noise Suppression,10.1109/CICC53496.2022.9772813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772813,0
+4,89,Crystal Oscillator Design for Using in Sensor Technique,10.1109/RADIOELEK.2007.371440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4234189,0
+4,90,Improvement of the Performance of FM-CW Radar Systems by using Direct Digital Synthesizers: Comparison with Voltage Controlled Oscillators,10.1109/IRS.2006.4338068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4338068,0
+4,91,Design of a Low Power Complementary Current Controlled Skewed Delay Voltage Controlled Oscillator using CNTFET,10.1109/ICAIA57370.2023.10169252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10169252,0
+4,92,Stress induced performance degradation in LC oscillators,10.1109/FREQ.2005.1573993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1573993,0
+4,93,"Design of low power, wider tuning range CMOS voltage control oscillator for ultra wideband applications",10.1109/ICICDT.2012.6232845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6232845,0
+4,94,A low-voltage low-noise superharmonic quadrature oscillator,10.1109/ICECS.2008.4674875,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4674875,0
+4,95,"Low-voltage, Crystal Controlled Comb Spectrum Oscillator for Injection Locked STW Based Clocks with Improved Stability",10.1109/FREQ.2006.275417,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4053795,0
+4,96,A digitally controlled oscillator system for SAW-less transmitters in cellular handsets,10.1109/JSSC.2006.872739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1624406,0
+4,97,$K$-band High-PAE Wide-Tuning-Range VCO Using Triple-Coupled $LC$ Tanks,10.1109/TCSII.2013.2281751,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6615962,0
+4,98,Write pulse Generator for 16x DVD recording with symmetric CMOS inverter ring oscillator,10.1109/JSSC.2005.857373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1522568,0
+4,99,Integrated chip design of a 10GHz band voltage controlled oscillator and charge-injected mixer with low phase noise and wide tuning range,10.1109/WCSP.2014.6992013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6992013,0
+5,0,Design of a SystemVerilog-Based VCO Real Number Model,10.1109/MOCAST.2019.8741782,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8741782,0
+5,1,Q - Enhanced 5GHz CMOS VCO Using 4-port Transformer,10.1109/SMIC.2007.322795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4117340,0
+5,2,A maximally-digital VCO-ADC with inherent mixing input capability,10.1109/ISCAS48785.2022.9937797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937797,0
+5,3,A novel voltage controlled crystal oscillator (VCXO) circuits,10.1109/WAMICON.2009.5207274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5207274,0
+5,4,CMOS differential LC oscillator with suppressed up-converted flicker noise,10.1109/ISSCC.2003.1234224,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1234224,0
+5,5,A low power high performance PLL with temperature compensated VCO in 65nm CMOS,10.1109/RFIC.2016.7508243,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508243,0
+5,6,Range Resolution Improvement in FMCW Radar Through VCO's Nonlinearity Compensation,10.1109/WiSNeT56959.2023.10046230,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10046230,0
+5,7,Work in process: Integrated low phase noise Colpitts quadrature voltage controlled oscillator and mixer with charge-injection for Wimax communications and wireless networking application,10.1109/CHINACOM.2014.7054268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7054268,0
+5,8,Design of a Low Voltage Low-Phase-Noise Complementary CMOS VCO,10.1109/ISICIR.2007.4441889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441889,0
+5,9,A 5-8 GHz Wideband and Low Phase Noise Cross-Coupled LC VCO Using 6-bit DCCA in 40nm CMOS Process,10.1109/ICSICT55466.2022.9963377,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963377,0
+5,10,A Two-Point Modulation Voltage Controlled Oscillator Design and Implementation : Design and Implementation,10.1109/ICSPCC.2018.8567726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567726,0
+5,11,A Sub-1-V 4-GHz CMOS VCO and a 12.5-GHz oscillator for low-voltage and high-frequency applications,10.1109/82.974779,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=974779,0
+5,12,Design and Analysis of wide tuning range (17-35) GhZ LC VCO for K and K Band applications using 180 nm CMOS Technology,10.1109/I2CT45611.2019.9034065,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9034065,0
+5,13,A Wideband Dual-Mode  $LC$-VCO With a Switchable Gate-Biased Active Core,10.1109/TCSII.2014.2305216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6755488,0
+5,14,A Continuous Time Analog-to-Digital Converter With 90μW and 1.8μV/LSB Based on Differential Ring Oscillator Structures,10.1109/ISCAS.2007.378332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252867,0
+5,15,Power optimized LC VCO and mixer co-design,10.1109/ISCAS.2005.1465605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465605,0
+5,16,Low power 5GHz quadrature phase CMOS LC oscillator with active inductor,10.1109/ISCIT.2004.1413887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1413887,0
+5,17,A Fast Startup Voltage Controlled Oscillator Design for IR-UWB Applications,10.1109/ICMMT58241.2023.10277242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10277242,0
+5,18,A 56GHz LC-tank VCO with 17% tuning range in 65nm bulk CMOS for wireless HDMI applications,10.1109/RFIC.2009.5135585,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135585,0
+5,19,A Supply Pushing Reduction Technique for LC Oscillators Based on Ripple Replication and Cancellation,10.1109/JSSC.2018.2871195,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486740,0
+5,20,Design of a Ku-band Low-Phase-Noise VCO Using the Dual  $LC$ Tanks,10.1109/TCSII.2012.2190855,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6189056,0
+5,21,A 4.6–5.6 GHz constant KVCO low phase noise LC-VCO and an optimized automatic frequency calibrator applied in PLL frequency synthesizer,10.1109/IECON.2017.8217464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8217464,0
+5,22,Verifying analog oscillator circuits using forward/backward abstraction refinement,10.1109/DATE.2006.244113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1656886,0
+5,23,Johnson Counter-Based Multiphase Generation for VCO-Based ADC for Direct Digitization of Low Amplitude Sensor Signals,10.1109/TIM.2023.3265121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093972,0
+5,24,Optimal Sizing of CMOS LC Voltage Controlled Oscillator by means of Genetic Algorithm,10.1109/IRASET57153.2023.10152891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10152891,0
+5,25,Application of Subharmonic Injection Locking of LC Oscillators to LO-Based Phase-Shifting Phased-Array Architectures,10.1109/TMTT.2010.2081570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5613228,0
+5,26,Phase Noise in LC Oscillators: A Phasor-Based Analysis of a General Result and of Loaded  $Q$,10.1109/TCSI.2009.2030110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5356206,0
+5,27,An extremely low power 2 GHz CMOS LC VCO for wireless communication applications,10.1109/ECWT.2005.1617647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1617647,0
+5,28,A 5.3GHz low-phase-noise LC VCO with harmonic filtering resistor,10.1109/ISCAS.2006.1693315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693315,0
+5,29,A Ku-Band Voltage-Controlled Oscillator Equipped With a Compact Enhanced Linearity Tuning Converter,10.1109/LMWC.2020.3036127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9259042,0
+5,30,Low power and low phase noise 5.7 GHz LC VCO in OOK transmitter for neurosensory application,10.1109/MWSYM.2005.1516989,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1516989,0
+5,31,100 Mbs OOK transmitter with low power and low phase noise LC VCO for neurosensory application,10.1109/SECON.2005.1423220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1423220,0
+5,32,A new resonant circuit for 2.45 GHz LC VCO with linear frequency tuning,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102837,0
+5,33,A K-Band Application's LC-VCO with Body Biasing Technique Using 130 nm CMOS Technology,10.1109/ISAECT.2018.8618826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618826,0
+5,34,Monitor-Based In-Field Wearout Mitigation for CMOS LC Oscillators,10.1109/TDMR.2016.2557624,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7457652,0
+5,35,A Reconfigurable Multiphase  $LC$-Ring Structure for Programmable Frequency Multiplication,10.1109/TCSII.2014.2362741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922506,0
+5,36,A Wideband Low Phase Noise Voltage Controlled Oscillator in 0.13μm CMOS,10.1109/ICICM56102.2022.10011303,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011303,0
+5,37,A K-Band Voltage-Controlled Oscillator with Gate-Drain Phase Shift Achieving 110 kHz 1/f3 Corner,10.1109/RFIC61187.2024.10600047,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600047,0
+5,38,A new low phase noise LC-tank CMOS cascode Cross-coupled oscillator,10.1109/IRANIANCEE.2010.5507039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5507039,0
+5,39,A Low-Phase-Noise Transformer-Feedback VCO With Separated DM and CM Resonance,10.1109/LMWT.2023.3263883,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098830,0
+5,40,A 94.2-dB SNDR 142.6-μW VCO-Based Audio ADC With a Split-ADC Differential Pulse Code Modulation Architecture,10.1109/LSSC.2021.3092020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9464760,0
+5,41,A GHz spintronic-based RF oscillator,10.1109/ISSCC.2009.4977375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4977375,0
+5,42,A simulated LC oscillator using multi-input floating-gate MOSFETS,10.1109/ISCAS.2001.921444,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921444,0
+5,43,A Wideband Low Phase Noise 20GHz Class-F VCO in 14nm FinFET CMOS Technology,10.1109/APMC47863.2020.9331373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331373,0
+5,44,A K-band monolithic broadband low phase noise voltage controlled oscillators using HBT-HEMT cascode topology,10.1109/APMC.2013.6694931,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6694931,0
+5,45,An on-chip low power low phase noise VCO with frequency divider for low jitter low phase noise applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733878,0
+5,46,Structural and electrical properties of modified CMOS device under radiation environment in designing of voltage control oscillator (VCO),10.1109/CIPECH.2014.7019063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019063,0
+5,47,A Low-Frequency Sinusoidal Voltage Controlled Oscillator Based on Switched Capacitor Filters,10.1109/INSCIT62583.2024.10693381,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10693381,0
+5,48,2.4-GHz-band low-voltage LC-VCO IC with simplified noise filtering in 180-nm CMOS,10.1109/IEEE-IWS.2016.7585430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585430,0
+5,49,A Novel Op-Amp Based LC Oscillator for Wireless Communications,10.1109/IECON43393.2020.9255128,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9255128,0
+5,50,A Low-Power Quadrature LC-Oscillator Using Core-and-Coupling Current-Reuse,10.1109/ISCAS51556.2021.9401110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401110,0
+5,51,A dual-band LC VCO using a switched current source for IMT-Advanced and UWB applications,10.1109/ISSSE.2010.5607120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5607120,0
+5,52,Reduction of up-converted flicker noise in differential LC-VCO designed in 32nm CMOS technology,10.1109/RME.2009.5201309,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5201309,0
+5,53,"A low power, eight-phase LC-ring oscillator for clock and data recovery application",10.1109/INMMIC.2012.6331943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6331943,0
+5,54,A 0.18μm 1V 5GHz LC VCO designed for WSN applications,10.1109/ICSICT.2012.6467668,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6467668,0
+5,55,"A 3.1-51GHz, Sub-8mW, Single-Core LC VCO Based on a Novel Compact Tunable Transmission Line (CTTL) Resonator in 28nm FDSOI CMOS",10.1109/RFIC51843.2021.9490503,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490503,0
+5,56,A 27-GHz low-power push-push LC VCO with wide tuning range in 65nm CMOS,10.1109/ISCAS.2011.5937772,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5937772,0
+5,57,A 21.4% tuning range 13 GHz Quadrature voltage-controlled oscillator utilizing manipulatable inherent bimodal oscillation phenomenon in standard 90-nm CMOS process,10.1109/SIRF.2011.5719325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5719325,0
+5,58,A Wideband Tunable Voltage Controlled Oscillator Supporting Non-harmonically-Related Multiple Frequency Bands for Future 5G Applications Using $\mathbf{0.13}-\mu \mathbf{m}$ SiGe BiCMOS Technology,10.1109/ICAM.2018.8596529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8596529,0
+5,59,A 5.9 GHz LC-based digitally controlled oscillator with high frequency resolution using novel varactor pairs,10.1109/RFIT.2009.5383687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383687,0
+5,60,A 10-Bit 5 MS/s VCO-SAR ADC in 0.18- $\mu$ m CMOS,10.1109/TCSII.2018.2833866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8356115,0
+5,61,Metaheuristic algorithms comparison for the LC - Voltage controlled oscillators optimal design,10.1109/ICMSAO.2013.6552658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6552658,0
+5,62,0.13pW/Hz Ring VCO-Based Continuous-Time Read-Out ADC for Bio-Impedance Measurement,10.1109/TCSII.2020.2985336,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9055354,0
+5,63,A 70dB SNDR 20MHz-BW VCO-Based CT Sturdy MASH Delta-Sigma Modulator with Robust Quantization Error Extraction,10.1109/ISCAS58744.2024.10558509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558509,0
+5,64,Comparison of gm-boosted oscillators in silicon field effect transistor and silicon-germanium hetero-junction bipolar transistor technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5296430,0
+5,65,Low power consumptions voltage control oscillator uses PMOS elements optical sensor application,10.1109/ICOCN.2016.7875655,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7875655,0
+5,66,A VCO-Based Readout ADC for Quasi-Static Sensing Applications in 3-µm Low-Temperature Poly-Silicon Thin-Film Transistor Technology,10.1109/ISCAS58744.2024.10558274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558274,0
+5,67,Free-running 2.4GHz Ring Oscillator-Based FSK TX/RX for Ultra-Small IoT Motes,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337291,0
+5,68,A Fully Integrated Double Frequency Wide Tuning Range Differential CMOS LC VCO for 2.4GHz IEEE802.15.4/ZigBee,10.1109/WICOM.2010.5601144,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5601144,0
+5,69,Modeling of MOS varactors and characterizing the tuning curve of a 5-6 GHz LC VCO,10.1109/ISCAS.2005.1465774,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465774,0
+5,70,Design of low phase noise voltage controlled oscillator for phase locked loop,10.1109/ICMDCS.2017.8211599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8211599,0
+5,71,A low-noise voltage-controlled ring oscillator in 28-nm FDSOI technology,10.1109/ICM.2017.8268826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8268826,0
+5,72,Low Phase Noise Concurrent Dual-Band (5/7 GHz) CMOS VCO Using Gate Feedback on Nonuniformly Wound Transformer,10.1109/LMWC.2020.3045192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311180,0
+5,73,An Interference Suppression Technique for Millimeter-Wave LC VCOs Using a Multiport Coupled Inductor,10.1109/TCSII.2021.3134093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9644588,0
+5,74,LC-VCO automatic synthesis using multi-objective evolutionary techniques,10.1109/ISCAS.2014.6865123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865123,0
+5,75,Design of a Low Phase Noise and High Linearity Differential/Quadrature Voltage-Controlled Oscillator for WiFi and 5G NR Applications,10.1109/iWEM59914.2024.10649276,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10649276,0
+5,76,A 60-W/180-W Digitally Controlled Switched-Cap LC Oscillator for 900MHz/2.4GHz operation,10.1109/EUMC.2008.4751553,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4751553,0
+5,77,A Monolithic and Self-Referenced RF LC Clock Generator Compliant With USB 2.0,10.1109/JSSC.2006.883337,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4077168,0
+5,78,An analytic approach used to design a low power and low phase noise CMOS LC oscillator,10.1109/FREQ.2004.1418496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1418496,0
+5,79,Current-controlled quadrature oscillator using only CCCDBAs,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403882,0
+5,80,"A 1.5V, 1.7mA 700 MHz CMOS LC oscillator with no upconverted flicker noise",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471402,0
+5,81,A 25-MHz Self-Referenced Solid-State Frequency Source Suitable for XO-Replacement,10.1109/TCSI.2009.2016133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4787058,0
+5,82,Linearity Enhancement of VCO-Based Quantizers for SD Modulators by Means of a Tracking Loop,10.1109/TCSII.2014.2319914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6805182,0
+5,83,A 12-/13.56-MHz Crystal Oscillator With Binary-Search-Assisted Two-Step Injection Achieving 5.0-nJ Startup Energy and 45.8-μs Startup Time,10.1109/JSSC.2023.3300589,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10225301,0
+5,84,A 900 MHz frequency synthesizer with integrated LC voltage-controlled oscillator,10.1109/ISSCC.1996.488730,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=488730,0
+5,85,Voltage controlled oscillator area reduction in nano-scale CMOS,10.1109/RFIC.2014.6851757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851757,0
+5,86,The Q-band low noise reference oscillator based on bipolar transistor designed for the pulse ESR spectrometer,10.1109/ELNANO.2015.7146900,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146900,0
+5,87,Design of low power 2.4 GHz CMOS LC oscillators with low phase-noise and large tuning range,10.1109/ISCAS.2002.1010478,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010478,0
+5,88,A Bulk Bias 1V 5GHz Low Power LC VCO with transconductance stabilization,10.1109/URUCON53396.2021.9647289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9647289,0
+5,89,A -193.1dBc/Hz FOM 1.08mW Low Power 10GHz VCO in 22nm CMOS Technology,10.1109/RFIT58767.2023.10243363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10243363,0
+5,90,High-Speed and Energy-Efficient Ring-Oscillator for Analog-to-Digital Conversion,10.1109/DCIS51330.2020.9268623,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268623,0
+5,91,"Fully Integrated, 100-mV Minimum Input Voltage Converter With Gate-Boosted Charge Pump Kick-Started by LC Oscillator for Energy Harvesting",10.1109/TCSII.2016.2573382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7479575,0
+5,92,Performance degradation of an LC-tank VCO by impact of digital switching noise,10.1109/ESSCIR.2004.1356632,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1356632,0
+5,93,A novel heuristic for the optimal design of LC voltage controlled oscillators,10.1109/ICECS.2008.4674874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4674874,0
+5,94,A 1.2-V 6-GHz Dual-Path Charge-Pump PLL Frequency Synthesizer for Quantum Control and Readout in CMOS 65-nm Process,10.1109/UEMCON51285.2020.9298160,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298160,0
+5,95,An 8.4-to-10.89 GHz Dual-Core Wideband Inverse-Class-F VCO Using Quad-Coupled LC Tanks with a 187-dBc/Hz FoM,10.1109/ICMMT61774.2024.10672082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10672082,0
+5,96,Substrate noise immune design of an LC-tank VCO using sensitivity functions,10.1109/CICC.2005.1568710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1568710,0
+5,97,"Built-in tuning of the local oscillator for open loop modulation of low cost, low power RF transceiver",10.1109/LATW.2013.6562686,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6562686,0
+5,98,Indirect Back-Gate Coupling Quadrature LC-VCO,10.1109/LMWC.2013.2290227,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6680691,0
+5,99,A double tuned Ku-band SiGe-MMIC VCO with variable feed-back capacitor,10.1109/APMC.2006.4429605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429605,0

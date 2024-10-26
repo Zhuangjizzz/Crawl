@@ -90,3 +90,402 @@
 1,97,Behavioral modeling of high power RF amplifiers using pruned Volterra scheme with IIR basis functions,10.1109/PAWR.2012.6174911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174911,1
 1,98,A compact 12-watt high-efficiency 2.1-2.7 GHz class-E GaN HEMT power amplifier for base stations,10.1109/MWSYM.2009.5165782,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165782,1
 1,99,Efficiency Optimization of Class-F Power Amplifier at Different Power Levels for Microwave Power Transmission,10.1109/ECCE50734.2022.9947912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9947912,1
+2,0,K-band GaN power amplifier design with a harmonic suppression power combiner,10.1109/PAWR.2017.7875582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7875582,0
+2,1,Design and Digital Predistortion Linearization of a Wideband Outphasing Amplifier Supporting 200 MHz Bandwidth,10.1109/PAWR46754.2020.9035997,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9035997,0
+2,2,Design of Class-AB Power Amplifier using GaN HEMT Technology,10.1109/I2CT42659.2018.9058091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9058091,0
+2,3,New compact Doherty power amplifier design for handset applications,10.1109/PAWR.2017.7875579,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7875579,0
+2,4,Power amplifier design using GaN HEMT in class-AB mode for LTE communication band,10.1109/IWCMC.2015.7289166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7289166,0
+2,5,A broadband monolithic S-band class-E power amplifier,10.1109/RFIC.2002.1011509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011509,0
+2,6,Low-Power High-Efficiency Class D Audio Power Amplifiers,10.1109/JSSC.2009.2032729,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5342351,0
+2,7,New modular two stage switching converter for high power stereo audio amplifier,10.1109/IECON.2008.4758063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4758063,0
+2,8,Minimization of Bias-Induced Memory Effects in UHF Radio Frequency High Power Amplifiers with Broadband Signals,10.1109/RWS.2007.351845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4160728,0
+2,9,Derivation of a behavioral RF power amplifier model with low normalized mean-square error,10.1109/EUMC.2007.4405436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405436,0
+2,10,Derivation of a behavioral RF power amplifier model with low normalized mean-square error,10.1109/EMICC.2007.4412755,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4412755,0
+2,11,Design and implementation of a DC-DC flyback converter to feed a class a tube amplifier,10.1109/COBEP.2011.6085293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6085293,0
+2,12,A 5.8 GHz Linear Power Amplifier in a Standard 90nm CMOS Process using a 1V Power Supply,10.1109/RFIC.2007.380917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266465,0
+2,13,Design and realization of a RF transceiver for marine identification system [emphasis on VHF power amplifier],10.1109/CCECE.2004.1345091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1345091,0
+2,14,Adaptive Compensation of High Frequency Memory Effects of a Realistic Amplifier in an OFDM System,10.1109/ICTTA.2006.1684824,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1684824,0
+2,15,Concurrent multi-band power amplifier employing multi-section impedance transformer,10.1109/PAWR.2011.5725389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5725389,0
+2,16,An improved method of power control with CMOS class-E power amplifiers,10.1109/ISCAS.2008.4541915,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541915,0
+2,17,A 2.45GHz CMOS power amplifier with high linearity,10.1109/ASICON.2009.5351413,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351413,0
+2,18,Cascaded Resonant RF Drive Design and Soft-Switching Optimization of High-Power Class-E Power Amplifiers,10.1109/SPIES55999.2022.10082292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10082292,0
+2,19,Switching-based topologies for high-efficiency audio amplifiers,10.1109/ISSCS.2005.1509909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1509909,0
+2,20,A 2×20W 0.0013% THD+N Class-D audio amplifier with consistent performance up to maximum power level,10.1109/ISSCC.2018.8310181,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310181,0
+2,21,A CMOS RF Power Amplifier Using an Off-Chip Transmision Line Transformer With 62% PAE,10.1109/LMWC.2007.895723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4167922,0
+2,22,A High Efficiency Class-E Power Amplifier with Tuned Output Network,10.1109/ICSC60394.2023.10441126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10441126,0
+2,23,Multilevel tracking power supply for switch-mode audio power amplifiers,10.1109/APEC.2018.8341043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8341043,0
+2,24,A new estimation method of efficiency for class-E power amplifier operated above theoretical maximum operation frequency,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728565,0
+2,25,High-Efficiency Push–Pull Power Amplifier With High Operation Voltage,10.1109/LMWC.2007.895722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4167942,0
+2,26,Sliding-mode quantized control of a class-D audio power amplifier,10.1109/IPEC.2010.5543297,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5543297,0
+2,27,An adaptive predistortion RF power amplifier with a spectrum monitor for multicarrier WCDMA applications,10.1109/TMTT.2004.841222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1393226,0
+2,28,The Doherty Power Amplifier with Collector Current and Voltage Controls for Handset Applications,10.1109/BIPOL.2007.4351847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4351847,0
+2,29,A CMOS class-E power amplifier of 40-% PAE at 5 GHz for constant envelope modulation system,10.1109/SiRF.2013.6489434,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6489434,0
+2,30,"A 1W, 900MHz class-F RF power amplifier with 56% PAE in 0.18-um CMOS technology",10.1109/ICM.2008.5393846,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5393846,0
+2,31,Fully-integrated highly-efficient RF Class E SiGe power amplifier with an envelope-tracking technique for EDGE applications,10.1109/RWS.2006.1615137,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1615137,0
+2,32,Performance comparison of RF class-D amplifier with Neoteric modulator and bandpass sigma-delta modulator,10.1109/APMC.2009.5384294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384294,0
+2,33,An Energy-Efficient 2 × VBAT-Swing Switched-Mode Audio Amplifier With Fully Differential Single-Inductor Linear Buck-Boost Power Topology,10.1109/LSSC.2021.3121561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9581310,0
+2,34,Two-Tier Push-Pull RF Power Amplifier for Basestation Applications,10.1109/MWSYM.2006.249784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4015326,0
+2,35,A three-level class-G modulated 1.85 GHz RF power amplifier for LTE applications with over 50% PAE,10.1109/MWSYM.2016.7540389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7540389,0
+2,36,Theory and Experimental Results of a Class F AB-C Doherty Power Amplifier,10.1109/TMTT.2009.2025433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5166452,0
+2,37,High-Efficiency Digital Power Amplifier Design Based on 22-nm CMOS Process,10.1109/ICICM59499.2023.10365747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365747,0
+2,38,A High Linearity and Efficiency of Envelope Elimination and Restoration using Photonic Band-gap and Applying Class-F Power Amplifier,10.1109/APMC.2007.4554705,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4554705,0
+2,39,Class-D power amplifier with RF pulse-width modulation,10.1109/MWSYM.2010.5516001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5516001,0
+2,40,CMOS RF Power Amplifier for UHF Stationary RFID Reader,10.1109/LMWC.2009.2038552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5392987,0
+2,41,Design and implementation of class-F GaN HEMT power amplifier for S-band radar,10.1109/ICEECCOT.2017.8284648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8284648,0
+2,42,High-power high-efficiency broadband GaN HEMT Doherty amplifiers for base station applications,10.1109/PAWR.2018.8310055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310055,0
+2,43,A compact tuneable output network for high efficient chireix outphasing power amplifier design,10.1109/INMMIC.2010.5480135,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5480135,0
+2,44,A 63W 14MHz Class-E amplifier for wireless power transmission,10.1109/APMC.2012.6421634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421634,0
+2,45,Self-recovering short-circuit protection circuit for RF class-D power amplifier,10.1109/ASICON.2015.7517122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517122,0
+2,46,High power integration for RF infrastructure power amplifiers,10.1109/RWS.2009.4957406,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4957406,0
+2,47,A Methodology for Implementation of High-Efficiency Broadband Power Amplifiers With Second-Harmonic Manipulation,10.1109/TCSII.2015.2482139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7277033,0
+2,48,Measuring Output Resistance of a B Class HF Power Amplifier Using Energy Considerations,10.1109/EMES58375.2023.10171654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10171654,0
+2,49,A novel adaptive LDMOS power amplifier with constant efficiency for wide dynamic power levels control,10.1109/MWSYM.2008.4633063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633063,0
+2,50,A 0.9-5- GHz Wide-Range 1W-Class Reconfigurable Power Amplifier Employing RF-MEMS Switches,10.1109/MWSYM.2006.249776,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4015318,0
+2,51,Design of a current mode class-D RF amplifier using load pull techniques,10.1109/MWSYM.2009.5165998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165998,0
+2,52,Second harmonic reduction in broadband HF/VHF/UHF class E RF power amplifiers,10.1109/MWSYM.2010.5518157,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5518157,0
+2,53,Design and linearization of Class-E power amplifier for non-constant envelope modulation,10.1109/RFIC.2008.4561405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561405,0
+2,54,A Quasi-Four-Pair Class-E CMOS RF Power Amplifier With an Integrated Passive Device Transformer,10.1109/TMTT.2009.2015122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4801537,0
+2,55,Linearity enhancement for the RF class-E power amplifiers using duty-cycle modulation at the feed-forward path,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4753855,0
+2,56,Linearity Enhancement for the RF Class-E Power Amplifiers Using Duty-Cycle Modulation at the Feed-Forward Path,10.1109/EUMC.2008.4751796,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4751796,0
+2,57,VHF Doherty amplifier with GaN FETs and independent drive-signal control,10.1109/MWSYM.2011.5972732,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972732,0
+2,58,Pulse Operation of an Inverse Class-F GaN Power Amplifier,10.1109/EUMC.2008.4751669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4751669,0
+2,59,A novel stacked class-E-like power amplifier with dual drain output power technique in 0.18 um RFSOI CMOS technology,10.1109/IEEE-IWS.2018.8400844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8400844,0
+2,60,A low-voltage fully-monolithic /spl Delta//spl Sigma/-based class-D audio amplifier,10.1109/ESSCIRC.2003.1257193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1257193,0
+2,61,Linearity performance of an RF power amplifier under different bias-and load conditions with and without DPD,10.1109/RWS.2010.5434113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5434113,0
+2,62,High Power Microwave Signal Generation Based on Recursive Balanced Power Amplifier,10.1109/ACCESS.2023.3294973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10182235,0
+2,63,A Novel Biasing Technique for Low Adjacent Channel Power in Microwave Power Amplifiers,10.1109/APMC.2007.4555093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4555093,0
+2,64,Design of L and X band class E power amplifiers with GaAs pHEMT technology for space SAR,10.1109/RFM.2011.6168764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6168764,0
+2,65,1.8-GHz CMOS Power Amplifier with Stage-Convertible Structure Using Differential Line Inductor,10.1109/RFIC.2007.380989,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266537,0
+2,66,Class-D audio amplifiers in mobile applications,10.1109/ISCAS.2009.5117969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5117969,0
+2,67,Frequency band and operating class reconfigurable GaN HEMT power amplifier for sustainable wireless communications and energy applications,10.1109/APCC.2014.7091623,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7091623,0
+2,68,Modulation and Control of a Three-Level Class-D Audio Power Amplifier,10.1109/PEDS.2005.1619916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1619916,0
+2,69,Broadband High-Efficiency Continuous Class-F/F-1 Power Amplifiers with Active Second Harmonic Injection Technique,10.1109/ISCAS58744.2024.10558643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558643,0
+2,70,A High-Performance Fast Switching Charge Dump Assisted Class-$K^{\ast}$ Audio Amplifier,10.1109/TCSI.2009.2028644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5299273,0
+2,71,A package-integrated 50W high-efficiency RF CMOS-GaN class-E power amplifier,10.1109/MWSYM.2013.6697347,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6697347,0
+2,72,Driver Topologies for RF Doherty Power Amplifiers,10.1109/LMWC.2016.2629977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792608,0
+2,73,A kW-range Solid-State Power Amplifier Design for OTH Radar’s Transmitter Application.,10.1109/MAPCON58678.2023.10463952,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463952,0
+2,74,Microwave Class-F and Inverse Class-F Power Amplifiers Designs using GaN Technology and GaAs pHEMT,10.1109/EMICC.2006.282691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057685,0
+2,75,Microwave Class-F and Inverse Class-F Power Amplifiers Designs using GaN Technology and GaAs pHEMT,10.1109/EUMC.2006.281473,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4058182,0
+2,76,Accurate Measurement and Control Sytem for RF Broadband Power Amplifier,10.1109/EMCSIPI50001.2023.10241584,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241584,0
+2,77,High Efficiency Power Amplifier for IoT Applications: RF Path,10.1109/IEEECONF48371.2020.9078651,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9078651,0
+2,78,ZVS operating frequency versus duty ratio of class E amplifier with nonlinear shunt capacitance,10.1109/ISCAS.2008.4542153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4542153,0
+2,79,A Multilevel Pulse-Width Modulated Class-E Power Amplifier,10.1109/RWS.2019.8714254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714254,0
+2,80,A High Efficiency 25W Class-AB and Class-F GaN High Power Amplifier at 10 GHz for Satellite Applications,10.1109/INMIC60434.2023.10466191,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10466191,0
+2,81,Electrical and Temperature Stress Effects on Class-AB Power Amplifier Performances,10.1109/TED.2007.896601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4215209,0
+2,82,RF transistor macromodeling with substrate effect in power amplifier design,10.1109/MWSCAS.2003.1562535,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1562535,0
+2,83,Research of High Efficiency X-Band Power Amplifier,10.1109/ISCID.2015.214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7468915,0
+2,84,A 1.9-GHz CMOS Power Amplifier Using Three-Port Asymmetric Transmission Line Transformer for a Polar Transmitter,10.1109/TMTT.2006.889152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4084843,0
+2,85,Wideband Push-Pull Class E Amplifier for RF Power Delivery,10.1109/COMPEL52896.2023.10220982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10220982,0
+2,86,Switching-mode linear RF power amplifier system,10.1109/MWSYM.2008.4633108,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633108,0
+2,87,Linear CMOS power amplifiers employing a novel layout configuration for improved stability and long-term reliability,10.1109/SIRF.2011.5719308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5719308,0
+2,88,An overview of efficiency enhancements with application to linear handset power amplifiers,10.1109/RFIC.2002.1011507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011507,0
+2,89,Analysis and Design of Doherty Power Amplifiers for Digital Pre-distortion Linearizer,10.1109/APMC.2007.4555140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4555140,0
+2,90,Digital control circuit for class-D audio power amplifier,10.1109/PESC.2001.954289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954289,0
+2,91,A common-gate switched 0.9-W class-E power amplifier with 41% PAE in 0.25-/spl mu/m CMOS,10.1109/4.918921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=918921,0
+2,92,A GaN HEMT Class-F amplifier for UMTS/WCDMA applications,10.1109/RFM.2008.4897420,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4897420,0
+2,93,Class D Power Amplifier for Audio Beam System,10.1109/ICMA.2007.4304121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4304121,0
+2,94,A class D audio power amplifier with high-efficiency and low-distortion,10.1109/ASPDAC.2005.1466468,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1466468,0
+2,95,Design of power efficient power amplifier for B3G base stations,10.1109/ISETC.2010.5679310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5679310,0
+2,96,A Class-AB 0.8GHz–2.1GHz SiGe HBT broadband power amplifier,10.1109/ATC.2013.6698207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6698207,0
+2,97,Class D Audio Amplifier with Reduced Distortion,10.1109/INDEL.2018.8637607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637607,0
+2,98,A high-efficiency 4×45W car audio power amplifier using load current sharing,10.1109/VLSIC.2010.5560274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5560274,0
+2,99,True Filterless Class-D Audio Amplifier,10.1109/JSSC.2011.2162913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6007063,0
+3,0,5.3 A 2×70W monolithic five-level Class-D audio power amplifier,10.1109/ISSCC.2016.7417922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417922,0
+3,1,Load Modulated Balanced Amplifier Designed for AM-PM Linearity,10.23919/EuMC48046.2021.9337990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337990,0
+3,2,Efficiency enhancement using adaptive bias control for 60GHz power amplifier,10.1109/NEWCAS.2015.7182050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7182050,0
+3,3,Design and Analysis of 2.4 GHz GaN HEMT Class E Switching RF Power Amplifier,10.1109/ISESD.2019.8909401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909401,0
+3,4,Analysis and Design of a 5G Multi-Mode Power Amplifier using 130 nm CMOS technology,10.1109/ISQED51717.2021.9424284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424284,0
+3,5,Multilevel Power Supply for High-Efficiency RF Amplifiers,10.1109/TPEL.2009.2033186,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5272099,0
+3,6,Reconfigurable Class S power amplifiers at RF and microwave frequencies,10.1109/INMMIC.2008.4745710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4745710,0
+3,7,Class-E power amplifier design at 2.5 GHz using a packaged transistor,10.1109/SiRF.2013.6489465,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6489465,0
+3,8,A Novel Control Strategy of the Class-D Stereo Audio Amplifier,10.1109/PEDS.2007.4487818,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487818,0
+3,9,Design of low cost Class-E power amplifier for HF band applications,10.1109/IranianCEE.2013.6599780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599780,0
+3,10,A 5W class-AB power amplifier based on a GaN HEMT for LTE communication band,10.1109/MMS.2016.7803827,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803827,0
+3,11,An 8 $\Omega$  2.5 W 1%-THD 104 dB(A)-Dynamic-Range Class-D Audio Amplifier With Ultra-Low EMI System and Current Sensing for Speaker Protection,10.1109/JSSC.2012.2225762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6365768,0
+3,12,A 0.25W fully integrated class-D audio power amplifier in 0.35μm CMOS,10.1109/NORCHP.2007.4481036,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4481036,0
+3,13,Design of 2.1GHz RF CMOS Power Amplifier for 3G,10.1109/NSWCTC.2009.18,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4908575,0
+3,14,Power back-off behaviour of high-efficiency power-combining Class-E amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5760744,0
+3,15,High-Efficiency Watt-Level E-band GaN Power Amplifier with a Compact Low-loss Combiner,10.1109/PAWR56957.2023.10046243,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10046243,0
+3,16,A 10 watt class-AB pulse power amplifier,10.1109/IEEE-IWS.2016.7585484,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585484,0
+3,17,A Volterra-Series-Based Design Technique for the Bias Circuit of Class-AB RF Power Amplifier,10.1109/IMCEC.2018.8469689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8469689,0
+3,18,Highly Efficient Class E SiGe Power Amplifier Design for Wireless Sensor Network Applications,10.1109/BIPOL.2007.4351859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4351859,0
+3,19,A Wideband High-efficiency Doherty Power Amplifier for LTE,10.1109/RADIOELEKTRONIKA57919.2023.10109057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109057,0
+3,20,High Efficiency Wideband Power Amplifier with Class-J Configuration,10.1109/MMS.2018.8612039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612039,0
+3,21,A high efficiency 3GHz 24-dBm CMOS linear power amplifier for RF application,10.1109/IWSOC.2005.11,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1530999,0
+3,22,A MSP430 controller based class-D audio power amplifier with DLDPC PWM switching,10.1109/ICSPACE.2017.8343431,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8343431,0
+3,23,A Linear Simulation Technique for a Power Traveling-Wave Amplifier,10.1109/PAWR59907.2024.10438617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438617,0
+3,24,5GHz-band CMOS class-E power amplifier module considering wire bonding,10.1109/RFIT.2015.7377919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7377919,0
+3,25,Band separation and efficiency optimization in linear-assisted switching power amplifiers,10.1109/pesc.2006.1712188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1712188,0
+3,26,"A 2W, 92% efficiency and 0.01% THD+N class-D audio power amplifier for mobile applications, based on the novel SCOM architecture",10.1109/CICC.2004.1358802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358802,0
+3,27,Design of an integrated analog controller for a class-D audio amplifier,10.1109/ICECS.2009.5410790,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5410790,0
+3,28,Adaptive digital techniques for efficiency and linearity enhancement of CMOS RF power amplifiers,10.1109/VDAT.2008.4542443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4542443,0
+3,29,Very Low-Cost CMOS Audio Amplifier for 1-V Portable Applications,10.1109/DTIS.2008.4540229,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540229,0
+3,30,A wideband linear CMOS power amplifier design for 2.3-GHz and 2.6-GHz m-WiMAX system,10.1109/ICMMT.2010.5524905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5524905,0
+3,31,GaN HEMT Based Doherty Power Amplifier with Network Matching Optimization Technique for 2.4GHz,10.1109/RTEICT42901.2018.9012453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012453,0
+3,32,A new high efficiency RF switch-mode power amplifier architecture for pulse encoded signals,10.1109/WAMICON.2012.6208461,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6208461,0
+3,33,A bivariate Volterra series approach to modeling and linearization of power amplifiers,10.1109/PAWR51852.2021.9375591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9375591,0
+3,34,High-efficiency transmission-line GaN HEMT inverse class F power amplifier for active antenna arrays,10.1109/APMC.2009.5385315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385315,0
+3,35,A 1.5-2.1 GHz High-Efficiency Class-J Power Amplifier in 2-um InGaP/GaAs HBT Process,10.1109/IMWS-AMP54652.2022.10107012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107012,0
+3,36,A 900 MHz 26.8 dBm differential Class-E CMOS power amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5498267,0
+3,37,Boost bridge audio amplifier,10.1109/30.964100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=964100,0
+3,38,A filter free class D audio amplifier with 86% power efficiency,10.1109/ISCAS.2004.1328375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328375,0
+3,39,Class-D audio amplifiers with separated baseband for low-power mobile applications,10.1109/OCCSC.2002.1029076,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1029076,0
+3,40,A 2.4 GHz 0.18-µm CMOS Class E single-ended power amplifier without spiral inductors,10.1109/SMIC.2010.5422842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5422842,0
+3,41,A 5.8 GHz 1 V Linear Power Amplifier Using a Novel On-Chip Transformer Power Combiner in Standard 90 nm CMOS,10.1109/JSSC.2008.920347,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4494655,0
+3,42,3–5 GHz CMOS Power Amplifier design for ultra-wide-band application,10.1109/ECS.2014.6892711,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6892711,0
+3,43,Linearity of X-band Class-E Power Amplifiers in a Digital Polar Transmitter,10.1109/MWSYM.2007.380281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4264015,0
+3,44,A 3.5GHz High Power GaN Hybrid Doherty Power Amplifier with Dynamic Input Power Splitting for Enhanced Power Added Efficiency at Backoff,10.1109/PAWR51852.2021.9375547,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9375547,0
+3,45,Millimeter-wave CMOS switching power amplifiers,10.1109/IMaRC.2013.6777704,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6777704,0
+3,46,GSM/EDGE Power Amplifier module with improved low-power efficiency,10.1109/ISICir.2011.6131922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6131922,0
+3,47,Power amplifier characterization: an active load-pull system based on six-port reflectometer using complex modulated carrier,10.1109/TMTT.2006.874870,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1643607,0
+3,48,"High efficiency 88–108MHz, 25W class-E PA for transmitters in smart cities",10.1109/ICECTA.2017.8251943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251943,0
+3,49,A high performance switching audio amplifier using sliding mode control,10.1109/NEWCAS.2008.4606382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4606382,0
+3,50,High Efficiency RF Power Amplifier Designed With Harmonic Real-Time Active Load-Pull,10.1109/LMWC.2008.918913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4470106,0
+3,51,A class E power amplifier design for drain modulation under a high PAPR WiMAX signal,10.1109/IMWS.2010.5440968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5440968,0
+3,52,A Fully Integrated High Efficiency RF Power Amplifier for WLAN Application in 40 nm Standard CMOS Process,10.1109/LMWC.2015.2421351,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7087400,0
+3,53,Output Power and Efficiency Improvement of a Class C Power Amplifier,10.1109/MAPCON58678.2023.10463856,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463856,0
+3,54,A 1.7-GHz 31dBm differential CMOS Class-E Power Amplifier with 58% PAE,10.1109/CICC.2007.4405792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405792,0
+3,55,Power booster audio amplifier,10.1109/TCE.2002.1010088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010088,0
+3,56,"A 28GHz, Asymmetrical, Modified Doherty Power Amplifier, in 22nm FDSOI CMOS",10.1109/ISCAS45731.2020.9180851,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180851,0
+3,57,A High-IP3 Harmonic Tuned Wideband 40 dBm RF Power Amplifier for 5G Applications,10.1109/WAMICON57636.2023.10124915,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10124915,0
+3,58,Power Amplifier Design in Broadband RF IC Transponder for Manufacture 4.0 RF Link,10.1109/ISESD.2019.8909511,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909511,0
+3,59,High efficiency wideband envelope tracking power amplifier with direct current sensing for LTE applications,10.1109/PAWR.2012.6174933,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174933,0
+3,60,Low Power Class D Audio Amplifier with High Performance and High Efficiency,10.1109/ISPA48434.2019.8966832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8966832,0
+3,61,A dual-level and dual-band class-D CMOS power amplifier for iot applications,10.1109/NEWCAS.2013.6573630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6573630,0
+3,62,An Integrated 3-Level Fully Adjustable PWM Class-D Audio Amplifier in 0.35μm CMOS,10.1109/NORCHP.2008.4738304,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4738304,0
+3,63,A 3.7GHz 130nm CMOS-SOI class E RF power amplifier,10.1109/SARNOF.2010.5469731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5469731,0
+3,64,Lumped-element output networks for high-efficiency power amplifiers,10.1109/MWSYM.2010.5515100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5515100,0
+3,65,Class-D Audio Amplifier Using 1-Bit Fourth-Order Delta-Sigma Modulation,10.1109/TCSII.2008.922457,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4570198,0
+3,66,Investigating Feeding Techniques for High-power and High-efficiency E-band Power Amplifiers,10.1109/PAWR59907.2024.10438614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438614,0
+3,67,"A highly efficient, 420mW class-H headphone amplifier with single power supply rail",10.1109/EDSSC.2015.7285140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7285140,0
+3,68,220-GHz High-Efficiency Power Amplifiers in 250-nm and 130-nm InP HBT Technologies Having 14.4-25.0% PAE and 40-60 mW $\mathrm{P}_{\text{out}}$,10.1109/IMS40175.2024.10600322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600322,0
+3,69,A Multi-Level and Multi-Band Class-D CMOS Power Amplifier for the LINC System in the Cognitive Radio Application,10.1109/LMWC.2010.2047532,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5451155,0
+3,70,The suggestion and the practical realisation of the RF power amplifier for the nonstandard frequency band,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6636496,0
+3,71,Zero-position coding with separated baseband in low-power class-D audio amplifiers for mobile communications,10.1109/TELSKS.2001.955839,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=955839,0
+3,72,Multiple-input buck converter optimized for accurate envelope tracking in RF power amplifiers,10.1109/APEC.2010.5433589,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5433589,0
+3,73,Wideband High Efficiency Power Amplifier Design Using Precise High Frequency GaN-HEMT Parasitics Modeling/Compensation,10.1109/PAWR.2019.8708722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708722,0
+3,74,Design of high efficiency switching mode power amplifier for RF and micro-wave,10.1109/ICTEL.2009.5158666,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158666,0
+3,75,Linear RF CMOS power amplifier with improved efficiency and linearity in wide power levels,10.1109/RFIC.2005.1489775,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1489775,0
+3,76,GaN Based S-Band 500W Solid State Power Amplifier (SSPA) Module for Troposcatter Communications,10.1109/IMaRC45935.2019.9118681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9118681,0
+3,77,Inverse Class-E Power Amplifier with Series Filter,10.1109/ICEIEC49280.2020.9152359,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152359,0
+3,78,Two Class-D audio amplifiers with 89/90% efficiency and 0.02/0.03% THD+N consuming less than 1mW of quiescent power,10.1109/ISSCC.2009.4977502,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4977502,0
+3,79,Efficiency Enhancement of Power Amplifier Using Power Pulsewidth Modulation for Wireless Power Transfer,10.1109/LMWT.2024.3423760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10595478,0
+3,80,High Performance C-band Power Amplifier for CW and Pulsed Applications,10.1109/IBCAST54850.2022.9990381,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990381,0
+3,81,"A 118 dB PSRR, 0.00067% (-103.5 dB) THD+N and 3.1 W Fully Differential Class-D Audio Amplifier With PWM Common Mode Control",10.1109/JSSC.2016.2591828,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7533501,0
+3,82,Incorporating RF test measurements for efficient design flow of GaN-based power amplifiers,10.1109/PAWR.2018.8310070,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310070,0
+3,83,2.4 GHz high-efficiency power-combining Class-E amplifier with transmission-line harmonic traps,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728379,0
+3,84,A low-power CMOS power amplifier for ultra wideband (UWB) applications,10.1109/ISCAS.2005.1465784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465784,0
+3,85,Designing of High Efficiency Power Amplifier Based on Physical Model of SiC MESFET in TCAD,10.1109/IBCAST.2007.4379905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4379905,0
+3,86,RF class-S power amplifiers: State-of-the-art results and potential,10.1109/MWSYM.2010.5517402,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5517402,0
+3,87,CMOS RF class-E power amplifier with power control,10.1109/LASCAS.2016.7451087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7451087,0
+3,88,"Prediction of error vector magnitude using AM/AM, AM/PM distortion of RF power amplifier for high order modulation OFDM system",10.1109/MWSYM.2005.1517143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1517143,0
+3,89,Effect of signal PAPR on efficiency of envelope tracking power amplifiers,10.1109/APMC.2013.6694958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6694958,0
+3,90,Characterization of linear power amplifiers for LTE applications,10.1109/PAWR.2018.8310060,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310060,0
+3,91,Performance comparison of class E RF power amplifier with different load netwok configuration,10.1109/CCECE.2011.6030442,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6030442,0
+3,92,Effect of envelope amplifier nonlinearities on the output spectrum of Envelope Tracking Power Amplifiers,10.1109/SiRF.2012.6160129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6160129,0
+3,93,High power-density monolithic linear X-band power amplifier using a low-cost MESFET technology,10.1109/IMOC.2003.1242696,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1242696,0
+3,94,650-W high-efficiency amplifier for 704 MHz,10.1109/MWSYM.2016.7540407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7540407,0
+3,95,A novel VSWR-protected and controllable CMOS class E power amplifier for Bluetooth applications,10.1109/ICIEA.2009.5138240,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5138240,0
+3,96,Design and Simulation of A Highly Efficient Continuous Class-F Power Amplifier,10.1109/IMWS-AMP54652.2022.10106909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106909,0
+3,97,Generalized Continuous Class-F Harmonic Tuned Power Amplifiers,10.1109/LMWC.2016.2524989,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7420608,0
+3,98,A 2-stage 150W 2.2GHz dual path LDMOS RF power amplifier for high efficiency applications,10.1109/MWSYM.2008.4632917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4632917,0
+3,99,Efficiency of low power audio amplifiers and loudspeakers,10.1109/ICCE.2001.935328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935328,0
+4,0,A 53% PAE envelope tracking GaN power amplifier for 20MHz bandwidth LTE signals at 880MHz,10.1109/PAWR.2016.7440155,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7440155,0
+4,1,Design of CMOS class-E power amplifier for WLAN and bluetooth applications,10.1109/ICDCSyst.2012.6188679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6188679,0
+4,2,"A 5.8W, 0.00086% THD+N, 118dB PSRR Class-D Audio Amplifier with Passive Output Common-Mode Compensation Technique for Wide Output Power Range",10.1109/VLSITechnologyandCir46783.2024.10631407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10631407,0
+4,3,Reverse Intermodulation Distortion in Current Mode and Bridge Class D RF Power Amplifiers,10.1109/IEEECONF56737.2023.10092117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10092117,0
+4,4,Linear RF polar modulated SiGe Class E and F power amplifiers,10.1109/RFIC.2006.1651182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651182,0
+4,5,RF Class-E Power Amplifier Design Based on a Load Line-Equivalent Capacitance Method,10.1109/LMWC.2008.916815,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4459066,0
+4,6,Inverse Class-E Amplifier With Transmission-Line Harmonic Suppression,10.1109/TCSI.2007.899617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4268412,0
+4,7,A 5W ultra-broadband power amplifier using silicon LDMOSFETs,10.1109/APMC.2009.5384391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384391,0
+4,8,A low THD clock-free Class-D audio amplifier with an increased damping resistor and cross offset cancellation technique,10.1109/ISCAS.2014.6865725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865725,0
+4,9,A Class-AB/D Audio Power Amplifier for Mobile Applications Integrated Into a 2.5G/3G Baseband Processor,10.1109/TCSI.2010.2046954,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5460955,0
+4,10,A High Linearity 30-GHz Range SiGe Differential Power Amplifier IC,10.1109/SMIC.2007.322783,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4117339,0
+4,11,Performance Characteristics of S-Band GaN HEMT-based RF Power Amplifier Implemented on DC Bias Limitation,10.1109/ICICACS60521.2024.10498591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10498591,0
+4,12,Using MEMS in Class D amplifiers for standard GSM carrier,10.1109/ICCCE.2008.4580811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4580811,0
+4,13,A Compact 6–12 GHz MMIC Power Amplifier,10.1109/PAWR59907.2024.10438661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438661,0
+4,14,Pulse-width modulation for switching mode power amplifiers,10.1109/APMC.2015.7413557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7413557,0
+4,15,Four-switch Class-PN Power Amplifier for High Power Handling Capability in Wireless Power Transfer,10.23919/IPEC-Himeji2022-ECCE53331.2022.9806992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9806992,0
+4,16,A fully-integrated 18 GHz class-E power amplifier in a 45 nm CMOS SOI technology,10.1109/RFIC.2014.6851710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851710,0
+4,17,Class D Power Amplifier Based on Waveform Predistortion Technology,10.1109/ICDIIME56946.2022.00009,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9951489,0
+4,18,Architecture Implementation of Class-D Amplifiers Using Digital-Controlled Multiphase-Interleaved PWM Technique,10.1109/IPEMC.2006.4778179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4778179,0
+4,19,A novel inverse class E power amplifier topology,10.1109/SIU.2013.6531167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6531167,0
+4,20,Enhanced Class-A/AB mobile terminal power amplifier efficiency by input envelope injection and “self” envelope tracking,10.1109/MWSYM.2011.5972901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972901,0
+4,21,Intermodulation distortion of class D audio amplifier using pulse density modulation,10.1109/ZINC.2016.7513652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7513652,0
+4,22,A novel nonlinearity measure for RF amplifiers in jamming applications,10.1109/NRSC.2016.7450865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7450865,0
+4,23,A power amplifier integrated with a composite right/left-handed metamaterial antenna,10.1109/APMC.2009.5385314,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385314,0
+4,24,"An 80% peak efficiency, 410mW, single supply rail powered Class-I linear audio amplifier",10.1109/CICC.2011.6055395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6055395,0
+4,25,SWaP Optimised L -Band Power Amplifier for Airborne Applications,10.1109/MAC58191.2023.10177122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177122,0
+4,26,A study for achieving high power and efficiency based on high bias operation in C- and X-band GaN power amplifiers,10.1109/PAWR.2018.8310062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310062,0
+4,27,Experimental demonstration of digital pre-distortion for millimeter wave power amplifiers with GHz bandwidth,10.1109/PAWR.2018.8310067,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310067,0
+4,28,Switching capacities based envelope amplifier for high efficiency RF amplifiers,10.1109/APEC.2010.5433590,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5433590,0
+4,29,New high-efficiency 2.5 V/0.45 W RWDM class-D audio amplifier for portable consumer electronics,10.1109/TCSI.2005.852500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1506977,0
+4,30,Generic Power Amplifier linearization,10.1109/ICSCS.2009.5412568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5412568,0
+4,31,Class D Switching Power Amplifier with a Filter under Load Mismatch Conditions,10.1109/WECONF48837.2020.9131508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9131508,0
+4,32,A high efficiency 3–7 GHz class AB CMOS power amplifier for WBAN applications,10.1109/RFIT.2015.7377921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7377921,0
+4,33,High power S-band GaN-based power amplifier for radar systems,10.1109/IMWS-AMP.2015.7324922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324922,0
+4,34,High efficiency GaN class E amplifier for polar transmitter,10.1109/ICSCS.2009.5412570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5412570,0
+4,35,An X-band GaN HEMT High-Efficiency Switchless Class-G Power Amplifier,10.1109/IWS58240.2023.10222710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222710,0
+4,36,CMOS Outphasing Class-D Amplifier With Chireix Combiner,10.1109/LMWC.2007.901800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4285669,0
+4,37,Design of H-Bridge Class-D Power Amplifiers for Digital Pulse Modulation Transmitters,10.1109/TMTT.2007.909881,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4384462,0
+4,38,Design considerations for X-band Class J power amplifiers,10.1109/ISWTA.2014.6981171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6981171,0
+4,39,An integrated SiGe HBT bandpass-pulse length modulator for switch mode power amplifiers in the SHF range,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5540630,0
+4,40,Power Consumption Model for Linear RF Power Amplifiers with Rectangular M-QAM Modulation,10.1109/ISWCS.2007.4392427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4392427,0
+4,41,Design of a class EF2 power oscillator for RF communication application,10.1109/ICECS.2013.6815526,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815526,0
+4,42,A supply modulator with nested structure for wideband envelope tracking power amplifier,10.1109/PAWR.2012.6174939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174939,0
+4,43,Design and simulation of front-end broadband RF power amplifier for LTE TDD 2.3 GHz,10.1109/ISESD.2017.8253356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8253356,0
+4,44,Effect of gain expansion of MMIC power amplifier for high order modulation OFDM portable system,10.1109/MWSYM.2004.1339194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1339194,0
+4,45,"Comparison of a single-ended class AB, a balance and a Doherty power amplifier",10.1109/APMC.2005.1606485,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1606485,0
+4,46,Combining Class J and Inverse Class F Continuous Modes for a Highly Efficient Broadband Power Amplifier,10.23919/EuMC54642.2022.9924443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9924443,0
+4,47,Class-D audio power amplifiers: an overview,10.1109/ICCE.2000.854703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=854703,0
+4,48,Millimeter-wave Power Amplifier with Linearization Technique in $0.18-\mu \mathrm{m}$ CMOS Process,10.1109/IICM55040.2021.9730303,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730303,0
+4,49,A compact and power-scalable 70W GaN class-E power amplifier operating from 1.7 to 2.6 GHz,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174059,0
+4,50,High efficiency power amplifier for Beidou satellite navigation system,10.1109/ICCT.2015.7399921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7399921,0
+4,51,Design of a Class-B Power Amplifier at 2.4 GHz with Improved Harmonic Suppression,10.1109/IMaRC.2018.8877260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8877260,0
+4,52,>41% efficient 10W envelope modulated LTE downlink power amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102819,0
+4,53,A 900 MHz outphasing power amplifier,10.1109/ICUWB.2010.5615555,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5615555,0
+4,54,A K-band CMOS Power Amplifier with 3-Bit Phase Shifting Characteristics,10.1109/ISOCC56007.2022.10031345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10031345,0
+4,55,Optimizing Bias Point of High Efficiency Class-B GaN Power Amplifier for the Best Efficiency,10.1109/RADIOELEK.2019.8733566,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733566,0
+4,56,Harmonic-Injection Doherty Power Amplifier: Benefits and Limitations,10.1109/PAWR59907.2024.10438621,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438621,0
+4,57,Design of CMOS Digital Power Amplifier Applied in Digital Polarized Transmitter,10.1109/ICICM54364.2021.9660366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660366,0
+4,58,Broadband and highly efficient class-j power amplifier with compact output matching network,10.1109/APCAP.2017.8420676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8420676,0
+4,59,A Gain Control Low Power CMOS Power Amplifier for Ultra Wideband Applications,10.1109/UGIM.2006.4286381,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4286381,0
+4,60,A wideband highly efficient class-J integrated power amplifier for 5G applications,10.1109/NEWCAS.2017.8010171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8010171,0
+4,61,A Fully-Integrated 40 nm CMOS 58.1% PAE Push-Pull Class-E/Fodd Power Amplifier for NB-IoT Applications,10.1109/ICECS202256217.2022.9971087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9971087,0
+4,62,A 31W High Efficiency X-Band Class-F/F-1 GaN High Power Amplifier for Satellite Applications,10.1109/ICECE61222.2024.10505259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10505259,0
+4,63,A 2-GHz GaAs HBT RF Pulsewidth Modulator,10.1109/TMTT.2007.913375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4427251,0
+4,64,A high-frequency power amplifier using GaN power cell technology,10.1109/WAMICON.2010.5461887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5461887,0
+4,65,A monolithic watt-level SOI LDMOS linear power amplifier with through silicon via for 4G cellular applications,10.1109/PAWR.2013.6490175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6490175,0
+4,66,"Scalable CMOS power devices with 70% PAE and 1, 2 and 3.4 Watt output power at 2GHz",10.1109/RFIC.2009.5135529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135529,0
+4,67,The Role of Nonlinear Microwave CAD in RF Power Amplifier and Active Antennas Design,10.23919/EuMC54642.2022.9991870,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991870,0
+4,68,A 16-$\Omega$ Audio Amplifier With 93.8-mW Peak Load Power and 1.43-mW Quiescent Power Consumption,10.1109/TCSII.2012.2186361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6156429,0
+4,69,Design of linear and efficient power amplifiers by generalization of the Doherty theory,10.1109/PAWR.2017.7875565,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7875565,0
+4,70,A novel concept for first-pass design of RF Power amplifiers for wireless communications,10.1109/ISWTA.2011.6089542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6089542,0
+4,71,A class-E RF power amplifier with a novel matching network for high-efficiency dynamic load modulation,10.1109/ISCAS.2017.8050498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050498,0
+4,72,A 94% efficiency near-constant frequency self-oscillating class-D audio amplifier with voltage control resistor,10.1109/ISCAS.2013.6571914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6571914,0
+4,73,Experimental Studies of the Envelope Elimination and Restoration HF Power Amplifier Characteristics with Broadband Unmatched Load,10.1109/SYNCHROINFO51390.2021.9488387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9488387,0
+4,74,Design of a wideband 1.5GHz to 3GHz class EF2 power amplifier,10.1109/NEWCAS.2014.6934011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6934011,0
+4,75,High-Efficiency Power Amplifier for 1.8 MHz: The Development of a Class-E PA With Components for High Efficiency,10.1109/MMM.2019.2945159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913697,0
+4,76,Gate Leakage Current Effects on the Linearity of 28GHz CMOS SOI Power Amplifiers,10.1109/PAWR.2019.8708720,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708720,0
+4,77,High-Efficiency Class-FE Tuned Power Amplifiers,10.1109/TCSI.2008.924123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4498390,0
+4,78,Development of highly efficient 5GHz-band CMOS class-E power amplifier module,10.1109/EPTC.2015.7412318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7412318,0
+4,79,A 650mW filterless class-D audio power amplifier for mobile applications in 65-nm technology,10.1109/ISCAS.2009.5117970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5117970,0
+4,80,Broadband Parallel Doherty Power Amplifier in GaN for 5G Applications,10.1109/PAWR.2019.8708727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708727,0
+4,81,Methodology to Design Multi-Octave Power Amplifier Using Extended Class B to Class J Continuous Mode,10.1109/IMaRC49196.2021.9714641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714641,0
+4,82,Available load power in a RF class D amplifier with a sigma-delta modulator driver,10.1109/RAWCON.2004.1389171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1389171,0
+4,83,An integrated class D audio amplifier based on sliding mode control,10.1109/ICICDT.2008.4567259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567259,0
+4,84,Design of Power Amplifier for Multi-mode Multi-standard Front-end based on BiCMOS technology,10.1109/IMOC43827.2019.9317601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9317601,0
+4,85,Design of wireless transmitting power amplifier chip applied to the Internet of Things in smart cities,10.1109/PHM-Nanjing52125.2021.9612943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9612943,0
+4,86,A Broadband Doherty Power Amplifier Using Class B/J Continuum,10.1109/IMaRC45935.2019.9118715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9118715,0
+4,87,Supply Modulation of Power Amplifiers with a Class AD Modulator,10.1109/GEMIC.2009.4815868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4815868,0
+4,88,Optimal Two-Way Hybrid Doherty-Outphasing Power Amplifier,10.1109/PAWR46754.2020.9035992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9035992,0
+4,89,A Digital Input Controller for Audio Class-D Amplifiers with 100W 0.004% THD+N and 113dB DR,10.1109/ISSCC.2006.1696185,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1696185,0
+4,90,Class D Audio Amplifier Design Theory and Design Implementation for Portable Applications,10.1109/ISCIII.2007.367396,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4218429,0
+4,91,Two 130nm CMOS class-D RF power amplifiers suitable for polar transmitter architectures,10.1109/ICSICT.2008.4734800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734800,0
+4,92,High efficiency dual-mode RF transmitter using envelope-tracking dual-band Class-E power amplifier for W-CDMA/WiMAX systems,10.1109/MWSYM.2009.5165722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165722,0
+4,93,Low Cost Implementation of RF Power Amplifier Testing,10.1109/ICEMI.2007.4350441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4350441,0
+4,94,A 90-W Peak Power GaN Outphasing Amplifier With Optimum Input Signal Conditioning,10.1109/TMTT.2009.2025430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5169897,0
+4,95,Self-biased 0.13- µm CMOS 2.4-GHz Class E cascode power amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5233481,0
+4,96,A Multiphase Class-D Automotive Audio Amplifier With Integrated Low-Latency ADCs for Digitized Feedback After the Output Filter,10.1109/JSSC.2017.2731812,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8016557,0
+4,97,High-Frequency Digital Current Mode Control Architectures for Class-D Audio Amplifiers,10.1109/APEC43599.2022.9773616,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773616,0
+4,98,Novel Compact Transmission-line Output Network Topology for Class-E Power Amplifiers,10.1109/EUMC.2008.4751432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4751432,0
+4,99,A highly efficient 1-Watt broadband class-J SiGe power amplifier at 700MHz,10.1109/SiRF.2012.6160139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6160139,0
+5,0,Linearity improvement in RF power amplifier system using integrated Auxiliary Envelope Tracking system,10.1109/MWSYM.2011.5972769,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972769,0
+5,1,A 121.4-dB DR Capacitively Coupled Chopper Class-D Audio Amplifier,10.1109/JSSC.2022.3207907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906968,0
+5,2,Theoretical Approach to Calculating Reverse Intermodulation Distortion in Voltage Mode Class D RF Power Amplifiers,10.1109/IEEECONF53456.2022.9744320,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9744320,0
+5,3,Analysis of the switching threshold in dual-level class-G modulated power amplifiers,10.1109/INMMIC.2015.7330354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7330354,0
+5,4,"Impact of Input Nonlinearity on Efficiency, Power, and Linearity Performance of GaN RF Power Amplifiers",10.1109/IMS30576.2020.9224110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9224110,0
+5,5,A 40W ultra broadband LDMOS power amplifier,10.1109/MWSYM.2015.7166842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7166842,0
+5,6,In situ waveform measurement approach within an inverse class F GaN power amplifier,10.1109/INMMIC.2015.7330360,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7330360,0
+5,7,Energy-efficient D-Band Power Amplifier Linearization Adopting Back-Gate Feedforward Technique in 22nm FD-SOI,10.1109/PAWR59907.2024.10438580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438580,0
+5,8,Optimum Biasing for Parallel Hybrid Switching-Linear Regulators,10.1109/TPEL.2007.904220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4300903,0
+5,9,Class E RF tuned power amplifiers in CMOS technologies: theory and circuit design considerations,10.1109/MCOM.2004.1336718,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1336718,0
+5,10,A Differential SiGe HBT Doherty Power Amplifier for Automotive Radar at 79 GHz,10.1109/SiRF56960.2023.10046275,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10046275,0
+5,11,A 3.3 V/1 W class D audio power amplifier with 103 dB DR and 90% efficiency,10.1109/MIEL.2002.1003324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1003324,0
+5,12,Improvement in the efficiency of class-E power amplifier for RF,10.1109/SSD.2008.4632864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4632864,0
+5,13,A new class-D stereo audio amplifier using direct speaker current control,10.1109/PESC.2004.1355611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1355611,0
+5,14,A monolithic 0.35-µm SiGe Class E power amplifier designed at 1.9 GHz,10.1109/IMOC.2013.6646488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6646488,0
+5,15,"High Power, High Linearity and Low-Noise Hybrid RF Amplifiers Based on GaN HEMTs",10.1109/GEMIC.2009.4815890,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4815890,0
+5,16,"A matching circuit tuned, multi-band (WLAN and WiMAX), Class — a power amplifier using 0.25μm-SiGe HBT technology",10.1109/RME.2008.4595752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4595752,0
+5,17,Design analysis of an extended continuous Class F solid state amplifier,10.1109/IMaRC.2013.6777754,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6777754,0
+5,18,A 28-GHz Doherty Power Amplifier With a Compact Transformer-Based Quadrature Hybrid in 65-nm CMOS,10.1109/TCSII.2021.3068473,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9385396,0
+5,19,A Low-Power High-PSRR Clock-Free Current-Controlled Class-D Audio Amplifier,10.1109/JSSC.2011.2143750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5772942,0
+5,20,"Class-E amplifiers and applications at MF, HF, and VHF",10.1109/MWSYM.2017.8058853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8058853,0
+5,21,A novel 2GHz highly efficiency improved class-E Power Amplifier for Base stations,10.1109/ICCSP.2015.7322634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322634,0
+5,22,Optimizing Losses in Distributed Multiharmonic Matching Networks Applied to the Design of an RF GaN Power Amplifier With Higher Than 80% Power-Added Efficiency,10.1109/TMTT.2008.2009905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4738428,0
+5,23,A 3.3 GHz class-E power amplifier with 77% PAE utilising GaN HEMT technology,10.1109/NEWCAS.2012.6329040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6329040,0
+5,24,Design and linearization of high-efficiency inverse class-F RF power amplifiers,10.1109/IEEE-IWS.2014.6864269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6864269,0
+5,25,A Fully Integrated Broadband Power Amplifier with Two-dimensional Linearization,10.1109/EUMC.2006.281360,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057836,0
+5,26,A 19W high-efficiency wide-band CMOS-GaN class-E Chireix RF outphasing power amplifier,10.1109/MWSYM.2011.5972564,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972564,0
+5,27,Observing transistor voltage waveform in high efficiency class-E HF/VHF/UHF power amplifiers,10.1109/MWSYM.2009.5165841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165841,0
+5,28,"A 68% efficiency, C-band 100W GaN power amplifier for space applications",10.1109/MWSYM.2010.5517228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5517228,0
+5,29,EPC with dynamic bias control for SSPA for SPACE applications,10.1109/APCET.2012.6301991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6301991,0
+5,30,Neural network based efficiency optimization method for RF Power Amplifiers with controllable power supply,10.1109/AFRCON.2013.6757644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6757644,0
+5,31,A 2.4GHz class-D power amplifier with conduction angle calibration for −50dBc harmonic emissions,10.1109/RFIC.2014.6851708,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851708,0
+5,32,A 29.5 dBm class-E outphasing RF power amplifier with performance enhancement circuits in 45nm CMOS,10.1109/ESSCIRC.2014.6942123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6942123,0
+5,33,Synthesis of Broadband Differential Loading Networks for High-Efficiency Power Amplifiers,10.1109/IMS37962.2022.9865371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865371,0
+5,34,Phase controlled Class E amplifiers for pulsing applications,10.1109/MWSYM.2009.5165809,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165809,0
+5,35,An Electromagnetic Interference (EMI) Reduced High-Efficiency Switching Power Amplifier,10.1109/TPEL.2009.2035622,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5308239,0
+5,36,1.2-V 5.8-GHz 90nm CMOS RF power amplifier parameter enhancement techniques,10.1109/TENCONSpring.2014.6863043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6863043,0
+5,37,A 40-GHz Load Modulated Balanced Power Amplifier Using Unequal Power Splitter and Phase Compensation Network in 45-nm SOI CMOS,10.1109/TCSI.2023.3282731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10146499,0
+5,38,On line monitoring of RF power amplifiers with embedded temperature sensors,10.1109/IOLTS.2012.6313850,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6313850,0
+5,39,The Concurrent Inverse Class-F Mode for Concurrent Dual-Band RF Power Amplifiers,10.1109/IEEE-IWS.2019.8804063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8804063,0
+5,40,A 28 nm standard CMOS watt-level power amplifier for LTE applications,10.1109/PAWR.2015.7139205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139205,0
+5,41,Class 1 bluetooth power amplifier with 24 dBm output power and 48% PAE at 2.4 GHz in 0.25 µm CMOS,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471333,0
+5,42,High Average-Efficiency Multimode RF Transmitter Using a Hybrid Quadrature Polar Modulator,10.1109/TCSII.2008.918969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4469988,0
+5,43,MEMS-Based Reconfigurable Multi-band BiCMOS Power Amplifier,10.1109/BIPOL.2006.311134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4100202,0
+5,44,A High Dynamic Range CMOS RF Power Amplifier with a Switchable Transformer for Polar Transmitters,10.1109/RFIC.2007.380988,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266536,0
+5,45,A New Technique for the Characterization and Design of Class-F RF Power Amplifiers,10.1109/SCEE.2018.8684205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8684205,0
+5,46,A spread spectrum modulation method based on dual-clock for filterless digital class-D audio amplifiers,10.1109/ICIEA.2018.8398036,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8398036,0
+5,47,A nonlinear capacitance cancellation technique and its application to a CMOS class AB power amplifier,10.1109/RFIC.2001.935637,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935637,0
+5,48,Generalized Analytical Design Equations for Variable Slope Class-E Power Amplifiers,10.1109/ICECS.2006.379817,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263395,0
+5,49,A novel controller for switching audio power amplifier with digital input,10.1109/PSEC.2002.1023844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1023844,0
+5,50,Switching behavior of RF-LDMOS for class-F power amplifier in TCAD,10.1109/IBCAST.2014.6778192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6778192,0
+5,51,Application of quad-phase surface acoustic wave filters to power divider/combiner for RF power amplifiers,10.1109/APMC.2006.4429672,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429672,0
+5,52,A family of 20 W linear driver ICs for RF high power amplifiers,10.1109/APMC.2006.4429517,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429517,0
+5,53,Series-Combined Coaxial Dielectric Resonator Class-F Power Amplifier System,10.1109/IMS30576.2020.9223883,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223883,0
+5,54,1 W 0.8 /spl mu/m BiCMOS adaptive Q-current controlled class-AB power amplifier for portable sound equipments,10.1109/ISSCC.2002.993092,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=993092,0
+5,55,A Hybrid Supply Modulator for 10-MHz LTE Power Amplifier with 17.3% PAE Improvement,10.1109/VLSI-DAT52063.2021.9427340,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9427340,0
+5,56,A 129.5-151.5GHz Fully Differential Power Amplifier in 65nm CMOS,10.1109/IEEE-IWS.2019.8803888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8803888,0
+5,57,Co-design of an antenna-power amplifier RF front-end block without matching network for 2.4 GHz WiFi application,10.1109/RWS.2017.7885987,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7885987,0
+5,58,"A 4Ω 2.3W class-D audio amplifier with embedded DC-DC boost converter, current-sensing ADC and DSP for adaptive speaker protection",10.1109/ISSCC.2013.6487690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6487690,0
+5,59,Integrated overcurrent protection system for class-D audio power amplifiers,10.1109/JSSC.2005.857369,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1522564,0
+5,60,Ka-Band 3-Stack Power Amplifier with 18.8 dBm Psat and 23.4 % PAE Using 22nm CMOS FDSOI Technology,10.1109/PAWR.2019.8708719,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8708719,0
+5,61,A Ka Band Power Amplifier with Varactor-Based Analog Predistortion in pMOS-SOI,10.1109/PAWR53092.2022.9719848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9719848,0
+5,62,The Curcuit Design and Simulation on Narrowband High-frequeney Power Amplifier Based on Multisim,10.1109/EITCE47263.2019.9095097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9095097,0
+5,63,Measurement Uncertainty Analysis and Power Amplifier Design with Uncertainty Added S-parameters,10.1109/PAWR51852.2021.9375572,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9375572,0
+5,64,An X-Band Switchless Bidirectional GaN MMIC Amplifier for Phased Array Systems,10.1109/LMWC.2014.2359366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6910321,0
+5,65,A Current-Injection Class-E Power Amplifier,10.1109/LMWC.2020.3000994,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121322,0
+5,66,A dual-band outphasing transmitter using broadband class E power amplifiers,10.1109/INMMIC.2014.6815087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815087,0
+5,67,Design and simulation of high-power RF power supply for ICP based on Simulink,10.1109/ICEICT51264.2020.9334370,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9334370,0
+5,68,Power-Combining Class-E Amplifier With Finite Choke,10.1109/TCSI.2010.2072250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5629458,0
+5,69,Envelope tracking power amplifiers with reduced peak-to-average power ratio RF input signals,10.1109/RWS.2010.5434221,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5434221,0
+5,70,Fully orthogonal multi-carrier predistortion linearization for RF power amplifiers,10.1109/MWSYM.2009.5165887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165887,0
+5,71,A Class-G/FB Audio Amplifier,10.1109/TCE.2007.4429249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429249,0
+5,72,A 12 GHz to 46 GHz Fully Integrated SiGe Distributed Power Amplifier with 20.9 dBm Output Power and 18.3 dB Gain,10.1109/PAWR46754.2020.9036002,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9036002,0
+5,73,An 80.4% Peak Power Efficiency Adaptive Supply Class H Power Amplifier for Audio Applications,10.1109/TVLSI.2017.2666268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7864454,0
+5,74,A Dual-Band Parallel Doherty Power Amplifier for Wireless Applications,10.1109/TMTT.2012.2210906,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6269905,0
+5,75,Fast switching charge dump assisted Class-D audio amplifier with high fidelity and high efficiency,10.1109/PESC.2008.4592498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4592498,0
+5,76,Efficiency analysis of a limit-cycle class-D amplifier with a random Gaussian excitation,10.1109/MWSYM.2009.5165960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165960,0
+5,77,Direct design of Doherty and Chireix PAs using a nonlinear embedding device model,10.1109/PAWR.2017.7875569,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7875569,0
+5,78,A mathematical model for time-domain analysis and for parametric optimization of a class of switched capacitor RF power amplifiers,10.1109/ICECS.2014.7050036,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7050036,0
+5,79,Demonstration of Long-Pulse Power Amplification at 1 GHz Using 4H-SiC RF BJTs on a Conductive Substrate,10.1109/LED.2007.895386,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4160056,0
+5,80,A 700-2800MHz Switchless Class-G Power Amplifier with Two-Quadrant Modulation for Back-off Efficiency Improvement,10.1109/IMS37962.2022.9865384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865384,0
+5,81,Empowering GaN-Si HEMT Nonlinear Modelling for Doherty Power Amplifier Design,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337381,0
+5,83,Optimized Harmonic Tuned High Efficiency L-Band Power Amplifier,10.1109/ICEENG49683.2022.9782002,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782002,0
+5,84,"Design of highly efficient, high output power, L-band class D-1 RF power amplifiers using GaN MESFET devices.",10.1109/EMICC.2007.4412706,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4412706,0
+5,85,A Feed-Forward Power-Supply Noise Cancellation Technique for Single-Ended Class-D Audio Amplifiers,10.1109/JSSC.2014.2298456,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6757033,0
+5,86,Reliability study of a low-voltage Class-E power amplifier in 130nm CMOS,10.1109/ISCAS.2010.5537959,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537959,0
+5,87,An investigation on current collapse induced memory effects of GaN power amplifier for LTE base station applications,10.23919/EuMIC.2017.8230740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8230740,0
+5,88,An investigation on current collapse induced memory effects of GaN power amplifier for LTE base station applications,10.23919/EuMC.2017.8231046,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8231046,0
+5,89,A 0.7–6GHz broadband CMOS power amplifier for multi-band applications,10.1109/ICMMT.2012.6229986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6229986,0
+5,90,A fully integrated low-power class-E power amplifier for short range communication,10.1109/MMS.2014.7089007,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7089007,0
+5,91,Power adaptive decomposed vector rotation based digital predistortion for RF power amplifiers in dynamic power transmission,10.1109/PAWR.2017.7875559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7875559,0
+5,92,A CMOS RF power amplifier with parallel amplification for efficient power control,10.1109/JSSC.2002.1004572,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1004572,0
+5,93,Hot carrier effect on CMOS RF amplifiers,10.1109/RELPHY.2005.1493202,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1493202,0
+5,94,A 900 MHz CMOS RF power amplifier with digitally controllable output power,10.1109/TENCON.2002.1180325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1180325,0
+5,95,Digital Class E Power Amplifier for The RF Band,10.1109/ICMA.2006.257405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4026320,0
+5,96,Thermal memory effect characterization of GaN based class ABJ power amplifier using intrinsic temperature measurement,10.1109/PAWR.2018.8310052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310052,0
+5,97,RF LDMOS Power Amplifier Integrated Circuits for Cellular Wireless Base Station Applications,10.1109/MWSYM.2006.249835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4015053,0
+5,98,Improved Class-K amplifier for headset applications,10.1109/NEWCAS.2010.5603759,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5603759,0
+5,99,Increasing the saturated output RF power for RF amplifiers using a passive technique,10.1109/JIEEEC.2015.7470740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7470740,0

@@ -99,3 +99,403 @@
 1,97,Compact and Efficient Wideband Variable Gain LNA MMIC on InGaAs pHEMT,10.1109/IBCAST.2019.8667171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667171,1
 1,98,A Tri (K/Ka/V)-Band Monolithic CMOS Low Noise Amplifier with Shared Signal Path and Variable Gains,10.1109/IMS30576.2020.9223850,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223850,1
 1,99,An 8 GHz Variable Gain Low Noise Amplifier (VGLNA) Utilizing Parallel Inter-Stage Resonance,10.1109/APCCAS.2006.342292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4145328,1
+2,0,A 24-30GHz GaN-on-Si Variable Gain Low-Noise Amplifier MMIC,10.1109/IWS49314.2020.9359971,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9359971,0
+2,1,A 56-to-110 dB Gain Programmable Gain Amplifier with Second-Order Band Pass Filter for Ultrasonic Sensor Systems,10.1109/ICEIC57457.2023.10049884,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049884,0
+2,2,4-bit X-band Variable Gain Amplifier with Additional Steering Transistors Based on 90 nm CMOS,10.1109/EDM58354.2023.10225149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10225149,0
+2,3,A 7-GHz CMOS Bidirectional Variable Gain Amplifier With Low Gain and Phase Imbalances,10.1109/TCSI.2018.2801942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8293696,0
+2,4,A wideband digital variable gain amplifier with DC offset cancellation in SiGe 0.18µm BiCMOS technology,10.1109/ISICIR.2016.7829702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7829702,0
+2,5,A 40-GHz 4-Bit Digitally Controlled VGA With Low Phase Variation Using 65-nm CMOS Process,10.1109/LMWC.2019.2942013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8856253,0
+2,6,A 54-  $\mu\text{W}$ Inverter-Based Low-Noise Single-Ended to Differential VGA for Second Harmonic Ultrasound Probes in 65-nm CMOS,10.1109/TCSII.2016.2530318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7407360,0
+2,7,A 39-GHz Phase-Inverting Variable Gain Power Amplifier in 65-nm CMOS for 5G Communication,10.1109/LMWC.2022.3180999,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797755,0
+2,8,A Ka-band CMOS Digital-Controlled Phase-Invariant Variable Gain Amplifier with 4-bit Tuning Range and 0.5-dB Resolution,10.1109/RFIC.2018.8428833,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8428833,0
+2,9,A 5-6 GHz Low-Noise Amplifier with > 65-dB Variable-Gain Control in 22nm FinFET CMOS Technology,10.1109/RFIC49505.2020.9218439,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218439,0
+2,10,A CMOS low-power variable-gain amplifier with RSSI for a noncoherent low data rate IR-UWB receiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403948,0
+2,11,A Precise Decibel-Linear Programmable Gain Amplifier Using a Constant Current-Density Function,10.1109/TMTT.2012.2203928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6244819,0
+2,12,A 8–18 GHz Low Noise Variable Gain Amplifier with 30 dB Gain Control Range,10.23919/EuMIC54520.2022.9923440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923440,0
+2,13,Design of a Wideband dB-Linear Variable Gain Amplifier With Continuous Gain Adjusting in 90-nm CMOS Technology,10.1109/ACCESS.2021.3127356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9611290,0
+2,14,Characterization-oriented design of E-band Variable-Gain Amplifiers in BiCMOS technology,10.1109/MMS55062.2022.9825549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9825549,0
+2,15,"A 3–47dB gain,+20dBm IIP3, 400MHz VGA for a pulse-based UWB in 0.18µm CMOS",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403947,0
+2,16,A wideband CMOS VGA with dB-linear gain based on active feedback and negative capacitance,10.1109/IranianCEE.2017.7985090,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985090,0
+2,17,Design considerations for a low power variable gain amplifier for ultrasounds,10.1109/SIITME.2012.6384377,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6384377,0
+2,18,A 27–43 GHz CMOS Body-Biased Digital Current-Steering VGA With 4 Bit and Low Phase Shift,10.1109/LMWC.2022.3208631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912643,0
+2,19,A 16.5 mW 4.0 GHz Bandwidth VGA Based on Capacitance Neutralization Technique in 65 nm CMOS,10.1109/ICTA60488.2023.10364260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10364260,0
+2,20,A 23.8–30.4-GHz Vector-Modulated Phase Shifter With Two-Stage Current-Reused Variable-Gain Amplifiers Achieving 0.23° Minimum RMS Phase Error,10.1109/LSSC.2022.3179661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9786764,0
+2,21,A 38-GHz Down-Converter with Low Noise Variable Gain Amplifier having 24dB dynamic range in SMT package,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102808,0
+2,22,Design of a low power Variable Gain Amplifier for WLAN standard,10.1109/IDT.2016.7843045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7843045,0
+2,23,A 71 dB 150 $\mu {\rm W}$ Variable-Gain Amplifier in 0.18 $\mu{\rm m}$ CMOS Technology,10.1109/LMWC.2015.2410133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7073669,0
+2,24,A Wideband 120-GHz Variable Gain Amplifier With Multistage Phase Compensation,10.1109/TMTT.2020.2980518,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9049123,0
+2,25,RF variable gain amplifier with linear control and automatic matching in 28 nm CMOS,10.1109/COMCAS.2015.7360480,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360480,0
+2,26,A variable gain optical amplifier for metro WDM networks with mixed span losses: a gain-clamped semiconductor optical amplifier combined with a Raman fiber amplifier,10.1109/OFC.2005.192535,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1497615,0
+2,27,A 6-bit wideband variable gain amplifier with low group delay variation in 90nm CMOS,10.1109/SiRF.2012.6160121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6160121,0
+2,28,Noise reduction method for electro-optic measurement system using variable gain amplifier,10.1109/TENCON.2017.8228182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8228182,0
+2,29,A 0.18-$\mu{\hbox {m}}$ CMOS 1.25-Gbps Automatic-Gain-Control Amplifier,10.1109/TCSII.2007.911810,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415529,0
+2,30,A low-power digitally-programmable variable gain amplifier in 65 nm CMOS,10.1145/1840845.1840868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5599005,0
+2,31,A Broadband Variable Gain Low Noise Amplifier Covering 28/38 GHz bands with Low Phase Variation in 90-nm CMOS for 5G Communications,10.1109/IMS19712.2021.9574991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574991,0
+2,32,MOS variable gain amplifier for quartz gyroscope driving,10.1109/ICoOM.2012.6316328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6316328,0
+2,33,A Millimeter-Wave 8-bits Digital Variable Gain Amplifier in $0.13-\mu \mathrm{m}$ SiGe BiCMOS,10.1109/UCMMT49983.2020.9296029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296029,0
+2,34,A 30 dB and 250 µW High Linear Variable Gain Amplifier with Employing Gm-Boosting and Common Mode Feedforward Techniques,10.1109/ICEE59167.2023.10334669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10334669,0
+2,35,A variable gain low-noise amplifier with noise and nonlinearity cancellation for DVB applications,10.1109/APMC.2009.5384401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384401,0
+2,36,60-GHz Low-Noise VGA and Interpolation-Based Gain Cell in a 40-nm CMOS Technology,10.1109/TMTT.2018.2889058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605520,0
+2,37,A Compact Frequency-Tunable VGA for Multi-Standard 5G Transceivers,10.1109/IMS30576.2020.9223927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223927,0
+2,38,A UHF variable gain amplifier for direct-conversion DVB-H receivers,10.1109/RFIC.2009.5135601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135601,0
+2,39,Low Power CMOS Digital Variable Gain Amplifier Design For WiMAX/LTE Receiver,10.1109/ICM.2018.8704064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704064,0
+2,40,A SiGe HBT variable gain amplifier with 80 dB control range for applications up to 3 GHz,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1394803,0
+2,41,Variable gain differential current feedback amplifier,10.1109/CICC.2004.1358912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358912,0
+2,42,Power consumption analysis of PLC-based optical switches and variable attenuators for variable gain optical fiber amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6597538,0
+2,43,A Low-Power 75dB Digitally Programmable CMOS Variable-Gain Amplifier,10.1109/CCECE.2007.136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4232795,0
+2,44,An automatic-gain-controlled Raman fiber amplifier/gain-clamped SOA for metro WDM networks with changes in span loss,10.1109/LPT.2006.870082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1593724,0
+2,45,A 30 GHz Variable Gain Amplifier With High Output Voltage Swing for Ultra-Wideband Radar,10.1109/LMWC.2009.2027094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5200443,0
+2,46,A 6.5-12 GHz Balanced Variable Gain Low-Noise Amplifier with Frequency-Selective Non-Foster Gain Equalization Technique,10.1109/IMS30576.2020.9223868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223868,0
+2,47,A 20 ~ 43 GHz VGA with 21.5 dB Gain Tuning Range and Low Phase Variation for 5G Communications in 65-nm CMOS,10.1109/RFIC.2019.8701807,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701807,0
+2,48,A 95-dB linear low-power variable gain amplifier,10.1109/TCSI.2006.879058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1673635,0
+2,49,Low-Power Variable-Gain CMOS Trans Impedance Amplifier for Near Infra-Red Spectroscopy Applications,10.1109/ICSES60034.2023.10465518,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465518,0
+2,50,A Low-Phase Error Cascode CMOS Variable Gain Amplifier With 180° Phase Control for Phase Array Systems,10.1109/TMTT.2022.3142158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695306,0
+2,51,A low-power 75 dB digitally programmable variable-gain amplifier in 0.18μm CMOS,10.1109/CJECE.2007.4407663,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4407663,0
+2,52,A digitally programmable VGA [variable gain amplifier],10.1109/MWSCAS.2001.986263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=986263,0
+2,53,Wideband Bidirectional Variable Gain Amplifier for 5G Communication,10.1109/LMWT.2023.3244715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050184,0
+2,54,37.8 GHz to 54.6 GHz amplifier and DC to 29 GHz variable gain amplifier in 0.13 µm SiGe BiCMOS technology,10.1109/PRIME.2016.7519461,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7519461,0
+2,55,A 56-Gb/s PAM4 Variable Gain Amplifier in 40-nm CMOS Technology,10.1109/EDSSC.2019.8754172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8754172,0
+2,56,A Wideband CMOS Variable Gain Amplifier with a Novel Linear-in-dB Gain Control Structure,10.1109/RFIT.2007.4443984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443984,0
+2,57,Design of a 10GHz bandwidth variable gain amplifier using a GaAs HBT technology,10.1109/MMWCST.2012.6238134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6238134,0
+2,58,A 28-nm FD-SOI CMOS Variable-Gain Amplifier With Body-Bias-Based DC-Offset Cancellation for Automotive Radars,10.1109/TCSII.2019.2921252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8732383,0
+2,59,A 55 dB range gain interpolating variable gain amplifier with improved offset cancellation,10.1109/PRIME.2016.7519455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7519455,0
+2,60,Broadband variable gain amplifier with very low phase variation in 28nm CMOS,10.1109/PRIME.2015.7251336,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7251336,0
+2,61,A CMOS dB-linear variable amplifier using curvematching,10.1109/MEC.2011.6025969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6025969,0
+2,62,A Low-Power Wideband dB-Linear Variable Gain Amplifier With DC-Offset Cancellation for 60-GHz Receiver,10.1109/ACCESS.2018.2875764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490819,0
+2,63,"A 1GHz, 68dB CMOS variable gain amplifier with an exponential-function circuit",10.1109/ISSSE.2010.5606939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5606939,0
+2,64,A Wide-Band CMOS Variable-Gain Low Noise Amplifier for Multi-Standard Terrestrial and Cable TV Tuner,10.1109/RFIC.2007.380960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266508,0
+2,65,A 57–64 GHz low-phase-variation variable-gain amplifier,10.1109/MWSYM.2012.6259467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6259467,0
+2,66,A low power 45dB dynamic-range variable gain mixer in 0.18µm CMOS,10.1109/MWSYM.2009.5165764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165764,0
+2,67,A Temperature Compensated Variable Gain Phase Shifter Based on GaN HEMTs,10.1109/ISCAS51556.2021.9401271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401271,0
+2,68,A V-Band Variable Gain Low-Noise Amplifier in 28-nm Bulk CMOS,10.1109/IMWS-AMP54652.2022.10107338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107338,0
+2,69,A high temperature variable gain amplifier based on GaN HEMT devices for downhole communications,10.1109/ISCAS.2017.8050376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050376,0
+2,70,Wideband 70dB CMOS digital variable gain amplifier design for DVB-T receiver's AGC,10.1109/ISCAS.2005.1464598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1464598,0
+2,71,"Low noise, low power variable gain amplifier for ultrasounds",10.1109/OPTIM.2017.7975075,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975075,0
+2,72,A 2–6.5 GHz CMOS variable gain amplifier for vector-sum phase shifters,10.1109/APMC.2012.6421509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421509,0
+2,73,Low-power CMOS Variable Gain Amplifier design in 0.18µm process,10.1109/ICM.2015.7438025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7438025,0
+2,74,A 2.46-4.5GHz Low-Noise Variable-Gain Amplifier Based on Noise-canceling Topology and Gm-boosting Technique in 65-nm CMOS,10.1109/ICMMT55580.2022.10022366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10022366,0
+2,75,CMOS LNA and VGA for 5G NR Using Gain-Linearity-Boosting and Body Floating Techniques,10.1109/SiRF59913.2024.10438556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438556,0
+2,76,A single ended input wideband variable gain low noise amplifier with balanced differential output and digital AGC for CMMB TV tuner,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403777,0
+2,77,"A 1GHz, 56.7dB Linear-in-dB CMOS Wideband Variable Gain Amplifier",10.1109/ICCCAS.2018.8769272,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8769272,0
+2,78,A 73-103 GHz Low-Phase-Variation Variable Gain Amplifier with Cds Compensation Technique,10.1109/ICMMT55580.2022.10022388,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10022388,0
+2,79,A Wide Gain Control Range V-Band CMOS Variable-Gain Amplifier With Built-In Linearizer,10.1109/TMTT.2012.2233211,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392919,0
+2,80,One Single Travelling-Wave MMIC for Highly Linear Broadband Mixers and Variable Gain Amplifiers,10.1109/MWSYM.2005.1516530,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387887,0
+2,81,Phase Analysis of a Variable Gain Amplifier Controlled Through Matching Networks,10.1109/ICEEE.2007.4345010,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4345010,0
+2,82,A high-speed energy-efficient inductor-less transimpedance amplifier with adjustable gain for optical chip-to-chip communication,10.1109/IMOC.2015.7369054,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7369054,0
+2,83,A High Dynamic Range CMOS Variable Gain Amplifier for Mobile DTV Tuner,10.1109/JSSC.2006.889386,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4077179,0
+2,84,A Continually-Stepped Variable-Gain LNA in 65-nm CMOS Enabled by a Tunable-Transformer for mm-Wave 5G Communications,10.1109/MWSYM.2019.8701023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701023,0
+2,85,A Low Amplitude/Phase Error 16dB CMOS Variable Gain Amplifier with 180° Phase Shifting,10.1109/IWS52775.2021.9499648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499648,0
+2,86,A Low Amplitude/Phase Error 16dB CMOS Variable Gain Amplifier with 180° Phase Shifting,10.1109/IWS52775.2021.9499637,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499637,0
+2,87,Design of a New Variable Gain Amplifier,10.1109/ICASID.2019.8925004,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8925004,0
+2,88,A Low-Power Digital Variable-Gain V-Band Receiver Using Current-reused Technique with Embedded Power Detectors,10.1109/RFIT52905.2021.9565232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565232,0
+2,89,Variable gain operation of a gain-clamped sampled grating laser amplifier,10.1109/CLEO.2002.1034099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1034099,0
+2,90,A 28 GHz High Slope Automatic Switching Power Detector System Using PMOS Current-Steering Variable Gain Amplifier and Schmitt Trigger,10.1109/TCSII.2022.3157053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729471,0
+2,91,A 624μW Variable Gain Amplifier with 45dB peak Gain using Current Controlled Degeneration,10.1109/ICDCS48716.2020.243542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9075717,0
+2,92,Micro-Power Amplifiers for Wireless PAN Applications,10.1109/MWSYM.2005.1616528,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387898,0
+2,93,A 0.4-V High-Gain Low-Noise Amplifier Using a Variable-Frequency Image-Rejection Technology,10.1109/LMWC.2021.3098249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490679,0
+2,94,A CMOS Low-Distortion Variable Gain Amplifier with Exponential Gain Control,10.1109/ASSCC.2006.357929,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4197668,0
+2,95,A CMOS dB-linear RF VGA for SAW-less WEDGE transmitters,10.1109/RWS.2010.5434273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5434273,0
+2,96,A Digitally-Controlled Variable Gain Amplifier with 0.5-dB Step and Constant-Bandwidth for Passive MM-wave Imaging Receiver,10.1109/ICSICT.2018.8565750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8565750,0
+2,97,"A 40.4-dB Range, 0.73-dB Step, and 0.07-dB Error Programmable Gain Amplifier Using Gain Error Shifting Technique",10.1109/TCSII.2018.2878919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8516389,0
+2,98,A novel GaAs Multi-Chip MMIC Video Amplifier for optical receiver in cable communication systems,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6173674,0
+2,99,Codesign of Mixer-VGA Downconverter Blocks,10.1109/CJECE.2015.2416117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7230334,0
+3,0,A 300 GHz multi-stage balanced variable gain amplifier with Tandem-X couplers,10.1109/COMCAS.2015.7360382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360382,0
+3,1,A low gain error two-stage dB-linear variable gain amplifier in 0.35μm CMOS process,10.1109/ASICON.2017.8252489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252489,0
+3,2,Design of CMOS based Programmable Gain Operational Amplifier,10.1109/RSM.2013.6706492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6706492,0
+3,3,A Stochastic Variable Gain Amplifier Adaptation for PAM-4 signaling,10.1109/ISOCC53507.2021.9613986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9613986,0
+3,4,A 60 GHz variable-gain low-noise amplifier with low phase variation,10.1109/RFIT.2016.7578185,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7578185,0
+3,5,High dynamic range variable gain amplifier using 130 nm CMOS technology for triple-band W-CDMA applications,10.1109/ICMMT.2008.4540323,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540323,0
+3,6,Design of a high-speed large dynamic range programmable gain amplifier,10.1109/RTC.2016.7543182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7543182,0
+3,7,A 28GHz SiGe BiCMOS phase invariant VGA,10.1109/RFIC.2016.7508273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508273,0
+3,8,An asymmetric bidirectional amplifier with all-optical gain control for randomly variable data traffic,10.1109/LPT.2003.818897,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1256027,0
+3,9,Variable Gain Distributed Amplifier with Capacitive Division,10.23919/EuMC.2018.8541522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8541522,0
+3,10,Variable Gain Distributed Amplifier with Capacitive Division,10.23919/EuMIC.2018.8539959,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8539959,0
+3,11,Determining the optimal number of gain stages of variable gain amplifiers used in multi-standard homodyne wireless receivers,10.1109/SMICND.2013.6688652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6688652,0
+3,12,Multimode 2.4 GHz CMOS power amplifier with gain control for efficiency enhancement at power backoff,10.1109/LASCAS.2015.7250427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7250427,0
+3,13,A low-power-consumption linear-in-dB CMOS VGA,10.1109/ICMTCE.2013.6812433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6812433,0
+3,14,A 115-325MHz Wideband Analog Baseband with 0.5dB-Step Variable Gain Amplifier and Six-order Reconfigurable Gm-C Lowpass Filter,10.1109/ASICON58565.2023.10396077,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396077,0
+3,15,A 1.5 GHz linear-in-dB Variable Gain Amplifier with process and temperature tracking in 0.18-µm CMOS,10.1109/ASICON.2009.5351465,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351465,0
+3,16,Design of CMOS Variable Gain Amplifier for DTV Tuners,10.1109/NSWCTC.2009.234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4908393,0
+3,17,A 1.5mA 470MHz CMOS variable gain amplifier for wideband communication,10.1109/PRIMEASIA.2009.5397419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5397419,0
+3,18,"A variable gain, 2.5 GHz CMOS low-noise amplifier for mobile wireless communications",10.1109/MICC.2009.5431457,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5431457,0
+3,19,A variable gain amplifier based on dual gain control technology for ultra-wideband applications,10.1109/ICUWB.2016.7790421,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7790421,0
+3,20,A 65 nm CMOS SOI 4-bit Digitally Controlled Variable Gain Amplifier for Ka-Band Beamforming,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337410,0
+3,21,A 1-V 25-dB 100-MHz CMOS variable gain amplifier cell,10.1109/ISCIT.2004.1412901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1412901,0
+3,22,"A 2.7 mW, 0.064 mm/sup 2/ linear-in-dB VGA with 60 dB tuning range, 100 MHz bandwidth, and two DC offset cancellation loops",10.1109/RFIT.2005.1598877,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1598877,0
+3,23,Optimizing CMOS analog Variable Gain Amplifier cell for WiMAX receiver,10.1109/DTIS.2016.7483894,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7483894,0
+3,24,Wideband low noise variable gain amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460297,0
+3,25,A 47-dB linear CMOS variable gain amplifier using current squaring technique,10.1109/APCCAS.2010.5774826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5774826,0
+3,26,Nanoscale field effect diode as a high frequency and ultra lowpower variable gain amplifier in AGC circuits,10.1109/ICM.2008.5393524,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5393524,0
+3,27,An Inductorless 6-GHz Variable Gain Differential Transimpedance Amplifier in 0.18-μm SiGe BiCMOS,10.1109/ISCAS.2019.8702203,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702203,0
+3,28,A Millimeter-Wave Variable-Gain Power Amplifier With P₁ dB Improvement Technique in 65-nm CMOS,10.1109/LMWC.2022.3177656,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9786002,0
+3,29,Design of a Wideband Variable-Gain Amplifier With Self-Compensated Transistor for Accurate dB-Linear Characteristic in 65 nm CMOS Technology,10.1109/TCSI.2020.2995725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9103082,0
+3,30,Gain-bandwidth tuning techniques for loss-compensated Travelling Wave Amplifiers,10.1109/IMOC.2015.7369067,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7369067,0
+3,31,Single-chip IF transceiver IC with wide dynamic range variable gain amplifiers for wideband CDMA applications,10.1109/VLSIC.2001.934178,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=934178,0
+3,32,A highly-linear CMOS RF programmable-gain driver amplifier with a digital-step differential attenuator for RF transmitters,10.1109/RFIC.2013.6569629,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6569629,0
+3,33,A 79GHz variable gain low-noise amplifier and power amplifier in 28nm CMOS operating up to 125°C,10.1109/ESSCIRC.2014.6942052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6942052,0
+3,34,A 60-GHz Variable-Gain Power Amplifier With a Switchable Inductor for TDD Systems,10.1109/LMWT.2024.3379325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10479182,0
+3,35,Design of a broadband variable-gain low noise amplifier,10.1109/EDSSC.2014.7061259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061259,0
+3,36,A 60 GHz transformer-based variable-gain power amplifier in 90nm CMOS,10.1109/RFIT.2009.5383671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383671,0
+3,37,A design of a variable gain amplifier with current source load reassigned,10.1109/ICEPET61938.2024.10627178,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10627178,0
+3,38,"A 110-dBΩ, 113-MHz variable-gain transimpedance amplifier for flash 3D imaging systems",10.1109/ASICON.2017.8252512,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252512,0
+3,39,A 71–76 GHz CMOS variable gain amplifier using current steering technique,10.1109/RFIC.2008.4561511,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561511,0
+3,40,A 7.9-mW 5.6-GHz Digitally Controlled Variable Gain Amplifier With Linearization,10.1109/TMTT.2012.2217151,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6319369,0
+3,41,Current-mode approach for a variable-gain low-noise amplifier (LNA),10.1109/ICON.2005.1635577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1635577,0
+3,42,Experimental hybrid optical amplifier with flat spectral gain and improved NF using novel hybrid gain control scheme for dynamic WDM networks,10.1109/IMOC.2013.6646591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6646591,0
+3,43,A 27GHz-to-33GHz Variable-Gain Amplifier with Precise 0.5dB Step Size in 40nm-CMOS for 5G and Ka-Band Satellite Applications,10.1109/ISCAS45731.2020.9180398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180398,0
+3,44,A 2.7-V SiGe HBT variable gain amplifier for CDMA applications,10.1109/LMWC.2003.819959,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1261764,0
+3,45,Monolithic Adjustable Gain-Clamped Semiconductor Optical Amplifier,10.1109/JLT.2013.2271790,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553276,0
+3,46,A 60 GHz Cascode Variable-Gain Low-Noise Amplifier With Phase Compensation in a 0.13 $\mu{\rm m}$ CMOS Technology,10.1109/LMWC.2012.2199975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6204203,0
+3,47,A variable gain amplifier with variable input impedance and auto-zero feedback for spin torque oscillators,10.1109/SMICND.2015.7355196,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7355196,0
+3,48,A CMOS Digitally Controlled RF Variable Gain Amplifier,10.1109/APCCAS.2006.342368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4145367,0
+3,49,A WiMAX Receiver with Variable Bandwidth of 2.5 - 20 MHz and 93 dB Dynamic Gain Range in 0.13-μm CMOS Process,10.1109/RFIC.2007.380903,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266451,0
+3,50,A variable gain amplifier with 50-dB control range for 900-MHz applications,10.1109/JSSC.2002.801205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1028096,0
+3,51,Design of VGA for 6 GHz radio frequency communication system,10.1109/IMWS2.2012.6338201,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6338201,0
+3,52,Fiber-optical parametric amplifier with 70-dB gain,10.1109/LPT.2006.874714,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1629126,0
+3,53,A Class-AB CMOS Variable Gain Amplifier for Low-Voltage Applications,10.1109/ISICIR.2007.4441793,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441793,0
+3,54,A Low Power mixed Signal Foreground Calibration Technique of a Pipeline ADC using a Variable Gain Amplifier,10.1109/TENCON.2019.8929600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8929600,0
+3,55,A K-Band Variable Gain Low-Noise Amplifier with Low Phase Variation in 65-nm CMOS,10.1109/IWS52775.2021.9499661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499661,0
+3,56,An EDFA hybrid gain control technique for extended input power and dynamic gain ranges with suppressed transients,10.1109/IMOC.2007.4404354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4404354,0
+3,57,60 GHz high gain low noise amplifier using cascode noise reduction technique,10.1109/RFM.2013.6757210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6757210,0
+3,58,A low-voltage and variable-gain distributed amplifier for 3.1-10.6 GHz UWB systems,10.1109/LMWC.2006.872134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1613888,0
+3,59,A Variable Gain E-Band Power Amplifier using Highly Linear Embedded Attenuator,10.1109/SIRF.2019.8709085,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8709085,0
+3,60,A temperature stable CMOS variable gain amplifier with 80-dB linearly controlled gain range,10.1109/VLSIC.2001.934201,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=934201,0
+3,61,A 48-dB dynamic gain range/stage linear-in-dB low power Variable Gain Amplifier for direct-conversion receivers,10.1109/ISOCC.2011.6138677,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138677,0
+3,62,A PVT-Robust 2.4-GHz-BW 59.7-dB-Range 0.39-dB-Error dB-Linear VGA with Self-Compensated Exponential Generator and Self-Adaptive Bias,10.1109/ESSERC62670.2024.10719529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719529,0
+3,63,A variable gain distributed amplifier with low voltage and low power in 0.18-μm CMOS technology,10.23919/EuMC.2011.6101737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6101737,0
+3,64,A variable gain distributed amplifier with low voltage and low power in 0.18-μm CMOS technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102789,0
+3,65,Variable Gain Amplifier in CMOS 0.18µm for WiMAX application,10.1109/DTIS.2015.7127345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7127345,0
+3,66,A Wideband dB-Linear VGA With Temperature Compensation and Active Load,10.1109/TCSI.2019.2924667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8755495,0
+3,67,An all-optical gain controlled EDFA using a fast variable optical attenuator,10.1109/IMOC.2005.1580119,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1580119,0
+3,68,Cell-Based Variable-Gain Amplifiers With Accurate dB-Linear Characteristic in 0.18 µm CMOS Technology,10.1109/JSSC.2014.2368132,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6975257,0
+3,69,Experimental Study of All-Optical Gain-Clamped Fiber Optical Parametric Amplifier,10.1109/LPT.2012.2186285,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6142011,0
+3,70,A DC to 20 GHz Variable Gain Amplifier with Tunable Input Matching in 22 nm FDSOI Technology,10.23919/EuMIC50153.2022.9783722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9783722,0
+3,71,A Mixed-Mode Variable Gain Amplifier for Hearing Aid Devices,10.1109/DCAS.2018.8620180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8620180,0
+3,72,Novel method of gain clamping in C-band erbium dopedfiber amplifier,10.1109/ICACT.2004.1292943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1292943,0
+3,73,Monolithic adjustable gain-clamped semiconductor optical amplifier (AGC-SOA),10.1109/ICTON.2013.6602709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6602709,0
+3,74,An erbium-doped fibre amplifier with widely variable gain employing integrated components on a planar lightwave circuit,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6065889,0
+3,75,A low voltage CMOS transresistance-based variable gain amplifier,10.1109/ISCAS.2004.1328318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328318,0
+3,76,A wide-band low noise amplifier using cross-coupled technique with linear in dB gain-control,10.1109/ICUWB.2009.5288837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5288837,0
+3,77,Ka-Band Wide Gain Control Range CMOS Variable Gain Amplifier Using PMOS for 5G Communications,10.23919/EuMIC54520.2022.9923539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923539,0
+3,78,Optical Amplifiers for Modern Networks,10.1109/ICTON.2006.248256,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4013669,0
+3,79,CMOS variable-gain amplifier for low-frequency applications,10.1109/DDECS.2016.7482477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7482477,0
+3,80,A 0.35μm CMOS 1.8V low-power 175MHz variable gain amplifier,10.1109/MWSCAS.2007.4488584,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488584,0
+3,81,Gain Control of Semiconductor Optical Amplifier Using a Bandpass Filter in a Feedback Loop,10.1109/LPT.2007.903501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4295140,0
+3,82,An Improved Power Consumption Circuit of a 5.7 GHz Variable-Gain Low Noise Amplifier (VGLNA) for RF Applications,10.1109/RFM.2006.331039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4133554,0
+3,83,Ultra-low power dB linear variable gain amplifier with minimalistic Noise using Adaptive biasing,10.1109/ICCCIS56430.2022.10037602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10037602,0
+3,84,A Ka-Band Phase-Compensated Variable-Gain CMOS Low-Noise Amplifier,10.1109/LMWC.2018.2887335,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612926,0
+3,85,Variable Gain Differential Low Noise Power Amplifier in 28-nm FD-SOI,10.1109/ICM48031.2019.9021538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9021538,0
+3,86,A variable gain amplifier with 50 dB control range for 900 MHz applications,10.1109/BIPOL.2001.957880,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=957880,0
+3,87,A 28-GHz Low-Power Variable-Gain Low-Noise Amplifier Using Twice Current Reuse Technique,10.1109/LSSC.2024.3354037,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10399975,0
+3,88,A dual-band 1.7V CMOS variable gain low noise amplifier,10.1109/DTIS.2007.4449520,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4449520,0
+3,89,A 76-81 GHz CMOS PA with 16-dBm PSAT and 30-dB Amplitude Control for MIMO Automotive Radars,10.1109/ESSCIRC.2019.8902347,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902347,0
+3,90,A Binary-Weighted Switching and Reconfiguration-Based Programmable Gain Amplifier,10.1109/TCSII.2009.2027958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5208352,0
+3,91,A 77-dB Dynamic Range Low-Power Variable-Gain Transimpedance Amplifier for Linear LADAR,10.1109/TCSII.2017.2684822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7882690,0
+3,92,A high gain operational amplifier via an efficient conductance cancellation technique,10.1109/CICC.2014.6946064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6946064,0
+3,93,A Low Noise Variable Gain Amplifier With Low Phase Error for X- and Ku-Band Phased Arrays,10.1109/TMTT.2024.3367634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10449901,0
+3,94,A 110-170 GHz Phase-Invariant Variable-Gain Power Amplifier Module with 20-22 dBm Psatand 30 dBm OIP3 Utilizing SiGe HBT RFICs,10.1109/RFIC54547.2023.10186138,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10186138,0
+3,95,Temperature-Compensated dB-linear Digitally Controlled Variable Gain Amplifier With DC Offset Cancellation,10.1109/TMTT.2013.2261086,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6517304,0
+3,96,Design of a 1.8 V high frequency CMOS variable gain amplifier with a novel dB-linear gain structure,10.1109/MWSCAS.2004.1353913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1353913,0
+3,97,Improved technique for reflection performances in broadband variable gain low noise amplifiers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1637155,0
+3,98,A 90nm CMOS Variable-Gain Amplifier and RSSI Design for Wide-band Wireless Network Application,10.1109/ESSCIR.2006.307537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4099710,0
+3,99,Wideband VGAs Using a CMOS Transconductor in Triode region,10.1109/EUMC.2006.281330,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4058110,0
+4,0,An Ultra-Wideband noise-reduction LNA With Variable Gain for Wireless Wake-up Receivers,10.1109/DTS55284.2022.9809845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9809845,0
+4,1,"0.5–9 GHz CMOS variable gain amplifier with control linearization, low phase variations and self-matching",10.1109/EuMIC.2014.6997801,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6997801,0
+4,2,A Wideband Variable Gain Power Amplifier With Phase Compensation and PAE Enhancement Techniques in 65 nm CMOS Technology,10.1109/ICMMT61774.2024.10672163,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10672163,0
+4,3,An ultra-wideband variable gain low noise amplifier,10.1109/ICUWB.2016.7790411,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7790411,0
+4,4,A 2-GHz CMOS variable gain amplifier optimized for low noise,10.1109/ISCAS.2006.1693082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693082,0
+4,5,Broadly Flatness Gain Band with Double Pass-Serial Hybrid Optical Amplifier Utilizing Single Pump Unit,10.1109/ICEEE52452.2021.9415958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9415958,0
+4,6,Double-Differential Recording and AGC Using Microcontrolled Variable Gain ASIC,10.1109/TNSRE.2012.2213842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6280674,0
+4,7,Variable gain power amplifier for mobile WCDMA applications,10.1109/MWSYM.2001.967041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=967041,0
+4,8,A 60-GHz Phase-Invariant Variable Gain LNA With T/R Switch and Gain Interpolation Techniques in 65-nm CMOS,10.1109/LMWT.2024.3371506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10466670,0
+4,9,A 6.5–12-GHz Balanced Variable-Gain Low-Noise Amplifier With Frequency-Selective Gain Equalization Technique,10.1109/TMTT.2020.3038470,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9280365,0
+4,10,CMOS Low-Power Variable-Gain CMFB-Free Current Feedback Amplifier for Ultrasound Diagnostic Applications,10.1109/ASSCC.2006.357942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4197681,0
+4,11,Integrated 60-GHz CMOS variable-gain low-noise amplifier and full 360° phase shifter for phased-array RF receiving system,10.1109/SiRF.2014.6828502,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6828502,0
+4,12,A Temperature-Independent Transmitter IC for 5.8-GHz DSRC Applications,10.1109/TCSI.2008.916558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4436074,0
+4,13,All-optical dynamic gain control of remotely pumped erbium-doped fiber amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7718355,0
+4,14,A 33.5–39 GHz 5-bit variable gain LNA with 4 dB NF and low phase shift,10.1109/APMC.2017.8251674,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251674,0
+4,15,3.5-9 GHz Ultra-Wideband LNA With Variable Gain and Noise Cancellation for Wireless Communication,10.1109/CCWC47524.2020.9031278,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031278,0
+4,16,A 5-Gb/s 66 dB CMOS Variable-Gain Amplifier With Reconfigurable DC-Offset Cancellation for Multi-Standard Applications,10.1109/ACCESS.2018.2867227,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447188,0
+4,17,A Ku-Band Fully Differential Current-Reuse Stacked Low-Noise Amplifier in 0.18-μm SiGe BiCMOS Technology,10.1109/LMWT.2024.3360887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10430191,0
+4,18,Variable gain amplifier for dual mode WCDMA/GSM receivers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471332,0
+4,19,A CMOS Microwave Phase-Shifter With High IP1dB Employing Novel Folded VGA,10.1109/LMWT.2023.3299957,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10217059,0
+4,20,Doppler Radar Motion Sensor With CMOS Digital DC-Tuning VGA and Inverter-Based Sigma-Delta Modulator,10.1109/TIM.2014.2313032,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6783997,0
+4,21,A 24 - 41.5 GHz VGA With Low Phase Variation and Enhanced IIP3 for 5G Applications,10.23919/MIKON54314.2022.9924724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9924724,0
+4,22,"A 20db, 250M CMOS Variable Gain Amplifier for GPS receiver",10.1109/PRIMEASIA.2010.5604911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5604911,0
+4,23,Variable gain amplifier building blocks based on MOSFET current dependence on the drain to source voltage,10.1109/ISETC.2010.5679260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5679260,0
+4,24,A 20–43-GHz Low Phase Variation VGA With Feedforward Signal Suppression and Impedance-Invariant Techniques in 65-nm CMOS,10.1109/TMTT.2023.3314112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10259657,0
+4,25,A 1.2-GHz bandwidth variable gain amplifier with continuous dB-linear control in 65nm CMOS,10.1109/URSIGASS.2014.6929458,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6929458,0
+4,26,Packet equalisation in PONs using adjustable gain-clamped semiconductor optical amplifiers (AGC-SOA),10.1109/ICTON.2011.5970944,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5970944,0
+4,27,A variable gain and output power CMOS PA with combination switch controls,10.1109/ICSICT.2010.5667836,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667836,0
+4,28,L-band SiGe HBT active differential equalizers with variable inclination and position of the positive or negative gain slopes,10.1109/EuMC.2016.7824518,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824518,0
+4,29,Gain Equalization for Erbium-Doped Fiber Amplifiers by the Synthesis of a Long-Period Fiber Grating,10.1109/CERMA.2011.61,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6125852,0
+4,30,On the Benefits of Optical Gain-Clamped Amplification in Optical Burst Switching Networks,10.1109/JLT.2009.2029535,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5196815,0
+4,31,A 1.2 and 2.4 GHz variable gain concurrent dual band low noise amplifier,10.1109/APMC.2017.8251689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251689,0
+4,32,An Adjustable Gain-Clamped Semiconductor Optical Amplifier (AGC-SOA),10.1109/JLT.2007.895533,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4232514,0
+4,33,An 8 Gbps fast-locked automatic gain control for PAM receiver,10.1109/ASSCC.2009.5357153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5357153,0
+4,34,Wideband 28-nm CMOS Variable-Gain Amplifier,10.1109/TCSI.2019.2942492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8854322,0
+4,35,A low power dual-band variable gain low noise amplifier,10.1109/ICMMT.2016.7761823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7761823,0
+4,36,Two-Stage Bulk-Driven Variable Gain Amplifier for Low-Voltage Applications,10.1109/DDECS.2018.00015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410524,0
+4,37,Gain Flattening of Three-stage Erbium-doped Fiber Amplifier Based on GFF+VOA,10.1109/ECICE59523.2023.10383015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10383015,0
+4,38,Implementation of a CMOS analog linear VGA,10.1109/ICDV.2017.8188634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8188634,0
+4,39,A Shunt-Feedback TIA with Common-Base Variable Gain Input Stage for 128-GBaud Coherent Communication,10.1109/BCICTS54660.2023.10310925,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310925,0
+4,40,An offset cancellation CMOS VGA for GPS receiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403944,0
+4,41,CMOS variable-gain wide-bandwidth CMFB-free differential current feedback amplifier for ultrasound diagnostic applications,10.1109/ISCAS.2006.1692669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692669,0
+4,42,A 84-db wideband low-power variable gain amplifier,10.1109/ISSCS.2013.6651221,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6651221,0
+4,43,Broadband High power Fiber Variable Optical Attenuator for Gain control of Raman amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1601176,0
+4,44,Linear-in-decibel variable gain amplifier design in 0.18µm SIGE BICMOS technology,10.1109/ICSICT.2016.7998855,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7998855,0
+4,45,Low-Noise CMOS TGC Amplifier With Adaptive Gain Control for Ultrasound Imaging Receivers,10.1109/TCSII.2010.2092822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5671478,0
+4,46,A Highly Linear Dual-Stage Amplifier With Beyond 1.75-THz Gain–Bandwidth Product,10.1109/LMWC.2021.3067145,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9381276,0
+4,47,An Erbium-Doped Fiber Amplifier With Tunable Gain-Clamping in the Extended L-Band,10.1109/LPT.2024.3384707,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10492981,0
+4,48,"A single-chip, low-noise video amplifier with variable gain in a 0.5 µm GaAs pHEMT technology",10.1109/EuMC.2014.6986640,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986640,0
+4,49,Monolithic SiGe HBT variable gain amplifiers with a feedforward configuration for 5-GHz applications,10.1109/SMIC.2005.1587928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1587928,0
+4,50,A precise temperature-insensitive and linear-in-dB variable gain amplifier,10.1109/ISCAS.2003.1205556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205556,0
+4,51,Demonstration of Ultra Wideband Phase-Sensitive Fiber Optical Parametric Amplifier,10.1109/LPT.2015.2488102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7295562,0
+4,52,A CMOS Variable-gain Fully-differential Transimpedance Amplifier for Multimedia Data Links,10.1109/IIH-MSP.2009.285,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5337511,0
+4,53,A wideband 0 to 60 dB CMOS variable gain amplifier for IR-UWB I/Q receivers,10.1109/ESSCIRC.2009.5325977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5325977,0
+4,54,A 1-V 5 GHz Variable Gain Low Noise Amplifier in 0.18-μm CMOS,10.1109/CCECE.2006.277470,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4054564,0
+4,55,A 65nm CMOS 0.1–2.1GHz linear-in-dB VGA with active-inductor bandwidth extension for the Square Kilometer Array,10.1109/SiRF.2014.6828524,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6828524,0
+4,56,Programmable gain amplifier for 13.56 MHz radio receiver in CMOS 90 nm technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6225742,0
+4,57,A 60-GHz Four-Element Beam-Tapering Phased-Array Transmitter With a Phase-Compensated VGA in 65-nm CMOS,10.1109/TMTT.2019.2907242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8688572,0
+4,58,Wideband variable gain amplifiers in GaAs MMIC,10.1109/MCS.1988.197307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=197307,0
+4,59,Design of Fast-Settling 40-dB VGA for Closed-loop Current Monitoring System,10.1109/NEWCAS50681.2021.9462748,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9462748,0
+4,60,New CMOS digitally controlled variable gain amplifier,10.1109/ICM.2008.5393795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5393795,0
+4,61,A Ku-band CMOS 6-bit Digital-Controlled Phase-Invariant Variable Gain Amplifier and Attenuator,10.1109/ICTA48799.2019.9012818,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012818,0
+4,62,Fast-Settling Feedforward Automatic Gain Control Based on a New Gain Control Approach,10.1109/TCSII.2014.2331097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6837434,0
+4,63,Digitally controlled wideband CMOS variable gain amplifier,10.1109/ICACT.2005.246097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1462922,0
+4,64,Transient effects in gain-clamped discrete Raman amplifier cascades,10.1109/LPT.2003.818928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1255953,0
+4,65,A highly linear CMOS amplifier for Variable Gain Amplifier applications,10.1109/MWSCAS.2002.1187168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187168,0
+4,66,A 380-MHz CMOS linear-in-dB signal-summing variable gain amplifier with gain compensation techniques for CDMA systems,10.1109/VLSIC.2002.1015066,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1015066,0
+4,67,Analog optical link operating at the gain peak wavelength of an erbium-doped fiber amplifier,10.1109/EuMC.2014.6986525,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986525,0
+4,68,A Broadband dB-linear VGA with third-order interleaving active feedback,10.1109/IWS49314.2020.9360159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360159,0
+4,69,High-dynamic-range VGA with temperature compensation and linear-in-dB gain control,10.1109/BIPOL.2004.1365775,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1365775,0
+4,70,A 5.2GHz variable gain low noise amplifier RFIC with adaptive biasing for improved linearity,10.1109/BIPOL.2010.5667995,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667995,0
+4,71,A Low-Power Variable-Gain Amplifier With Improved Linearity: Analysis and Design,10.1109/TCSI.2012.2185331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6157664,0
+4,72,A low-voltage class-AB CMOS variable gain amplifier,10.1109/MWSCAS.2007.4488582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488582,0
+4,73,Monolithically integrated high performance digital variable gain amplifiers,10.1109/RFIC.2012.6242254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242254,0
+4,74,27 MHz High Efficiency Variable Gain Amplifier for Shortwave Diathermy,10.1109/ICCE-TW46550.2019.8991817,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8991817,0
+4,75,A 12 GHz-Bandwidth CMOS Mixer With Variable Conversion Gain Capability,10.1109/LMWC.2011.2163387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5989875,0
+4,76,A Ka-band 8-Element 4-Beam Transmitter Front End With Hybrid VGA and Symmetrical Transformer-based Doherty PA,10.1109/RFIC61187.2024.10599972,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599972,0
+4,77,"A 2.2 mW, 40 dB Automatic Gain Controllable Low Noise Amplifier for FM Receiver",10.1109/TCSI.2014.2362975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6998048,0
+4,78,Ultra-Wideband Pulse Generation Based on Cross-Gain Modulation in Fiber Optical Parametric Amplifier,10.1109/LPT.2008.2010058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703250,0
+4,79,A Novel CMOS Low Noise Amplifier for UWB Application,10.1109/ACCT.2012.8,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6168411,0
+4,80,"A Wide Bandwidth, Low Power, Linear Quantized-Analog VGA in 28 nm CMOS Technology and 1.2V Supply",10.1109/PRIME58259.2023.10161874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161874,0
+4,81,"A 18-22GHz, 13.2mW, 0.22mm2, 5 bit VGA with 15.5dB linear in dB gain control in 130nm SiGe for Satcom on the Move (SOTM) applications",10.1109/ISCAS46773.2023.10181876,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181876,0
+4,82,A miniaturized L-band 4-bit differential VGA using resistance-selectable bridged-T attenuators for a fine tuning of gain,10.23919/EUMC.2010.5614770,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5614770,0
+4,83,"Low-voltage CCII+ Cells-based Tunable, Variable Gain Instrumentation Amplifier for Sub-Audio Frequency Signal Processing",10.1109/SPIN48934.2020.9071338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9071338,0
+4,84,Microwatt low-noise variable-gain amplifier,10.1109/ICICDT.2011.5783218,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5783218,0
+4,85,A Low-Noise Variable-Gain Amplifier for in-Probe 3D Imaging Applications Based on CMUT Transducers,10.1109/ISVLSI.2014.113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6903371,0
+4,86,Fiber optical parametric amplifier and wavelength converter with record 360 nm gain bandwidth and 50 dB signal gain,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1298646,0
+4,87,Towards automatic gain control low-power amplifier in 130 nm CMOS technology,10.1109/AE.2016.7577271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7577271,0
+4,88,Wide-Range Variable Gain Fiber Amplifier With Erbium-Doped Fiber Switching,10.1109/JLT.2013.2262923,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6516042,0
+4,89,Low-Power Decibel-Linear Programmable-Gain Amplifier With Complementary Current-Switching Technique,10.1109/TCSI.2023.3241432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10040240,0
+4,90,Design of Wide Band PVGA for UWB applications,10.1109/SIECPC.2011.5876690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5876690,0
+4,91,A 2 GHz CMOS variable-gain amplifier with 50 dB linear-in-magnitude controlled gain range for 10GBase-LX4 Ethernet,10.1109/ISSCC.2004.1332805,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1332805,0
+4,92,Variable gain amplifier in polar loop modulation transmitter for EDGE,10.1109/ESSCIR.2005.1541672,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1541672,0
+4,93,A Variable-Gain Low-Noise Transimpedance Amplifier for Miniature Ultrasound Probes,10.1109/JSSC.2020.3023618,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9204362,0
+4,94,A novel transimpedance amplifier with variable gain,10.1109/NORCHIP.2010.5669441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5669441,0
+4,95,A Broadband Variable-Gain Low-Noise Amplifier With Low NF and Dual Phase Compensation,10.1109/TCSII.2024.3381011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478092,0
+4,96,A New 2.4GHz CMOS Low-Noise Amplifier with Automatic Gain Control,10.1109/MWSCAS.2006.382245,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4267323,0
+4,97,AGC loop implementation using temperature compensated CMOS linear-in-dB VGA,10.1109/I2MTC.2012.6229368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6229368,0
+4,98,Design of high gain amplifier using on-chip transformer by neutralization,10.1109/ICTC.2015.7354768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354768,0
+4,99,A Variable Gain CMOS RF front-end for 5 GHz Applications,10.1109/RFIT.2007.4443979,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443979,0
+5,0,A Wideband Analog-Controlled Variable-Gain Amplifier With dB-Linear Characteristic for High-Frequency Applications,10.1109/TMTT.2015.2513403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7384767,0
+5,1,Low-voltage low-power 200MHz variable gain amplifier in CMOS 0.35μm,10.1109/ECCTD.2007.4529523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4529523,0
+5,2,A 45 dB variable gain low noise MMIC amplifier,10.1109/EUMC.2005.1610264,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1610264,0
+5,3,A 45 dB variable gain low noise MMIC amplifier,10.1109/EUMC.2005.1610264,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1637308,0
+5,4,4-8 GHz band SiGe HBT variable gain amplifiers with a feedforward configuration,10.1109/RWS.2006.1615094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1615094,0
+5,5,Single Chip RF Variable Gain Low Noise Amplifier,10.1109/CSICS.2014.6978579,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6978579,0
+5,6,A 2.7-V monolithic SiGe HBT variable gain amplifier for CDMA applications,10.1109/RAWCON.2002.1030148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1030148,0
+5,7,An all CMOS 84dB-linear low-power variable gain amplifier,10.1109/VLSIC.2005.1469346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1469346,0
+5,8,"A 270MHz, 1 Vpk-pk, low-distortion variable gain amplifier in 0.35 µm CMOS process",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471527,0
+5,9,Differential HPUE PA for n77 Band with a Cross-Coupled Feed-Forward Gain Control Circuits,10.1109/RFIT54256.2022.9882460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882460,0
+5,10,An Automatic Gain Control Amplifier with Linear-in-dB Gain in 22nm CMOS,10.1109/ICICM54364.2021.9660341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660341,0
+5,11,Gain Profile Characterization and Modeling for Dual-Stage EDFA Abstraction and Control,10.1109/LPT.2023.3338482,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10336837,0
+5,12,A novel variable-gain amplifier based on an FGMOS transistor,10.1109/ICEDSA.2016.7818524,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7818524,0
+5,13,DC-to-5-GHz variable gain amplifier for high speed DSO,10.1109/VLSI-DAT.2015.7114522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7114522,0
+5,14,A Reconfigurable K-/Ka-Band Power Amplifier With High PAE in 0.18- $\mu$m SiGe BiCMOS for Multi-Band Applications,10.1109/TMTT.2015.2495129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7327239,0
+5,15,Low-Power Class-AB CMOS Voltage Feedback Current Operational Amplifier With Tunable Gain and Bandwidth,10.1109/TCSII.2014.2327390,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6823147,0
+5,16,A low-voltage fully-integrated 4.5-6-GHz CMOS variable gain low noise amplifier,10.1109/EUMC.2003.1262206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1262206,0
+5,17,Dynamic gain control of optical amplifier using an all-fibre solution,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1601388,0
+5,18,A 12–40 GHz low phase variation highly linear BiCMOS variable gain amplifier,10.1109/ISCAS.2013.6572047,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572047,0
+5,19,A New Open Loop Linearization Technique for Power Amplifier Circuit in MMIC for 5G Wireless Backhaul Application,10.1109/TENCON.2018.8650481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8650481,0
+5,20,Amplification of Multi-Order OAM Modes With High Gain and Low Differential Modal Gain,10.1109/LPT.2024.3371496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10453585,0
+5,21,A novel active variable gain X-Band amplifier in SiGe technology,10.1109/MWSYM.2010.5515104,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5515104,0
+5,22,A broadband high linearity inductorless CMOS variable gain amplifier for square kilometer array,10.1109/SMACD.2015.7301683,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7301683,0
+5,23,5G Millimeter-Wave Phased-Array Transceiver: System Considerations and Circuit Implementations,10.1109/ISCAS.2019.8702530,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702530,0
+5,24,Cell-based wideband variable-gain amplifier with accurate gain adjustment in 65 nm CMOS technology,10.1109/iWEM.2016.7505028,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7505028,0
+5,25,Integrated Variable Gain Amplifier and Active RC Ladder Filters,10.1109/ISICIR.2007.4441794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441794,0
+5,26,A Controllable Gain Amplifier Circuit for EEG Acquisition System,10.1109/JCICE59059.2023.00011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10217294,0
+5,27,1.5-V 900-/spl mu/W 40-dB CMOS variable gain amplifier,10.1109/ISCAS.2006.1692894,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692894,0
+5,28,A low-power CMOS VGA with 60-dB linearly controlled gain range for GPS application,10.1109/ICSICT.2008.4734873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734873,0
+5,29,Double-Pass L-band Erbium-Doped Fiber Amplifier with Tunable Gain Clamping,10.1109/ICOCN55511.2022.9901232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9901232,0
+5,30,A low power variable gain amplifier with 50-dB dynamic range,10.1109/IMWS2.2012.6338193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6338193,0
+5,31,A V-band Double-Transformer-Coupling with Low Phase Variation VGLNA in 90-nm CMOS Process,10.1109/IRMMW-THz60956.2024.10697634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10697634,0
+5,32,A SiGe MMIC variable gain cascode amplifier,10.1109/LMWC.2002.805533,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1047036,0
+5,33,"A 28-GHz Phased-Array Transmitter Achieving 24% Peak Efficiency, 0.26-mm2/ Element Area Efficiency with Completely Orthogonal Phase and Gain Control",10.1109/ESSERC62670.2024.10719557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719557,0
+5,34,A Wideband Receiver Front-End Employing New Fine RF Gain Control Driven by Frequency-Translated Impedance Property,10.1109/LMWC.2015.2400930,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7041239,0
+5,35,60-GHz CMOS artificial magnetic conductor on-chip 2×2 monopole - antenna phased array RF receiving system with integrated variable-gain low-noise amplifier and phase shifter,10.1109/MWSYM.2014.6848485,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848485,0
+5,36,4-Bit SiGe phase shifter using distributed active switches and variable gain amplifier for X-band phased array applications,10.1109/EuMIC.2014.6997841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6997841,0
+5,37,An 80 Gb/s SiGe BiCMOS fully differential variable gain stage in a digitally-controlled adaptive equalizer for high speed serial electrical communication,10.1109/ICAM.2017.8242192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8242192,0
+5,38,The Design of Variable Gain Wideband Amplifier,10.1109/ICDMA.2013.345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6598269,0
+5,39,A broadband Variable Gain Amplifier for the Square Kilometer Array,10.1109/ISCAS.2013.6572329,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572329,0
+5,40,A Switchless Bidirectional Distributed Amplifier with 2-dB Gain Variation in One Decade Frequency Range in 90-nm CMOS Process,10.1109/RFIT54256.2022.9882473,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882473,0
+5,41,Gain equalizer design method for cascaded S-band thulium doped fiber amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6110375,0
+5,42,High Gain and Wide Dynamic Range Front-end Receiver for Weak Signal Acoustic Detector,10.1109/IMCCC.2012.86,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6428919,0
+5,43,Variable gain CMOS potentiostat for dissolved oxygen sensor,10.1109/ASQED.2010.5548221,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5548221,0
+5,44,A 0.029 mm2 8 Gbit/s current-mode AGC amplifier with reconfigurable closed-loop control in 65 nm CMOS,10.1109/MWSYM.2017.8058781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8058781,0
+5,45,A  $V$ -Band Low-Power Digital Variable-Gain Low-Noise Amplifier Using Current-Reused Technique With Stable Matching and Maintained OP1dB,10.1109/TMTT.2019.2938752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848456,0
+5,46,An S-band MMIC linear-in-dB wide-dynamic-range variable gain amplifier with matching compensation,10.1109/ICM.2004.1434235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1434235,0
+5,47,A 60 GHz wideband Variable Gain Amplifier in 130nm SiGe BiCMOS for dielectric spectroscopy,10.1109/NEWCAS.2017.8010161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8010161,0
+5,48,A 60 GHz Broadband Low-Noise Amplifier With Variable-Gain Control in 65 nm CMOS,10.1109/LMWC.2011.2167134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6035999,0
+5,49,Novel CMOS-Inverter Based VGA and VCRO,10.1109/JEC-ECC.2018.8679565,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8679565,0
+5,50,An Efficient Cmos Mixed Signal Demodulator in 90Nm Process,10.1109/RTEICT46194.2019.9016788,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016788,0
+5,51,60 GHz variable Gain & Linearity Enhancement LNA in 65 nm CMOS,10.1109/RFIC49505.2020.9218337,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218337,0
+5,52,EDFA gain transients: experimental demonstration of a low cost electronic control,10.1109/LPT.2003.818267,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1232954,0
+5,53,"1.8 V, variable gain transimpedance amplifiers with constant damping factor for burst-mode optical receiver",10.1109/RFIC.2005.1489908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1489908,0
+5,54,0.8V bulk-driven variable gain amplifier,10.1109/ICECS.2010.5724524,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5724524,0
+5,55,A built-in self-test circuit for measuring 1dB gain compression point of power amplifiers,10.1109/KBEI.2017.8324924,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8324924,0
+5,56,Gain competition in optical amplifiers: A case study,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5533432,0
+5,57,A Highly Linear Broadband Variable Gain LNA for TV Applications,10.1109/CICC.2007.4405787,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405787,0
+5,58,A Low-Voltage Fully-Integrated 4.5-6-GHz CMOS Variable Gain Low Noise Amplifier,10.1109/EUMA.2003.340814,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4142942,0
+5,59,A linear-in-dB-control variable gain amplifier using a new approach,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8266305,0
+5,60,A Dual-Mode Adjustable High-Gain Ultra-Low Noise Transimpedance Amplifier for Fine Dust Detection,10.1109/ISCAS45731.2020.9180567,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180567,0
+5,61,A novel CMOS constant-bandwidth variable-gain amplifier for WiMAX receivers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8266303,0
+5,62,A low-power switched-capacitor variable gain amplifier,10.1109/JSSC.2004.829919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1308600,0
+5,63,Wideband VGA in 0.13-µm CMOS with phase reversal for 360° vector-sum phase shifters,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6687838,0
+5,64,A high gain decibel-linear programmable gain amplifier of synthetic aperture radar receiver,10.1109/ISCAS.2016.7527232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527232,0
+5,65,"A 40/85 GHz dual-band, bidirectional variable gain amplifier",10.1109/MWSYM.2013.6697680,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6697680,0
+5,66,A wideband CMOS variable gain amplifier using active feedback and resistive compensation,10.1109/ISCIT.2009.5340989,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5340989,0
+5,67,A dual band CMOS two-stage variable gain low noise amplifier,10.1109/EDSSC.2008.4760712,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4760712,0
+5,68,A low-voltage low-power wideband CMOS variable gain amplifier using active negative feedback,10.1109/ISPACS.2009.4806728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4806728,0
+5,69,Design and Analysis of a Wideband Gilbert Cell VGA in 0.25- $\mu {\rm m}$ InP DHBT Technology With DC-40-GHz Frequency Response,10.1109/TMTT.2017.2693146,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7914700,0
+5,70,A wideband variable gain amplifier with feedback DC-offset correction in 0.13µm CMOS technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5595211,0
+5,71,Bidirectional Erbium-doped Waveguide Amplifiers and Applications to Optical Networks,10.1109/ICTON.2007.4296064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4296064,0
+5,72,Software Automatic Gain Control for Common Mode Interference Stabilization,10.1109/ET50336.2020.9238268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238268,0
+5,73,Gain Control in Multi-Core Erbium-Doped Fiber Amplifier With Cladding and Core Hybrid Pumping,10.1109/JLT.2019.2915939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8716498,0
+5,74,A variable gain 2.4-GHz CMOS low noise amplifier employing body biasing,10.1109/RME.2009.5201299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5201299,0
+5,75,A switched-capacitor variable gain amplifier for CCD image sensor interface system,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471540,0
+5,76,"A low-voltage, low-power, wide gain-range VGA design using gm=ID Method",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5491461,0
+5,77,1.8 V-100 MHz CMOS programmable gain amplifier,10.1109/ISCAS.2006.1692895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692895,0
+5,78,A 12GHz 22dB-gain-control SiGe bipolar VGA with 2° phase shift variation,10.1109/ESSCIRC.2015.7313827,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7313827,0
+5,79,A 60-dB 246-MHz CMOS variable gain amplifier for subsampling GSM receivers,10.1109/TVLSI.2003.814326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1234402,0
+5,80,Variable gain active predistorter with linearity enhancement for a 2.4 GHz SiGe HBT power amplifier design,10.1109/VLSI-DAT.2012.6212650,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6212650,0
+5,81,A 35 mW 30 dB gain control range current mode programmable gain amplifier with DC offset cancellation,10.1109/MWSYM.2014.6848289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848289,0
+5,82,Step gain amplifier with impedance unchanged in gain control,10.1109/RFIC.2002.1012033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1012033,0
+5,83,A Digitally Controlled Variable-Gain Low-Noise Amplifier With Strong Immunity to Interferers,10.1109/JSSC.2007.906202,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4362100,0
+5,84,"A 15 GHz, 1.8V, variable-gain, modified Cherry-Hooper amplifier",10.1109/CICC.2005.1568752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1568752,0
+5,85,A low-power decibel-linear CMOS Automatic Gain Control,10.1109/ICMTCE.2013.6812432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6812432,0
+5,86,A dB-Linear Variable Gain Amplifier for Zero-IF Receivers,10.1109/ICICM59499.2023.10365981,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365981,0
+5,87,A Linear-in-Decibel Automatic Gain Control Amplifier With Dual Mode Continuous Gain Tuning,10.1109/TCSI.2023.3268216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130477,0
+5,88,A 60 GHz Broadband LNA With Joined Variable Gain Control and Switching in 22 nm FD-SOI,10.1109/ACCESS.2024.3441853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633688,0
+5,89,A low-cost four-channel variable gain amplifier module for 900MHz GSM base station receiver,10.1109/ICMMT.2008.4540726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540726,0
+5,90,94 GHz bidirectional variable gain amplifier in 0.13-µm SiGe BiCMOS for phased array transmit and receive (T/R) applications,10.1109/MWSYM.2015.7167053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7167053,0
+5,91,A SiGe HBT low noise variable gain amplifier with controllable feedback of a p-i-n diode,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5773992,0
+5,92,High-dynamic-range decibel-linear IF variable-gain amplifier with temperature compensation for WCDMA applications,10.1109/ISCAS.2003.1205557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205557,0
+5,93,A 60-GHz bi-directional variable gain amplifier with microstrip-line interconnect in 65 nm CMOS,10.1109/iWEM.2016.7504892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7504892,0
+5,94,Wide-band tuning of the gain spectra of one-pump fiber optical parametric amplifiers,10.1109/JSTQE.2004.835298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1366387,0
+5,95,A 700Mbit/s CMOS capacitive feedback front-end amplifier with automatic gain control for broadband optical wireless links,10.1109/ISCAS.2008.4541385,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541385,0
+5,96,4.2–4.8 GHz CMOS variable gain LNA for Chinese UWB application,10.1109/ICMMT.2010.5524808,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5524808,0
+5,97,A Ka-Band Variable-Gain Phase Shifter With Multiple Vector Generators,10.1109/TCSII.2020.3046523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302883,0
+5,98,A 10Gbps High-Speed Low-Noise Optical Receiver Based on CMOS 45nm Technology,10.1109/ASICON58565.2023.10395952,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10395952,0
+5,99,Bandwidth-Dependent Gain Deviation in E+S band Bismuth Doped Fiber Amplifier under Automatic Gain Control,10.1364/OFC.2023.Th3C.3,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10116411,0

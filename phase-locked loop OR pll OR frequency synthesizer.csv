@@ -99,3 +99,401 @@
 1,97,Development of frequency synthesizer based on DDS+PLL,10.1109/CIE-Radar.2011.6159783,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6159783,1
 1,98,Fractional frequency synthesizer using flying adder principle,10.1109/TSP.2011.6043723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6043723,1
 1,99,Low-Gain-Wide-Range 2.4-GHz Phase Locked Loop,10.1109/ICECS.2007.4510922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4510922,1
+2,0,Low-Gain-Wide-Range 2.4-GHz Phase Locked Loop,10.1109/ICECS.2007.4510922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4510922,0
+2,1,Development of agile frequency synthesizer,10.1109/RTEICT.2016.7808175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7808175,0
+2,2,Analysis of switching characteristics of the digital hybrid PLL frequency synthesizer,10.1109/TVT.2003.814220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1224559,0
+2,3,A new triple-controlled type frequency synthesizer using simplified DDFS-driven digital hybrid PLL system,10.1109/TCE.2002.1010093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010093,0
+2,4,Design of a low power wide range phase locked loop using 180nm CMOS technology,10.1109/ICSPCom.2016.7980621,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7980621,0
+2,5,Circuit Design of a Frequency Synthesizer Device for High-Speed Data Transmission Systems,10.1109/IEEECONF53456.2022.9744274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9744274,0
+2,6,Research on High Performance Frequency Synthesizer in Radio Frequency Integrated Circuits,10.1109/ACCESS.2018.2822699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8329977,0
+2,7,A Fully Integrated 0.27-THz Injection-Locked Frequency Synthesizer With Frequency-Tracking Loop in 65-nm CMOS,10.1109/JSSC.2019.2954232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8920090,0
+2,8,A frequency agile synthesizer using DDS and PLL techniques for FMCW radar,10.1109/APMC.2015.7413219,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7413219,0
+2,9,Single loop synthesizer and SDR modulator,10.1109/IACS.2017.7921971,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7921971,0
+2,10,Design of 40GHz Agile Frequency Synthesizer,10.1109/AUTOTESTCON47465.2024.10697503,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10697503,0
+2,11,A 56 GHz 19 fs RMS-Jitter Sub-Sampling Phase-Locked Loop for 112 Gbit/s Transceivers,10.1109/ISCAS51556.2021.9401543,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401543,0
+2,12,A 26GHz Fractional-N Digital Frequency Synthesizer Leveraging Noise Profiles of Three Functional Stages,10.1109/TCSII.2021.3094932,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9475510,0
+2,14,Model-oriented design of a linear astatic phase-locked loop frequency synthesizer,10.1109/SYNCHROINFO.2018.8456958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8456958,0
+2,15,Hot carrier effects on CMOS phase-locked loop frequency synthesizers,10.1109/ISQED.2010.5450392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5450392,0
+2,16,All-Digital Frequency Synthesizer Using a Flying Adder,10.1109/TCSII.2010.2056011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5545381,0
+2,17,A Dedicated Microwave Frequency Synthesizer for the Rubidium Atomic Clock,10.1109/EFTF/IFCS52194.2021.9604276,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9604276,0
+2,18,Application Of Embedded Calibration Algorithms of Ku Band Frequency Synthesizer in Temperature Range,10.1109/EIConRus49466.2020.9039031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9039031,0
+2,19,45 GHz highly integrated phase-locked loop frequency synthesizer in SiGe bipolar technology,10.1109/MWSYM.2002.1011759,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011759,0
+2,20,"A 7.1 mW, 10 GHz All Digital Frequency Synthesizer With Dynamically Reconfigured Digital Loop Filter in 90 nm CMOS Technology",10.1109/JSSC.2009.2039530,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5419178,0
+2,21,A 60 GHz-Standard Compatible Programmable 50 GHz Phase-Locked Loop in 90 nm CMOS,10.1109/LMWC.2010.2049444,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5481967,0
+2,22,An Application of the Second-Order Passive Lead–Lag Loop Filter for Analog PLLs to the Third-Order Charge-Pump PLLs,10.1109/TIE.2007.909082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4401206,0
+2,23,"A low noise, inductor-less, integer-N RF synthesizer using phase-locked loop with reference injection (PLL-RI)",10.1109/MWSCAS.2017.8052934,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052934,0
+2,24,An avoidance technique for mitigating the integer boundary spur problem in a DDS-PLL hybrid frequency synthesizer,10.1109/ICCSP.2015.7322927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322927,0
+2,25,Phase Noise Model of Single Loop Frequency Synthesizer,10.1109/TBC.2007.913309,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4425262,0
+2,26,"Design of Phase Frequency Detector (PFD),Charge Pump (CP) and Programmable Frequency Divider for PLL in 0.18um CMOS Technology",10.1109/SMELEC.2018.8481309,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8481309,0
+2,27,A Concurrent Dual-Band and Dual-Mode Frequency Synthesizer for Radar Systems,10.1109/TVLSI.2018.2799225,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8290574,0
+2,28,Frequency and Phase Difference Control Using Fractional- $N$ PLL Synthesizers by Composition of Control Data,10.1109/TMTT.2007.909149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4374144,0
+2,29,Design of frequency synthesizer for wireless communication,10.1109/RTEICT.2017.8256908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256908,0
+2,30,A Top–Down Design Methodology Encompassing Components Variations Due to Wide-Range Operation in Frequency Synthesizer PLLs,10.1109/TVLSI.2015.2506607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7373662,0
+2,31,A 4.8-GHz Fully Integrated CMOS Integer-N PLL Frequency Synthesizer for WLAN,10.1109/ISCIT.2006.339844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4141489,0
+2,32,Spur-Reduction Frequency Synthesizer Exploiting Randomly Selected PFD,10.1109/TVLSI.2012.2190118,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6176004,0
+2,33,Fractional-N open-loop digital frequency synthesizer with a post-modulator for jitter reduction,10.1109/RFIC.2016.7508268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508268,0
+2,34,A Low Power Fully Programmable 1MHz Resolution 2.4GHz CMOS PLL Frequency Synthesizer,10.1109/BIOCAS.2007.4463340,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463340,0
+2,35,Reduction of Phase Noise in Fractional-N Frequency Synthesizer Using Self-Injection Locking Loop,10.1109/TMTT.2020.3006504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141364,0
+2,36,A fast-hopping single-PLL 3-band MB-OFDM UWB synthesizer,10.1109/JSSC.2006.873922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1644861,0
+2,37,A 77-GHz CMOS FMCW Frequency Synthesizer With Reconfigurable Chirps,10.1109/TMTT.2013.2264685,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6525508,0
+2,38,A fractional-n PLL frequency synthesizer design,10.1109/SECON.2005.1423222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1423222,0
+2,39,A Dynamic Phase Error Compensation Technique for Fast-Locking Phase-Locked Loops,10.1109/JSSC.2010.2046235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5482522,0
+2,40,A low phase noise frequency synthesizer for GPS RF receiver,10.1109/ICEEE2.2017.7935838,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7935838,0
+2,41,A Single-PLL UWB Frequency Synthesizer Using Multiphase Coupled Ring Oscillator and Current-Reused Multiplier,10.1109/TCSII.2008.2010181,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4785200,0
+2,42,A 3.45–4.22 GHz PLL frequency synthesizer with constant loop bandwidth for WLAN applications,10.1109/MWSCAS.2014.6908523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908523,0
+2,43,Design and Simulation of an S Band Frequency Synthesizer for Satellite Communication Systems,10.1109/UCET.2019.8881839,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8881839,0
+2,44,A PLL Frequency Synthesizer In 65 nm CMOS for 60 GHz Sliding-IF Transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337426,0
+2,45,A W-band divider-less cascading frequency synthesizer with push-push ×4 frequency multiplier and sampling PLL in 65nm CMOS,10.1109/MWSYM.2012.6258384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6258384,0
+2,47,Spur-Free Fractional-N PLL Utilizing Precision Frequency and Phase Selection,10.1109/DCAS.2006.321053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4115132,0
+2,48,"A broadband, low phase noise, fast switching PLL frequency synthesizer",10.1109/FREQ.2008.4623101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4623101,0
+2,49,A New Dual Loop Frequency Synthesizer for the Wireless Standard 802.11g,10.1109/ISFEE51261.2020.9756179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756179,0
+2,50,Programmable PLL-based frequency synthesizer: Modeling and design considerations,10.1109/CAMTA.2017.8058133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8058133,0
+2,51,Frequency Synthesizer and FSK Modulator for IEEE 802.15.4 Based Applications,10.1109/RFIC.2007.380871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266419,0
+2,52,A 0.0054-mm2 Frequency-to-Current Conversion-Based Fractional Frequency Synthesizer in 32 nm Utilizing Deep Trench Capacitor,10.1109/TCSII.2015.2504263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7339458,0
+2,53,A 0.5/0.8-V 9-GHz Frequency Synthesizer With Doubling Generation in 0.13- $\mu\hbox{m}$ CMOS,10.1109/TCSII.2010.2092830,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5672591,0
+2,54,DLL-Enhanced PLL Frequency Synthesizer with Two Feedback Loops and Body Biasing for Noise Cleaning,10.1109/ICSICT.2018.8564868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8564868,0
+2,55,A monolithic 0.18 µm CMOS frequency synthesizer for WLAN 802.11a application,10.1109/ICCRD.2011.5764231,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5764231,0
+2,56,Design of C-band frequency synthesizer for FMCW transmitter,10.1109/CIMCA.2014.7057752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7057752,0
+2,57,Research of noise characteristics of hybrid frequency synthesizers on the basis of direct digital synthesizers and PLL systems,10.1109/SIBCON.2011.6072608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6072608,0
+2,58,One new architecture of fractional frequency synthesizer,10.1109/RADIOELEK.2008.4542709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4542709,0
+2,59,Requirements for Time-to-Digital Converters in the context of digital-PLL based Frequency Synthesis and GSM Modulation,10.1109/MWSYM.2006.249748,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4015308,0
+2,60,Frequency modulation in microwave phase lock loop synthesizers,10.1109/SIBCON.2009.5044871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5044871,0
+2,61,A Sub-1-mW Fractional-N Phase-Locked Loop For Mixer-Based Wake-up Receiver In Wireless Sensors,10.1109/ISOCC50952.2020.9333095,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333095,0
+2,62,A 1.2-mW CMOS frequency synthesizer with fully-integrated LC VCO for 400-MHz medical implantable transceivers,10.1109/RFIC.2009.5135552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135552,0
+2,63,Fast- Frequency Offset Cancellation Loop Using Low-IF Receiver and Fractional-N PLL,10.1109/TCSII.2006.888733,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4132968,0
+2,64,28nm FDSOI Ultra Low Power 1.5–2.0 GHz Factorial-DLL Frequency Synthesizer,10.1109/TCSII.2020.3047464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309065,0
+2,65,Optimization PLL synthesizer with active RC notch filters,10.1109/RADIOELEK.2009.5158735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158735,0
+2,66,An All Digital Phase-Locked Loop System with High Performance on Wideband Frequency Tracking,10.1109/HIS.2009.306,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5254618,0
+2,67,Millimeter wave frequency synthesizers using integrated photonics aided phase locked loops,10.1109/WRAP54064.2022.9758328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9758328,0
+2,68,A 5.8-GHz CMOS frequency synthesizer for WLAN application,10.1109/ICCS.2010.5686172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5686172,0
+2,69,Design of a wideband low power FMCW synthesizer in 65 nm CMOS for radar applications,10.1109/ISCAS.2014.6865500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865500,0
+2,70,An mm-Wave Synthesizer With Robust Locking Reference-Sampling PLL and Wide-Range Injection-Locked VCO,10.1109/JSSC.2019.2959513,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8955789,0
+2,71,Phase-domain all-digital phase-locked loop,10.1109/TCSII.2004.842067,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1406208,0
+2,72,A 66-fs-rms Jitter 12.8-to-15.2-GHz Fractional-N Bang–Bang PLL With Digital Frequency-Error Recovery for Fast Locking,10.1109/JSSC.2020.3019344,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186276,0
+2,73,Ultra-Small Step Frequency Synthesizer for Control of Phase-Locked Loop Systems,10.1109/FarEastCon.2018.8602782,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8602782,0
+2,74,A phase-frequency detector and a charge pump design for PLL applications,10.1109/ISCAS.2008.4541722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541722,0
+2,75,Design of Multi-PLL Board Using ARM7 Controller,10.1109/ICCCNT.2018.8494188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494188,0
+2,76,Analog-digital coincidence mixer for frequency synthesizers,10.1109/ECCTD.2009.5275019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5275019,0
+2,77,Design of Frequency Synthesizer Based on PLL Architecture at X-band,10.1109/ICMMT61774.2024.10672512,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10672512,0
+2,78,Current reusing low power fast settling multi-standard CMOS fractional-N frequency synthesizer,10.1109/RFIT.2011.6141780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6141780,0
+2,79,A low jitter 5.3-GHz 0.18-/spl mu/m CMOS PLL based frequency synthesizer,10.1109/RFIC.2002.1011949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011949,0
+2,80,A nonlinear phase frequency detector for fast-lock phase-locked loops,10.1109/ASICON.2009.5351378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351378,0
+2,81,DLT replacement and synchronization in the digital hybrid PLL frequency synthesizer,10.1109/TCE.2002.1010105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010105,0
+2,82,A 3-to-8-GHz fast-hopping frequency synthesizer in 0.18-/spl mu/m CMOS technology,10.1109/JSSC.2005.864120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1599526,0
+2,83,Frequency Synthesizer design for Communications Satellite Payloads,10.1109/MWSYM.2012.6259583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6259583,0
+2,84,A 22.5–31.2-GHz Continuously Tuning Frequency Synthesizer With 8.7-GHz Chirp for FMCW Applications,10.1109/LMWC.2020.3010089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149703,0
+2,85,A Ku-band Frequency Synthesizer Based on PLL,10.1109/ICMMT49418.2020.9386949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9386949,0
+2,86,Post-Layout Simulation Time Reduction for Phase-Locked Loop Frequency Synthesizer Using System Identification Techniques,10.1109/TCAD.2014.2354291,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6926919,0
+2,87,A 4-octave tuning range integer-/fractional-N synthesizer for low phase noise space applications,10.1109/RFIT.2009.5383739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383739,0
+2,88,A design methodology for a low power bang-bang all digital PLL based on digital loop filter programmable coefficients,10.1109/ICEAC.2011.6136676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6136676,0
+2,89,Method to suppress DDFS spurious signals in a frequency-hopping synthesizer with DDFS-driven PLL architecture,10.1109/TUFFC.2010.1410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5417189,0
+2,90,All Digital Phase Locked Loop for Low Frequency Applications,10.1109/ICACCI.2018.8554617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8554617,0
+2,91,A Low-Leakage Open-Loop Frequency Synthesizer Allowing Small-Area On-Chip Loop Filter,10.1109/TCSII.2009.2015366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4799192,0
+2,92,Iterative design of frequency synthesizers using CppSim and Matlab,10.1109/SIITME.2011.6102691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102691,0
+2,93,Design and analysis of a symmetric phase locked loop for low frequencies in 180 nm technology,10.1109/ICMDCS.2017.8211593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8211593,0
+2,94,Evanescent-mode cavity-based frequency synthesizer,10.1109/EuMC.2016.7824336,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824336,0
+2,95,Design of Low Phase Noise and Low Spurs Fractional-N PLL Based Frequency Generator for Millimeter Radar,10.1109/PAST43306.2019.9020917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9020917,0
+2,96,Fractional-$N$ Phase-Locked-Loop-Based Frequency Synthesis: A Tutorial,10.1109/TCSII.2009.2035258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5345790,0
+2,97,An All-Digital Large-$N$ Audio Frequency Synthesizer for HDMI Applications,10.1109/TCSII.2012.2198980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6209399,0
+2,98,A 60 GHz CMOS PLL synthesizer using a wideband injection-locked frequency divider with fast calibration technique,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174055,0
+2,99,A Comparative Study of Millimeter Wave Frequency Synthesizer Techniques,10.1109/IC3S57698.2023.10169775,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10169775,0
+3,0,Design and performance analysis of phase frequency detector for high speed application,10.1109/ICISC.2018.8399057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8399057,0
+3,1,A 0.7-to-1.1-GHz all-digital phase-locked loop with a new phase frequency detector and controlled oscillator with body-biasing,10.1109/CADS.2012.6316419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6316419,0
+3,2,A design of frequency synthesizer based on the PLL method,10.1109/ICCSIT.2010.5564704,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5564704,0
+3,3,"A CMOS 0.35-μm, 3.3-V PLL synthesizer for Bluetooth transmitter",10.1109/DTIS.2012.6232954,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6232954,0
+3,4,DDS phase-locked swept source and study design,10.1109/ICCSNT.2011.6181928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6181928,0
+3,5,A Novel Hybrid PLL Frequency Synthesizer Using Single Electron and MOS Transistors,10.1109/NANO.2006.247690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1717140,0
+3,6,Switching Time and Spurious Reduction Techniques using PLL in Frequency Synthesizer,10.1109/IEIT56384.2022.9967869,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967869,0
+3,7,Implementation of Digital Phase Locked Loop using CMOS Technology,10.1109/ICAECT49130.2021.9392507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392507,0
+3,8,"An Ultra-Low-Jitter, mmW-Band Frequency Synthesizer Based on Digital Subsampling PLL Using Optimally Spaced Voltage Comparators",10.1109/JSSC.2019.2936765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832221,0
+3,9,A low-noise CMOS frequency synthesizer with an ultra-short settling time,10.1109/RFIT.2016.7578154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7578154,0
+3,10,Fractional-N PLL Synthesizer for linear FMCW Radar Signal Generator,10.1109/TSSA.2016.7871083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7871083,0
+3,11,Spur reduction technique for integer-N frequency synthesizer,10.1109/CICT.2013.6558131,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6558131,0
+3,12,A 60-GHz Digital Sub-Sampling Integer-N Phase-Locked Loop,10.1109/WMCS49442.2020.9172416,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9172416,0
+3,13,Phase Coherent Frequency Hopping in Direct Digital Synthesizers and Phase Locked Loops,10.1109/TCSI.2020.2972368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016375,0
+3,14,A 5G Millimeter Low Power Phase-Locked Loop in Low-Cost 0.18-μm CMOS,10.1109/IWS49314.2020.9360063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360063,0
+3,15,A 1.2 V 2.4 GHz low spur CMOS PLL synthesizer with a gain boosted charge pump for a batteryless transceiver,10.1109/RFIT.2012.6401667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401667,0
+3,16,A 0.1–9-GHz Frequency Synthesizer for Avionic SDR Applications in 0.13-μm CMOS Technology,10.1109/TVLSI.2021.3123140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9604911,0
+3,17,Spurious-Free Synthesizer Design for Fast Frequency Hopping Spread Spectrum,10.1109/MMS.2018.8612074,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612074,0
+3,18,Ring-VCO based low noise and low spur frequency synthesizer,10.1109/ISCAS.2013.6572228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572228,0
+3,19,Folding of Phase Noise Spectra in Charge-Pump Phase-Locked Loops Induced by Frequency Division,10.1109/TCSII.2010.2056072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5549904,0
+3,20,A ΣΔ fractional- N synthesizer for GSM standard specifications,10.1109/ICECS.2006.379636,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263568,0
+3,21,Design of a Calibration Circuit for Adaptive Phase- Locked Loop in the 5GHz Range Using CMOS 180nm Technology,10.1109/IICM60532.2023.10443202,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443202,0
+3,22,Research of Frequency Synthesizer Based on SIP Technology with Novel Structure,10.1109/ICMMT49418.2020.9386978,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9386978,0
+3,23,Fractional-N frequency synthesizer design at the transfer function level using a direct closed loop realization algorithm,10.1145/775832.775966,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1219063,0
+3,24,A Millimeter-Wave Frequency Synthesizer for 60 GHz Wireless Interconnect,10.1109/VLSI-DAT49148.2020.9196262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196262,0
+3,25,A 5.2GHz CMOS fractional-n frequency synthesizer with a MASH delta-sigma modulator,10.1109/MWSCAS.2008.4616905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4616905,0
+3,26,27/38 GHz Dual-Band Subsampling PLL Design with Automated Frequency Calibration,10.1109/MDTS54894.2022.9826972,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9826972,0
+3,27,Enhancement of Frequency Synthesizer Operating Range Using a Novel Frequency-Offset Technique for LTE-A and CR Applications,10.1109/TMTT.2012.2237182,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6409481,0
+3,28,Experiments with Coupled Phase Locked Loops,10.1109/RADIOELEK.2019.8733586,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733586,0
+3,29,A Fractional-N Synthesizer Based on Programmable Frequency Multiplier for 5G+ Communication System,10.1109/TMTT.2022.3223078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9965581,0
+3,30,A Fractional-$N$Frequency Synthesizer With No Fractional Spurs,10.1109/TCSII.2006.881164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1705080,0
+3,31,A dual loop dual VCO CMOS PLL using a novel coarse tuning technique for DTV,10.1109/ICSICT.2008.4734882,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734882,0
+3,32,A Cell-Based Fractional-N Phase-Locked Loop Compiler,10.1109/SMACD.2018.8434856,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8434856,0
+3,33,An agile /spl Sigma//spl Delta/ fractional-N PLL frequency synthesizer for 2.5G GSM applications,10.1109/MWSCAS.2003.1562495,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1562495,0
+3,34,Fast Settling 9GHz PLL Using 528MHz Reference PLL Clock for MB-OFDM UWB System,10.1109/EMICC.2006.282781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057604,0
+3,35,A 50–66-GHz Phase-Domain Digital Frequency Synthesizer With Low Phase Noise and Low Fractional Spurs,10.1109/JSSC.2017.2746669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052209,0
+3,36,The impact of PLL loop bandwidth on Frequency Synthesizer'S performances for LTE/ LTE-Advanced mobile communications,10.1109/INTEE.2015.7416708,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7416708,0
+3,37,A Novel Design of All Digital Phase Locked Loop for Wireless Applications,10.1109/CISCT46613.2019.9008149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008149,0
+3,38,Design and Analysis of Dual Modulus Prescaler Circuit for Frequency Synthesizer,10.1109/iSES47678.2019.00049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002609,0
+3,39,Fast-Switching Technique for Fractional-N Digital Bang-Bang PLL-Based Frequency Synthesizers,10.1109/TCSII.2021.3136767,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656559,0
+3,40,A smart frequency presetting technique for fast lock-in LC-PLL frequency synthesizer,10.1109/ISCAS.2009.5118058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5118058,0
+3,41,A CMOS ΔΣ fractional-n frequency synthesizer with quantization noise pushing technique,10.1109/VLSIC.2007.4342743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4342743,0
+3,42,16.1 A 265μW Fractional-N Digital PLL with Seamless Automatic Switching Subsampling/Sampling Feedback Path and Duty-Cycled Frequency-Locked Loop in 65nm CMOS,10.1109/ISSCC.2019.8662374,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662374,0
+3,43,Evaluation of different structures for loop filter on synthesizer specifications,10.1109/TELFOR.2012.6419409,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6419409,0
+3,44,Overhead minimization techniques for digital phase-locked loop frequency synthesizer,10.1109/MWSCAS.2012.6292112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292112,0
+3,45,Analysis of a Two-Bit Frequency Discriminator in an All Digital Phase Locked Loop for RF-Modulation and RF-Frequency Synthesis,10.1109/ECWT.2006.280489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057492,0
+3,46,A Low Phase Noise Open Loop Fractional-N Frequency Synthesizer With Injection Locking Digital Phase Modulator,10.1109/TCSII.2019.2913023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698328,0
+3,47,2.4-2.5 GHz Fractional-N Frequency Synthesizer with Integrated VCO in 0.18 um CMOS for RFID Systems,10.1109/EExPolytech.2018.8564373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8564373,0
+3,48,Fractional-N Frequency Synthesizer for Spread Spectrum Clock Generation Applications,10.1109/APCAP50217.2020.9246114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9246114,0
+3,49,A low power frequency synthesizer chip with aperture phase detector and phase to analog converter,10.1109/ICAIT.2014.7019542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019542,0
+3,50,A 1.2-V 6-GHz Dual-Path Charge-Pump PLL Frequency Synthesizer for Quantum Control and Readout in CMOS 65-nm Process,10.1109/UEMCON51285.2020.9298160,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298160,0
+3,51,Chip design of a 24 GHz band low-power phase-locked loop using an injection frequency divider circuit and integrated system for biomedical application,10.1109/InfoSEEE.2014.6946289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6946289,0
+3,52,Design and realization of 2.4GHz frequency synthesizer using 0.18µm CMOS technology,10.1109/ICISE.2010.5691768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5691768,0
+3,53,A 0.03- to 3.6-GHz Frequency Synthesizer With Self-Biased VCO and Quadrature-Input Quadrature-Output Frequency Divider,10.1109/TCSII.2019.2899506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8642299,0
+3,54,Wide-Band Frequency Synthesizer with Ultra-Low Phase Noise Using an Optical Clock Source,10.1109/IMS30576.2020.9224118,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9224118,0
+3,55,Design & evaluation of hybrid direct digital synthesis / phase locked loop frequency synthesizer,10.1109/I2MTC.2016.7520528,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7520528,0
+3,56,Modeling the noise properties of hybrid frequency synthesizers with automatic compensation of phase noise of DDS,10.1109/SIBCON.2015.7147015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7147015,0
+3,57,A radiation-hardened-by-design phase-locked loop using feedback voltage controlled oscillator,10.1109/ISQED.2015.7085407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7085407,0
+3,58,A 360–456 MHz PLL frequency synthesizer with digitally controlled charge pump leakage calibration,10.1109/A-SSCC47793.2019.9056900,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9056900,0
+3,59,Low-Phase-Noise 20-GHz Phase-Locked Loop Using Harmonic-Tuned VCO Assisting With gm-Boosting Technique,10.1109/TVLSI.2023.3294404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10190110,0
+3,60,Measurement of Bandwidth and FFT of a low frequency modulated signal in a Phase locked VCO,10.1109/ICICCT.2018.8473122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8473122,0
+3,61,Design and simulation of Fractional-N PLL frequency synthesizers,10.1109/ISCAS.2004.1329120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1329120,0
+3,62,Analysis and Prediction of Spurs in a Fractional-N Frequency Synthesizer with Discontinuous Nonlinearity,10.1109/ISSC49989.2020.9180180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180180,0
+3,63,Short locking time Phase-Locked Loop based on adaptive bandwidth control,10.1109/EDSSC.2010.5713761,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5713761,0
+3,64,Miniaturized Reconfigurable Frequency Synthesizer Module For MiniSAR Airborne Mission,10.1109/SPACE63117.2024.10667845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10667845,0
+3,65,A Low-Voltage Fast Switching Frequency Synthesizer for FH-SS Applications,10.1109/TCSII.2006.884111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4033170,0
+3,66,Direct digital frequency synthesizers with the /spl Sigma/-/spl Delta/ arrangement in the PLL systems,10.1109/FREQ.2001.956384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=956384,0
+3,67,A 1GHz Configurable Chirp Modulation Direct Digital Frequency Synthesizer in 65nm CMOS,10.1109/ISCAS51556.2021.9401736,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401736,0
+3,68,Spur suppression in frequency synthesizer using switched capacitor array,10.1109/ISOCC.2012.6407049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6407049,0
+3,69,A fast and accurate automatic frequency calibration scheme for frequency synthesizer,10.1109/ASICON.2013.6811885,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6811885,0
+3,70,Digital building block for frequency synthesizer and fractional phase locked loops,10.1109/TIC.2003.1249105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1249105,0
+3,71,A Sideband-suppressed MB-OFDM Frequency Synthesizer Using a Dual-Mode Divider,10.1109/RFIT.2007.4443916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443916,0
+3,72,"An ultra-broadband, high resolution frequency synthesizer",10.1109/ICMMT.2012.6230307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6230307,0
+3,73,Low-spur technique for Integer-N phase-locked loop,10.1109/MWSCAS.2012.6292078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292078,0
+3,74,Development of frequency synthesizer for Ku band surface surveillance radar,10.1109/IICSPI51290.2020.9332374,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9332374,0
+3,75,Autonomous Event Driven Model of Second Order Voltage Switched Charge Pump PLL,10.1109/TCSII.2020.2992601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9086728,0
+3,76,A programmable high-speed pulse swallow divide-by-N frequency divider for PLL frequency synthesizer,10.1109/ICCASM.2010.5619385,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5619385,0
+3,77,An ultra low-power CMOS frequency synthesizer for low data-rate sub-GHz applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5587179,0
+3,78,A 1-to-2048 Fully-Integrated Cascaded Digital Frequency Synthesizer for Low Frequency Reference Clocks Using Scrambling TDC,10.1109/TCSI.2016.2609855,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7731190,0
+3,79,A Novel Full Phase-Coherent Frequency Synthesis Method for SFWF Radar Application,10.1109/TMTT.2011.2140127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5765713,0
+3,80,A 20-GHz integer-N frequency synthesizer for 60-GHz transceivers in 90nm CMOS,10.1109/ICUWB.2010.5614170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5614170,0
+3,81,A novel architecture for integrated CMOS wideband PLL-based frequency synthesizer,10.1109/MWSCAS.2002.1187085,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187085,0
+3,82,An 8.55–17.11-GHz DDS FMCW Chirp Synthesizer PLL Based on Double-Edge Zero-Crossing Sampling PD With 51.7-fsrms Jitter and Fast Frequency Hopping,10.1109/TVLSI.2021.3140206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681064,0
+3,83,A 4.2 mW 5.7-GHz frequency synthesizer with dynamic-logic (TSPC) frequency divider,10.1109/ICTEL.2009.5158664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158664,0
+3,84,An Investigation of Phase Noise of a Fractional-N PLL in the Course of FMCW Chirp Generation,10.1109/ISCAS.2018.8351072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351072,0
+3,85,S-Band Phase-Locked Loop Frequency Synthesizer for Satellite Communication and Space Applications,10.1109/IMS40175.2024.10600354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600354,0
+3,86,A 24-28 GHz Frequency Synthesizer for 5G Applications,10.1109/ICCE-TW52618.2021.9603091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9603091,0
+3,87,A (0.75–1.13) mW and (2.4–5.2) ps RMS Jitter Integer-N-Based Dual-Loop PLL for Indoor and Outdoor Positioning in 28-nm FD-SOI CMOS Technology,10.1109/TCSII.2023.3292428,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10173680,0
+3,88,A 4.2 GHz PLL Frequency Synthesizer with an Adaptively Tuned Coarse Loop,10.1109/CICC.2007.4405791,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405791,0
+3,89,A Double-Balanced Quadrature-Input Quadrature-Output Regenerative Frequency Divider for UWB Synthesizer Applications,10.1109/TCSI.2008.920112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4469664,0
+3,90,A Programmable Edge-Combining DLL With a Current-Splitting Charge Pump for Spur Suppression,10.1109/TCSII.2010.2087992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5661813,0
+3,91,5-GHz Frequency Synthesizer With Auto-Calibration Loop,10.1109/RFIC.2007.380982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266530,0
+3,92,A phase-locked-loop concept for the generation of two RF-signals with a small frequency offset,10.1109/TIM.2004.843348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1408270,0
+3,93,"A 27.2–31.2 GHz 92-fs rms Integrated Jitter, Fractional-N Subsampling PLL Using Phase Rotating Technique in 65-nm CMOS",10.1109/TMTT.2023.3277920,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10142159,0
+3,94,28-nm FD-SOI CMOS Submilliwatt Ring Oscillator-Based Dual-Loop Integer-N PLL for 2.4-GHz Internet-of-Things Applications,10.1109/TMTT.2022.3149826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9725247,0
+3,95,A new frequency synthesizers stabilization method based on a mixed Phase Locked Loop and Delay Locked Loop architecture,10.1109/ISCAS.2011.5937607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5937607,0
+3,96,Low-Power and Low-Noise Millimeter-Wave SSPLL With Subsampling Lock Detector for Automatic Dividerless Frequency Acquisition,10.1109/TMTT.2020.3039549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9280433,0
+3,97,Modelling and comparing of phase noise curves of hybrid synthesizers,10.1109/SIBCON.2015.7147198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7147198,0
+3,98,A fully integrated PLL frequency synthesizer LSI for mobile communication system,10.1109/RFIC.2001.935643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935643,0
+3,99,Fast-Lock Hybrid PLL Combining Fractional- $N$ and Integer-$N$  Modes of Differing Bandwidths,10.1109/JSSC.2007.914281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4444584,0
+4,0,Research of High Performance Frequency Synthesizer for X-Band LFMCW Radar Application,10.1109/ICMMT.2018.8563990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8563990,0
+4,1,A 2.6–3.4 GHz Fractional- $N$ Sub-Sampling Phase-Locked Loop Using a Calibration-Free Phase-Switching-Sub-Sampling Technique,10.1109/LMWC.2017.2779889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252714,0
+4,2,Nanosecond channel-switching exact optical frequency synthesizer using an optical injection phase-locked loop (OIPLL),10.1109/LPT.2004.823724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1269834,0
+4,3,A mixed signal wide-band BiCMOS frequency synthesizer for DVB application,10.1109/BIPOL.2008.4662750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4662750,0
+4,4,An Overview on the Low-Jitter Millimeter-Wave Frequency Synthesizer,10.1109/UCMMT58116.2023.10310584,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310584,0
+4,5,A 1.5-V 3~10-GHz 0.18-μm CMOS frequency synthesizer for MB-OFDM UWB applications,10.1109/MWSYM.2008.4633145,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633145,0
+4,6,An fast lock technique for wide band PLL frequency synthesizer design,10.1109/InfoSEEE.2014.6947768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6947768,0
+4,7,Direct Phase Control in Digital Phase-Locked Loop Mitigating Loop Delay Effect inside Digital Filter,10.1109/ICEIC57457.2023.10049900,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049900,0
+4,8,An RF instantaneous-hop frequency synthesizer based on a zero-initial-phase-error multi-modulus divider,10.1109/RFIC.2014.6851760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851760,0
+4,9,An area efficient low power Phase-Frequency Detector for PLL Applications,10.1109/ICAICT51780.2020.9333536,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333536,0
+4,10,A wide range adaptive bandwidth PLL with digital calibration,10.1109/ISSCS.2015.7203926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7203926,0
+4,11,A 1.2-V 180-nm CMOS Low-Power Multi-Band Ring Oscillator based Frequency Synthesizer for Edge-Combining Transmitters,10.1109/NEWCAS49341.2020.9159846,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9159846,0
+4,12,Design of a K-band fast hopping frequency synthesizer,10.1109/ICAM.2017.8242155,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8242155,0
+4,13,Jitter Analysis and a Benchmarking Figure-of-Merit for Phase-Locked Loops,10.1109/TCSII.2008.2010189,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4785494,0
+4,14,An Ultra-Wideband Fast Frequency Ramp Synthesizer at 60 GHz With Low Noise Using a New Loop Gain Compensation Technique,10.1109/TMTT.2018.2851991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421596,0
+4,15,A 60-GHz sub-sampling frequency synthesizer using sub-harmonic injection-locked quadrature oscillators,10.1109/RFIC.2014.6851670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851670,0
+4,16,A fully integrated 166-GHz frequency synthesizer in 0.13-μm SiGe BiCMOS for D-band applications,10.1109/ISICIR.2014.7029436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7029436,0
+4,17,A fully integrated 166-GHz frequency synthesizer in 0.13-μm SiGe BiCMOS for D-band applications,10.1109/ISICIR.2014.7029581,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7029581,0
+4,18,A VCO with high supply noise rejection and its application to PLL frequency synthesizer,10.1109/ISCIT.2005.1567042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1567042,0
+4,19,Software Implementation of a Simple All-Digital Frequency Synthesizer,10.1109/MECO58584.2023.10154909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10154909,0
+4,20,An Intermittent Frequency Synthesizer With Accurate Frequency Detection for Fast Duty-Cycled Receivers,10.1109/ACCESS.2020.2976749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9016174,0
+4,21,Digital enhancement of frequency synthesizers,10.1109/ISCAS.2010.5537384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537384,0
+4,22,A 22.5–27.7-GHz Fast-Lock Bang-Bang Digital PLL in 28-nm CMOS for Millimeter-Wave Communication With 220-fs RMS Jitter,10.1109/LSSC.2019.2935570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8878209,0
+4,23,A 22.5–27.7-GHz Fast-Lock Bang-Bang Digital PLL in 28-nm CMOS for Millimeter-Wave Communication With 220-fs RMS Jitter,10.1109/ESSCIRC.2019.8902868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902868,0
+4,24,Two-PLL forward Diophantine Frequency Synthesizer,10.1109/RWS.2008.4463522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463522,0
+4,25,Parameter Optimization of Frequency Synthesizers for 5G Communication Systems,10.1109/RSEMW58451.2023.10202136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10202136,0
+4,26,Implementation of opportunities of labview software package in case of design of electronic frequency synthesizer on the basis of PAAF,10.1109/MEMSTECH.2017.7937551,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7937551,0
+4,27,"A 10 mW, 4 GHz CMOS phase-locked loop with dual-mode tuning technique and partly-integrated loop filter",10.1109/RFIC.2003.1213923,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1213923,0
+4,28,The LC-VCO PLL frequency synthesizers with constant loop bandwidth,10.1109/ICCPS.2016.7751122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7751122,0
+4,29,A Harmonic-Mixing PLL Architecture for Millimeter-Wave Application,10.1109/JSSC.2022.3209614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9916251,0
+4,30,Chip Sigma-Delta Modulator with Frequency Synthesizers for Phase-Locked Loop Control,10.1109/ICCCA52192.2021.9666305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666305,0
+4,31,$H_{\infty}$ Robust Second-Order Generalized Integrator Phase-Locked Loop,10.1109/TPEC60005.2024.10472281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472281,0
+4,32,Frequency Synthesizer With Dual Loop Frequency and Gain Calibration,10.1109/TCSI.2013.2256191,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6605588,0
+4,33,A low power frequency synthesizer for biosensor applications in the MedRadio band,10.1109/MWSCAS.2015.7282190,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282190,0
+4,34,Phase Noise Analysis of PLL Based Frequency Synthesizers for Multi-Radio Mobile Terminals,10.1109/CROWNCOM.2008.4562555,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4562555,0
+4,35,A 0.1–5GHz Dual-VCO software-defined ∑Δ frequency synthesizer in 45nm digital CMOS,10.1109/RFIC.2009.5135549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135549,0
+4,36,A 5-6.2GHz Variable Bandwidth Frequency Synthesizer for IEEE 802.11ac Applications,10.1109/IranianCEE.2019.8786591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786591,0
+4,37,Design of an L-band PLL frequency synthesizer,10.1109/MEC.2013.6885577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6885577,0
+4,38,A 15.6-18.2 GHz Digital Bang-Bang PLL with −63dBc in-Band Fractional Spur,10.1109/RFIC.2018.8428846,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8428846,0
+4,39,A 5-10GHz low power bang-bang all digital PLL based on programmable digital loop filter,10.1109/ISCAS.2012.6271498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6271498,0
+4,40,A 1.2V 5.14mW quadrature frequency synthesizer in 90nm CMOS technology for 2.4GHz ZigBee applications,10.1109/APCCAS.2008.4746254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746254,0
+4,41,Design of Ultra-Wideband Frequency Synthesis Source Based on DDS and PLL,10.1109/ICCCS55155.2022.9845862,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9845862,0
+4,42,Efficient PLL Design for Frequency Synthesizers Used in ZigBee Standard Applications,10.1109/ICICS.2018.00019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8479540,0
+4,43,A 370μW Ring VCO Based Injection-Locked Frequency Synthesizer for GPS Receiver,10.1109/CCOMS.2018.8463333,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8463333,0
+4,44,Synthesizer concepts for FMCW based locatable wireless sensor nodes,10.1109/IMWS2.2009.5307860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5307860,0
+4,45,A “Flying-Adder” On-Chip Frequency Generator for Complex SoC Environment,10.1109/TCSII.2007.906943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358648,0
+4,46,A delta-sigma fractional-N frequency divider for a Phase Lock Loop in 60GHz transceiver,10.1109/EDSSC.2011.6117645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6117645,0
+4,47,Low phase noise S-band PLL frequency synthesizer using DDS and offset mixing techniques,10.1109/APMC.2009.5384505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384505,0
+4,48,Discussion on Ultra-low Near-from-Carrier Phase Noise Frequency Synthesizer,10.1109/PCSPA.2010.197,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5635612,0
+4,49,A 30-GHz Digital Sub-Sampling Fractional- $N$  PLL With −238.6-dB Jitter-Power Figure of Merit in 65-nm LP CMOS,10.1109/JSSC.2019.2940332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850091,0
+4,50,"Design of low power, high speed PLL frequency synthesizer using dynamic CMOS VLSI technology",10.1109/ICPCSI.2017.8391875,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8391875,0
+4,51,A 5.8mW Fully Integrated 1.5GHz Synthesizer in 0.13-μm CMOS,10.1109/SMIC.2007.322797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4117342,0
+4,52,5 GHz Phase-Locked Loop With a Phase-Adjusting Function,10.1109/LMWT.2023.3234657,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10017339,0
+4,53,A Frequency Synthesizer for Wireless Power Transfer at 5.8GHz and 61GHz,10.1109/ASET53988.2022.9735112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9735112,0
+4,54,"A CMOS PLL-based frequency synthesizer for wireless communication systems at 0.9, 1.8, 1.9 and 2.4 GHz",10.1109/ISCAS.2001.922339,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=922339,0
+4,55,A 90-nm CMOS Frequency Synthesizer with a Tripler for 60-GHz Wireless Communication Systems,10.1109/ISVLSI.2016.37,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7560244,0
+4,56,A self-bandwidth switching & area-efficient PLL using multiplexer-controlled frequency selector,10.1109/ISED.2017.8303919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8303919,0
+4,57,A DDS/PLL architecture for highly stable local oscillators,10.1109/RADAR.2014.7060407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7060407,0
+4,58,Analysis of Phase Frequency Detector & Charge Pump Switching Circuits for Frequency Synthesizer Using CMOS Technology,10.1109/CISES58720.2023.10183610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10183610,0
+4,59,Spur-Suppression Techniques for Frequency Synthesizers,10.1109/TCSII.2007.896938,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4277929,0
+4,60,A 5.1-GHz CMOS PLL based integer-N frequency synthesizer with ripple-free control voltage and improved acquisition time,10.1109/ISCAS.2004.1328984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328984,0
+4,61,A wideband fractional-N PLL with suppressed charge-pump noise and automatic loop filter calibration,10.1109/RFIC.2012.6242258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242258,0
+4,62,Very Wide Range Frequency Synthesizer Architecture for Avionic SDR Applications,10.1109/ICUWB.2015.7324527,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324527,0
+4,63,A Fractional Frequency Synthesizer Using Frequency Locked Loop,10.1109/ICECS.2007.4511259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511259,0
+4,64,A 1.5–1.9GHz phase-locked loop (PLL) frequency synthesizer with AFC and Σ-Δ modulator for Sub-GHz wireless transceiver,10.1109/ICSICT.2014.7021202,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7021202,0
+4,65,A Low-Jitter 300MHz CMOS PLL for Double Data Rate Applications,10.1109/EIConRus.2019.8656683,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8656683,0
+4,66,A 405MHz integer-N CMOS PLL for implantable biomedical application,10.1109/ReTIS.2015.7232932,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7232932,0
+4,67,Development synthesizer of stable high-frequency signal,10.1109/EDM.2016.7538721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7538721,0
+4,68,A Dual-Loop Synthesizer With Fast Frequency Modulation Ability for 77/79 GHz FMCW Automotive Radar Applications,10.1109/JSSC.2017.2784758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8246706,0
+4,69,Fast and accurate fractional frequency synthesizer in 0.18μm technology,10.1109/MIXDES.2015.7208537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208537,0
+4,70,A Low Phase Noise Phase-Locked Loop With Short Settling Times for Automotive Radar,10.23919/EuMIC50153.2022.9783662,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9783662,0
+4,71,A low-jitter digital-to-frequency converter based frequency multiplier with large N,10.1109/MWSCAS.2009.5235939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5235939,0
+4,72,A z-domain model and analysis of phase-domain all-digital phase-locked loops,10.1109/NORCHP.2007.4481030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4481030,0
+4,73,Frequency Stabilization of a VCDRO by Microcontroller Supported Frequency Lock Loop,10.1109/TELSKS.2007.4376097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4376097,0
+4,74,Design and analysis of the S-band PLL frequency synthesizer with low phase noise,10.1109/APMC.2005.1606591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1606591,0
+4,75,Analysis of the Characteristics of Synchronization System Components for High-Speed Data Networks,10.1109/IEEECONF60226.2024.10496786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496786,0
+4,76,Phase locked loop robustness improvement using non integer order loop filter,10.1109/ISCAS.2006.1693310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693310,0
+4,77,An FMCW fractional-N PLL-based synthesizer for integrated 79 GHz automotive radar sensors,10.1109/EUROCON.2017.8011117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011117,0
+4,78,Design of a 0.52 mW −141 dBc/Hz and 450 MHz frequency synthesizer using low power and low phase noise current reuse VCO,10.1109/TENCON.2017.8228365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8228365,0
+4,79,"Ultra-broadband, high resolution frequency synthesizer for LTE Radio Channel Emulator",10.1109/APCAP.2014.6992747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6992747,0
+4,80,An 802.15.4a wide band frequency synthesizer for 5GHz ISM band health care applications,10.1109/ISBB.2014.6820932,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6820932,0
+4,81,An adaptive frequency synthesizer architecture reducing reference sidebands,10.1109/ISCAS.2006.1693276,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693276,0
+4,82,An Equivalent Circuit for Flying-Adder Frequency Synthesizer and Its VHDL Implementation,10.23919/ELMAR.2018.8534646,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8534646,0
+4,83,A wideband modulated frequency synthesizer for enhanced Bluetooth applications,10.1109/APMC.2005.1607083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1607083,0
+4,84,A Ku-Band Frequency Synthesizer in 0.18-$\mu$m CMOS Technology,10.1109/LMWC.2007.892953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4141083,0
+4,85,A single-PLL UWB frequency synthesizer using current reusing SSB mixer,10.1109/EDSSC.2010.5713753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5713753,0
+4,86,A low-noise fast-settling PLL with extended loop bandwidth enhancement by new adaptation technique,10.1109/ASIC.2001.954679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954679,0
+4,87,A 16-GHz Triple-Modulus Phase-Switching Prescaler and Its Application to a 15-GHz Frequency Synthesizer in 0.18-$\mu$m CMOS,10.1109/TMTT.2006.886908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4061059,0
+4,88,A Spur Suppression Technique for Phase-Locked Frequency Synthesizers,10.1109/ISSCC.2006.1696307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1696307,0
+4,89,A 90nm CMOS 5GHz ring oscillator PLL with delay-discriminator based active phase noise cancellation,10.1109/RFIC.2012.6242257,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242257,0
+4,90,Design & Analysis of a Nanowire SGFET-Based 10GHz Frequency Synthesizer,10.1109/NGCAS.2017.50,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052268,0
+4,91,Fast Digital Coarse Tuning Loop for Wide-band Dual-loop Frequency Synthesizers,10.1109/ICSICT.2006.306578,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098609,0
+4,92,20-GHz PLL-based configurable frequency generator in 180nm SiGe-on-SOI BiCMOS,10.1109/RFIC.2015.7337790,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337790,0
+4,93,A 26.5 GHz PLL synthesizer with low phase noise characteristics,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6173975,0
+4,94,A Low Power Frequency Synthesizer Design for RF Wireless Power Transfer Applications,10.1109/REEPE60449.2024.10479887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10479887,0
+4,95,A fast-settling PLL frequency synthesizer with direct frequency presetting,10.1109/ISSCC.2006.1696113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1696113,0
+4,96,Analysis of the Influence of the Loop Filter in the Phase Locked Loop on the Output Phase Noise,10.1109/ICCWAMTIP.2018.8632591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8632591,0
+4,97,A 3.2-to-3.8 GHz Harmonic-Mixer-Based Dual-Feedback Fractional-N PLL Achieving -65 dBc In-Band Fractional Spur,10.1109/LSSC.2020.3037311,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9256299,0
+4,98,Design of 50 MHz PLL using indigenous SCL 180 nm CMOS Technology,10.1109/iSES52644.2021.00016,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9701017,0
+4,99,Sub-sampling charge pump and random pulsewidth matching technique for frequency synthesizer,10.1109/MWSCAS.2013.6674829,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6674829,0
+5,0,An L-Band Low Phase Noise Evanescent-Mode Cavity-Based Frequency Synthesizer,10.1109/TCSI.2017.2772872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125694,0
+5,1,6.7 GHz frequency synthesizer in 0.8 /spl mu/m silicon bipolar production technology,10.1109/MWSYM.2001.966990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=966990,0
+5,2,A digital frequency synthesizer with dither-assisted pulling mitigation for simultaneous DCO and reference path coupling,10.1109/ISSCC.2018.8310280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310280,0
+5,3,A PLL Synthesizer for 5G mmW Transceiver,10.1109/IWS49314.2020.9360123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360123,0
+5,4,An integrated frequency synthesizer in 130 nm SiGe BiCMOS technology for 28/38 GHz 5G wireless networks,10.23919/EuMIC.2017.8230703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8230703,0
+5,5,A Low SWaP-C Prototype Ka-Band Frequency Synthesizer for Atomic Clocks,10.1109/FCS.2018.8597514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8597514,0
+5,6,Analytical comparison between passive loop filter topologies for frequency synthesizer PLLs,10.1109/NEWCAS.2013.6573579,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6573579,0
+5,7,Design of a 40GHz PLL frequency synthesizer with wide locking range ILFD in 65nm CMOS,10.1109/ISOCC.2015.7401633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401633,0
+5,8,A stabilization technique for phase-locked frequency synthesizers,10.1109/VLSIC.2001.934189,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=934189,0
+5,9,−99dBc/Hz@10kHz 1MHz-step dual-loop integer-N PLL with anti-mislocking frequency calibration for global navigation satellite system receiver,10.1109/ISCAS.2011.5937953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5937953,0
+5,10,Analysis and Reduction of Noise in Fractional PLL,10.1109/IS3C.2012.134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6228357,0
+5,11,Design of frequency synthesizer in frequency-hopping transceiver,10.1109/ASICON.2013.6811882,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6811882,0
+5,12,Direct Digital-Frequency Synthesizer for Dielectrophoresis,10.1109/CERMA.2008.58,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4641133,0
+5,13,A PLL Microwave Frequency Synthesizer,10.1109/MIKON.2006.4345319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4345319,0
+5,14,Fast and accurate behavioral simulation of fractional-N frequency synthesizers and other PLL/DLL circuits,10.1109/DAC.2002.1012676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1012676,0
+5,15,A Full Digital Fractional- $N$  TAF-FLL for Digital Applications: Demonstration of the Principle of a Frequency-Locked Loop Built on Time-Average-Frequency,10.1109/TVLSI.2018.2888625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8602454,0
+5,16,A 3.4-mW 2.4-GHz frequency synthesizer in 0.18 µm CMOS,10.1109/DTIS.2009.4938068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4938068,0
+5,17,Behavioral modeling and simulation of jitter and phase noise in fractional-N PLL frequency synthesizer,10.1109/BMAS.2004.1393977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1393977,0
+5,18,The use of images of DDS in the hybrid frequency synthesizers,10.1109/CRMICO.2014.6959404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6959404,0
+5,19,Simulation and improvement of two digital adaptive frequency calibration techniques for fast locking wide-band frequency synthesizers,10.1109/DTIS.2007.4449507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4449507,0
+5,20,An ultra-wideband low-power ADPLL chirp synthesizer with adaptive loop bandwidth in 65nm CMOS,10.1109/RFIC.2016.7508244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508244,0
+5,21,A DDS-based C-band wideband agile frequency synthesizer,10.1109/MMWCST.2013.6814643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6814643,0
+5,22,Design of a Digital PLL Real Number Model Using SystemVerilog,10.1109/MOCAST.2019.8741595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8741595,0
+5,23,A Spur-Suppression Technique for Frequency Synthesizer with Pulse-Width to Current Conversion,10.1109/ISPACS48206.2019.8986294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8986294,0
+5,24,A 5.7 GHz Hiperlan SiGe BiCMOS voltage-controlled oscillator and phase-locked-loop frequency synthesizer,10.1109/RFIC.2001.935642,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935642,0
+5,25,Simulation and parameters optimization of hybrid frequency synthesizers for wireless communication systems,10.1109/SIBCON.2017.7998453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7998453,0
+5,26,An analog phase prediction based fractional-N PLL,10.1109/ISCAS.2017.8050760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050760,0
+5,27,A dual-mode signal generator using PLL for X-band radar sensor applications,10.1109/RFIT.2017.8048271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8048271,0
+5,28,Chip design of 5.2 GHz frequency synthesizer with a gate-to-source feedback Colpitts VCO,10.1109/APMC.2013.6694914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6694914,0
+5,29,A 12.5-GHz Fractional-N Type-I Sampling PLL Achieving 58-fs Integrated Jitter,10.1109/JSSC.2021.3123827,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9610140,0
+5,30,The Analysis of Phase-jitter Variance in the Third-order CPPLL Frequency Synthesizer,10.1109/APCCAS.2006.342267,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4145575,0
+5,31,Ultra-low phase noise 76–81 GHz PLL synthesizer for FMCW radar in 65 nm CMOS,10.1109/APMC.2012.6421691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421691,0
+5,32,A 28.5–32-GHz Fast Settling Multichannel PLL Synthesizer for 60-GHz WPAN Radio,10.1109/TMTT.2008.920179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4476204,0
+5,33,A design of the frequency synthesizer for UWB application in 0.13 μm RF CMOS process,10.1109/RFIT.2007.4443980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443980,0
+5,34,A Low Power CMOS Wide Band Active Inductor Based PLL at L and S Band,10.1109/MAPCON58678.2023.10463775,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463775,0
+5,35,A Type-3 FMCW Radar Synthesizer with Wide Frequency Modulation Bandwidth,10.1109/ISCAS48785.2022.9937740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937740,0
+5,36,Fast mixed-mode PLL simulation using behavioral baseband models of voltage-controlled oscillators and frequency dividers,10.1109/SM2ACD.2010.5672294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5672294,0
+5,37,Design and implementation of a forward two-PLL Diophantine Frequency Synthesizer with 500× resolution improvement,10.1109/FREQ.2008.4623064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4623064,0
+5,38,Fully integrated CMOS frequency synthesizer for ZigBee applications,10.1109/ICVD.2005.102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1383369,0
+5,39,Total Ionizing Dose Effects in Phase-Locked Loop ICs and Frequency Synthesizers,10.1109/RADECS.2015.7365690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7365690,0
+5,40,Efficient phase noise modeling of a PLL-based frequency synthesizer,10.1109/ISCCSP.2010.5463478,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5463478,0
+5,41,Phase Noise Analysis for Frequency Source Based on DMR Transceiver Applications,10.1109/ICMMT.2018.8563923,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8563923,0
+5,42,A Fast-Settling Integer- $N$  Frequency Synthesizer Using Switched-Gain Control,10.1109/TCSI.2019.2960752,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8943967,0
+5,43,Design of low noise fractional-N frequency synthesizer using sigma-delta modulation technique,10.1109/MIEL.2010.5490461,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5490461,0
+5,44,A 3.5 GHz Digital Fractional- PLL Frequency Synthesizer Based on Ring Oscillator Frequency-to-Digital Conversion,10.1109/JSSC.2015.2468712,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7313041,0
+5,45,A fast charge pump PLL using a bang-bang frequency comparator with dead zone,10.1109/ISCAS.2012.6271500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6271500,0
+5,46,Charge-Controlled Oscillators and Their Application in Frequency Synthesis,10.1109/TCSII.2016.2563738,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7465814,0
+5,47,Novel control methods for phase lock loops,10.1109/ECCTD.2015.7300091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7300091,0
+5,48,A low-power Ka-band frequency synthesizer with transformer feedback VCO embedded in 90-nm COMS technology,10.1109/IEEE-IWS.2013.6616736,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6616736,0
+5,49,A Direct Digital Frequency Synthesizer with CMOS OTP ROM§,10.1109/ISICIR.2007.4441804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441804,0
+5,50,A delay generation technique for fast-locking frequency synthesizers,10.1109/ISCAS.2006.1693870,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693870,0
+5,51,A wide-band PLL-based frequency synthesizer with adaptive dynamics,10.1109/TENCON.2007.4429019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429019,0
+5,52,A wide frequency coverage synthesizer with high performance for 3MHz–5GHz transceiver,10.1109/ICIST.2013.6747747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6747747,0
+5,53,Chaos Characteristics Analysis about Transient Signals of FH Radio with PLL Synthesizer,10.1109/CMSP.2011.94,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5957458,0
+5,54,A 35-GHz frequency synthesizer using frequency doubling and phase rotating technology,10.1109/ISCIT.2013.6645862,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6645862,0
+5,55,"A 0.236 mm $^{2}$, 3.99 mW Fully Integrated 90 nm CMOS L1/L5 GPS Frequency Synthesizer Using a Regulated Ring VCO",10.1109/LMWC.2012.2194996,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6202369,0
+5,56,A high-frequency phase-compensation fractional-N frequency synthesizer,10.1109/ISCAS.2005.1465779,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465779,0
+5,57,Practical design of Ku band frequency source,10.1109/IWS49314.2020.9360092,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360092,0
+5,58,Experimental Analysis of Substrate Noise Effect on PLL Performance,10.1109/TCSII.2008.921582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4505798,0
+5,59,A 0.18-$\mu$ m CMOS Dual-Band Frequency Synthesizer With Spur Reduction Calibration,10.1109/LMWC.2013.2279113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6590031,0
+5,60,Comparative Analysis of Phase Locked Loop with Different Phase Frequency Detectors using 90nm Technology,10.1109/GCITC60406.2023.10425951,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10425951,0
+5,61,Programmable Frequency-Divider for Millimeter-Wave PLL Frequency Synthesizers,10.1109/EUMC.2008.4751488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4751488,0
+5,62,A CMOS fractional-N frequency synthesizer for low-power RF applications,10.1109/MELECON.2002.1014648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1014648,0
+5,63,Design and modelling of a low phase noise pll frequency synthesizer,10.1109/ICSICT.2006.306314,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098475,0
+5,64,A ${\hbox{700-}}\mu{\hbox {A}}$ 405-MHz All-Digital Fractional- $N$ Frequency-Locked Loop for ISM Band Applications,10.1109/TMTT.2011.2114897,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5737781,0
+5,65,A Self-Calibrated Fractional-N PLL for WiFi 6 / 802.11ax in 28nm FDSOI CMOS,10.1109/ESSCIRC.2019.8902919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902919,0
+5,66,A 2.4-GHz Sub-Sampling PLL With an Adaptive and No Power Contribution FLL Achieving 103.58 fs rms Jitter and −257.8 dB FOM,10.1109/LMWC.2022.3149274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722565,0
+5,67,A low-power wide-band digital frequency synthesizer for cognitive radio sensor units,10.1109/ESSCIRC.2009.5325967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5325967,0
+5,68,CMOS Fractional-N Frequency Synthesizer for UHF RFID Reader Applications With Transformer-Based ISF Manipulation VCO,10.1109/TCSII.2022.3186381,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9807333,0
+5,69,An ultra-low phase-noise ka-band tunable frequency synthesizer,10.1109/FREQ.2008.4623097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4623097,0
+5,70,X-band frequency synthesizer with high frequency resolution,10.1109/HSIC.2012.6212962,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6212962,0
+5,71,A Fast Settling Dual-Path Fractional- $N$ PLL With Hybrid-Mode Dynamic Bandwidth Control,10.1109/LMWC.2010.2050870,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5481997,0
+5,72,Analysis and minimization of phase noise of the digital hybrid PLL frequency synthesizer,10.1109/TCE.2002.1010136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010136,0
+5,73,A 0.3-to-8.5GHz frequency synthesizer based on digital period synthesis,10.1109/ESSCIRC.2013.6649116,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6649116,0
+5,74,System analysis of 2.4 GHz IEEE 802.15.4 compliant frequency synthesizer,10.1109/ICM.2009.5418653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5418653,0
+5,75,A 29.5 to 31.7 GHz PLL in 65 nm CMOS technology,10.1109/EDAPS.2011.6213756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6213756,0
+5,76,Design and Implementation of an X-Band Frequency Synthesizer for Radar Applications,10.1109/IBCAST.2007.4379898,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4379898,0
+5,77,A Low-Noise Fractional- ${N}$  Digital Frequency Synthesizer With Implicit Frequency Tripling for mm-Wave Applications,10.1109/JSSC.2018.2883397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594572,0
+5,78,A Novel Hybrid Phase-Locked-Loop Frequency Synthesizer Using Single-Electron Devices and CMOS Transistors,10.1109/TCSI.2007.907886,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4383259,0
+5,79,A new VLSI implementation of a CMOS frequency synthesizer for SRD applications,10.1109/SIITME.2010.5653510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5653510,0
+5,80,A Sigma-Delta Fractional-N Frequency Synthesizer Based on ADPLL,10.1109/ICICTA.2010.660,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5522457,0
+5,81,Design of Ultra-broadband microwave sources based on ADF4350,10.1109/ICACC.2010.5486634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5486634,0
+5,82,RF Receiver Front-End and Frequency Synthesizer Integrated for Intelligent Human-Machine Systems and Wireless Cybernetics,10.1109/IHMSC.2017.129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8048113,0
+5,83,The reference spur reduction technique for frequency synthesizers,10.1109/EIConRus.2018.8317055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317055,0
+5,84,A Fast-Locking Agile Frequency Synthesizer for MIMO Dual-mode WiFi / WiMAX Applications,10.1109/ICECS.2007.4511257,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511257,0
+5,85,The factorial Delay Locked Loop: a solution to fulfill multistandard RF synthesizer requirements,10.1109/RME.2007.4401843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4401843,0
+5,86,A novel all-digital fractional-N frequency synthesizer architecture with fast acquisition and low spur,10.1109/ISQED.2010.5450393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5450393,0
+5,87,A Storage-Based Carry Randomization Technique for Spurs Reduction in Flying-Adder Frequency Synthesizer,10.1109/TCSII.2011.2149630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5934377,0
+5,88,Reconfigurable CMOS divide-by-3/-5 injection-locked frequency divider for dual-mode 24/40 GHz PLL application,10.1109/RFIT.2012.6401616,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401616,0
+5,89,A Fast Settling Fractional- $N$  DPLL With Loop-Order Switching,10.1109/TVLSI.2019.2956100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8937009,0
+5,90,Disruptive design solutions for frequency generation in silicon RFIC,10.1109/RFIT.2005.1598883,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1598883,0
+5,91,Frequency synthesizer with filter to signal detection for health care wireless network applications,10.1109/ICITEC.2014.7105561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7105561,0
+5,92,A fast-locking all-digital phase locked loop in 90nm CMOS for Gigascale systems,10.1109/ISCAS.2014.6865340,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865340,0
+5,93,A 177–205 GHz 249 mW CMOS-Based Integer-N Frequency Synthesizer Module for Planetary Exploration,10.1109/TTHZ.2017.2786693,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8246534,0
+5,94,Frequency Synthesis Based on A Novel Differential Locking Mechanism,10.1109/ISCAS.2018.8351007,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351007,0
+5,95,A low spur fractional-N frequency synthesizer architecture,10.1109/ISCAS.2005.1465210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465210,0
+5,96,PLL phase-noise modeling by PC,10.1109/RADIOELEK.2009.5158734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158734,0
+5,97,Indirect frequency synthesizer using second order digital time delay tanlock loop,10.1109/MELCON.2008.4618401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4618401,0
+5,98,A 1.8-V 3.6-mW 2.4-GHz fully integrated CMOS frequency synthesizer for IEEE 802.15.4,10.1109/VLSISOC.2010.5642692,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5642692,0
+5,99,"Direct Period Synthesis for Achieving Sub-PPM Frequency Resolution Through Time Average Frequency: The Principle, The Experimental Demonstration, and Its Application in Digital Communication",10.1109/TVLSI.2014.2334591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862058,0

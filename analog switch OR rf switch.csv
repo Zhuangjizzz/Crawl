@@ -99,3 +99,403 @@
 1,97,RF-MEMS switch module in a 0.25 μm BiCMOS technology,10.1109/SiRF.2012.6160150,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6160150,1
 1,98,Smart RFIC: Millimeter-wave gigabit transceivers with digitally-enabled built-in self-calibration and auto-switching functions: The challenge of phase control modeling in phase shifter design,10.1109/IMaRC.2015.7411420,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7411420,1
 1,99,A 3.2-mA 6-bit pipelined A/D converter for a bluetoothTM1RF transceiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471453,1
+2,0,Wideband Millimeter-Wave SPST Switch in 100-nm GaN-on-Si Using Strong Mutual Coupling,10.1109/TCSII.2022.3233367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10004726,0
+2,1,"""Reliability of Electrostatically Actuated RF MEMS Switches""",10.1109/RFIT.2007.4444015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4444015,0
+2,2,Digital RF Transmitter With Single-Bit  $\Delta\Sigma$ M-Driven Switched-Capacitor RF DAC and Embedded Band Filter in 28-nm FD-SOI,10.1109/TMTT.2019.2897929,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8657380,0
+2,3,A SAW-Less Tunable RF Front End for FDD and IBFD Combining an Electrical-Balance Duplexer and a Switched-LC N-Path LNA,10.1109/JSSC.2018.2791477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8274954,0
+2,4,Reliability of SPST Series-stacked SOI CMOS RF Switches for mmWave Applications,10.1109/IRPS48203.2023.10118205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10118205,0
+2,5,A 90nm CMOS highly linear clock bootstrapped RF sampler operating at wide frequency range of 0.5GHz to 5GHz,10.1109/RFIC.2009.5135565,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135565,0
+2,6,"A 100 W, UHF to S-Band RF Switch in the Super-Lattice Castellated Field Effect Transistor (SLCFET) 3S Process",10.1109/RFIC49505.2020.9218346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218346,0
+2,7,Integrating Solid State Protection with a RF-MEMS Switch for Achieving ESD Robustness,10.1109/ECTC.2019.00255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8811298,0
+2,8,Wideband RF Transmit-Receive Switch for Multi-Nuclei NMR Spectrometers,10.1109/TCSII.2021.3121210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9580442,0
+2,9,Study of Performance Impact from Powering RF Receiver Front-End Circuits with a DC-DC Converter,10.1109/ISCAS.2018.8351124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351124,0
+2,10,Reduced Switching Connectivity for Large Scale Antenna Selection,10.1109/TCOMM.2017.2669030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7855725,0
+2,11,Miniature RF MEMS switch matrices,10.1109/MWSYM.2009.5165923,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165923,0
+2,12,Switching based evaluation of substrate current in lightly and heavily doped CMOS at 45nm,10.1109/VLSI-SATA.2016.7593058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7593058,0
+2,13,A Compact Single-Cantilever Multicontact RF-MEMS Switch With Enhanced Reliability,10.1109/LMWC.2018.2800523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8291056,0
+2,14,Comparative Analysis of Switching Efficiency of GeTe and VO2 based RF Switches,10.1109/EDTM58488.2024.10511535,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10511535,0
+2,15,Integration of triple-band GSM antenna switch module using SOI CMOS,10.1109/RFIC.2004.1320670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1320670,0
+2,16,"A Multiband FDD SAW-Less Transmitter for 5G-NR Featuring a BW-Extended N-Path Filter-Modulator, a Switched-BB Input, and a Wideband TIA-Based PA Driver",10.1109/JSSC.2020.3021687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9203953,0
+2,17,Switching circuit for RF coil ring-down time reduction in pulsed EPR spectrometer,10.1109/IMaRC.2015.7411364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7411364,0
+2,18,Gallium Nitride power HEMT for high switching frequency power electronics,10.1109/IWPSD.2007.4472634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4472634,0
+2,19,Switch Stacking for OFF-State Power Handling Improvements in PCM RF Switches,10.1109/IMS19712.2021.9574954,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574954,0
+2,20,A track-and-hold amplifier for 1GSps 8bit ADC in 0.18 µm CMOS process,10.1109/ATC.2012.6404217,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6404217,0
+2,21,Digital power amplifier: A new way to exploit the switched-capacitor circuit,10.1109/MCOM.2012.6178848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6178848,0
+2,22,Demonstration of Novel Silicon Optical Switching on Digital Radio over Fibre Link for Next-Generation Fronthaul,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9572014,0
+2,23,A Signal Processing Framework for Agile RF Beamforming: From RF-Chain-Free to Hybrid Beamformers,10.1109/TCOMM.2021.3061101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360638,0
+2,24,DC-Coupled Biasing Technique for Quantized-Analog Amplifiers,10.1109/TCSII.2024.3392900,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508224,0
+2,25,Impact of Reverse Gate Oxide Stacking on Gate All Around Tunnel FET for High Frequency Analog and RF Applications,10.1109/INDICON49873.2020.9342175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9342175,0
+2,26,Miniature RF MEMS metal-contact switches for DC-20 GHz applications,10.1109/MWSYM.2011.5972867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972867,0
+2,27,Impact of carbon material on RF MEMS switch,10.1109/IranianCEE.2013.6599542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599542,0
+2,28,Direct sampling of Ka-Band signals using a photoconductive switch approach,10.1109/MWP.2011.6088762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6088762,0
+2,29,Phase-change RF switches with robust switching cycle endurance,10.1109/RWS.2018.8304995,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304995,0
+2,30,Development toward high-power sub-1-ohm DC-67 GHz RF switches using phase change materials for reconfigurable RF front-end,10.1109/MWSYM.2014.6848334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848334,0
+2,31,Design and optimization of RF MEMS T-type switch for redundancy switch matrix applications,10.1109/ICCEET.2012.6203826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6203826,0
+2,32,Orthogonal linear polarization switchable slot-ring array antenna using RF-MEMS switch,10.1109/APMC.2012.6421743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421743,0
+2,33,A Time-Domain Resolution Improvement of an RF-DAC,10.1109/TCSII.2010.2048485,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5475209,0
+2,34,A Design of 6-bit 125-MS/s SAR ADC in 0.13-µm MM/RF CMOS Process,10.1109/ISED.2012.63,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6526546,0
+2,35,Miniaturized RF MEMS switch cells for crossbar switch matrices,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728283,0
+2,36,Monolithic Integration of Phase-Change RF Switches in a Production SiGe BiCMOS Process with RF Circuit Demonstrations,10.1109/IMS30576.2020.9223824,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223824,0
+2,37,Switching Time Acceleration for High-Voltage CMOS RF Switch,10.1109/ESSCIRC55480.2022.9911368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9911368,0
+2,38,Recent advances in fabrication and characterization of GeTe-based phase-change RF switches and MMICs,10.1109/MWSYM.2017.8059098,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8059098,0
+2,39,Distortion arising from polar to PWM/PPM conversion in an all digital upconverter for switching rf power amplifier,10.1109/MWSYM.2009.5166001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5166001,0
+2,40,A Novel Implementation of an FPGA-Based Controller for Conducted-Noise Reduction in Randomly Switched DC-DC Converters,10.1109/APEC.2009.4802634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4802634,0
+2,41,28–32 GHz Dual-Polarized Single-Layer Microstrip Line Beamforming Network for 2×2 Beam Switching,10.1109/IMC-5G47857.2019.9160357,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9160357,0
+2,42,A 1.3 V Wideband RF-PWM Cartesian Transmitter Employing Analog Outphasing and a Switched-Capacitor Class-D Output Stage,10.1109/RFIC49505.2020.9218391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218391,0
+2,43,Very-low-loss electro-optic LiNbO/sub 3/ components for RF/analog transmission,10.1109/AVFOP.2005.1514165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1514165,0
+2,44,Steep switching tunnel FET: A promise to extend the energy efficient roadmap for post-CMOS digital and analog/RF applications,10.1109/ISLPED.2013.6629285,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6629285,0
+2,45,An Extended Range Multi-Modulus Divider with Seamless Switching at Extended Division Boundary,10.1109/ICSICT49897.2020.9278380,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9278380,0
+2,46,A Fast-Response Resonant GaN Converter with Post-Regulation for Distributed DC-Grid Feed-In,10.1109/PRIME58259.2023.10161877,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161877,0
+2,47,Redundancy RF MEMS Multiport Switches and Switch Matrices,10.1109/JMEMS.2007.892891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4147581,0
+2,48,A high-speed swing reduced driver suitable for current-steering digital-to-analog converters,10.1109/ECCTD.2009.5275067,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5275067,0
+2,49,Design and Fabrication of Non-Volatile Direct Heating RF High-Speed Switch Matrix Based on GeTe Phase Change Material,10.1109/IMWS-AMP57814.2023.10381058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381058,0
+2,50,Performance of low loss RF MEMS Fixed - Fixed capacitive switch characterization,10.1109/AEMC.2009.5430610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5430610,0
+2,51,Electro-thermo-mechanical analysis of a BiCMOS embedded RF-MEMS switch for temperatures from −55°C to + 125°C,10.1109/SiRF.2013.6489418,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6489418,0
+2,52,Performance of temperature-stable RF MEMS switched capacitors under high RF power conditions,10.1109/MWSYM.2010.5517234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5517234,0
+2,53,High-linearity Radiation-hardened Segmented 12-bit Digital-to-analog Converter Using Binary-weighted Switches,10.1109/ElConRus51938.2021.9396690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9396690,0
+2,54,10.6 THz figure-of-merit phase-change RF switches with embedded micro-heater,10.1109/SIRF.2015.7119879,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7119879,0
+2,55,Wideband on-chip RF MEMS switches in a BiCMOS technology for 60 GHz applications,10.1109/ICMMT.2008.4540701,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540701,0
+2,56,An Accurate High-Voltage Supply-Referred Low-Impedance Reference-Voltage for Efficiency Enhancement of the High-Side Switching Process,10.1109/ICECS46596.2019.8964643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964643,0
+2,57,"Design and Simulation of SF-FinFET and SD-FinFET and Their Performance in Analog, RF and Digital Applications",10.1109/iNIS.2017.49,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8293930,0
+2,58,"A Broadband, mm-Wave SPST Switch With Minimum 50-dB Isolation in 45-nm SOI-CMOS",10.1109/TMTT.2021.3066977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387578,0
+2,59,Managing subthreshold leakage in charge-based analog circuits with low-V/sub TH/ transistors by analog T- switch (AT-switch) and super cut-off CMOS (SCCMOS),10.1109/JSSC.2006.870761,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1610630,0
+2,60,A 12-bit 4GS/s DAC based on CMOS/InP heterogeneous integration,10.1109/ICICM54364.2021.9660318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660318,0
+2,61,RF SOI Switch FET Design and Modeling Tradeoffs for GSM Applications,10.1109/VLSI.Design.2010.64,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5401194,0
+2,62,A 68-dB Isolation 1.0-dB Loss Compact CMOS SPDT RF Switch Utilizing Switched Resonance Network,10.1109/IMS30576.2020.9223854,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9223854,0
+2,63,Investigation on Switching Structure Geometries and their Impact on Electromagnetic Response of RF-MEMS Capacitive Switch,10.1109/ASIANCON55314.2022.9909237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9909237,0
+2,64,Analog components configuration and test results for PEFP LLRF system,10.1109/PAC.2007.4441186,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441186,0
+2,65,RF I/Q Downconverter With Gain/Phase Calibration,10.1109/TCSII.2006.890407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4155072,0
+2,66,Reduction of low-frequency noise in MOSFETs under switched gate and substrate bias,10.1109/ESSDERC.2008.4681749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4681749,0
+2,67,A new electrothermally actuated 3-state high isolation and low power RF MEMS switch with latching mechanism,10.1109/IranianCEE.2016.7585783,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585783,0
+2,68,RF MEMS SWITCH: An overview at- a-glance,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5407222,0
+2,69,A Dual Band RFCMOS Amplifier Using Inductive Reactance Switching,10.1109/SMIC.2007.322798,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4117343,0
+2,70,Basic Investigations for Switching of RF Signals,10.1109/HOLM.2007.4318222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4318222,0
+2,71,RF MEMS compact T-type switch design for switch matrix applications in space telecommunication,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6215986,0
+2,72,A Single-Switch 3.1–4.7 GHz 194.52-dB FoM Class-D VCO With 495μW Power Consumption,10.1109/TCSII.2024.3407842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10543114,0
+2,73,A Novel Class E Analog Fiber Optic Link with RF Power Gain and High DC-RF Conversion Efficiency,10.1109/MWSYM.2006.249896,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014805,0
+2,74,Analysis of Switched Capacitor Losses in Polar and Quadrature Switched Capacitor PAs,10.1109/TCSII.2019.2957576,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8922588,0
+2,75,RF SPST Switch Based on Innovative Heterogeneous GaN/SOI Integration Technique,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337444,0
+2,76,Thermally Actuated Latching RF MEMS Switch and Its Characteristics,10.1109/TMTT.2009.2033866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5337885,0
+2,77,A 0.5V 16nW 8.08-ENOB SAR ADC for ultra-low power sensor applications,10.1109/IMWS-BIO.2013.6756156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6756156,0
+2,78,Single pole four throw RF MEMS switch with double stop comb drive,10.1109/MEMSYS.2008.4443836,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443836,0
+2,79,Novel Miniaturized RF MEMS Staircase Switch Matrix,10.1109/LMWC.2011.2170964,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6081960,0
+2,80,RF MEMS switch for Reconfigurable RF-Front End with Improved Hot-Switching Capabilities,10.1109/APUSNCURSINRSM.2018.8608865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8608865,0
+2,81,Switching techniques for capacitor arrays in Digital to Analog Converters,10.1109/MysuruCon55714.2022.9972492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9972492,0
+2,82,A 10 Watt S-Band MMIC Power Amplifier With Integrated 100 MHz Switch-Mode Power Supply and Control Circuitry for Active Electronically Scanned Arrays,10.1109/JSSC.2013.2261194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6516094,0
+2,83,The 2 GHz to 5 GHz GaAs Down Conversion Multi-Function Chip,10.1109/ITOEC57671.2023.10291422,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10291422,0
+2,84,Demodulation of 4×4 MIMO signal using single RF,10.1109/ICACT.2016.7423404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7423404,0
+2,85,5 THz Figure-of- Merit Reliable Phase-change RF Switches for Millimeter-wave Applications,10.1109/MWSYM.2018.8439479,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8439479,0
+2,86,Switching time analysis for non-uniform serpentine flexure based RF-MEMS switches,10.1109/SCES.2013.6547531,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547531,0
+2,87,An RF CMOS transmitter integrating a power amplifier and a transmit/receive switch for 802.11b wireless local area network applications,10.1109/RFIC.2003.1213978,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1213978,0
+2,88,Linearly variable inductor with RF MEMS switches to enlarge a continuous tuning range,10.1109/SENSOR.2009.5285389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5285389,0
+2,89,A class-G dual-supply switched-capacitor power amplifier in 65nm CMOS,10.1109/RFIC.2012.6242271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242271,0
+2,90,High-Speed Digital-to-Analog Converter Using Schottky Diode Samplers,10.1109/TMTT.2006.883602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4020490,0
+2,91,A Code-Domain RF Signal Processing Front End With High Self-Interference Rejection and Power Handling for Simultaneous Transmit and Receive,10.1109/JSSC.2019.2960486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948228,0
+2,92,A 0.16mm2 12b 30MS/s 0.18μm CMOS SAR ADC based on low-power composite switching,10.1109/ISOCC.2015.7401641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401641,0
+2,93,Partially Depleted Silicon-on-Insulator (PDSOI) MOSFETs for RF Switching Applications,10.1109/VLSIDCS53788.2022.9811445,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811445,0
+2,94,Nyquist-Rate Current-Steering Digital-to-Analog Converters With Random Multiple Data-Weighted Averaging Technique and $Q^{N}$ Rotated Walk Switching Scheme,10.1109/TCSII.2006.882355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4012390,0
+2,95,Ka-Band GaN Power Amplifier with Integrated DC Supply Switch and RF Switch,10.23919/MIKON60251.2024.10633971,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633971,0
+2,96,A system-level approach to designing modular switching software,10.1109/AUTEST.2011.6058757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6058757,0
+2,97,A 2.4-GHz CMOS Differential Class-DE Rectifier With Coupled Inductors,10.1109/TPEL.2021.3061703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362286,0
+2,98,High Frequency Capacitive RF MEMS Switch Using Dielectric Silicon Nitride for Wireless Telecommunication and 5G Applications,10.1109/ICCCNT54827.2022.9984632,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984632,0
+2,99,A SAW-less 3FLO-Suppression RF Transmitter with a Transformer-Based N-Path Switched-Capacitor Modulator Achieving -157.6dBc/Hz Output Noise and -61dBc CIM3,10.1109/RFIC61187.2024.10599933,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599933,0
+3,0,RF Frontend for Automated Crosstalk Reduction System,10.23919/MIKON48703.2020.9253958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9253958,0
+3,1,Monolithic RF MEMS Switch Matrix Integration,10.1109/MWSYM.2006.249414,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014841,0
+3,2,"Fully integrated, high yielding, high reliability DC contact MEMS switch technology & control IC in standard plastic packages",10.1109/ICSENS.2011.6127072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6127072,0
+3,3,A 3.5-GHz PLL for fast low-IF/zero-IF LO switching in an 802.11 transceiver,10.1109/JSSC.2005.848175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1501991,0
+3,4,Analog Predistortion Linearizer With Independently Tunable Gain and Phase Conversions for Ka-Band TWTA,10.1109/TED.2018.2890696,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8611279,0
+3,5,Three-bar novel RF MEMS switches,10.1109/APMC.2009.5384208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384208,0
+3,6,Design of a low-power calibratable charge-redistribution SAR ADC,10.1109/PRIME.2014.6872684,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6872684,0
+3,7,Highly linear and sub 120 fs Ron × Coff 130 nm RF SOI technology targeting 5G carrier aggregation RF switches and FEM SOC,10.1109/SIRF.2016.7445454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7445454,0
+3,8,Silicon RFCMOS SOI technology with above-IC MEMS integration for front end wireless applications,10.1109/BIPOL.2008.4662744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4662744,0
+3,9,Design study of N Bit Asynchronous Binary Search Analog to Digital Converter,10.1109/ICCMC.2019.8819735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8819735,0
+3,10,Switching and Analog/RF performance improvement of Graded Channel Double Gate Junctionless FET: A Simulation Study,10.1109/ICACCM56405.2022.10009312,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10009312,0
+3,11,High precision photonic ADC with four time-domain-demultiplexed interleaved channels,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6597396,0
+3,12,Direction-of-arrival estimator using array switching on software defined radio platform,10.1109/APS.2011.5997113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5997113,0
+3,13,Hibernating switched current cells for low power 14-bit Digital to Analog Converters,10.1109/RSM.2011.6088324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6088324,0
+3,14,A review of recent development on digital transmitters with integrated GaN switch-mode amplifiers,10.1109/RFIT.2015.7377891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7377891,0
+3,15,Computer Simulation of Continuous-Time and Switched Circuits: Limitations of SPICE-Family Programs and Pending Issues,10.1109/RADIOELEK.2007.371451,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4234200,0
+3,16,Switching characteristics of a thermally-stable metal contact RF MEMS switch,10.1109/NEMS.2011.6017349,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6017349,0
+3,17,UHF Receiver Front-End: Implementation and Analog Baseband Design Considerations,10.1109/TVLSI.2010.2096438,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5678608,0
+3,18,Noise Analysis And Noise Estimation Of An RF Sampling Front-end Using An SC Decimation Filter,10.1109/MIXDES.2006.1706596,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1706596,0
+3,19,A Latching Capacitive RF MEMS Switch in a Thin Film Package,10.1109/MWSYM.2006.249482,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014875,0
+3,20,A 16.5 W Single-Inductor 4-Channel Multi-Color Output DC-DC Buck LED Driver with Digital Control and 96 % Efficiency,10.1109/ESSCIRC.2018.8494324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494324,0
+3,21,Autonomously Tunable Filters for Interference Mitigation: Advances in Autonomously Switchable/Tunable RF/Microwave Filters for Interference Mitigation Without Operator Intervention,10.1109/MMM.2020.2979356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084319,0
+3,22,Fully passive conductive-bridging solid state RF switch,10.23919/URSIGASS.2017.8105259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8105259,0
+3,23,A 48 dBm peak power RF switch in SOI process for 5G mMIMO applications,10.1109/SIRF.2019.8709096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8709096,0
+3,24,Fast electrical and optical activation of RF switches integrating vanadium dioxide (VO<inf>2</inf>) phase change material,10.1109/IMWS-AMP53428.2021.9643996,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9643996,0
+3,25,Design of PIN Diode Based Six Channel Switched Harmonic Filter Bank and Antenna Switch for Software Defined Radio,10.1109/IMaRC45935.2019.9118667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9118667,0
+3,26,Novel low-voltage RF-MEMS switch: Design and simulation,10.1109/SMELEC.2014.6920816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6920816,0
+3,27,A compact DC-10 GHz SP7T RF MEMS switch,10.1109/MWSYM.2014.6848363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848363,0
+3,28,11 THz figure-of-merit phase-change RF switches for reconfigurable wireless front-ends,10.1109/MWSYM.2015.7167005,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7167005,0
+3,29,Switch-mode power amplifier linearization,10.1109/RFIC.2008.4561407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561407,0
+3,30,"A compact, low jitter, fast rise time, gas-switched pulse generator system with high pulse repetition rate capability",10.1109/PPC.2009.5386428,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5386428,0
+3,31,Multi-Signal Power Collective Equalization for Dynamic Optical Path Operation,10.23919/PS.2019.8818096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8818096,0
+3,32,"A new compact, low on resistance and high off isolation high voltage analog switch IC without using high voltage power supplies for ultrasound imaging system",10.1109/ISPSD.2016.7520866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7520866,0
+3,33,Linearization study of a highly efficient CMOS-GaN RF pulse width modulation based transmitter,10.23919/EuMC.2012.6459115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6459115,0
+3,34,RF MEMS switches integrated with sealed suspended coplanar waveguides for reconfigurable RF circuits,10.1109/TRANSDUCERS.2011.5969680,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5969680,0
+3,35,Fast high power capacitive RF-MEMS switch for X-Band applications,10.1109/ESSDERC.2015.7324736,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324736,0
+3,36,5G RF Front End Module Architectures for Mobile Applications,10.23919/EuMC.2019.8910723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910723,0
+3,37,An RF switching circuit using PIN diode for a 2.4GHz frequency reconfigurable antenna,10.1109/ISCAIE.2018.8405481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8405481,0
+3,38,A Single-Chip Wafer-Level Packaged SR-Crossbar RF MEMS Switch Matrix,10.1109/LED.2024.3403550,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535890,0
+3,39,Single-actuator shunt-series RF-MEMS switch,10.1109/MWSYM.2014.6848666,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848666,0
+3,40,A compact SPDT RF MEMS switch with high contact force,10.1109/MWSYM.2009.5165921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165921,0
+3,41,CMOS RF Switch With Fast Discharge Feature,10.1109/LSSC.2021.3059918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355399,0
+3,42,Radio frequency digital-to-analog converter,10.1109/JSSC.2004.829377,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1327743,0
+3,43,Nonlinearity Modeling of Contact-type RF MEMS Switch Based on Passive Intermodulation Analysis,10.1109/MWSYM.2019.8701041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701041,0
+3,44,ESD Behavior of RF Switches and Importance of System Efficient ESD Design,10.1109/EMCSIPI50001.2023.10241687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241687,0
+3,45,A universal switched capacitors operator for the automatic synthesis of analog computation circuits,10.1109/CAMP.2003.1598174,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1598174,0
+3,46,Arrays of GeTe electrically activated RF switches,10.1109/IMWS-AMP.2017.8247380,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8247380,0
+3,47,Low power RF transceiver design for Bluetooth applications,10.1109/ICSICT.2008.4734853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734853,0
+3,48,Nafion-Based Fully Passive Solid-State Conductive Bridging RF Switch,10.1109/LMWC.2017.2764741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8103005,0
+3,49,Monolithically integrated high-power broad-band RF switch based on III-N insulated gate transistors,10.1109/LMWC.2004.837381,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1362668,0
+3,50,CMOS-integrated digitally controlled DC-DC voltage converter with voltage and time configurations for on-chip high voltage MEMS switch actuation,10.1109/ICM.2004.1434216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1434216,0
+3,51,Simulation of that the Rotated Square Holes Effect on the Shunt Capacitive RF MEMS Switch,10.1109/EDSSC.2018.8487114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8487114,0
+3,52,The Switched-Capacitor Power Amplifier: A Key Enabler for Future Communications Systems,10.1109/ESSCIRC.2019.8902890,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902890,0
+3,53,Integration of Niobium Low-Temperature-Superconducting RF Circuits With Gold-Based RF MEMS Switches,10.1109/TASC.2014.2364453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6933878,0
+3,54,A merged gain-variable RF front-end design for a 2GHz WCDMA DCR application I,10.1109/MWSCAS.2002.1186896,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1186896,0
+3,55,Sigma-delta noise shaping for digital-to-frequency and digital-to-RF-amplitude conversion,10.1109/IWSOC.2005.97,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1530933,0
+3,56,An all-digital fast tracking switching converter with a programmable order loop controller for envelope tracking RF power amplifiers,10.1109/ISCAS.2016.7538892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7538892,0
+3,57,Energy-Efficient Hybrid Symbol-Level Precoding for Large-Scale mmWave Multiuser MIMO Systems,10.1109/TCOMM.2021.3058967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9353577,0
+3,58,Monolithic crossbar MEMS switch matrix,10.1109/MWSYM.2008.4633120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633120,0
+3,59,Efficient Switched Digital Beamforming Radar System based on SIMO/MIMO Receiver,10.1109/ComComAp46287.2019.9018789,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018789,0
+3,60,A Reconfigurable RF Circuit Architecture for Dynamic Power Reduction,10.1109/TENCON.2005.300969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4084933,0
+3,61,A compact digital beamforming SMILE array for mobile communications,10.1109/TMTT.2004.837317,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1366546,0
+3,62,Fully Depleted SOI RF Switch with Dynamic Biasing,10.1109/RFIC.2007.380859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266407,0
+3,63,A Novel 32-Gb/s 5.6-Vpp Digital-to-Analog Converter in 100 nm GaN Technology for 5G Signal Generation,10.1109/IMS30576.2020.9224080,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9224080,0
+3,64,Low cost analogue testing of RF signal paths,10.1109/DATE.2004.1268863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1268863,0
+3,65,Miniaturized DC–60 GHz RF PCM GeTe-Based Monolithically Integrated Redundancy Switch Matrix Using T-Type Switching Unit Cells,10.1109/TMTT.2019.2944359,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8874988,0
+3,66,Signal Integrity Co-Design of a High-Speed (20 Gbps) Analog Passive CMOS Switch,10.1109/ECTC51909.2023.00173,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10195290,0
+3,67,Capacitor array structure and switch control for energy-efficient SAR analog-to-digital converters,10.1109/ISCAS.2008.4541398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541398,0
+3,68,Low-Power Differential Input to Single-Ended Output GaN RF-DAC for RF-Signal Generation,10.1109/TMTT.2020.3047661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328217,0
+3,69,RF Class-D Amplification With Bandpass Sigma–Delta Modulator Drive Signals,10.1109/TCSI.2006.885980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4026680,0
+3,70,Fabrication and characterization of VO2-based series and parallel RF switches,10.1109/MWSYM.2017.8059096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8059096,0
+3,71,Differential Cancellation Based RF Switch Enabling High Isolation and Minimal Insertion Loss in 0.0006 mm2 Area,10.1109/WMCS55582.2022.9866179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9866179,0
+3,72,MEMS Capacitive Switch with Stress Concentration Regions for Wide band Applications Applications - Switching time Improvement for High Speed Applications,10.1109/ViTECoN.2019.8899438,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8899438,0
+3,73,A 56 GS/s 8-bit 0.011 mm2 4x Delta-Interleaved Switched-Capacitor DAC in 16nm FinFET CMOS,10.1109/ESSCIRC55480.2022.9911426,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9911426,0
+3,74,Metal Strip Layer Approach to Enhance the DC Characteristics and Analog/RF Performance of a Dual Material Control Gate TFET,10.1109/ICSC60394.2023.10441558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10441558,0
+3,75,Advances In MEMS switches For RF test applications,10.1109/EuMIC.2016.7777586,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7777586,0
+3,76,Advances in MEMS switches for RF test applications,10.1109/EuMC.2016.7824607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824607,0
+3,77,Discrete-time modeling of switching converters including intra-cycle waveform propagation,10.1109/ICSET.2010.5684956,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5684956,0
+3,78,Modeling of memristor-based RF switches,10.1109/MOCAST57943.2023.10177033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177033,0
+3,79,RF MEMS Capacitive Switch with High Isolation for 5G Communication,10.1109/COMTECH.2019.8737793,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737793,0
+3,80,In-depth caracterisation of the structural phase change of Germanium Telluride for RF switches,10.1109/IMWS-AMP.2017.8247378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8247378,0
+3,81,A low power 12-bit and 30-MS/s pipeline analog to digital converter in 0.35μm CMOS,10.1109/ICICDT.2008.4567263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567263,0
+3,82,Envelope Tracking of an RF High Power Amplifier With an 8-Level Digitally Controlled GaN-on-Si Supply Modulator,10.1109/TMTT.2015.2447552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7153567,0
+3,83,High-Cycle Life Testing of RF MEMS Switches,10.1109/MWSYM.2007.380099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4264207,0
+3,84,Design of H-shaped low actuation-voltage RF-MEMS switches,10.1109/APMC.2006.4429697,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429697,0
+3,85,Contact Area Design of Ohmic RF MEMS Switch for Enhanced Power Handling,10.1109/ICSensT.2018.8603623,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8603623,0
+3,86,A DC-10GHz SPDT RF Switch with Bulk Self-Biasing Technique in 0.25µm BiCMOS Process,10.1109/ICET55676.2022.9824419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824419,0
+3,87,All-digital current control for capacitor-free multi-channel LED drivers,10.1109/ICRERA.2014.7016457,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7016457,0
+3,88,Low complexity RF-MEMS switch optimized for operation up to 120°C,10.1109/EMICC.2007.4412741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4412741,0
+3,89,Low complexity RF-MEMS switch optimized for operation up to 120°C,10.1109/EUMC.2007.4405422,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405422,0
+3,90,Drain current and switching speed of the Double-Pole Four-Throw RF CMOS switch,10.1109/INDCON.2011.6139419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6139419,0
+3,91,Multi-functional RF Filter with Co-Designed Low Noise Amplifier and RF Switching Capabilities,10.1109/IMFW59690.2024.10477122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10477122,0
+3,92,A Skew-Insensitive Switched Source-Follower Analog Frontend for Time-Interleaved ADCs,10.1109/PRIME58259.2023.10161843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161843,0
+3,93,A 12-b 10-GS/s Interleaved Pipeline ADC in 28-nm CMOS Technology,10.1109/JSSC.2017.2747758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100718,0
+3,94,A digital-to-analog converter based on differential-quad switching,10.1109/JSSC.2002.803056,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1035949,0
+3,95,Design of frequency agile filters in RF frontend circuits,10.1109/RWS.2012.6175361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6175361,0
+3,96,An Energy-Efficient Low Frequency-Dependence Switching Technique for SAR ADCs,10.1109/TCSII.2014.2304890,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6750043,0
+3,97,Switched Current Flash Analog to Digital Converter,10.1109/ICONS.2008.68,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4497147,0
+3,98,Design of a MEMS Meander Switch and Comparison of its RF Performances with a Basic Shunt Switch at DC to 40 GHz,10.1109/MACS56771.2022.10022719,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10022719,0
+3,99,X-Band High Power GaN SPDT MMIC RF Switches,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8874798,0
+4,0,A 28 nm 8.2-11.1 GHz Class-C Digitally Controlled Oscillator with 40 kHz Tuning Resolution,10.1109/ISCAS58744.2024.10558448,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558448,0
+4,1,RF MEMS switch with increased operational bandwidth,10.1109/IranianCEE.2017.7985456,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985456,0
+4,2,"Variable spring constant, high contact force RF MEMS switch",10.1109/MWSYM.2010.5514803,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5514803,0
+4,3,High-Performance Optically Controlled RF Switches for Advanced Reconfigurable Millimeterwave-to-THz Circuits,10.1109/IMC-5G47857.2019.9160365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9160365,0
+4,4,A 12-bit 1GS/s Digital to Analog Converter with Switching-Minimized Monotonic Coding,10.1109/ICCE-Taiwan58799.2023.10226949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10226949,0
+4,5,A 60-MS/s 5-MHz BW Noise-Shaping SAR ADC With Integrated Input Buffer Achieving 84.2-dB SNDR and 97.3-dB SFDR Using Dynamic Level-Shifting and ISI-Error Correction,10.1109/JSSC.2022.3185501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810848,0
+4,6,Enhanced RF Switch Performance in RFSOI Technology: Achieving 74 fs RON·COFF and 3.3 V RFVMAX on Thinned SOI,10.1109/ESSERC62670.2024.10719593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719593,0
+4,7,Characterization of CMOS Compatible RF MEMS Switch at Cryogenic Temperatures,10.1109/SENSOR.2007.4300211,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4300211,0
+4,8,Modeling of Frequency Shift in RF-MEMS Switches Under Residual Stress Gradient,10.1109/ANTEM.2018.8572954,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8572954,0
+4,9,A 9-bit 80 MS/s Successive Approximation Register Analog-to-Digital Converter With a Capacitor Reduction Technique,10.1109/TCSII.2010.2048387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504837,0
+4,10,Large-scale field-programmable analog arrays for analog signal processing,10.1109/TCSI.2005.853401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1528675,0
+4,11,A compact high-isolation DC-50 GHz SP4T RF MEMS switch,10.1109/MWSYM.2014.6848359,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848359,0
+4,12,A Digitally Enhanced Dynamically Reconfigurable Analog Platform for Low-Power Signal Processing,10.1109/JSSC.2012.2194847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6208832,0
+4,13,Improvements in SOI technology for RF switches,10.1109/SIRF.2015.7119865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7119865,0
+4,14,Performance of molybdenum as a mechanical membrane for RF MEMS switches,10.1109/MWSYM.2009.5165925,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165925,0
+4,15,A design of 8 bit SAR ADC using monotonie capacitive switching procedure in 90nm,10.1109/CIMCA.2016.8053287,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053287,0
+4,16,Fabrication and characterization of RF MEMS high isolation switch upto X-band,10.1109/COMCAS.2013.6685245,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6685245,0
+4,17,"Analysis of attenuation, isolation and switching speed of DP4T double gate RF CMOS switch design",10.1109/IECR.2010.5720124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5720124,0
+4,18,A 2.4-GHz low power high performance frequency synthesizer based on current-reuse VCO and symmetric charge pump,10.1109/RFIC.2013.6569538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6569538,0
+4,19,Switching characteristics of bias circuits of RF power amplifiers for TD-LTE systems,10.1109/ICMMT.2012.6230310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6230310,0
+4,20,RF switch matrix design and trade study in photonics,10.1109/AVFOP.2014.6999441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999441,0
+4,21,Design and characterization of analog multiplexer for data acquisition system in satellites,10.1109/ICACCI.2016.7732426,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7732426,0
+4,22,High-Reliability RF-MEMS Switched Capacitors With Digital and Analog Tuning Characteristics,10.1109/TMTT.2010.2065892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5575376,0
+4,23,Capacitive RF MEMS Switches Fabricated in Standard 0.35-$\mu{\hbox{m}}$  CMOS Technology,10.1109/TMTT.2009.2038446,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5392997,0
+4,24,Design and Simulation of 32 X 64 RF Switch Matrix up to 40 GHz,10.1109/SPACE63117.2024.10667893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10667893,0
+4,25,"Experimental Investigation of Performance, Reliability, and Cycle Endurance of Nonvolatile DC–67 GHz Phase-Change RF Switches",10.1109/TMTT.2021.3105413,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527157,0
+4,26,RF digital-to-analog converters enable direct synthesis of communications signals,10.1109/MCOM.2012.6316784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6316784,0
+4,27,Nonlinear analysis in MESFET RF switches,10.1109/EDM.2009.5173968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5173968,0
+4,28,RF MEMS switch integrated on printed circuit board with metallic membrane first sequence and transferring,10.1109/LED.2006.877282,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1644824,0
+4,29,Parametric Analysis and Optimization of Non-Contact Transversally Actuated RF MEMS Switch with High Reliability for Wireless Applications,10.1109/ICECCE47252.2019.8940688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8940688,0
+4,30,A 0.4-ns power switching Ku-band amplifier for direct RF undersampling receiver,10.1109/GSMM.2016.7500296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7500296,0
+4,31,A Wideband Thermally Actuated SPDT RF MEMS Switch,10.1109/ICEE50131.2020.9260814,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9260814,0
+4,32,A 3.5K 4-6 GHz RF-DAC for Cryogenic Quantum Applications in 28-nm Bulk CMOS,10.1109/TCSII.2024.3386843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10495371,0
+4,33,Background Adaptive Cancellation of Digital Switching Noise in a Pipelined Analog-to-Digital Converter Without Noise Sensors,10.1109/JSSC.2014.2314446,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6799286,0
+4,34,Leading and trailing edge hot switching damage in a metal contact RF MEMS switch,10.1109/Transducers.2013.6626816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6626816,0
+4,35,Hybrid Combining Based on Constant Phase Shifters and Active/Inactive Switches,10.1109/TVT.2020.2974995,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003177,0
+4,36,"A Broadband, High Dynamic Range DPST Switch and IF Amplifier IC",10.1109/WAMICON47156.2021.9443628,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9443628,0
+4,37,A 4GSa/s 7-bit two-way time-interleaved bipolar track-and-hold amplifier based on a novel analog switch,10.1109/RME.2005.1542937,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1542937,0
+4,38,An Infrastructure for Analog Circuits Testing,10.1109/IMS3TW.2012.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6298727,0
+4,39,Low actuation voltage RF MEMS switch for WiMAX applications,10.1109/RFM.2011.6168765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6168765,0
+4,40,A RF remote-control transceiver with zero-standby power based on RFID technology,10.1109/PRIMEASIA.2010.5604917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5604917,0
+4,41,"Design, fabrication and characterization of capacitive RF MEMS switches with low pull-in voltage",10.1109/IMaRC.2014.7038983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7038983,0
+4,42,Ultra-Compact Phase-Change GeTe-Based Scalable mmWave Latching Crossbar Switch Matrices,10.1109/TMTT.2021.3128589,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642257,0
+4,43,An Efficient Design Approach for High-Frequency Analog Filters Using PSoCs or FPAAs,10.1109/CERMA.2009.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5341977,0
+4,44,Piezoelectrically actuated RF MEMS DC contact switches with low voltage operation,10.1109/LMWC.2005.845689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1416928,0
+4,45,A 0.5 V 1.28-MS/s 4.68-fJ/Conversion-Step SAR ADC With Energy-Efficient DAC and Trilevel Switching Scheme,10.1109/TVLSI.2015.2448575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161385,0
+4,46,An integrated Boost Controller with MPPT for Submodule PV Applications,10.1109/ESSCIRC53450.2021.9567804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9567804,0
+4,47,High power mmW switch technologies,10.1109/COMCAS.2017.8244745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8244745,0
+4,48,Design of a Flexible Bandgap Based High Voltage UVLO with Pre-Regulator,10.1109/ICECS49266.2020.9294922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294922,0
+4,49,A fully passive RF switch based on nanometric conductive bridge,10.1109/MWSYM.2012.6258428,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6258428,0
+4,50,An RF-MEMS switch with mN contact forces,10.1109/MWSYM.2010.5517237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5517237,0
+4,51,Distortion analysis of 30Gsample/s CMOS switched source follower,10.1109/ISCAS.2010.5537557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537557,0
+4,52,Modeling and designing of RF MEMS switch using ANSYS,10.1109/ICET.2008.4777472,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4777472,0
+4,53,Finite element analysis of the thermal characteristics of MEMS switches,10.1109/SENSOR.2003.1215341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1215341,0
+4,54,A 1.6-GS/s 12-bit return-to-zero GaAs RF DAC for multiple Nyquist operation,10.1109/JSSC.2005.856276,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1546222,0
+4,55,A 0.7 to 1 GHz switched-LC N-Path LNA resilient to FDD-LTE self-interference at ≥40 MHz offset,10.1109/RFIC.2017.7969071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969071,0
+4,56,All-Digital RF $I/Q$ Modulator,10.1109/TMTT.2012.2211612,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6289397,0
+4,57,A 14b 3/6GHz current-steering RF DAC in 0.18μm CMOS with 66dB ACLR at 2.9GHz,10.1109/ISSCC.2012.6177089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6177089,0
+4,58,Front End Track and Hold Circuit for High Speed Analog to Digital Converters,10.1109/CSNT.2012.219,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6200743,0
+4,59,A Sub-GHz CMOS SPDT Antenna Switch Employing Linearity-Enhanced Biasing Strategy for Second-Order Harmonic Reduction,10.1109/TCSII.2023.3245145,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045038,0
+4,60,The RF Characteristics of the RF MEMS Switch as the Substrate Resistivity,10.1109/GSMM.2008.4534624,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4534624,0
+4,61,Effect of bonding on the packaged RF MEMS switch,10.1109/ICEPT.2008.4606998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4606998,0
+4,62,A novel electrostatically actuated spdt rotary RF MEMS switch for ultra-broadband applications,10.1109/IranianCEE.2015.7146392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146392,0
+4,63,Reconfigurable Array for Analog Applications,10.1109/ICCD53106.2021.00064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9643652,0
+4,64,A novel seesaw-type RF MEMS switch,10.1109/MELCON.2006.1653095,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1653095,0
+4,65,Fabrication and characterization of RF-MEMS switch in V-band,10.1109/APMC.2009.5385326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385326,0
+4,66,Efficient design methodology of polymer based RF MEMS switches,10.1109/SMIC.2004.1398228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1398228,0
+4,67,Optimized High Voltage Analog Switch IC using Low Breakdown SOI Technology,10.1109/IPMHVC.2018.8936703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936703,0
+4,68,28 GHz Switched-Beam Antenna Based on S-PIN Diodes for 5G Mobile Communications,10.1109/LAWP.2017.2781262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8171744,0
+4,69,Impact of RF–Switch Insertion Loss on the Performance of Space Modulation Techniques,10.1109/LCOMM.2018.2815023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8315449,0
+4,70,"A New, Low-Cost, Switched Beam and Fully Adaptive Antenna Array for 2.4 GHz ISM Applications",10.1109/TAP.2007.904067,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4298185,0
+4,71,Creating a universal radio frequency front-end for elemental digital beam formed phased arrays,10.1109/ARRAY.2016.7832539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7832539,0
+4,72,Copper-based multimetal-contact RF MEMS switch,10.1109/ICEPT.2016.7583193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7583193,0
+4,73,A low-loss RF MEMS switch with dielectric layer on the lower surface of the bridge,10.1109/NEMS.2009.5068547,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5068547,0
+4,74,RF Switch on Standard SiGe-CMOS Technology for System-on-a-chip Radio Transceivers,10.1109/BIPOL.2006.311154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4100222,0
+4,75,A GeTe Phase-change RF Switch Design Based on Microstrip Line Structure,10.1109/ICEICT61637.2024.10671279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10671279,0
+4,76,The SiOG-based single-crystalline silicon (SCS) RF MEMS switch with uniform characteristics,10.1109/JMEMS.2004.838365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1364063,0
+4,77,Design and optimization of a low-voltage shunt capacitive RF-MEMS switch,10.1109/DTIP.2014.7056645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7056645,0
+4,78,A 15 Bit 95 dB Low Power Discrete Time Sigma Delta Modulator,10.1109/ICCS.2012.1,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6391683,0
+4,79,High cut-off frequency RF switches integrating a metal-insulator transition material,10.1109/MWSYM.2015.7166910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7166910,0
+4,80,High-Power High-Isolation RF-MEMS Switches With Enhanced Hot-Switching Reliability Using a Shunt Protection Technique,10.1109/TMTT.2017.2687427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7894186,0
+4,81,Design and analysis of a novel low actuation voltage capacitive RF MEMS switches,10.1109/NEMS.2008.4484325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4484325,0
+4,82,Class E Zero&#x2010;Voltage Switching RF Power Amplifiers,10.1002/9781118844373.ch5,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10513920.pdf&bkn=10513431&pdfType=chapter,0
+4,83,Class E Zero&#x2010;Current Switching RF Power Amplifier,10.1002/9781118844373.ch6,https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10513753.pdf&bkn=10513431&pdfType=chapter,0
+4,84,Analysis and design of an all metal in line series ohmic RF MEMS switch for microwave applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5486464,0
+4,85,Managing leakage in charge-based analog circuits with low-V/sub TH/ transistors by analog T-switch (AT-Switch) and super cut-off CMOS,10.1109/VLSIC.2005.1469348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1469348,0
+4,86,The RF Sampler: Chip-Scale Frequency Conversion and Filtering Enabling Affordable Element-Level Digital Beamforming,10.1109/BCICTS.2018.8551141,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8551141,0
+4,87,A K-band switched-line phase shifter using novel low-voltage low-loss RF-MEMS switch,10.1109/RSM.2017.8069125,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8069125,0
+4,88,Model of Substrate Capacitance of MOSFET RF Switch Inspired by Inverted Microstrip Line,10.1109/ESSDERC53440.2021.9631806,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9631806,0
+4,89,Demonstration of an optical label switch using an optical digital-to-analog conversion-type label processor with a self-gate-pulse Generator and a power equalizer,10.1109/LPT.2006.870113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1597299,0
+4,90,A 2×2 MIMO 802.11 abgn/ac WLAN SoC with integrated T/R switch and on-chip PA delivering VHT80 256QAM 17.5dBm in 55nm CMOS,10.1109/RFIC.2014.6851704,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851704,0
+4,91,Measurement of Complex-Ratio Between Two RF Signals With Spectrum Analysis,10.1109/LMWT.2023.3240475,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10040910,0
+4,92,Intelligent RF Circuits and Systems with Memory Elements,10.1109/APMC47863.2020.9331482,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331482,0
+4,93,Rapid Prototyping of Large-scale Analog Circuits With Field Programmable Analog Array,10.1109/FCCM.2007.34,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4297281,0
+4,94,A Terahertz Pattern Reconfigurable Logarithmic Spiral Antenna With RF-MEMS Switches,10.1109/IMWS-AMP57814.2023.10381034,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381034,0
+4,95,Design and Implementation of a Low Power Switched-Capacitor-Based Analog Feature Extractor for Voice Keyword Spotting,10.1109/APCCAS55924.2022.10090360,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10090360,0
+4,96,A linear model of efficiency for Switched-Capacitor RF Power-Amplifiers,10.1109/PRIME.2014.6872748,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6872748,0
+4,97,Long-term investigations of RF-MEMS switches on failure mechanisms induced by dielectric charging,10.1109/DTIP.2014.7056675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7056675,0
+4,98,A low-loss single-pole six-throw switch based on compact RF MEMS switches,10.1109/TMTT.2005.855746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1528783,0
+4,99,Analysis of a coupled inductor for zero-current transition boost converters,10.1109/PEDS.2009.5385819,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385819,0
+5,0,Design methodology of a high power RF MEMS switch for wireless applications,10.1109/FBW.2011.5965562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5965562,0
+5,1,Design of Micro-Machined Frequency Reconfigurable Cascaded Sierpinski Gasket Fractal Antenna using RF-MEMS Switches,10.1109/IMaRC49196.2021.9714624,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714624,0
+5,2,Self-actuation tests of ohmic contact and capacitive RFMEMS switches for wideband RF power limiter circuits,10.1109/SMICND.2012.6400650,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6400650,0
+5,3,Sliding-mode control analog integrated circuit for switching DC-DC power converters,10.1109/ISCAS.2001.921902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921902,0
+5,4,Enhancing Performance in Hybrid RF/FSO Systems: Leveraging Level Crossing Rate for Seamless Switching,10.1109/BlackSeaCom58138.2023.10299753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10299753,0
+5,5,A 12-bit SAR ADC With a DAC-Configurable Window Switching Scheme,10.1109/TCSI.2019.2922726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8755503,0
+5,6,Analog Multiplexer for Performance Enhancement of Digital-to-Analog Converters and Experimental 2-to-1 Time Interleaving in 28-nm FD-SOI CMOS,10.1109/LSSC.2023.3323857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285409,0
+5,7,Reconfigurable and Scalable Monolithic Band Reject Circuit Utilizing Phase-Change Switch Matrices,10.23919/EuMIC50153.2022.9783840,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9783840,0
+5,8,Simplified RF-MEMS Switches Using Implanted Conductors and Thermal Oxide,10.1109/EMICC.2006.282695,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057689,0
+5,9,Simplified RF-MEMS Switches Using Implanted Conductors and Thermal Oxide,10.1109/EUMC.2006.281477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4058186,0
+5,10,Switching sequences for a systematic error compensation in unary DACs,10.1109/EIConRus.2017.7910553,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7910553,0
+5,11,Buck derived converters based on gallium nitride devices for envelope tracking applications,10.1109/ECCE.2013.6646738,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6646738,0
+5,12,Non-Linearity Analysis of RF Ohmic Switches Based on Phase Change Materials,10.1109/LED.2014.2301411,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6730911,0
+5,13,Stacked FET structure for multi-band mobile terminal power amplifier module,10.1109/MWSYM.2013.6697530,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6697530,0
+5,14,Development of a Dual-SPDT RF-MEMS switch for Ku-band,10.1109/RWS.2010.5434208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5434208,0
+5,15,Effects of digital switching noise on analog circuits performance,10.1109/ECCTD.2007.4529561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4529561,0
+5,16,A 0.6-V 12-bit Set-and-Down SAR ADC With a DAC-Based Bypass Window Switching Method,10.1109/TCSII.2023.3266605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100952,0
+5,17,A 10-bit 30MS/s Subranging SAR ADC with a Triple Reference Voltage Technique,10.1109/IS3C50286.2020.00046,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9394058,0
+5,18,16.6- and 28-GHz Fully Integrated CMOS RF Switches With Improved Body Floating,10.1109/TMTT.2007.914364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4427252,0
+5,19,Dual-band millimeter-wave VCO with embedded RF-MEMS switch module in BiCMOS technology,10.1109/SiRF.2012.6160137,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6160137,0
+5,20,An energy-efficient switching technique for 2-bit/cycle SAR ADCs,10.1109/ISMICT.2015.7107521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107521,0
+5,21,A 10-bit 200-MS/s switched-current pipelined ADC for analog front end of XDSL,10.1109/ISNE.2018.8394707,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8394707,0
+5,22,A direct RF signal sampling integrated receiver for IoT applications,10.1109/ATC.2015.7388326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7388326,0
+5,23,Reconfigurable PCM GeTe-Based Latching 6-Bit Digital Switched Capacitor Bank,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337315,0
+5,24,Distributed Multicontact RF MEMS Switch for Power Handling Capability Improvement,10.1109/TRANSDUCERS.2019.8808194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8808194,0
+5,25,A 125–143-GHz Frequency-Reconfigurable BiCMOS Compact LNA Using a Single RF-MEMS Switch,10.1109/LMWC.2019.2906595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8681076,0
+5,26,Analog Test Bus Infrastructure for RF/AMS Modules in Core-Based Design,10.1109/ETS.2008.18,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4556024,0
+5,27,Broadband and scalable RF switch matrix based on microwave photonics,10.1109/ICOCN.2017.8121198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8121198,0
+5,28,Novel RF MEMS Switches,10.1109/APMC.2007.4554610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4554610,0
+5,29,CMOS RF analog frequency divider using switched capacitors,10.1109/APMC.2005.1606598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1606598,0
+5,30,Performance Comparison of Primary Side PFM and Secondary Side PWM for SS Wireless Power Transfer CC/CV Control Strategy,10.1109/PEAC.2018.8590421,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8590421,0
+5,31,Wideband broad beamwidth circularly polarized stacked microstrip patch antenna with RF switch for data link application,10.1109/IMaRC.2015.7411433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7411433,0
+5,32,A 5G New Radio SAW-less RF Transmitter with a 100MHz Envelope Tracking HPUE n77 Power Amplifier Module,10.23919/VLSICircuits52068.2021.9492369,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492369,0
+5,33,A DC~67 GHz Memristive RF Switch Based on Conductive-Bridging RAM on High-Resistivity Silicon Substrate,10.1109/IWS58240.2023.10222107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222107,0
+5,34,Magnetically-actuated dielectric cantilever RF MEMS switches,10.1109/MWSYM.2010.5516847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5516847,0
+5,35,Hybrid Precoding for Beamspace MIMO Systems With Sub-Connected Switches: A Machine Learning Approach,10.1109/ACCESS.2019.2944061,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851121,0
+5,36,High Average-Efficiency Multimode RF Transmitter Using a Hybrid Quadrature Polar Modulator,10.1109/TCSII.2008.918969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4469988,0
+5,37,Design of a low complexity SMILE array,10.1109/RWS.2018.8304957,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304957,0
+5,38,Wideband measurements and linearization of a simplified architecture for analog RF-PWM,10.23919/EuMC.2013.6686756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6686756,0
+5,39,"A New Wideband, Low Insertion Loss, High Linearity SiGe RF Switch",10.1109/LMWC.2020.3020317,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194281,0
+5,40,A novel single RF channel scheme for smart antenna based on optical delay lines,10.1109/MWP.2014.6994531,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6994531,0
+5,41,Electromagnetic behaviour of ohmic series RF MEMS switch for frequency reconfigurable antenna application,10.1109/TechSym.2016.7872666,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7872666,0
+5,42,Frequency Switching in a 12-Cavity Relativistic Magnetron With Axial Extraction of Radiation,10.1109/TPS.2012.2196291,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6198903,0
+5,43,Dynamic Switching Sequence to Compensate the Integral Nonlinearity in Current-Steering DACs,10.1109/ISCAS51556.2021.9401454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401454,0
+5,44,RF performance degradation due to coupling of digital switching noise in lightly doped substrates,10.1109/SSMSD.2003.1190411,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1190411,0
+5,45,A Capacitively Coupled Chopper Instrumentation Amplifier With Compensated Auto-Zeroed DC Servo-Loop for Neural Signal Recording,10.1109/TCSII.2023.3291375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10171208,0
+5,46,Evaluating Thermal Contact Resistance for Ohmic type RF MEMS switch,10.1109/ICNTE44896.2019.8945809,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8945809,0
+5,47,The study of a RF MEMS switch based on LCP substrate,10.1109/ICSENS.2015.7370440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7370440,0
+5,48,Laser micro-fabrication in RF MEMS switches,10.1109/ANTEMURSI.2009.4805056,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4805056,0
+5,49,Experimental considerations for fabrication of RF MEMS switches,10.1109/ASQED.2010.5548156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5548156,0
+5,50,Design and modeling of back gated graphene based RF switch with CPW transmission line on a high resistivity silicon substrate,10.1109/UCMMT.2017.8068505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8068505,0
+5,51,A high-linearity inverse-mode SiGe BiCMOS RF switch,10.1109/BIPOL.2010.5667960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667960,0
+5,52,Determination the Effects of Structural Parameters on Pull Down Voltage of RF MEMS Switches,10.1109/APMC.2007.4555003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4555003,0
+5,53,A software-radio front-end for microwave applications,10.1109/SMIC.2003.1196667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1196667,0
+5,54,Compact 12×12 Switch Matrix integrating RF MEMS switches in LTCC hermetic packages,10.1109/EuMC.2014.6986404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986404,0
+5,55,A low-voltage low-power sigma-delta modulator for broadband analog-to-digital conversion,10.1109/JSSC.2005.852161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1501984,0
+5,56,A 2W CMOS Hybrid Switching Amplitude Modulator for EDGE Polar Transmitters,10.1109/ISSCC.2007.373522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4242493,0
+5,57,Surface and bulk micromachined RF MEMS capacitive series switch for watt-range hot switching operation,10.1109/EMICC.2007.4412743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4412743,0
+5,58,Memristive Switch for Intelligent RF Applications,10.1109/IWS49314.2020.9359974,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9359974,0
+5,59,A 14-bit 125 MS/s IF/RF sampling pipelined A/D converter,10.1109/CICC.2005.1568687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1568687,0
+5,60,RF MEMS waveguide switch,10.1109/TMTT.2004.838269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1366535,0
+5,61,RF-MEMS switches: paradigms of microwave switching,10.1109/APMC.2001.985292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=985292,0
+5,62,High-power RF switching using III-nitride metal-oxide-semiconductor heterojunction capacitors,10.1109/LED.2004.841470,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1386393,0
+5,63,Modeling and compensation of antenna RF switching non-idealities in OFDM receivers,10.1109/DCAS.2014.6965344,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6965344,0
+5,64,A Silicon RFCMOS SOI Technology for Integrated Cellular/WLAN RF TX Modules,10.1109/MWSYM.2007.380484,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263845,0
+5,65,A 35 dBm Output Power and 38 dB Linear Gain PA With 44.9% Peak PAE at 1.9 GHz in 40 nm CMOS,10.1109/JSSC.2015.2510026,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7409962,0
+5,66,Power Handling Capability Enhanced RF MEMS Switch Using Modified-Width Cantilevers Structure,10.1109/NEMS51815.2021.9451411,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451411,0
+5,67,Novel Scalable and Reconfigurable Optical Fronthaul Network for Converged Radio Frequency and Data Services Using Silicon Photonic Switching,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9489604,0
+5,68,Low-voltage CMOS analog bootstrapped switch for sample-and-hold circuit: design and chip characterization,10.1109/ISCAS.2005.1465058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465058,0
+5,69,Experimental verification of RF power sensitivity of ferroelectric varactor shunt switches,10.1109/APS.2007.4395488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4395488,0
+5,70,Compact High-Power SPST and SP4T RF MEMS Metal-Contact Switches,10.1109/TMTT.2013.2296749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6704825,0
+5,71,Noise shaped pulse position modulation for RF switch-mode power amplifiers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102930,0
+5,72,Linearity and RF Power Handling of Capacitive RF MEMS Switches,10.1109/MWSYM.2019.8700984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700984,0
+5,73,Modeling and FEM Verification of Surface-Roughness Effect on the Static Response of RF-MEMS Switches,10.1109/SSD.2019.8893166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8893166,0
+5,74,A reconfigurable impedance matching network using dual-beam MEMS switches for an extended operating frequency range,10.1109/MWSYM.2010.5516995,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5516995,0
+5,75,Analog current-mode implementation of a one-cycle integrated controller for switching power converters,10.1109/ISCAS.2001.921901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921901,0
+5,76,High-Q RF MEMS capacitor with digital/analog tuning capabilities,10.1109/MWSYM.2008.4633294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633294,0
+5,77,Optically-Enabled Bloom Filter Label Forwarding Using a Silicon Photonic Switching Matrix,10.1109/JLT.2017.2760013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8060976,0
+5,78,Antenna Aperture Tuning with High-Voltage Bulk-CMOS Switch-Based RF Capacitor,10.1109/APMC46564.2019.9038800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9038800,0
+5,79,An RF-MEMS switch for high-power applications,10.1109/MWSYM.2012.6259363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6259363,0
+5,80,8-bit 2-GS/s 20.5 mW Flash Assisted Time Interleaving SAR ADC for Direct Sampling RF Receivers,10.1109/INDICON52576.2021.9691533,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691533,0
+5,81,High-Voltage MOSFET-Based Stacked RF Switch With Extended Bandwidth Down to DC,10.1109/LSSC.2023.3268089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10104064,0
+5,82,BIST Based Performance Evaluation of  Field Programmable Analog Arrays,10.1109/ICETET.2008.169,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4580047,0
+5,83,Microstrip Memristive Switch and Its Applications to RF Devices,10.1109/ICMMT49418.2020.9386898,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9386898,0
+5,84,A capacitor-free single-inductor multiple-output LED driver,10.1109/IECON.2013.6700126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6700126,0
+5,85,A low mismatch symmetric charge pump for the application in PLLs,10.1109/PRIME.2011.5966252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5966252,0
+5,86,Constraints-Aware Training (CAT) to Enable Software-Hardware Co-design for Memristor-based Analog Neuromorphic Chip,10.1109/HPSR57248.2023.10148030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10148030,0
+5,87,Reconfigurable antennas by RF switches technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5069737,0
+5,88,DC - 10GHz RF Digital to Analog Converter,10.1109/CSICS.2011.6062442,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6062442,0
+5,89,A Comparative Study of Switchable Capacitor Structures for LC Oscillators in a 28-nm Technology,10.1109/ICECS53924.2021.9665608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665608,0
+5,90,A Novel Low Power 1 GS/s S&H Architecture With Improved Analog Bandwidth,10.1109/TCSII.2008.926792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4637829,0
+5,91,Digitally controlled envelope tracking power supply for an RF power amplifier,10.1109/INTLEC.2007.4448857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4448857,0
+5,92,Cantilever and circular disc structure based capacitive shunt RF MEMS switches,10.1109/ICEECCOT.2016.7955241,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7955241,0
+5,93,Active RF pulse compression using electrically controlled semiconductor switches,10.1109/PAC.2007.4441274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441274,0
+5,94,Efficient per-nonlinearity distortion analysis for analog and RF circuits,10.1109/TCAD.2003.818130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1233817,0
+5,95,A Multiphase Switched Capacitor Power Amplifier,10.1109/JSSC.2016.2626277,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7776736,0
+5,96,Analysis of Crosstalk Effects on Mixed-Signal CMOS ICs with Different Mounting Technologies,10.1109/IMTC.2005.1604518,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1604518,0
+5,97,A Novel Wideband RF Turbo Switch Using Phase-Change-Material in a SiGe BiCMOS Process,10.1109/IMS40175.2024.10600349,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600349,0
+5,98,Scalable and low latency label processor for large port optical packet switch,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5996273,0
+5,99,Parasitic Compensation and Hence Isolation Improvement of PIN Diode-Based Switches,10.1109/TCSII.2020.3000587,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9110557,0

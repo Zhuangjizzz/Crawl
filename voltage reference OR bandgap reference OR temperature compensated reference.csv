@@ -99,3 +99,403 @@
 1,97,A Sub-$\mu{\rm W}$ Bandgap Reference Circuit With an Inherent Curvature-Compensation Property,10.1109/TCSI.2014.2340553,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6913570,1
 1,98,"A 70nW, 0.3V temperature compensation voltage reference consisting of subthreshold MOSFETs in 65nm CMOS technology",10.1109/VLSI-DAT.2016.7482571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7482571,1
 1,99,"A 650-pW, 205 °C Temperature Range Voltage Reference With Curvature-Based Temperature and BJT-Enhanced Process Compensation Techniques",10.1109/LSSC.2021.3129055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619486,1
+2,0,A CMOS bandgap reference with high PSRR and improved temperature stability for system-on-chip applications,10.1109/EDSSC.2011.6117640,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6117640,0
+2,1,A Temperature-Compensated Voltage Reference with High PSRR,10.1109/ICSICT49897.2020.9278386,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9278386,0
+2,2,Comparative Analysis and Review of Bandgap Reference Circuit for Wide Temperature Range,10.1109/ICECSP61809.2024.10698471,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10698471,0
+2,3,A Programmable Bandgap Voltage Reference CMOS ASIC,10.1109/IMTC.2005.1604166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1604166,0
+2,4,A 60nW voltage reference circuit generating 1.0V using BJTs and subthreshold MOSFET,10.1109/RFIT.2012.6401631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401631,0
+2,5,A 10ppm/°C 1.8V piecewise curvature-corrected bandgap reference in 0.5µm CMOS,10.1109/PRIMEASIA.2009.5397355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5397355,0
+2,6,Hybrid Integration of Bandgap Reference Circuits Using Silicon ICs and Germanium Devices,10.1109/ISQED.2008.4479770,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4479770,0
+2,7,A Reference System for Measuring High-DC Voltage Based on Voltage References,10.1109/TIM.2014.2338673,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6877715,0
+2,8,Fin-FET based low temperature coefficient current reference generator,10.1109/INDICON.2016.7838984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7838984,0
+2,9,A Sub-1-V Linear CMOS Bandgap Voltage Reference,10.1109/HDP.2005.251453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4017494,0
+2,10,Approaches to Realize High Precision CMOS Bandgap Reference Based on Neural Network,10.1109/ICNC.2008.415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4667112,0
+2,11,A Sub-1-V Low-Noise Bandgap Voltage Reference,10.1109/JSSC.2007.907226,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4362111,0
+2,12,"A 0.45 V, 93 pW temperature-compensated CMOS voltage reference",10.1109/LASCAS.2017.7948051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7948051,0
+2,13,A Floating Gate MOSFET Based Current Reference with Subtraction Technique,10.1109/ISVLSI.2010.52,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5572772,0
+2,14,Design and implementation of a voltage-controlled oscillator with bandgap voltage reference source and temperature sensing,10.1109/ICGEA.2017.7925452,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7925452,0
+2,15,A Low-power Bandgap Reference Voltage Source for Smart Grid Sensor System on Chip,10.1109/ICCECE58074.2023.10135246,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10135246,0
+2,16,A curvature compensated bandgap reference with low drift and low noise,10.1109/ISICir.2011.6132018,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6132018,0
+2,17,"Design and Analysis of Low-Voltage, MOS-only Bandgap Reference Circuit",10.1109/iSES58672.2023.00064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10467107,0
+2,18,5V wide supply voltage bandgap reference for automotive applications,10.1109/ELNANO.2019.8783600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8783600,0
+2,19,A new compact temperature-compensated CMOS current reference,10.1109/TCSII.2005.852529,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1532443,0
+2,20,A 0.5V 46.2ppm°C CMOS Voltage Reference Based on Compensated ΔVTH with Wide Temperature Range and High PSRR,10.1109/NEWCAS.2018.8585544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8585544,0
+2,21,Reference Voltage Source Optimization,10.1109/ELNANO54667.2022.9927111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9927111,0
+2,22,A design of CMOS bandgap reference with low thermal drift and low offset,10.1109/APCCAS.2008.4746079,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746079,0
+2,23,"A sub-1 V, nanopower, ZTC based zero-VT temperature-compensated current reference",10.1109/ISCAS.2017.8050289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050289,0
+2,24,A Nano-Watt MOS-Only Voltage Reference With High-Slope PTAT Voltage Generators,10.1109/TCSII.2017.2654441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7820095,0
+2,25,A novel curvature-compensated high accuracy CMOS bandgap reference,10.1109/CISP.2010.5646864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5646864,0
+2,26,Reference Voltage Generator for 80V GaN HEMT Gate Driver,10.1109/ICICM54364.2021.9660339,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660339,0
+2,27,Temperature compensation method for logarithmic CMOS vision sensor using CMOS voltage reference Bandgap technique,10.1109/ICECS.2010.5724660,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5724660,0
+2,28,Wide Temperature Range Integrated Bandgap Voltage References in 4H–SiC,10.1109/LED.2015.2508064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353141,0
+2,29,An improved voltage bandgap reference with high-order curvature compensation,10.1109/ASICON.2015.7516915,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7516915,0
+2,30,A High Stability Bandgap Reference Circuit without Amplifier Structure,10.1109/ICEPET61938.2024.10626027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10626027,0
+2,31,A Novel High PSR Voltage Reference with Secondary Temperature Compensation,10.1109/iCECE.2010.781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5629988,0
+2,32,A Sub-200nW All-in-One Bandgap Voltage and Current Reference Without Amplifiers,10.1109/TCSII.2020.3007195,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134412,0
+2,33,A Curvature Compensated Bandgap Circuit Exploiting Temperature Dependence of β,10.1109/MWSCAS.2019.8885233,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8885233,0
+2,34,A 5.8ppm/°C bandgap reference with a preregulator,10.1109/ICEBEG.2011.5881669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5881669,0
+2,35,A 65nm CMOS technology radiation-hard bandgap reference circuit,10.1109/PRIME.2014.6872688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6872688,0
+2,36,A Programmable Differential Bandgap Reference for Ultra-Low-Power IoT Edge Node Devices,10.1109/ISCAS46773.2023.10182130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10182130,0
+2,37,Low voltage area efficient current-mode CMOS bandgap reference in deep submicron technology,10.1109/MIXDES.2014.6872194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6872194,0
+2,38,Design of a Bandgap Reference Circuit with Trimming for Operation at Multiple Voltages and Tolerant to Radiation in 90nm CMOS Technology,10.1109/ISVLSI.2010.64,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5572784,0
+2,39,An embedded charge pump for a Zener-based voltage reference compensated using a ΔVBE stack,10.23919/MIXDES.2017.8005186,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8005186,0
+2,40,"A Sub-1V, Current-mode Bandgap Voltage Reference in Standard 65 nm CMOS Process",10.1109/DCAS53974.2022.9845585,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9845585,0
+2,41,DTMOST low-voltage reference circuit with logarithmic curvature-correction,10.1109/SMICND.2003.1252452,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1252452,0
+2,42,A Wide Temperature Range 4.6 ppm/°C Piecewise Curvature-Compensated Bandgap Reference With No Amplifiers,10.1109/ICICDT.2019.8790898,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8790898,0
+2,43,A High Precision Curvature Compensated Bandgap Reference without Resistors,10.1109/ICSICT.2006.306414,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098531,0
+2,44,Design of Start-up Enabled Bandgap Voltage Reference,10.1109/ICDCS54290.2022.9780858,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780858,0
+2,45,A Bandgap Reference Voltage Source Design for Wide Temperature Range,10.1109/ICICM56102.2022.10011392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011392,0
+2,46,Design of a 1.5-V high-order curvature-compensated CMOS bandgap reference,10.1109/ISCAS.2004.1328128,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328128,0
+2,47,A 1.67-ppm/°C 64-ppm/V curvature-compensated bandgap reference based on a transcendental equation,10.1109/ICSICT.2016.7998734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7998734,0
+2,48,"An ultra-low-power, temperature compensated voltage reference generator",10.1109/CICC.2005.1568777,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1568777,0
+2,49,Trimless second order curvature compensated bandgap reference using diffusion resistor,10.1109/CICC.2009.5280868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5280868,0
+2,50,CMOS 1.5V bandgap voltage reference,10.1109/ICASIC.2005.1611359,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1611359,0
+2,51,"Low-power, wide supply voltage bandgap reference circuit in 28nm CMOS",10.1109/AEECT.2015.7360547,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360547,0
+2,52,"High Accuracy, Multi-output Bandgap Reference Circuit in 16nm FinFet",10.1109/VLSID.2017.52,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7884788,0
+2,53,A CMOS temperature sensor with calibration function using band gap voltage reference,10.1109/ICSENST.2008.4757155,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4757155,0
+2,54,A novel method for generating a low temperature coefficient (TC) reference voltage from high TC reference cells to achieve wide temperature stability for remote sensors,10.1109/SAS.2017.7894116,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7894116,0
+2,55,Radiation-Hardened Bandgap Voltage and Current Reference for Space Applications with 2.38 ppm/°C Temperature Coefficient,10.1109/SMACD55068.2022.9816300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816300,0
+2,56,Design of a high precision bandgap voltage reference,10.1109/EMEIT.2011.6023473,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6023473,0
+2,57,A Wide Temperature Range Bandgap Reference Circuit with MOS Transistor Curvature Compensation,10.1109/SENNANO51750.2021.9642532,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642532,0
+2,58,"An EMI Susceptibility Improved, Wide Temperature Range Bandgap Voltage Reference",10.1109/TEMC.2024.3381816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502225,0
+2,59,Temperature and process compensated constant current reference without curvature techniques,10.1109/RTEICT.2017.8256732,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256732,0
+2,60,Precision CMOS current reference with process and temperature compensation,10.1109/ISCAS.2014.6865284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865284,0
+2,61,A 46-ppm/°C temperature and process compensated current reference with on-chip threshold voltage monitoring circuit,10.1109/ASSCC.2008.4708753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4708753,0
+2,62,A high PSRR bandgap reference for LED driver,10.1109/ITNEC.2016.7560460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7560460,0
+2,63,"A 55nm CMOS, 2.6 and worst case 6.8ppm/°C, 1.2V supply and -85dB PSR curvature compensated bandgap reference circuit for MEMS microphones",10.1109/ICECS58634.2023.10382741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382741,0
+2,64,"Ultra Low Power, Trimless and Resistor-less Bandgap Voltage Reference",10.1109/ICIINFS.2018.8721310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721310,0
+2,65,"A 0.45-V, 14.6-nW CMOS Subthreshold Voltage Reference With No Resistors and No BJTs",10.1109/TCSII.2015.2415292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7064729,0
+2,66,A Low-Power Bandgap Voltage Reference Circuit With Ultra-Low Temperature Coefficient,10.1109/IICM60532.2023.10443209,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443209,0
+2,67,A CMOS Readout Circuit for Resistive Transducers Based on Algorithmic Resistance and Power Measurement,10.1109/JSEN.2017.2764161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8070957,0
+2,68,Design of a Bandgap Current Reference with Wide Range of Output Voltage in a 0.18µm Bi-CMOS Process,10.1109/CSIE.2009.770,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5170868,0
+2,69,A 0.6-V high-order curvature-compensated bandgap voltage reference,10.1049/cp:20070150,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4786204,0
+2,70,A low power bandgap voltage reference for Low-Dropout Regulator,10.1109/RSM.2015.7354986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354986,0
+2,71,"A 0.3 nW, 0.093%/V Line Sensitivity, Temperature Compensated Bulk-Programmable Voltage Reference for Wireless Sensor Nodes",10.1109/TVLSI.2022.3178735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791454,0
+2,72,"1.2-V Supply, 100-nW, 1.09-V Bandgap and 0.7-V Supply, 52.5-nW, 0.55-V Subbandgap Reference Circuits for Nanowatt CMOS LSIs",10.1109/JSSC.2013.2252523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6493460,0
+2,73,"Design of Ultra Low Power, Temperature Independent Resistorless Bandgap Reference Circuit in 0.18 μm CMOS",10.1109/SPIN.2018.8474158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8474158,0
+2,74,A temperature compensated CMOS ring oscillator for wireless sensing applications,10.1109/NEWCAS.2012.6328950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6328950,0
+2,75,Ultralow-power temperature-insensitive current reference circuit,10.1109/ICSENS.2005.1597922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1597922,0
+2,76,Low-Voltage Bandgap Reference Based on Deep Submicron Technology,10.1109/ICISCE50968.2020.00378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9532023,0
+2,77,"A 0.63 nW, 327 ppm/ °C Current Reference using Temperature Compensated CMOS Resistors",10.1109/ISCAS46773.2023.10181610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181610,0
+2,78,A CMOS bandgap voltage reference with absolute value and temperature drift trims,10.1109/ISCAS.2005.1465471,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465471,0
+2,79,A low-power low-voltage bandgap reference in CMOS,10.1109/CCECE.2010.5575247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5575247,0
+2,80,5.8 A 9.3nW all-in-one bandgap voltage and current reference circuit,10.1109/ISSCC.2017.7870280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7870280,0
+2,81,Low voltage low power current reference circuit for passive RFID applications,10.1109/LASCAS.2016.7451021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7451021,0
+2,82,Design Of 5.9ppm/°C Piecewise Curve Rectified Start-Up Free Bandgap Voltage Reference in 180nm CMOS Process,10.1109/ICETIETR.2018.8529142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529142,0
+2,83,An 8-bit 80-MS/s Fully Self-Timed SAR ADC with 3/2 Interleaved Comparators and High-Order PVT Stabilized HBT Bandgap Reference,10.1109/ISCAS.2019.8702299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702299,0
+2,84,A Sub-1 ppm/°C TC Bandgap Voltage Reference with High Power Supply Rejection,10.1109/CISP-BMEI56279.2022.9980043,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9980043,0
+2,85,Comparative study of Curvature Correction in CMOS Bandgap Reference Circuit,10.1109/INDICON49873.2020.9342493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9342493,0
+2,86,A 192-pW Voltage Reference Generating Bandgap– $V_{\text{th}}$  With Process and Temperature Dependence Compensation,10.1109/JSSC.2019.2942356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8859356,0
+2,87,A 0.225 ppm/°C Bandgap Reference Circuit Based on Multi-curvature Correction Technique,10.1109/ICASID.2019.8925146,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8925146,0
+2,88,A low supply voltage 2µW half bandgap reference in standard sub-µ CMOS,10.1109/CONECCT.2014.6740180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6740180,0
+2,89,A 1-$\mu\hbox{W}$ 600- $\hbox{ppm}/^{\circ}\hbox{C}$ Current Reference Circuit Consisting of Subthreshold CMOS Circuits,10.1109/TCSII.2010.2056051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5560780,0
+2,90,Producing flat supply voltage using a temperature-compensated BGR within LDO regulator loop,10.1109/IranianCEE.2014.6999521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999521,0
+2,91,Review of Bandgap Voltage Reference Architectures for Long-Range Passive RFID Applications,10.1109/DCIS201949030.2019.8959912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8959912,0
+2,92,Nano-ampere CMOS current reference with little temperature dependence using small offset voltage,10.1109/MWSCAS.2010.5548916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5548916,0
+2,93,A bandgap voltage reference structure with improved temperature coefficient by eliminating the β effect,10.1109/INEC.2016.7589346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7589346,0
+2,94,A 1-V 2.5-ppm/°C second-order compensated bandgap reference,10.1109/ASICON.2015.7517080,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517080,0
+2,95,Design of Bandgap Voltage Reference Circuit using LV and LP Current Conveyor,10.1109/CCAA.2018.8777595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8777595,0
+2,96,A Low Noise CMOS Bandgap Voltage Reference Using Chopper Stabilization Technique,10.1109/ICICM50929.2020.9292198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292198,0
+2,97,Design of Bandgap Voltage Reference Circuit with High-PSR and High-Accuracy,10.1109/EIECC60864.2023.10456699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10456699,0
+2,98,A Test Fabrication and Measurement Results of Low Voltage CMOS Current Mode Reference Circuit Based on Subthreshold Operation,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9182871,0
+2,99,A bandgap voltage reference design for high power supply,10.1109/ASID.2011.5967447,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5967447,0
+3,0,A Design Approach for Bandgap Reference Circuit,10.1109/ICSPVCE46182.2019.9092822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9092822,0
+3,1,A Portable 2-Transistor Picowatt Temperature-Compensated Voltage Reference Operating at 0.5 V,10.1109/JSSC.2012.2206683,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6293917,0
+3,2,A temperature compensated digitally trimmable on-chip IC oscillator with low voltage inhibit capability,10.1109/ISCAS.2004.1328241,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328241,0
+3,3,A 19-ppm/°C Bandgap Voltage Reference Source,10.1109/NSWCTC.2010.101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5480953,0
+3,4,A programmable CMOS voltage reference based on a proportional summing circuit,10.1109/ICASIC.2007.4415685,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415685,0
+3,5,Optimal curvature-compensated BiCMOS bandgap reference,10.1109/ISPA.2001.938682,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=938682,0
+3,6,"A 0.45V, 1.3 nW bandgap CMOS voltage reference with temperature compensation",10.1109/UPCON.2017.8251053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251053,0
+3,7,A Precision Constant Current Source Design with Trimming and Compensation,10.1109/ICCECT.2012.74,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6414127,0
+3,8,High PSRR and high-order curvature-compensated bandgap voltage reference,10.1109/PRIMEASIA.2010.5604939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5604939,0
+3,9,A simple current reference with low sensitivity to supply voltage and temperature,10.23919/MIXDES.2017.8005156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8005156,0
+3,10,Low-Voltage Bandgap Reference Circuit in 28nm CMOS,10.1109/APCCAS.2018.8605676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605676,0
+3,11,A Low Temperature-Drift and High Precision Bandgap,10.1109/IMCEC.2018.8469493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8469493,0
+3,12,Design of a Bandgap Reference with Low Temperature Drift and High PSRR,10.1109/ICCS56666.2022.9936160,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9936160,0
+3,13,A High Precision CMOS Current-mode Band-gap Voltage Reference,10.1109/ICSICT.2006.306410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098527,0
+3,14,A wide temperature range voltage bandgap reference generator in 32nm CMOS technology,10.1109/GCCT.2015.7342753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7342753,0
+3,15,"Delta Reference, the Latest High Temperature Compensated Voltage Reference Concept",10.1109/ESPC.2019.8931992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8931992,0
+3,16,"New low voltage, high PSRR, CMOS bandgap voltage reference",10.1109/SOCC.2008.4641542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4641542,0
+3,17,A 12.42μA 0.192ppm/°C high PSRR curvature-compensated CMOS bandgap voltage reference,10.1109/ICAM.2017.8242166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8242166,0
+3,18,A Dual-Output Picowatt Hybrid Voltage Reference with Digital Trimming Technique,10.1109/NEWCAS57931.2023.10198179,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198179,0
+3,19,A 2-V 23-/spl mu/A 5.3-ppm//spl deg/C 4th-order curvature-compensated CMOS bandgap reference,10.1109/CICC.2002.1012875,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1012875,0
+3,20,Design of HBLED Driver IC with a Built-In Bandgap Reference Voltage Generator of Stable Output Current,10.1109/CSE.2011.49,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6062878,0
+3,21,New Extraction Method of the Bipolar Transistor Model Parameters Used in Bandgap Type Voltage References,10.1109/SMICND.2019.8923885,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8923885,0
+3,22,A Low-Supply-Voltage CMOS Sub-Bandgap Reference,10.1109/TCSII.2008.921580,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4515947,0
+3,23,Low power CMOS bandgap reference circuit,10.1109/SCORED.2014.7072988,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072988,0
+3,24,An Automotive Low-Power EMC Robust Brokaw Bandgap Voltage Reference,10.1109/TEMC.2019.2958926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949821,0
+3,25,A Novel CMOS Current Reference with Low Temperature and Supply Dependence,10.1109/ICCCAS.2006.285114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4064361,0
+3,26,An ultra-low power high-order temperature- compensated CMOS voltage reference,10.1109/NEWCAS.2017.8010093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8010093,0
+3,27,Analysis and design of Chopperless 7 ppm/°C Bandgap Voltage Reference,10.1109/ISCAS58744.2024.10558090,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558090,0
+3,28,A CMOS supply-insensitive with 13ppm/°C temperature coefficient current reference,10.1109/MWSCAS.2014.6908455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908455,0
+3,29,An Area-Efficient Temperature Compensated Sub-Threshold CMOS Voltage Reference,10.1109/ISOCC50952.2020.9333020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333020,0
+3,30,High-Performance Resistorless Sub-1V Bandgap Reference Circuit Based on Piecewise Compensation Technique,10.1109/EDSSC.2007.4450140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4450140,0
+3,31,A Novel 1.2–V 4.5-ppm/°C Curvature-Compensated CMOS Bandgap Reference,10.1109/TCSI.2013.2286032,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6693773,0
+3,32,Integrated voltage reference and comparator circuits for GaN smart power chip technology,10.1109/ISPSD.2009.5158000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158000,0
+3,33,Design of a Low Temperature Drift High Power Supply Rejection Bandgap Reference Circuit,10.1109/ASICON58565.2023.10396146,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396146,0
+3,34,"Trimming-Less Voltage Reference for Highly Uncertain Harvesting Down to 0.25 V, 5.4 pW",10.1109/JSSC.2021.3081440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9443081,0
+3,35,Feedback driven temperature and supply compensated sub-0.5 V reference generator,10.1109/ICIINFS.2014.7036560,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7036560,0
+3,36,A design of temperature-compensated CMOS voltage reference sources with a small temperature coefficient,10.1109/ICASIC.2007.4415730,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415730,0
+3,37,An on-chip calibration technique for reducing temperature and offset errors in a programmable voltage reference,10.1109/ICCDCS.2012.6188894,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6188894,0
+3,38,Implementation of a High PSRR Low Power CMOS Bandgap Voltage Reference Circuit,10.23919/PIERS.2018.8597799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8597799,0
+3,39,A 0.450 µW 125 ppm/°C PVT compensated 100nA current reference in 0.18 µm CMOS technology,10.1109/CONECCT47791.2019.9012907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012907,0
+3,40,Kuijk Bandgap Voltage Reference With High Immunity to EMI,10.1109/TCSII.2009.2037991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5395642,0
+3,41,18.8 A 192pW Hybrid Bandgap-Vth Reference with Process Dependence Compensated by a Dimension-Induced Side-Effect,10.1109/ISSCC.2019.8662538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662538,0
+3,42,Design of Low-Voltage and Low-Power Cryogenic CMOS Voltage Reference Circuits,10.1109/MWSCAS60917.2024.10658845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658845,0
+3,43,A Sub-1ppm/°C high-order curvature-compensated bandgap reference,10.1109/APCCAS.2008.4746242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746242,0
+3,44,"Picowatt, 0.45–0.6 V Self-Biased Subthreshold CMOS Voltage Reference",10.1109/TCSI.2017.2754644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8065031,0
+3,45,A 2.036ppm/°C Bandgap Reference with Novel Piecewise Curvature Compensation,10.1109/ICCS59502.2023.10367269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367269,0
+3,46,Curvature-compensated CMOS bandgap reference with 1.8-V operation,10.1109/HDP.2006.1707559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1707559,0
+3,47,A 19-nW sub-bandgap reference with 15ppm/°C temperature coefficient,10.1109/ISICir.2011.6131926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6131926,0
+3,48,"7.72 ppm/°C, ultralow power, high PSRR CMOS bandgap reference voltage",10.1109/VLSI-SoC.2013.6673310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6673310,0
+3,49,A 9.3 nW all-in-one bandgap voltage and current reference circuit using leakage-based PTAT generation and DIBL characteristic,10.1109/ASPDAC.2018.8297334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8297334,0
+3,50,"A New Current-Mode Subthreshold, High-PSRR MOSFET-Only Bandgap Voltage Reference",10.1109/NEWCAS57931.2023.10198158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198158,0
+3,51,A High Precision Analog Temperature Compensated Crystal Oscillator Using a New Temperature Compensated Multiplier,10.1109/TCSI.2022.3221374,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9956795,0
+3,52,A new high performance bandgap reference,10.1109/ICECC.2011.6067602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6067602,0
+3,53,A high-PSRR bandgap voltage reference with temperature curvature compensation used for pipeline ADC,10.1109/EDSSC.2013.6628086,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6628086,0
+3,54,Design of high precision bandgap voltage reference with second-order curvature correction in Bi-CMOS process,10.1109/ICSICT.2016.7998729,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7998729,0
+3,55,A high accuracy low-power bandgap voltage rreference with trimming,10.1109/ICSICT.2014.7021565,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7021565,0
+3,56,A Compact All-MOSFETs PVT-compensated Current Reference with Untrimmed 0.88%-(σ/μ),10.1109/PRIME58259.2023.10161864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161864,0
+3,57,"A +0.66/−0.73 °C Inaccuracy, 1.99-μW Time-Domain CMOS Temperature Sensor With Second-Order ΔΣ Modulator and On-Chip Reference Clock",10.1109/TCSI.2020.3013110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162440,0
+3,58,A Precision SiGe Reference Circuit Utilizing Si and SiGe Bandgap Voltage Differences,10.1109/TED.2016.2642101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7807216,0
+3,59,A precision curvature-compensated CMOS bandgap reference,10.1109/ISSCC.1983.1156435,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1156435,0
+3,60,Analysis of a switched ultra-low power bandgap reference source for passive RFID tags,10.1109/COMCAS.2013.6685258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6685258,0
+3,61,A bandgap reference in 65nm CMOS,10.1109/INEC.2016.7589270,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7589270,0
+3,62,Design of Low-Power Bandgap Voltage Reference for IoT RFID Communication,10.1109/ICAM.2018.8596364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8596364,0
+3,63,"An 1 V Supply, 740 nW, 8.7 ppm/°C Bandgap Voltage Reference With Segmented Curvature Compensation",10.1109/TCSI.2023.3301736,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221699,0
+3,64,A Triode-Compensated CMOS Bandgap Core for Sub-250 mV Supply Voltages,10.1109/PRIME55000.2022.9816756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816756,0
+3,65,A 1-V 3.1-ppm/°C 0.8-μW Bandgap Reference with Piecewise Exponential Curvature Compensation,10.1109/ASSCC.2018.8579316,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8579316,0
+3,66,The design of high-precision BiCOMS bandgap voltage reference,10.1109/ICECC.2011.6067841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6067841,0
+3,67,A 0.9-V 33.7-ppm/°C 85-nW Sub-Bandgap Voltage Reference Consisting of Subthreshold MOSFETs and Single BJT,10.1109/TVLSI.2018.2836331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370242,0
+3,68,A CMOS bandgap reference circuit with a temperature coefficient adjustment block,10.1109/SBCCI.2013.6644869,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6644869,0
+3,69,Designing Bandgap Reference Circuit and Sub-Bandgap Reference Circuit with Low Temperature Coefficient,10.1109/GCAT59970.2023.10353391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10353391,0
+3,70,A Bandgap Reference with Low-Temperature Vertex Shift and High-Temperature Unilateral Compensation,10.1109/IC2ECS60824.2023.10493346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10493346,0
+3,71,A current reference based on bandgap technology with wide input voltage range by using 0.18µm BCD process,10.1109/EDSSC.2012.6482889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6482889,0
+3,72,Low-dropout regulator with low output peak voltage with soft-start added to bandgap reference output,10.1109/ISOCC.2017.8368856,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8368856,0
+3,73,A novel sub-1-V bandgap reference in 0.18µm CMOS technology,10.1109/ASID.2011.5967446,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5967446,0
+3,74,"A 0.6V, 13nW, 0.0012%/V Line Sensitivity PVT - Invariant Voltage Reference Without Using Resistors and Amplifiers",10.1109/MWSCAS60917.2024.10658664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658664,0
+3,75,A 180 nm CMOS temperature-compensated voltage reference with multiple outputs,10.1109/ARGENCON55245.2022.9939733,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9939733,0
+3,76,A 4.6nW Subthreshold Voltage Reference with 400× Current Variation Reduction and 64-Step 0.11% Output Voltage Programmability,10.1109/ESSCIRC59616.2023.10268720,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268720,0
+3,77,An 18-nA Ultra-Low-Current Resistor-Less Bandgap Reference for 2.8 V–4.5 V High Voltage Supply Li-Ion-Battery-Based LSIs,10.1109/TCSII.2020.2965539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8956088,0
+3,78,A CMOS bandgap reference circuit for sub-1-V operation without using extra low-threshold-voltage device,10.1109/ISCAS.2004.1328126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328126,0
+3,79,A 1.6%/V 124.2 pW 9.3 Hz relaxation oscillator featuring a 49.7 pW voltage and current reference generator,10.1109/ESSCIRC.2017.8094535,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094535,0
+3,80,A Chip-Area-Efficient Subthreshold CMOS Voltage Reference with High PSRR Based on Compensated ΔVGS of NMOS Transistors,10.1109/APCCAS.2018.8605633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605633,0
+3,81,Very low bandgap voltage reference with high PSRR enhancement stage implemented in 90nm CMOS process technology for LDO application,10.1109/ICEDSA.2012.6507800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6507800,0
+3,82,Passive rectifier/regulator combo circuits with embedded bandgap voltage reference,10.1109/ISCAS.2016.7527481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527481,0
+3,83,"A 2.6 nW, 0.45 V Temperature-Compensated Subthreshold CMOS Voltage Reference",10.1109/JSSC.2010.2092997,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5672374,0
+3,84,A sub-1 volt CMOS bandgap voltage reference based on body-driven technique,10.1109/NEWCAS.2004.1358998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358998,0
+3,85,A 4.5 MGy TID-Tolerant CMOS Bandgap Reference Circuit Using a Dynamic Base Leakage Compensation Technique,10.1109/TNS.2012.2233755,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6428663,0
+3,86,Analysis and Design of Low Noise Voltage Regulator With Integrated Single BJT Bandgap Reference Upto 10 mA Loads,10.1109/TCSII.2024.3355938,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10409280,0
+3,87,Compact 0.7-V CMOS voltage/current reference with 54/29-ppm/°C temperature coefficient,10.1109/SOCDC.2009.5423852,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5423852,0
+3,88,A very low power area efficient CMOS only bandgap reference,10.1109/SBCCI.2012.6344437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6344437,0
+3,89,A nano-ampere current reference circuit and its temperature dependence control by using temperature characteristics of carrier mobilities,10.1109/ESSCIRC.2010.5619819,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5619819,0
+3,90,"Wide Range, Process and Temperature Compensated Voltage Controlled Current Source",10.1109/TCSI.2012.2230592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6476757,0
+3,91,A higher order curvature corrected 2 ppm/°C CMOS voltage reference circuit,10.1109/ISCAS.2015.7168681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168681,0
+3,92,A micro-power 4.8 ppm/°C CMOS voltage reference circuit for linear drop out regulator used in RFID,10.1109/ICECS.2013.6815557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815557,0
+3,93,Designation of a kind of high precision voltage source CMOS bandgap,10.1109/ICoSP.2012.6491765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6491765,0
+3,94,A Radiation Hard Bandgap Reference Circuit in a Standard 0.13  $\mu$m CMOS Technology,10.1109/TNS.2007.910170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4395395,0
+3,95,An Improved Compensated-Temperature and High PSRR Bandgap Reference Circuit Design,10.1109/ICSICT.2006.306412,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098529,0
+3,96,Low noise low voltage sub bandgap reference voltage with PTAT current generator,10.1109/IDT.2009.5404101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5404101,0
+3,97,Event-Driven Voltage Reference with Bandgap-Class Temperature Coefficient Across-Corner with 100-pW Power at 0.8 V,10.1109/ESSERC62670.2024.10719401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719401,0
+3,98,A high PSR SOI current-mode bandgap reference,10.1109/ASICON.2015.7517098,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517098,0
+3,99,High temperature-low temperature coefficient analog voltage reference integrated circuit implemented with SiC MESFETs,10.1109/ESSCIRC.2013.6649164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6649164,0
+4,0,A Study on Bandgap Reference Circuit With Leakage-Based PTAT Generation,10.1109/TVLSI.2018.2852802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8424475,0
+4,1,Curvature-compensated CMOS bandgap circuit with 1 V reference voltage,10.1109/SMICND.2002.1105869,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1105869,0
+4,2,"67ppm/°C, 66nA PVT Invariant Curvature Compensated Current Reference for Ultra-Low Power Applications",10.1109/ISCAS45731.2020.9180857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180857,0
+4,3,"A process, voltage, and temperature compensated CMOS constant current reference",10.1109/ISCAS.2004.1328197,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328197,0
+4,4,"A 95-nA, 523ppm/°C, 0.6-μW CMOS current reference circuit with subthreshold MOS resistor ladder",10.1109/ASPDAC.2011.5722164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5722164,0
+4,5,Investigation of TID Effects on Subthreshold Bandgap Reference Circuits Fabricated in a SOI Process,10.1109/ICREED.2018.8905099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905099,0
+4,6,A low-power temperature-compensated relaxation oscillator for built-in test signal generation,10.1109/MWSCAS.2015.7282022,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282022,0
+4,7,"A 1V Supply, 81nW, 800mv Bandgap Reference Voltage Circuit for Low Power Devices",10.1109/ICSICT49897.2020.9278198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9278198,0
+4,8,A 302 uW CMOS Temperature Sensor to compensate frequency drift for an oscillator,10.1109/IEMECONX.2019.8877049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8877049,0
+4,9,100-MHz Low-Phase-Noise Microprocessor Temperature-Compensated Crystal Oscillator,10.1109/TCSII.2015.2415652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7065313,0
+4,10,Design and analysis of high power supply rejection CMOS bandgap voltage reference,10.1109/ICASIC.2007.4415684,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415684,0
+4,11,"A Sub-1 V, 26 $\mu$W, Low-Output-Impedance CMOS Bandgap Reference With a Low Dropout or Source Follower Mode",10.1109/TVLSI.2010.2046658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5453078,0
+4,12,An 8-nW Resistor-Less Bandgap Reference Based on a Single-Branch Floating PTAT Voltage,10.1109/LSSC.2020.3005758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129777,0
+4,13,Bandgap Voltage VGO Extraction with Two-Temperature Trimming for Designing Sub-ppm/°C Voltage References,10.1109/ISCAS.2019.8702697,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8702697,0
+4,14,Temperature insensitive current reference circuit using standard CMOS devices,10.1109/MWSCAS.2007.4488567,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488567,0
+4,15,"A 1V, 240 nW, 7 ppm/°C, high PSRR CMOS voltage reference circuit with curvature-compensation",10.1109/ICSICT.2010.5667671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667671,0
+4,16,Neutron displacement damage of an integrated bandgap voltage reference of a 90nm technology CMOS based SRAM,10.1109/RADECS.2011.6131338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6131338,0
+4,17,A low voltage low output impedance CMOS bandgap voltage reference,10.1109/ISCAS.2013.6572137,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572137,0
+4,18,"A 0.3 V, 49 fJ/conv.-step VCO-based delta sigma modulator with self-compensated current reference for variation tolerance",10.1109/ESSCIRC.2016.7598286,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7598286,0
+4,19,Design of Low-Voltage Bandgap Reference Circuits in Multi-Gate CMOS Technologies,10.1109/ISCAS.2009.5118318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5118318,0
+4,20,A 46.468µW low-power bandgap voltage reference,10.1109/ICCSIT.2010.5564603,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5564603,0
+4,21,New Method for 100-MHz High-Frequency Temperature-Compensated Crystal Oscillator,10.1109/TUFFC.2020.3013664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154461,0
+4,22,A new all-in-one bandgap reference and robust zero temperature coefficient (TC) point current reference circuit,10.1109/ASICON.2017.8252532,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252532,0
+4,23,Design of bandgap reference and current reference generator with low supply voltage,10.1109/ICSICT.2008.4734888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734888,0
+4,24,A 0.8V CMOS bandgap voltage reference design,10.1109/EDSSC.2015.7285124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7285124,0
+4,25,"A 0.45 V, 15.6 nW MOSFET-only sub-threshold voltage reference with no amplifiers",10.1109/ASSCC.2015.7387445,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387445,0
+4,26,Design of a High Precision Current Mode Band Gap Reference Circuit,10.1109/EITCE47263.2019.9095076,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9095076,0
+4,27,A novel low voltage Subtracting BandGap Reference with temperature coefficient of 2.2 ppm/°,10.1109/ISCAS.2011.5938057,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5938057,0
+4,28,Design of a programmable bandgap reference circuit,10.1109/ICIEA.2009.5138644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5138644,0
+4,29,"A low TC, supply independent and process compensated current reference",10.1109/CICC.2015.7338488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7338488,0
+4,30,A Low-Voltage Process Corner Insensitive Subthreshold CMOS Voltage Reference Circuit,10.1109/ICICDT.2006.220833,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1669420,0
+4,31,A transient enhanced external capacitor-less LDO with a CMOS only sub-bandgap voltage reference,10.1109/ISOCC.2016.7799772,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7799772,0
+4,32,A Precision Bandgap Voltage Reference Using Curvature Elimination Technique,10.1109/MWSCAS.2019.8884873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884873,0
+4,33,Design of Bandgap Reference Voltage Source with Low Temperature Drift and Low Offset,10.1109/ITOEC53115.2022.9734321,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9734321,0
+4,34,"A hybrid CMOS-CNFET, 1.4-V 6.8-ppm/°C bandgap reference circuit",10.1109/INDICON.2015.7443249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443249,0
+4,35,A curvature compensation technique for bandgap voltage references using adaptive reference temperature,10.1109/ISCAS.2002.1010441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010441,0
+4,36,A Frequency Stabilization Circuit for The Voltage Controlled Ring Oscillator,10.1109/ICASIC.2007.4415634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415634,0
+4,37,A 20.5-nW Resistor-Less Bandgap Voltage Reference With Self-Biased Compensation for Process Variations,10.1109/TVLSI.2022.3158729,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749786,0
+4,38,A reference voltage source and its output buffer for pipeline ADC,10.1109/ICASID.2014.7064973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7064973,0
+4,39,A high performance CMOS band-gap reference circuit design,10.1109/IWVDVT.2005.1504457,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1504457,0
+4,40,Reduction of EMI Susceptibility in CMOS Bandgap Reference Circuits,10.1109/TEMC.2006.884545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014670,0
+4,41,Novel Approach to Low-Voltage Low-Power Bandgap Reference Voltage in Standard CMOS Process,10.1109/ICECS.2006.379762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263340,0
+4,42,BiCMOS-Based Compensation: Toward Fully Curvature-Corrected Bandgap Reference Circuits,10.1109/TCSI.2017.2736062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8016402,0
+4,43,A Novel Temperature Stable Current Mode Bandgap for Wide Range of Supply Voltage Variation,10.1109/ISED.2014.16,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7172743,0
+4,44,"An 18.5nW, 62.9dB PSRR, Switched-Capacitor Bandgap Voltage Reference using Low Power Clock Generator Circuit for Biomedical Applications",10.1109/ISCAS46773.2023.10181473,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181473,0
+4,45,An Integrated LC Oscillator with Self Compensation for Frequency Drift and PVT Corners Variations,10.1109/ICECS.2018.8618027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618027,0
+4,46,"A 0.8-V, 593-pA Trim-free Duty-cycled All CMOS Current Reference for Ultra-Low Power IoT Applications",10.1109/VLSID60093.2024.00106,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10483333,0
+4,47,A low voltage CMOS bandgap reference circuit,10.1109/ISCAS.2008.4542012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4542012,0
+4,48,Sub-1V Supply Bandgap Voltage References Based on Asymmetric Differential Pair,10.1109/MWSCAS.2006.381780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4267404,0
+4,49,A Low Power Temperature-Compensated Common-Mode Voltage Detector for Dynamic Amplifiers,10.1109/ISCAS45731.2020.9180689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180689,0
+4,50,A Resistor-Less CMOS Bandgap Reference with High-Order Temperature Compensation,10.1109/APCCAS51387.2021.9687771,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687771,0
+4,51,A low noise and low temperature coefficient CMOS bandgap reference for MEMS micro-accelerometer,10.1109/RCSLPLT.2010.5615304,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5615304,0
+4,52,A bandgap reference circuit with nominal value adjustable,10.1109/ICASIC.2007.4415681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415681,0
+4,53,Logarithmic Compensated Voltage Reference,10.1109/SCED.2009.4800469,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4800469,0
+4,54,Design of an electronically adaptable low-power reference cell for low-cost CMOS processes,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5540654,0
+4,55,A curvature-compensated bandgap reference with high PSR,10.1109/GRC.2008.4664747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4664747,0
+4,56,A 1.6-V 25-$\mu$ A 5-ppm/$^{\circ}$ C Curvature-Compensated Bandgap Reference,10.1109/TCSI.2011.2169732,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6072288,0
+4,57,Design of a Low-power Voltage Reference Based on Subthreshold MOSFETs,10.1109/ICECT.2009.155,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4796038,0
+4,58,"A 365mV, 13nW CMOS-only energy harvested reference voltage for RFID applications in 40nm technology",10.1109/DCIS201949030.2019.8959909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8959909,0
+4,59,A High-PSRR and Curvature-Compensated Subthreshold Voltage Reference Without Special Devices or Resistors,10.1109/ICICM59499.2023.10366013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10366013,0
+4,60,Cold Junction Compensation Technique of Thermocouple Thermometer Using Radiation-Hardened-by-Design Voltage Reference for Harsh Radiation Environment,10.1109/TIM.2022.3205931,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893039,0
+4,61,A Sub-1V Low Power Temperature Compensated Current Reference,10.1109/ISCAS.2007.378602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4253100,0
+4,62,A Ultra Low Supply Voltage Bandgap Reference Based on Substrate Bias,10.1109/iCECE.2010.792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5629924,0
+4,63,An Improved 24μA ±0.5148% High-Precision Bandgap Current Reference integrated with 24mV Voltage Reference,10.1109/CONIT61985.2024.10627742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10627742,0
+4,64,"A $2.77\mu \mathbf{W}$, 80 ppm/°C Temperature Coefficient Voltage Reference for Biomedical Implants",10.1109/ICECS46596.2019.8964991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964991,0
+4,65,A current-mirror technique used for high-order curvature compensated bandgap reference in automotive application,10.1109/MWSCAS.2016.7869991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7869991,0
+4,66,A Low Noise Bandgap Reference Voltage Source for CMOS Temperature Sensors,10.1109/EIECS59936.2023.10435496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10435496,0
+4,67,A high precision CMOS bandgap reference,10.1109/ICASIC.2007.4415725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415725,0
+4,68,Design of bandgap voltage reference circuit with all TFT devices on glass substrate in a 3-μm LTPS process,10.1109/CICC.2008.4672188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4672188,0
+4,69,A novel bandgap reference for minimizing current-mirror mismatch,10.1109/ICSICT.2008.4734901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734901,0
+4,70,Temperature Sensor Front End in SOI CMOS Operating up to 250  $^{\circ}\hbox{C}$,10.1109/TCSII.2014.2327316,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6823103,0
+4,71,Wideband High Stability MEMS-Based AC Voltage References,10.1109/TIM.2012.2225963,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6353573,0
+4,72,A CMOS Bandgap Reference with Wide Input Voltage Range,10.1109/CSIE.2009.1087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5170864,0
+4,73,Design of a low-voltage reference circuit with reconfigurable temperature range for RFID applications,10.1109/MWSYM.2010.5516987,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5516987,0
+4,74,Novel MOSFET-only bandgap voltage reference,10.1109/ISCAS.2010.5537469,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537469,0
+4,75,A precise compensated bandgap reference without resistors,10.1109/ICSICT.2004.1436926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1436926,0
+4,76,A bandgap reference circuit design for Power-on Reset related circuits,10.1109/ISSCS.2009.5206159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206159,0
+4,77,A novel current reference with low temperature coefficient in a large temperature range,10.1109/ICSICT.2006.306408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098525,0
+4,78,An Area-Efficient Current-Mode Bandgap Reference With Intrinsic Robust Start-Up Behavior,10.1109/TCSII.2015.2458044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161305,0
+4,79,A CMOS bandgap reference circuit,10.1109/ICASIC.2001.982550,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=982550,0
+4,80,Curvature compensated CMOS bandgap with sub 1V supply,10.1109/DELTA.2006.29,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1581194,0
+4,81,A Trimming-Free CMOS Bandgap-Reference Circuit with Sub-1-V-Supply Voltage Operation,10.1109/VLSIC.2007.4342675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4342675,0
+4,82,A CMOS Voltage Reference Based on Threshold Voltage for Ultra Low-Voltage and Ultra Low-Power,10.1109/ICM.2005.1590027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590027,0
+4,83,A sub-1V nanowatt CMOS bandgap voltage reference with temperature coefficient of 13ppm/°C,10.1109/IranianCEE.2015.7146382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146382,0
+4,84,"A 3.3 V, 8.89 μA and 5.5 ppm/°C CMOS bandgap voltage reference for power telemetry in retinal prosthesis systems",10.1109/EMBC.2018.8513090,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8513090,0
+4,85,Noise analysis using on-chip waveform monitor in bandgap voltage references,10.1109/EMCCompo.2013.6735205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6735205,0
+4,86,A 3V 110 /spl mu/W 3.1 ppm//spl deg/C curvature-compensated CMOS bandgap reference,10.1109/ISCAS.2006.1693221,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693221,0
+4,87,A high precision CMOS band-gap reference with exponential curvature-compensation,10.1109/ICASID.2013.6825293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6825293,0
+4,88,Voltage Reference Generator for Audio Interface in 55nm CMOS Technology Node,10.1109/ICECS58634.2023.10382849,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382849,0
+4,89,"A 9.5nW, 0.55V Supply, CMOS Current Reference for Low Power Biomedical Applications",10.1109/TCSII.2022.3183146,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9795880,0
+4,90,"A 0.8-V Supply, 1.58% 3σ-Accuracy, 1.9-μW Bandgap Reference in 0.13-μm CMOS",10.1109/TCSII.2023.3339236,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342727,0
+4,91,A 0.756-ppm/°C Time-Domain-Based Curvature-Compensated Bandgap Reference,10.1109/ISCAS46773.2023.10181819,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181819,0
+4,92,A low voltage auto-reconfigured power-on-reset/bandgap reference circuit,10.1109/ISCAS.2014.6865286,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865286,0
+4,93,A 1.8V low noise threshold voltage reference generator with temperature and process calibration,10.1109/ICSICT.2012.6467718,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6467718,0
+4,94,0.5 V supply resistorless voltage reference for low voltage applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460315,0
+4,95,Time-Controlled and FinFET Compatible Sub-Bandgap References Using Bulk-Diodes,10.1109/TCSII.2019.2929599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765828,0
+4,96,Design of Fast Start-up CMOS RC Oscillator Based on Low Temperature Coefficient Current Mode Bandgap Reference,10.1109/ICICM56102.2022.10011260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011260,0
+4,97,A 1-V CMOS Current Reference With Temperature and Process Compensation,10.1109/TCSI.2007.900176,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4268396,0
+4,98,Integrated Voltage Reference Generator for GaN Smart Power Chip Technology,10.1109/TED.2010.2041510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5424059,0
+4,99,A Constant gm Current Reference Generator with Purely Off-Chip Resistor,10.1109/MWSCAS48704.2020.9184538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184538,0
+5,0,Versatile sub-bandgap reference IP core,10.1109/DDECS.2010.5491747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5491747,0
+5,1,Voltage Reference and Zero Current Detector Monolithically Integrated on p-GaN Technology Designed for Process Corners Compensation,10.1109/APEC43580.2023.10131398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10131398,0
+5,2,A start-up free 200nW bandgap voltage reference,10.1109/NEWCAS.2016.7604737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7604737,0
+5,3,Effects of non-ideal characteristics of substrate BJT on bandgap reference circuits,10.1109/MWSCAS.2014.6908454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908454,0
+5,4,A new temperature independent current controlled oscillator,10.1109/ISPACS.2011.6146192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6146192,0
+5,5,Effect of bandgap energy temperature dependence on thermal coefficient of bandgap reference voltage,10.1109/ECCTD.2011.6043383,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6043383,0
+5,6,A detailed analysis of nonideal effects on high precision bandgap voltage references,10.1109/MWSCAS.2008.4616816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4616816,0
+5,7,Technology Dependency of TID Response for a Custom Bandgap Voltage Reference in 65 nm to 28 nm Bulk CMOS Technologies,10.23919/cje.2021.00.448,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292729,0
+5,8,Implementation of low dropout regulator with low bandgap reference voltage circuit for RFID tag applications,10.1109/CSQRWC.2012.6294976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6294976,0
+5,9,A low power supply CMOS bandgap reference voltage generator used current differential amplifier and DTMOST diode,10.1109/ICASI.2016.7539734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539734,0
+5,10,A picowatt CMOS voltage reference with 0.046 %/V line sensitivity for a low-power IoT system,10.1109/ISOCC59558.2023.10396002,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396002,0
+5,11,Design and implementation of curvature corrected bandgap voltage reference-1.1V using 180nm technology,10.1109/ICCCCT.2010.5670569,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5670569,0
+5,12,A 0.5V 22.5ppm/°C Bandgap Voltage Reference With Leakage Current Injection for Curvature Correction,10.1109/TCSII.2023.3295187,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10182317,0
+5,13,A 1.1-V 26.2-ppm/°C Sub-Bandgap Voltage Reference with 6.5-nW Power Consumption Composed of Subthreshold CMOSs and Single BJT,10.1109/ICTA53157.2021.9661982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9661982,0
+5,14,A low power programmable band gap reference circuit with subthreshold MOSFETs,10.1109/TENCON.2008.4766816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4766816,0
+5,15,A 0.0102mm2 4.62nW Process-Skew and Temperature Compensated Current Reference Operating from –40°C to 125°C with 297ppm/°C,10.1109/ESSERC62670.2024.10719531,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719531,0
+5,16,"A 5 to 50 V, −25 to 225 °C, 0.065%/°C GaN MIS-HEMT Monolithic Compact 2T Voltage Reference",10.1109/WiPDA56483.2022.9955269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955269,0
+5,17,Sub-ppm/°C Bandgap References With Natural Basis Expansion for Curvature Cancellation,10.1109/TCSI.2021.3096166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9490321,0
+5,18,Design Methodology of a Voltage Bandgap Reference with High PSRR in Advanced Technology Nodes for LDO Application,10.1109/HNICEM57413.2022.10109433,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109433,0
+5,19,A 3-ppm/°C bandgap voltage reference using MOSFETs in strong inversion region,10.1109/IranianCEE.2012.6292321,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292321,0
+5,20,A new type of curvature-compensated CMOS bandgap voltage references,10.1109/VTSA.1991.246749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=246749,0
+5,21,"A Novel Wide-Temperature-Range, 3.9 ppm/$^{\circ}$C CMOS Bandgap Reference Circuit",10.1109/JSSC.2011.2173267,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6078439,0
+5,22,A sub-1V bandgap reference circuit using subthreshold current,10.1109/ISCAS.2005.1465570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465570,0
+5,23,"A 3μW, 0.65V regulator with an embedded temperature compensated voltage reference",10.1109/SMACD.2016.7520647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7520647,0
+5,24,Design and simulation of Piecewise Curvature-Corrected Bandgap Reference Circuitry for low temperature coefficient,10.1109/ISESD.2019.8909590,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909590,0
+5,25,Stability Improvement Method For Ultra-Low-Power Bandgap Reference,10.1109/ELNANO50318.2020.9088904,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088904,0
+5,26,A Zener-Based Voltage Reference Design Compensated Using a ΔVBE Stack,10.23919/MIXDES.2018.8436687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8436687,0
+5,27,In-situ measurement of total ionising dose induced degradation of various commercial voltage references,10.1109/RADECS.2016.8093206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8093206,0
+5,28,A trimmable precision bandgap voltage reference on 180 nm CMOS,10.1109/ISCDG.2013.6656292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6656292,0
+5,29,A novel CMOS Bandgap reference circuit with improved high-order temperature compensation,10.1109/ISCAS.2010.5537621,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537621,0
+5,30,A 3.9ppm/°C curvature-corrected bandgap voltage reference,10.1109/IranianCEE.2014.6999532,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999532,0
+5,31,A 4-Bits Trimmed CMOS Bandgap Reference with an Improved Matching Modeling Design,10.1109/ISCAS.2007.378348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4253037,0
+5,32,A resistorless switched bandgap voltage reference with offset cancellation,10.1109/SBCCI.2013.6644882,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6644882,0
+5,33,"A 442.1 nVpp, 13.07 ppm/°C Ultra-Low Noise Bandgap Reference Circuit in 180 nm BCD Process",10.1109/ISCAS51556.2021.9401631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401631,0
+5,34,Improved supply regulation and temperature compensated current reference circuit with low process variations,10.1109/ISVDAT.2015.7208049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208049,0
+5,35,A resistor-free temperature-compensated CMOS current reference,10.1109/ISCAS.2010.5537432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537432,0
+5,36,An Accurate All CMOS Bandgap Reference Voltage with Integrated Temperature Sensor for IoT Applications,10.1109/ISVLSI.2016.115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7560252,0
+5,37,Sub-ppm/°C High Performance Voltage Reference,10.1109/ISCAS46773.2023.10181975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181975,0
+5,38,Nano-watt 0.3 V supply resistorless voltage reference with Schottky diode,10.1109/LASCAS.2016.7451038,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7451038,0
+5,39,Design of a sub-1-V nanopower CMOS current reference,10.1109/ECCTD.2017.8093351,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8093351,0
+5,40,A precise bandgap reference with intrinsic compensation for current-mirror mismatch,10.1109/APCCAS.2008.4746241,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746241,0
+5,41,A low-voltage bandgap reference with resistive subdivision,10.1109/HDP.2006.1707557,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1707557,0
+5,42,A 65-nm CMOS Constant Current Source With Reduced PVT Variation,10.1109/TVLSI.2016.2633566,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792720,0
+5,43,"Subthreshold bandgap voltage reference aiming for energy harvesting: 100na, 5 ppm/c, 40 ppm/v, psrr -88db",10.1109/ICCE-Berlin.2015.7391266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7391266,0
+5,44,CMOS logarithmic curvature-corrected voltage reference using a multiple differential structure,10.1109/ISSCS.2005.1511265,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1511265,0
+5,45,"Low Noise, High PSRR, High-Order Piecewise Curvature Compensated CMOS Bandgap Reference",10.1109/ACCESS.2022.3215544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923910,0
+5,46,Adjustable Output CMOS Voltage Reference Design,10.1109/ISCAS45731.2020.9181000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181000,0
+5,47,A High-Precision Current-Mode Bandgap Reference With Low-Frequency Noise/Offset Elimination,10.1109/TCSII.2023.3277475,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129119,0
+5,48,A 6V to 42V High Voltage CMOS Bandgap Reference Robust to RF Interference for Automotive Applications,10.1109/VLSID.2017.28,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7884777,0
+5,49,A sub-1-V ultra-low power full CMOS bandgap reference woking in subthreshold region,10.1109/EDSSC.2014.7061222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061222,0
+5,50,A Novel Low-Noise Bandgap Reference with an Active RC Filter,10.1109/ICICM48536.2019.8977191,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977191,0
+5,51,A High-Precision Bandgap Reference With a V-Curve Correction Circuit,10.1109/ACCESS.2020.2984800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9052729,0
+5,52,A 220nA bandgap reference with 80dB PSRR targeting energy harvesting,10.1109/CCECE.2016.7726621,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7726621,0
+5,53,A 65-nm CMOS Temperature-Compensated Mobility-Based Frequency Reference for Wireless Sensor Networks,10.1109/JSSC.2011.2143630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5768040,0
+5,54,An Accurate High-Voltage Supply-Referred Low-Impedance Reference-Voltage for Efficiency Enhancement of the High-Side Switching Process,10.1109/ICECS46596.2019.8964643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964643,0
+5,55,The higher order temperature compensation of bandgap voltage references,10.1109/ISCAS.1992.230244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=230244,0
+5,56,Fully integrated 50MHz frequency reference with 1ppm absolute accuracy within 0–80°C,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5587188,0
+5,57,A 7μΑ 1.6ppm/ °C bandgap design realizable in CMOS process,10.1109/ISCAS.2017.8050741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050741,0
+5,58,"A 0.5 V, 650 pW, 0.031%/V Line Regulation Subthreshold Voltage Reference",10.1109/ESSCIRC.2018.8494332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494332,0
+5,59,A curvature-compensated bandgap reference with improved PSRR,10.1109/ICASIC.2005.1611387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1611387,0
+5,60,A 10MHz 80μW 67 ppm/°C CMOS reference clock oscillator with a temperature compensated feedback loop in 0.18μm CMOS,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205339,0
+5,61,Novel Single-Temperature Trim Techniques for Bandgap Voltage References,10.1109/MWSCAS60917.2024.10658732,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658732,0
+5,62,Electronically Temperature Compensated Silicon Bulk Acoustic Resonator Reference Oscillators,10.1109/JSSC.2007.896521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4214984,0
+5,63,A 760mV CMOS voltage reference with mobility and subthreshold slope compensation,10.1109/ASICON.2009.5351361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351361,0
+5,64,A Temperature-Compensated Class-C Oscillator With an Adaptive Automatic Amplitude Controller in 180-nm CMOS,10.1109/LMWT.2023.3235655,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10019582,0
+5,65,Optimization of Bandgap Reference with High PSRR on Deep Submicron,10.1109/ICCECE51280.2021.9342379,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9342379,0
+5,66,A low-power temperature-compensated CMOS peaking current reference in subthreshold region,10.1109/ISCAS.2017.8050744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050744,0
+5,67,Bandgap voltage reference and temperature sensor in novel SOI technology,10.1109/ICSES.2014.6948708,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6948708,0
+5,68,A passively compensated capacitive sensor readout with biased varactor temperature compensation and temperature coherent quantization,10.1109/ISCAS.2017.8050416,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050416,0
+5,69,An Ultralow-Ripple Polarization Voltage Generator based on High-Voltage Bandgap Reference for MEMS Gyroscopes,10.1109/NEMS51815.2021.9451416,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451416,0
+5,70,Systematic Methodology to Design High Precision Voltage References with Sub-ppm/°C Temperature Coefficient,10.1109/EWDTS59469.2023.10297042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297042,0
+5,71,A nanopower single-trim voltage reference in a 0.13/im digital CMOS process,10.1109/TENCON.2010.5686401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5686401,0
+5,72,Analysis of Device Noise in Bandgap Reference Voltage Generators,10.1109/VDAT63601.2024.10705712,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10705712,0
+5,73,A high performance bandgap voltage reference design,10.1109/ICISE.2010.5691718,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5691718,0
+5,74,Design of Low Power Bandgap Voltage Reference with High Power Supply Rejection Ratio for LDO Application,10.1109/ISIEA61920.2024.10607313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607313,0
+5,75,A Simple Bandgap Reference Based on VGO Extraction with Single-Temperature Trimming,10.1109/ISCAS45731.2020.9180859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180859,0
+5,76,A current compensated reference oscillator,10.1109/VDAT.2009.5158112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158112,0
+5,77,A voltage reference generator targeted at extracting the silicon bandgap Vgo from Vbe,10.1109/ISCAS.2017.8050750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050750,0
+5,78,A new curvature-corrected voltage reference based on the weight difference of gate-source voltages for subthreshold-operated MOS transistors,10.1109/SCS.2003.1227120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5731353,0
+5,79,"A subthreshold, low-power, RHBD reference circuit, for earth observation and communication satellites",10.1109/ISCAS.2015.7169129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169129,0
+5,80,A curvature-compensation technique based on the difference of Si and SiGe junction voltages for bandgap voltage circuits,10.1109/ISCAS.2014.6865285,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865285,0
+5,81,Recent Developments in Bandgap References for Nanometer CMOS Technologies,10.1109/Austrochip51129.2020.9232986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9232986,0
+5,82,A 2.3nW Gate-Leakage Based Sub-Bandgap Voltage Reference with Line Sensitivity of 0.0066%/V from −40°C to 150°C for Low-Power IoT Systems,10.1109/ISCAS46773.2023.10182117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10182117,0
+5,83,A sub-1V 3.9µW bandgap reference with a 3σ inaccuracy of ±0.34% from −50°C to +150°C using piecewise-linear-current curvature compensation,10.1109/VLSIC.2012.6243770,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6243770,0
+5,84,An Ultra-Low Power 14.6ppm/°C 1.2V Bandgap Voltage Reference with Low Leakage Sample-and-Hold Switch,10.1109/NewCAS58973.2024.10666298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10666298,0
+5,85,Design considerations of recent advanced low-voltage low-temperature-coefficient CMOS bandgap voltage reference,10.1109/CICC.2004.1358907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1358907,0
+5,86,A micro power temperature compensated frequency generating circuit,10.1109/ECCTD.2015.7300012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7300012,0
+5,87,A temperature-compensated current source with high output impedance,10.1109/IranianCEE.2012.6292334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292334,0
+5,88,Design of second-order sub-bandgap mixed-mode voltage reference circuit for low voltage applications,10.1109/ICVD.2005.76,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1383293,0
+5,89,Temperature and supply voltage compensated biasing for digitally controlled oscillators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6226194,0
+5,90,All MOS transistors bandgap reference using chopper stabilization technique,10.1109/SOCDC.2010.5682897,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5682897,0
+5,91,Voltage shift in plastic-packaged bandgap references,10.1109/TCSII.2002.806734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1175081,0
+5,92,An Area-Efficient CMOS Bandgap Reference Utilizing a Switched-Current Technique,10.1109/TCSII.2010.2058593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5575403,0
+5,93,A 1.02 ppm/°C Precision Bandgap Reference with High-order Curvature Compensation for Fluorescence Detection,10.1109/ISCAS58744.2024.10557967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557967,0
+5,94,A Bandgap Voltage Reference with Low Temperature Coefficient and High PSRR Designed for LDO,10.1109/ASICON58565.2023.10396319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396319,0
+5,95,A High Precision Bandgap Voltage Reference with MOS Transistor Curvature Compensation in 65-nm CMOS Process,10.1109/ICSICT.2018.8564883,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8564883,0
+5,96,A subthreshold MOSFET bandgap reference with ultra-low power supply voltage,10.1109/ASICON.2011.6157341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6157341,0
+5,97,A 400nW CMOS bandgap voltage reference,10.1109/ICEESE.2013.6895035,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6895035,0
+5,98,A precision voltage and current reference for the SNAP CCD readout IC,10.1109/NSSMIC.2007.4436628,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4436628,0
+5,99,"On-chip reference oscillators with process, supply voltage and temperature compensation",10.1109/ISNE.2010.5669186,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5669186,0

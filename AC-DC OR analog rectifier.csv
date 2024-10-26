@@ -99,3 +99,403 @@
 1,97,Implementation of distributed control for parallel AC/DC converters,10.1109/ECTICON.2011.5947945,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5947945,1
 1,98,Automated simulation of faults in analog circuits based on parallel paradigm,10.1109/EWDTS.2017.8110133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8110133,1
 1,99,A space vector-based rectifier regulator for AC/DC/AC converters,10.1109/63.208497,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=208497,1
+2,0,An approach to harmonic-free AC/DC power conversion for large industrial loads: the integration of a series active filter with a double-series diode rectifier,10.1109/IAS.1996.560209,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=560209,0
+2,1,Analog-Digital Converter with Neural Network and DC-DC Converter for Underwater Solar Charging,10.1109/IS3C50286.2020.00042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9394115,0
+2,2,Resistors Over Digital Analog Converter on PRBS Threat Generator with PLL Synchronizer: Comparison Between R2R & Weighted,10.1109/eSmarTA59349.2023.10293268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10293268,0
+2,3,A quasi-integrated AC/DC three-phase dual-bridge converter,10.1109/PESC.2001.954398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954398,0
+2,4,Research on fault diagnosis for rail vehicle compartment of LED lighting system of analog circuit based on WP-EE and BP neural network,10.1109/CCDC.2016.7531494,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7531494,0
+2,5,Low noise power supply for precision Analog-to-Digital Converters in battery monitoring systems,10.1109/ET.2016.7753459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7753459,0
+2,6,A new three-phase AC-DC zero-voltage-switching isolated converter operating in DCM,10.1109/IAS.1995.530634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=530634,0
+2,7,A new active power factor correction method for single-phase buck-boost AC-DC converter,10.1109/APEC.1992.228330,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=228330,0
+2,8,A general approach to distribution converter models,10.1109/PES.2004.1372945,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1372945,0
+2,9,Influence of digital averaging on the complete thyristor rectifier transfer function,10.1109/EDM.2016.7538799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7538799,0
+2,10,Low Power Three Phase to Single Phase Converter for Boat Application,10.1109/UPEC.2006.367554,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4218761,0
+2,11,Powering wearable sensors with a low-power CMOS piezoelectric energy harvesting circuit,10.1109/MeMeA.2017.7985894,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985894,0
+2,12,Fully integrated passive UHF RFID tag with temperature sensor for environment monitoring,10.1109/ICASIC.2007.4415641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4415641,0
+2,13,Uncoupled direct power control based on improved sector selection algorithm for three-level PWM rectifier,10.1109/ECCE.2013.6646864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6646864,0
+2,14,Fully Digitalized Implementation of PFC Rectifier in CCM Without ADC,10.1109/TPEL.2012.2188106,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6153071,0
+2,15,A 10-Mb/s Uplink Utilizing Rectifier Third-Order Intermodulation in a Miniature CMOS Tag,10.1109/LMWC.2017.2750061,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8048336,0
+2,16,"A new high-power-factor three-phase AC-DC converter: analysis, design, and experimentation",10.1109/63.737596,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=737596,0
+2,17,Synthesis of input-rectifierless AC-DC converters,10.1109/PESC.2001.954054,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954054,0
+2,18,A CMOS 13.56-MHz high-efficiency low-dropout-voltage 40-mW inductive link power supply utilizing on-chip delay-compensated voltage doubler rectifier and multiple LDOs for implantable medical devices,10.1109/ASSCC.2013.6691031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6691031,0
+2,19,A three-phase AC-DC converter using universal input voltage type PFC circuit and phase-shift controlled DC-DC converters,10.1109/IAS.2002.1043823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1043823,0
+2,20,Design and Analysis of UHF Micropower CMOS DTMOST Rectifiers,10.1109/TCSII.2008.2010190,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4785495,0
+2,21,High-Accuracy and Energy-Efficient Acoustic Inference using Hardware-Aware Training and a 0.34nW/Ch Full-Wave Rectifier,10.1109/AICAS57966.2023.10168561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10168561,0
+2,22,An area-efficient full-wave current rectifier for analog array processing,10.1109/ISCAS.2003.1206423,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1206423,0
+2,23,Two switch auxiliary quasi-resonant DC link three-phase PWM inverter and two switch auxiliary resonant commutated pole link three-phase PWM rectifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1252186,0
+2,24,3L-NPC AC-DC Power Converter Using Virtual Space Vector PWM with Optimal Switching Sequence Based on g-h Coordinate,10.1109/ESARS-ITEC.2018.8607586,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8607586,0
+2,25,Implementation of a novel control concept for reliable operation of a VIENNA rectifier under heavily unbalanced mains voltage conditions,10.1109/PESC.2001.954305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954305,0
+2,26,A hardware-efficient programmable two-band controller for PFC rectifiers with ripple cancellation circuits,10.1109/IECON.2013.6699647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6699647,0
+2,27,High power low distortion switch mode rectifier,10.1109/PESC.2001.954200,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954200,0
+2,28,Critical Conduction Mode Three-Phase Vienna Rectifier,10.1109/ICRERA49962.2020.9242836,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9242836,0
+2,29,Low power current rectifiers for large scale current-mode signal processing,10.1109/ISCAS.2004.1328173,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328173,0
+2,30,Comparison of one cycle control of charge and current for bi-directional boost rectifiers,10.1109/PEDES.2012.6484356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6484356,0
+2,31,Vienna Rectifier With Power Quality Added Function,10.1109/TIE.2013.2286577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6642101,0
+2,32,Self-Commissioning and Compensation of Phase Error in Low-Cost Voltage Sensing for Vienna Rectifiers and Other Grid-Tied Converters,10.1109/ECCE50734.2022.9947934,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9947934,0
+2,33,An unity high power factor power supply rectifier using a PWM AC/DC full bridge soft-switching,10.1109/APEC.2002.989395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=989395,0
+2,34,A fully isolated delta-sigma ADC for shunt based current sensing,10.1109/ASSCC.2015.7387482,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387482,0
+2,35,High power-factor 3-phase PWM rectifier,10.1109/INTLEC.2002.1048672,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1048672,0
+2,36,Four-Wire Unidirectional Three-Phase/Level/Switch (VIENNA) Rectifier,10.1109/IECON.2006.347743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4153472,0
+2,37,Advanced control of a boost AC-DC PWM rectifier for variable-speed induction generator,10.1109/APEC.2006.1620654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1620654,0
+2,38,DSP implementation of a single-cycle predictive current controller in a boost PFC rectifier,10.1109/APEC.2005.1453077,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1453077,0
+2,39,Model-predictive Direct Power Control of three-phase three-level NPC PWM rectifier,10.1109/PEDSTC.2017.7910394,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7910394,0
+2,40,Digital controller design for full-bridge Boost Rectifier using Singular Perturbation method based on pseudo continuous approach with power factor correction,10.1109/EITech.2016.7519578,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7519578,0
+2,41,A Highly Linear 8-Bit M–2M Digital-to-Analog Converter for Neurostimulators,10.1109/TCSII.2019.2928548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8762220,0
+2,42,Memristor-assisted Background Calibration for Analog-to-Digital Converter,10.1109/NEWCAS52662.2022.9842108,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9842108,0
+2,43,"An attractive new converter topology for AC/DC, DC/DC & DC/AC power conversion",10.1109/INTLEC.1990.171313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=171313,0
+2,44,Simplified Input Voltage Sensorless Vector Control for PWM Rectifiers,10.1109/PEDES.2018.8707917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8707917,0
+2,45,Analog Controlled Critical Conduction Mode Three-Phase Vienna Rectifier,10.1109/TIA.2023.3275939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10124350,0
+2,46,A new modular 3-phase AC-DC flyback converter for telecommunication,10.1109/INTLEC.1998.793575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=793575,0
+2,47,Bridgeless Push–Pull Resonant AC/DC Converter Featuring Balanced Switching Loss Distribution,10.1109/TIE.2021.3059547,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9361414,0
+2,48,A Fault Tolerant Three-Phase Isolated AC-DC Converter,10.1109/APEC.2019.8722311,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722311,0
+2,49,A PFC topology with low input current distortion suitable for aircraft power supplies,10.1109/PESC.2004.1355735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1355735,0
+2,50,Analysis and Design of RF Energy-Harvesting Systems With Impedance-Aware Rectifier Sizing,10.1109/TCSII.2022.3171470,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9765534,0
+2,51,An AC-DC Converter with Power Compensator Functions for Single-Phase Three-Wire Distribution System,10.1109/IECON.2006.347984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4153319,0
+2,52,Multilevel AC/DC/AC converter by using three-level boost rectifier and five-level diode clamped inverter,10.1109/PEDS.1999.794604,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=794604,0
+2,53,A timing controlled AC-DC converter for biomedical implants,10.1109/ISSCC.2010.5434021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5434021,0
+2,54,A UHF rectifier with one octave bandwidth based on a non-uniform transmission line,10.1109/MWSYM.2016.7540083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7540083,0
+2,55,Design of an LLC Resonant DC-DC Converter with MOSFET-Based Active Rectifier,10.1109/PRIME55000.2022.9816808,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816808,0
+2,56,Space vector modulated and vector controlled three-level four-wire unidirectional ac-dc-ac converter,10.1109/PECON.2008.4762581,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4762581,0
+2,57,Low-Frequency Noise of a Ballistic Rectifier,10.1109/TNANO.2014.2308593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6748967,0
+2,58,"Standard FPGA-Based or Full cSoC controllers for three-phase PWM boost rectifier, two viable solutions",10.1109/EPEPEMC.2012.6397299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6397299,0
+2,59,Analysis and design on the reduction of DC-link electrolytic capacitor for AC/DC/AC converter applied to AC motor drives,10.1109/PESC.1998.701911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=701911,0
+2,60,Buck-Boost Type Ac-Dc Single-Stage Converters,10.1109/ISIE.2006.295794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4078244,0
+2,61,A 0.6V 8b 100MS/s SAR ADC with minimized DAC capacitance and switching energy in 65nm CMOS,10.1109/ISCAS.2013.6572322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572322,0
+2,62,Multipulse AC–DC Converters for Improving Power Quality: A Review,10.1109/TPEL.2007.911880,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4399718,0
+2,63,10-bit SAR ADC Design in a Double-Poly 180 nm CMOS Process,10.1109/ElConRus51938.2021.9396523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9396523,0
+2,64,A method of PWM rectifier control in voltage linked AC/DC/AC converter,10.1109/MELCON.1998.699386,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=699386,0
+2,65,A 200 MHz 23 mW high-efficiency inductive link power supply circuit with differential-driven CMOS rectifier and multiple LDOs in 0.18 µm CMOS process,10.1109/iWEM.2015.7365064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7365064,0
+2,66,A novel three-phase PWM rectifier/inverter without capacitor in DC-link,10.1109/ICEMS12746.2007.4412138,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4412138,0
+2,67,An On-Line UPS System With Power Factor Correction and Electric Isolation Using BIFRED Converter,10.1109/TIE.2007.911199,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4444606,0
+2,68,Experimental results of a three-level four-wire unidirectional AC-DC-AC converter,10.1109/IPEC.2010.5543763,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5543763,0
+2,69,A Single-Stage Bipolar-Output Regulating Rectifier With Negligible Cross-Regulation for Wireless Display,10.1109/JSSC.2024.3385337,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496692,0
+2,70,Heterogeneous stacking silicon controlled rectifier design with improved ESD performance,10.1109/IPFA.2017.8060176,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8060176,0
+2,71,Sliding mode direct power control of three-phase PWM boost rectifier using a single DC current sensor,10.1109/IECON.2013.6699314,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6699314,0
+2,72,Topologies of three-phase rectifier with near sinusoidal input currents — A comparative analysis of power quality indices using FFT and DWT,10.1109/EPEPEMC.2014.6980584,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6980584,0
+2,73,Tracking load to optimize power efficiency in RF to DC rectifier circuits,10.1109/WPT.2015.7140165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7140165,0
+2,74,A Wide-PCE-Dynamic-Range CMOS Cross-Coupled Differential-Drive Rectifier for Ambient RF Energy Harvesting,10.1109/TCSII.2019.2937542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8822488,0
+2,75,Full-Wave Rectification Based on Diode Bridge in NI ELVIS Complex,10.1109/ITQMIS53292.2021.9642794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642794,0
+2,76,Formal verification of Full-Wave Rectifier using SPICE circuit simulation traces,10.1109/ISQED.2010.5450556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5450556,0
+2,77,A Gray-Code Current Mode ADC Structure,10.1109/MELCON.2006.1653029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1653029,0
+2,78,Specific Analog Electronic Circuits Analysis Using PC-based Acquisition Card,10.1109/EURCON.2005.1630093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1630093,0
+2,79,Small-signal input impedance modeling of line-frequency rectifiers,10.1109/TAES.2008.4667724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4667724,0
+2,80,Sensorless optimization of dead times in dc–dc converters with synchronous rectifiers,10.1109/TPEL.2006.876850,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7869708,0
+2,81,Active three-phase rectifier for aircraft equipment,10.1109/EPE.2005.219263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1665453,0
+2,82,A simple constant-frequency nonlinear controller to enhance transient response in the half-bridge with current-doubler rectifier,10.1109/IECON.2003.1280343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1280343,0
+2,83,Single comparator based A/D converter for output voltage sensing in power factor correction rectifiers,10.1109/ECCE.2009.5316152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5316152,0
+2,84,"A Wirelessly Powered, Batteryless Bipolar Biphasic Costant Current Stimulator for Gastric Application",10.1109/BioCAS54905.2022.9948564,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9948564,0
+2,85,Analog to digital converter for binary and multiple-valued logic,10.1109/LASCAS.2011.5750283,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5750283,0
+2,86,12-Bit 200 MS/s Switched-Current Pipelined Analog-to-Digital Converter for High-Speed DSL,10.1109/WOCC53213.2021.9603056,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9603056,0
+2,87,Analyses and Experiments of the Schottky Contact Super Barrier Rectifier (SSBR),10.1109/LED.2017.2703597,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7926325,0
+2,88,Effects of Layout on Current Distribution in Paralleled Thyristors of High Current Rectifiers,10.1109/PCICON.2007.4365781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4365781,0
+2,89,Low power analog circuit design for RFID sensing circuits,10.1109/RFID.2010.5467279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5467279,0
+2,90,Low-cost multi-channel analog sampler and signal generator for remote laboratories,10.1109/REV.2015.7087271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7087271,0
+2,91,"A 13.56 MHz, 162 mW magnetically coupled digital rectifier with 94% VCR, 96% PCE over 50-to-5k Ω load range, and embedded 80 kbps DBPSK demodulator for biomedical applications",10.1109/ASSCC.2016.7844172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844172,0
+2,92,A Soft-Switched AC-DC Symmetrical Boost Converter with Power Factor Correction,10.1109/PEDS.2007.4487793,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487793,0
+2,93,A Radio-Frequency Cross-Connected Rectifier With LC Source Degeneration,10.1109/TCSI.2023.3339962,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10363640,0
+2,94,A Novel Online Adaptive DC Offset Correcting Circuit,10.1109/ICECE54449.2021.9674449,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9674449,0
+2,95,A Novel direct AC/DC converter for efficient low voltage energy harvesting,10.1109/IECON.2008.4758001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4758001,0
+2,96,Enhanced Voltage-Boost Inverter and Rectifier,10.1109/IECON.2006.347882,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4153285,0
+2,97,Control of AC-DC-AC Converters with Minimized DC Link Capacitance under Grid Distortion,10.1109/ISIE.2006.295811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4078261,0
+2,98,Hardware Analysis and Research of NC Power Supply Based on Single Chip Microcomputer,10.1109/INSAI54028.2021.00013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9757974,0
+2,99,Zero-current-switching techniques for buck-type AC-DC converters,10.1109/INTLEC.2007.4448830,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4448830,0
+3,0,Towards the embodiment of a LiPo Battery Charger for a 83 kW Sport Motorcycle,10.1109/ROPEC58757.2023.10409309,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10409309,0
+3,1,Input voltage sensorless average current control technique for high-power-factor boost rectifiers operated in discontinuous conduction mode,10.1109/APEC.2005.1453142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1453142,0
+3,2,A new control approach for unity power factor multilevel rectifiers,10.1109/APEC.2004.1296059,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1296059,0
+3,3,Transient Input Impedance Modeling of Rectifiers for RF Energy Harvesting Applications,10.1109/TCSII.2017.2693960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7898468,0
+3,4,Digital Controller for Active Clamp based Synchronous Forward Converter for High Power Applications,10.1109/I2CT51068.2021.9418172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9418172,0
+3,5,Discussion and Improvement of the Rectification Capability of NEL Rectifier under the Concentric Reducer Based on FLUENT Simulation,10.1109/ICMA52036.2021.9512758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512758,0
+3,6,A 3 kW Single-Stage Isolated AC-DC Converter with Individual Regulation of Power Factor and Output Power for Battery Charging Applications,10.1109/PEDG48541.2020.9244336,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9244336,0
+3,7,Reducing the turn-on time and overshoot voltage for a diode-triggered silicon-controlled rectifier during an electrostatic discharge event,10.1109/SOCC.2014.6948909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6948909,0
+3,8,Auxiliary-supply-assisted phase-controlled 12-pulse rectifiers with reduced input current harmonics,10.1109/IAS.2005.1518797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1518797,0
+3,9,Sensorless Nonlinear Control of a Three-Phase/ Switch/ Level Vienna Rectifier Based on a Numerical Reconstruction of DC and AC Voltages,10.1109/08IAS.2008.317,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4659105,0
+3,10,Rectifier with Near Sinusoidal Input Currents and High Performances,10.1109/ISSCS.2007.4292783,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4292783,0
+3,11,An Analog Design of 2D DCT Processor,10.1109/TENCON.2019.8929670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8929670,0
+3,12,Sensorless Operation of a PWM Rectifier for a Distributed Generation,10.1109/TPEL.2007.897094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4182489,0
+3,13,A novel single-phase ac to high voltage dc converter based on Cockcroft-Walton cascade rectifier,10.1109/PEDS.2009.5385671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385671,0
+3,14,Low-cost single-phase to three-phase PWM AC/DC/AC converters without source voltage sensor,10.1109/ICIT.2002.1189268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1189268,0
+3,15,Investigation on Loading Effect of a Series Resonance Circuit on Asynchronous Generator with AC-DC-AC Converter as a Load Balancer,10.1109/ICETET.2009.134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5395442,0
+3,16,Direct high frequency soft switching inverter type AC-DC power converter with boost function for consumer magnetron drive,10.1109/PEDS.2003.1282916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1282916,0
+3,17,High frequency transformer linked direct high frequency soft switching inverter type AC-DC power converter with boost function for consumer magnetron drive,10.1109/IECON.2003.1280716,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1280716,0
+3,18,Harmonic Modeling of a Cluster of ac/dc Converters,10.1109/ISIE.2006.295853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4078528,0
+3,19,The study and application of CAN communication of rectifier parallel operation control system,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7837400,0
+3,20,Adaptive balancing of the neutral point voltage in a single-phase three-level rectifier,10.1109/CPE.2005.1547554,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1547554,0
+3,21,Three-Level AC–DC–AC Z-Source Converter Using Reduced Passive Component Count,10.1109/TPEL.2008.2011756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5075738,0
+3,22,Full system on programmable chip solution for DPC control of three phase PWM boost rectifier,10.1109/IECON.2012.6389408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389408,0
+3,23,100V AC power meter system-on-a-film (SoF) integrating 20V organic CMOS digital and analog circuits with floating gate for process-variation compensation and 100V organic PMOS rectifier,10.1109/ISSCC.2011.5746291,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5746291,0
+3,24,Improved efficiency in the CMOS cross-connected bridge rectifier for RFID applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6015936,0
+3,25,A 2.4-GHz CMOS Differential Class-DE Rectifier With Coupled Inductors,10.1109/TPEL.2021.3061703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9362286,0
+3,26,"Digital Current Controller for a 1 MHz, 10 kW Three-Phase VIENNA Rectifier",10.1109/TPEL.2009.2031437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5232887,0
+3,27,A Novel Low VF Super Barrier Rectifier (SBR) With an N-Enhancement Layer,10.1109/LED.2016.2647603,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7805252,0
+3,28,High-frequency bi-directional three-phase rectifier with power factor correction,10.1109/PESC.2001.954300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954300,0
+3,29,Fast solution of the worst load increasing direction in AC/DC power system,10.1109/DRPT.2008.4523747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4523747,0
+3,30,Advanced rectifier and driver for analog VU meter,10.1109/DDECS.2011.5783127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5783127,0
+3,31,DSP Based Experimental Validation Technique Applied to the Development of a New Vienna Rectifier Small Signal Model,10.1109/IECON.2006.347277,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4152859,0
+3,32,Experimental Implementation of a New Quasi-Linear Control Technique on a 1.5 kW Three-Phase Boost-Type Vienna Rectifier,10.1109/ISIE.2007.4374647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4374647,0
+3,33,A monolithic analog compandor,10.1109/ISSCC.1976.1155481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1155481,0
+3,34,Analysis of the grid side behavior of a LCL-filter based three-phase active rectifier,10.1109/ISIE.2003.1267918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1267918,0
+3,35,Single Transistor Analog Building Blocks: Exploiting Back-Bias Reconfigurable Devices,10.1109/NEWCAS57931.2023.10198128,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198128,0
+3,36,A 13.56 MHz rectifier with efficiency-improving harmonic-termination circuit for wireless power transmission systems,10.23919/EuMC.2012.6459382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6459382,0
+3,37,A 13.56 MHz rectifier with efficiency-improving harmonic-termination circuit for wireless power transmission systems,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6450649,0
+3,38,A Current mode Three-phase Space Vector Signal Technique Based on Analog Method,10.1109/ISPACS57703.2022.10082837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10082837,0
+3,39,Design on topologies for high efficiency two-stage AC-DC converter,10.1109/IPEMC.2012.6258845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6258845,0
+3,40,Highly Efficient Multiband Harmonic-Tuned GaN RF Synchronous Rectifier,10.1109/TMTT.2023.3276065,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269332,0
+3,41,Analysis and Design of Dual-Band Rectifier Using Novel Matching Network,10.1109/TCSII.2017.2698464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7913576,0
+3,42,Modular Three-phase Single-stage Isolated AC-DC Converter for Electrolytic Capacitor-less EV DC Charging,10.1109/IPEMC-ECCEAsia48364.2020.9368079,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9368079,0
+3,43,A Boost-Full-Bridge-Type Single-Active-Bridge Isolated AC-DC Converter,10.1109/APEC.2019.8722294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722294,0
+3,44,An Impedance Control Network based Single-Stage Universal-Input Isolated AC-DC Converter Utilizing Reconfigurable Inverters,10.1109/APEC42165.2021.9487165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9487165,0
+3,45,A High-Power-Density High-Efficiency Single-Phase Universal-Input to 28V Isolated AC-DC Converter Designed to Meet MIL-STD EMI Specifications,10.1109/APEC42165.2021.9487133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9487133,0
+3,46,Third Harmonic Current Injection Based Front-End AC-DC Converter for Power Quality Improvement in DC Distribution Systems,10.1109/PESGRE45664.2020.9070560,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9070560,0
+3,47,Soft-switched Single-stage Isolated AC-DC Converter for High Power Applications,10.1109/IAS.2019.8912459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8912459,0
+3,48,A Novel Voltage Balance Control Strategy of AC-DC-AC Converter,10.1109/ICEET.2009.247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5365548,0
+3,49,A GaN based Totem Pole Bridgeless Power Factor Correction Circuit,10.1109/APEC48139.2024.10509129,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10509129,0
+3,50,Auxiliary Supply Assisted Input Current Harmonic Reduction in 12-Pulse Thyristor Rectifiers,10.1109/PEDS.2005.1619807,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1619807,0
+3,51,Self-Driven Current-Doubler Synchronous Rectifier and Design Tuning for Maximizing Efficiency in IPT Systems,10.1109/JESTPE.2021.3105041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9514520,0
+3,52,Design of Cascaded H-Bridge Rectifier for Medium Voltage Applications,10.1109/PESC.2007.4342064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4342064,0
+3,53,AC/DC/AC Converter with Reduced DC Side Capacitor Value,10.1109/EURCON.2005.1630244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1630244,0
+3,54,Three-phase 1-stage high-frequency linked active PWM rectifier with DC ripple compensation based on repetitive learning control scheme,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1252128,0
+3,55,Analog bandwidth mismatch compensation for time-interleaved ADCs using FD-SOI technology,10.1109/ISCAS.2017.8050246,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050246,0
+3,56,High-Efficiency Rectifiers with Wide Input Power Range and Application on Powering Wireless Sensors,10.23919/EuCAP48036.2020.9135645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9135645,0
+3,57,A Sub-μA Quiescent Current Power Management System with SAR-based Adaptive MPPT for Piezoelectric Energy Harvesting,10.1109/MWSCAS.2019.8885146,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8885146,0
+3,58,Temporally Coordinated Energy Management for AC/DC Hybrid Microgrid Considering Dynamic Conversion Efficiency of Bidirectional AC/DC Converter,10.1109/ACCESS.2020.2985419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9056557,0
+3,59,Semi-Digital Interleaved PFC Control with Optimized Light Load Efficiency,10.1109/APEC.2009.4802902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4802902,0
+3,60,A discrete model of the DC charge-up phase in RFID rectifiers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6613370,0
+3,61,Phase-Controlled Three-Phase Rectifiers Without Grid Synchronization: A New Approach,10.1109/INSCIT62583.2024.10693415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10693415,0
+3,62,Performance Comparison of High Frequency Isolated AC-DC Converters for Power Quality Improvement at Input AC Mains,10.1109/PEDES.2006.344401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4147896,0
+3,63,Pulse width and pulse frequency modulation pattern controlled ZVS inverter type AC-DC power converter with lowered utility AC grid side harmonic current components for magnetron drive,10.1109/PSEC.2002.1023118,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1023118,0
+3,64,Pulse Width and Pulse Frequency Modulation Pattern Controlled Active Clamp ZVS Inverter Link AC-DC Power Converter Utility AC Side Active Power Filtering Function for Consumer Magnetron Driver,10.1109/IECON.2007.4460148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4460148,0
+3,65,Optimal tracking control for an AC-DC power converter,10.1109/ROPEC.2013.6702727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6702727,0
+3,66,Development and research of multizone rectifiers,10.1109/EDM.2009.5174014,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5174014,0
+3,67,A Scalable Bandwidth Mismatch Calibration Technique for Time-Interleaved ADCs,10.1109/TCSI.2016.2593927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7676404,0
+3,68,Smart GaN platform: Performance & challenges,10.1109/IEDM.2017.8268488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8268488,0
+3,69,Digital reference generation for a series active filter integrated with a diode rectifier,10.1109/AFRCON.2002.1160011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1160011,0
+3,70,"8-Bit, 2 MSPS, 1.8 V Pipelined Analog-to-Digital Converter with Digital Error Correction Circuit for Data Communication",10.1109/ICIAS.2018.8540627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8540627,0
+3,71,A Background Mismatch Calibration For Capacitive Digitial-To-Analog Converters RTERS,10.1109/AHS.2006.1,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1638136,0
+3,72,Low-Power CMOS Rectifier Design for RFID Applications,10.1109/TCSI.2007.895229,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4232586,0
+3,73,A 16-GHz linear analog heterodyne RF optical link employing a WIRNA receiver,10.1109/LPT.2004.843261,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1411911,0
+3,74,Research and Simulation of Hybrid AC/DC Microgrid,10.1109/HVDC50696.2020.9292793,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292793,0
+3,75,Autonomous control strategy of bidirectional AC/DC converter in low voltage hybrid microgrid,10.1109/ICIEA.2017.8283087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283087,0
+3,76,Output voltage switching noise peaks and utility AC input harmonic current characteristics of delta-sigma modulated AC-DC converter with boost-buck circuit topologies,10.1109/ECCE.2009.5316492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5316492,0
+3,77,A Model for MOS Diodes With $V_{\rm th}$ Cancellation in RFID Rectifiers,10.1109/TCSII.2012.2220691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6341060,0
+3,78,Current-mode precision full-wave rectifier using two WTA cells,10.1109/TSP.2011.6043716,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6043716,0
+3,79,Power flow control of triple active bridge converter equipped with AC/DC converter for constructing autonomous hybrid AC/DC microgrid systems,10.1109/IECON.2017.8216245,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8216245,0
+3,80,"Voltage control of a single phase, single-stage, isolated AC-DC converter",10.1109/ITEC.2013.6574510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6574510,0
+3,81,On-Chip Inductor-Less Indoor Light Energy Harvester with Improved Efficiency for WSN/IoT Device Design,10.1109/ICST46873.2019.9047728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047728,0
+3,82,A Simple Implementation of Nonlinear-Carrier Control for Power Factor Correction Rectifier With Variable Slope Ramp on Field-Programmable Gate Array,10.1109/TII.2012.2227492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6355997,0
+3,83,A Boost-Inductorless Electrolytic-Capacitorless Single-Stage Bidirectional Isolated AC–DC Converter,10.1109/TPEL.2022.3227183,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9971747,0
+3,84,'Bump' circuits for computing similarity and dissimilarity of analog voltages,10.1109/IJCNN.1991.155225,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=155225,0
+3,85,A Simple Analog Controller for Single-Phase Half-Bridge Rectifier,10.1109/TPEL.2006.886621,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4052411,0
+3,86,Linear SR Mode of Power MOSFETs and its Application in an EMI-Suppressing Rectifier Bridge,10.1109/APEC39645.2020.9124354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9124354,0
+3,87,RF Rectifiers With Wide Incident Angle of Incoming Waves Based on Rat-Race Couplers,10.1109/TMTT.2021.3132331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656164,0
+3,88,A low power and high performance analog front end for passive RFID transponder,10.1109/AUTOID.2005.4,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1544425,0
+3,89,The designs of low power AC-DC converter for power electronics system applications,10.1109/ISCAIE.2012.6482080,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6482080,0
+3,90,A simple scheme based on space-vector pulse-width modulation for three-phase rectifier,10.1109/PCC.2002.998154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=998154,0
+3,91,A simple direct-frequency control of AC/DC three-phase Current Injection Series Resonant Converter (CISRC),10.1109/ISIEA.2009.5356368,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5356368,0
+3,92,Optimal Scheduling of Hybrid AC-DC MG using Information Gap Decision Theory,10.1109/ICRERA52334.2021.9598633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9598633,0
+3,93,Improved input power conditioning for fractional horsepower shipboard valve actuators,10.1109/ESTS.2009.4906556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4906556,0
+3,94,Inductor voltage control of buck-type single-phase AC-DC converter,10.1109/63.838114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=838114,0
+3,95,System accuracy analysis of the multiphase voltage regulator module,10.1109/APEC.2003.1179295,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1179295,0
+3,96,Development of microcontroller based controller for twelve-pulse AC-DC thyristorised converter for nuclear research application,10.1109/ICPEICES.2016.7853436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7853436,0
+3,97,On-chip AC/DC converter with no-load over-voltage protection and output ripple reduction,10.1109/CAMAD.2013.6708102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6708102,0
+3,98,Evolutionary recovery from radiation induced faults on reconfigurable devices,10.1109/AERO.2004.1368039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1368039,0
+3,99,Simple Analog-Based Accurate Variable On-Time Control for Critical Conduction Mode Boost Power Factor Correction Converters,10.1109/JESTPE.2019.2926794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8755871,0
+4,0,Analysis and Implementation of a Three-Phase Matrix-based Isolated AC-DC Converter With Transformer Leakage Energy Management,10.1109/PEDES49360.2020.9379626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9379626,0
+4,1,A rail-to-rail full clock fully differential rectifier and sample-and-hold amplifier,10.1109/ISCAS.2010.5537418,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537418,0
+4,2,Based on space-vector pulse-width modulated reversible rectifier,10.1109/ICEMS.2001.970725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=970725,0
+4,3,Single-Phase H-Bridge Rectifier Fed High-Speed SRM System Based on Integrated Power Control,10.1109/TEC.2022.3203626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9873908,0
+4,4,Low-voltage low-power four-quadrant analog multiplier in current-mode,10.1109/STA.2017.8314944,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8314944,0
+4,5,A Reconfigurable CMOS Rectifier With 14-dB Power Dynamic Range Achieving >36-dB/mm2 FoM for RF-Based Hybrid Energy Harvesting,10.1109/TVLSI.2022.3189697,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9831164,0
+4,6,Upgrading Outdated Rectifier Control Systems - Needs and Challenges,10.1109/PCICON.2006.359704,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4199064,0
+4,7,DC Polarity Control in Radio Frequency Synchronous Rectifier Circuits,10.1109/LMWC.2017.2756850,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8063915,0
+4,8,Simplified Input Voltage Sensorless Vector Control for PWM Rectifiers,10.1109/TIA.2020.2992955,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088262,0
+4,9,Thermometer-to-binary encoder with bubble error correction (BEC) circuit for Flash Analog-to-Digital Converter (FADC),10.1109/ICCE.2010.5670690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5670690,0
+4,10,A 10-Bit 200-MHz Switched-Current Pipelined Analog-to-Digital Converter for VDSL,10.1109/ICCE-Taiwan62264.2024.10674367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10674367,0
+4,11,A 10-bit 300MS/s Time-Interleaved Successive-Approximation Register Analog-to-Digital Converter with a Binary-Scaled Recombination Weighting Capacitor Array and fault-tolerant,10.1109/ICCE-Taiwan62264.2024.10674124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10674124,0
+4,12,Active Diode of 100 Hz-4 MHz-Span With Bias-Free Analog Control Circuit,10.1109/TCSII.2023.3304293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10214535,0
+4,13,Functional Level Abstraction and Simulation of Verilog-AMS Piecewise Linear Models,10.1109/ISQED54688.2022.9806273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9806273,0
+4,14,Semi-bridgeless Active Line Rectification Power Factor Correction Converter with Minimum Current Sensors and Analog control,10.1109/APEC43599.2022.9773456,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773456,0
+4,15,"A 31-Feature, 80nW, 0.53mm2 Audio Analog Feature Extractor based on Time-Mode Analog Filterbank Interpolation and Time-Mode Analog Rectification",10.1109/VLSITechnologyandCir46769.2022.9830455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9830455,0
+4,16,Overview of Power Management Strategies of Hybrid AC/DC Microgrid,10.1109/TPEL.2014.2384999,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6994843,0
+4,17,A single-stage single-phase isolated AC-DC converter based on LLC resonant unit and T-type three-level unit for battery charging applications,10.1109/APEC.2016.7468121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7468121,0
+4,18,Design & Simulation of DSP based 24 kA Thyristor Controlled Rectifier for Nuclear Reactor Safety Study,10.1109/PEDES49360.2020.9379899,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9379899,0
+4,19,Power Extracted from Piezoelectric Harvesters with Passive and Active AC/DC Stages,10.1109/EVER48776.2020.9242933,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9242933,0
+4,20,Model-free power control of front-end PFC AC/DC converter for on-board charger,10.1109/IPEMC.2016.7512728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7512728,0
+4,21,The Design on Pulse Distributor and its Online Status Diagnosis for ITER PF ac/dc Converter,10.1109/TPS.2018.2825346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8345323,0
+4,22,A Single-Stage Soft-Switching AC/DC Converter,10.1109/IFEEC47410.2019.9014684,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9014684,0
+4,23,Distributed Generation based AC-DC-DC converter,10.1109/PowerI.2012.6479463,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6479463,0
+4,24,A Single-Stage Soft-Switching AC/DC Converter without Soft-Switching Auxiliary Circuit,10.1109/ICIT.2019.8755096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8755096,0
+4,25,The Charge Control for the Single Stage LLC Resonant AC/DC Converter with Matrix Switches,10.1109/IECON51785.2023.10311885,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10311885,0
+4,26,Transient DC over-voltage protection for ITER PF AC/DC converter,10.24295/CPSSTPEA.2021.00026,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9675067,0
+4,27,Development of an all SiC high power density three-phase rectifier with interleaving,10.1109/ECCE.2011.6064323,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6064323,0
+4,28,New high frequency current-mode precision rectifiers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=193537,0
+4,29,A Digitally Controlled 4-kW Single-Phase Bridgeless PFC Circuit for Air Conditioner Motor Drive Applications,10.1109/IPEMC.2006.4778020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4778020,0
+4,30,Factor compensation capacity,10.1109/ICEEE.2004.1433949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1433949,0
+4,31,Applications on STM32 Nucleo Microcontroller for Pulse Switching Using Time Delay and Trigonometric Function with MATLAB Simulink,10.1109/PECon48942.2020.9314509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314509,0
+4,32,Performance of ADC for use in mixed-signal control of synchronous rectifiers in current-type resonant converters,10.1109/INTLEC.2007.4448831,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4448831,0
+4,33,A digitally assisted technique to improve rectifier efficiency in wireless energy harvesting systems,10.1109/ICCE.2016.7430538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7430538,0
+4,34,Novel off-line zero-voltage-switching PWM AC/DC converter for direct conversion from AC line to 48 VDC bus with power factor correction,10.1109/PESC.1993.472000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=472000,0
+4,35,A High-Performance Dual-Topology CMOS Rectifier With 19.5-dB Power Dynamic Range for RF-Based Hybrid Energy Harvesting,10.1109/TVLSI.2023.3261263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089463,0
+4,36,A Novel Segmented LDMOS-SCR Structure With 8-kV HBM ESD Robustness in CMOS Analog Multiplexer,10.1109/TED.2022.3211913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9919864,0
+4,37,A 1.5-V 14-bit CMOS DAC with a new self-calibration technique for wireless communication systems,10.1109/ICECS.2003.1301904,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301904,0
+4,38,Analysis and evaluation of interleaved class D-E resonant converter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6020570,0
+4,39,Three-Port-Converter-Based Single-Phase Bidirectional AC–DC Converter With Reduced Power Processing Stages and Improved Overall Efficiency,10.1109/TPEL.2018.2824242,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8332531,0
+4,40,Power flow analysis for droop controlled LV hybrid AC-DC microgrids with virtual impedance,10.1109/PESGM.2014.6939887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6939887,0
+4,41,Joint Power Management of Telecom Exchanges and Electric Vehicles Using Hybrid AC-DC Microgrid,10.1109/FIT.2017.00030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8261024,0
+4,42,An Improved Virtual Synchronous Generator Control for Decentralized and Coordinated Sharing of Transient Response in Hybrid AC-DC Microgrids,10.1109/GlobConET53749.2022.9872485,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9872485,0
+4,43,Three-phase bidirectional rectifier based on one-cycle control under simply space vector,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5573465,0
+4,44,The ALTRO chip: a 16-channel A/D converter and digital processor for gas detectors,10.1109/TNS.2003.820629,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1263928,0
+4,45,Input Impedance Modeling of Line-Frequency Rectifiers by the Method of Impedance Mapping,10.1109/COMPEL.2006.305654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4097466,0
+4,46,Phase Feedforward Control for Single-Phase Boost-Type SMR,10.1109/TPEL.2009.2013953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4939387,0
+4,47,Power-quality improvements in vector-controlled induction motor drive employing pulse multiplication in AC-DC converters,10.1109/TPWRD.2006.874660,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1645203,0
+4,48,Extensions of Leading-Edge Modulated One-Cycle Control for Totem-Pole Bridgeless Rectifiers,10.1109/TPEL.2019.2946570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8863991,0
+4,49,Power Quality Improvements in Isolated Twelve-Pulse AC-DC Converters Using Delta/Double-Polygon Transformer,10.1109/PESC.2007.4342471,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4342471,0
+4,50,Decentralized operation framework for hybrid AC/DC microgrid,10.1109/NAPS.2016.7747902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7747902,0
+4,51,Scott-Connected Autotransformer Based Multipulse AC-DC Converters for Power Quality Improvement In Vector Controlled Induction Motor Drives,10.1109/PEDS.2005.1619924,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1619924,0
+4,52,Eighteen-Pulse AC-DC Converter for Harmonic Mitigation in Vector Controlled Induction Motor Drives,10.1109/PEDS.2005.1619928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1619928,0
+4,53,A Twelve-Phase AC-DC Converter for Power Quality Improvement in Direct Torque Controlled Induction Motor Drives,10.1109/ICIEA.2006.257352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4025953,0
+4,54,Polygon connected autotransformer based 24-pulse AC-DC converter for power quality improvement,10.1109/IICPE.2006.4685354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4685354,0
+4,55,An 18-Pulse AC-DC Converter for Power Quality Improvement in Vector Controlled Induction Motor Drives,10.1109/ICIEA.2006.257310,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4025911,0
+4,56,A Tapped Delta Autotransformer Based 24-Pulse AC-DC Converter for Variable Frequency Induction Motor Drives,10.1109/ISIE.2006.295888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4078563,0
+4,57,Performance testing of a single-phase voltage-source wavelet modulated AC-DC converter,10.1109/CCECE.2009.5090289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5090289,0
+4,58,New single stage AC/DC converter with high frequency link isolation for high power application,10.1109/IPEMC.2016.7512654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7512654,0
+4,59,New Direct High Frequency Soft-Switching Inverter-Fed AC-DC Converter with Voltage Doubler for Consumer Magnetron Drive,10.1109/PEDS.2007.4487723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487723,0
+4,60,Research on Redundant Control Technology of ±10kV/10MW AC/DC converter,10.1109/IPEMC-ECCEAsia60879.2024.10567757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10567757,0
+4,61,A High Performance Soft-Switching AC/DC Converter,10.23919/ICPE2019-ECCEAsia42246.2019.8797358,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797358,0
+4,62,A Novel Quasi-Single-Stage High Efficiency and High Power Factor AC/DC Converter,10.1109/PEAC56338.2022.9959204,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9959204,0
+4,63,Direct high frequency soft switching PWM cyclo-converter-fed AC-DC converter without DC link for consumer magnetron drive,10.1109/ICPE.2007.4692565,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4692565,0
+4,64,A Novel Soft-Switching Single-Phase AC–DC–AC Converter Using New ZVS–PWM Strategy,10.1109/TPEL.2007.904208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4300908,0
+4,65,A novel high input power factor soft-switching single-stage single-phase AC/DC/AC converter,10.1109/VPPC.2005.1554553,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1554553,0
+4,66,A PWM current-source rectifier with active damping for high power medium voltage applications,10.1109/PSEC.2002.1023096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1023096,0
+4,67,A study on doubly-fed induction machine with bi-directional AC/DC/AC converter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1492085,0
+4,68,High power factor PWM rectifiers with an analog pulse-width predictor,10.1109/APEC.1994.316348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=316348,0
+4,69,Precise RSSI with High Process Variation Tolerance,10.1109/ISCAS.2007.378771,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4253277,0
+4,70,Model-Based Design and DSP Code Generation using Simulink®for Power Electronics Applications,10.23919/ICPE2019-ECCEAsia42246.2019.8797107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797107,0
+4,71,Rapid Capacitor Charger with Advanced Digital Control,10.1109/PPC40517.2021.9733157,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733157,0
+4,72,A Temperature Compensated 61-W Class-E Soft-Switching GaN-Based Active Diode Rectifier for Wireless Power Transfer Applications,10.1109/LSSC.2019.2930912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8877965,0
+4,73,A Temperature Compensated 61-W Class-E Soft-Switching GaN-Based Active Diode Rectifier for Wireless Power Transfer Applications,10.1109/ESSCIRC.2019.8902866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902866,0
+4,74,A gray-code current-mode ADC for mixed-mode cellular computer,10.1109/ISCAS.2004.1328688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328688,0
+4,75,Active and continuous compensation of clock jitter in CT Delta-Sigma ADCs,10.23919/AT-AP-RASC54737.2022.9814404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814404,0
+4,76,A new high-frequency CMOS full-wave rectifier for backlight controllers,10.1109/MWSCAS.2008.4616766,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4616766,0
+4,77,A 10-BIT 100MS/s pipelined ADC IN 0.18μm CMOS technology,10.1109/SOCC.2007.4545413,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4545413,0
+4,78,Reconfigurable System for Electromagnetic Energy Harvesting With Inherent Activity Sensing Capabilities for Wearable Technology,10.1109/TCSII.2018.2884613,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8556033,0
+4,79,A 6-b DAC and Analog DRAM for a Maskiess Lithography Interface in 90 nm CMOS,10.1109/ASSCC.2006.357941,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4197680,0
+4,80,A mixed-integer linear model for optimal operation of hybrid AC-DC microgrid considering Renewable Energy Resources and PHEVs,10.1109/PTC.2015.7232507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7232507,0
+4,81,Protection of DC and hybrid AC-DC microgrids with ring configuration,10.1109/ICPES.2017.8387365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8387365,0
+4,82,Soft-switching single stage isolated AC-DC converter for single-phase high power PFC applications,10.1109/ICPE.2015.7167918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7167918,0
+4,83,High Efficiency Isolated Resonant PFC Converter for Two-stage AC-DC Converter with Enhanced Performance,10.1109/ECCE.2019.8913297,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913297,0
+4,84,Design a Multi-Pulse Phase Shifted AC-DC Power Converter,10.1109/I2CT.2018.8529679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529679,0
+4,85,Development of Bidirectional AC-DC Converter for Energy Storage Systems,10.1109/ICEMS.2019.8922024,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8922024,0
+4,86,Single-Stage Bidirectional Triple Active Bridge AC-DC converter for Single Phase Grid Applications,10.1109/KPEC47870.2020.9167522,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9167522,0
+4,87,Hybrid Robust-CVaR optimization of Hybrid AC-DC Microgrid,10.1109/SGC54087.2021.9664021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664021,0
+4,88,Modified MPC Approach to Single-Phase Two-Stage AC-DC Converter for Reduced DC-link Capacitance,10.1109/GlobConPT57482.2022.9938194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9938194,0
+4,89,One-cycle controlled active rectifier for full digital implementation,10.1109/IECON.2010.5675243,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5675243,0
+4,90,Piezoelectric Energy-Harvesting Interface Using Split-Phase Flipping-Capacitor Rectifier With Capacitor Reuse for Input Power Adaptation,10.1109/JSSC.2020.2989873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9089199,0
+4,91,Carrier-based PWM and space vector modulation of three single phase PFC rectifier as generator-side converter of PM WECS,10.1109/IAS.2012.6374085,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6374085,0
+4,92,T-connected autotransformer-based 24-pulse AC-DC converter for variable frequency induction motor drives,10.1109/TEC.2006.875777,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1677656,0
+4,93,Power Quality Improvements for Integration of Hybrid AC/DC Nanogrids to Power Systems,10.1109/GreenTech.2017.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7923955,0
+4,94,A fork connected auto-transformer based 24-pulse AC-DC converter,10.1109/IICPE.2006.4685364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4685364,0
+4,95,Design and Development of a 36-Pulse AC-DC Converter for Vector Controlled Induction Motor Drive,10.1109/PEDS.2007.4487778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487778,0
+4,96,Polygon Connected 15-Phase AC-DC Converter for Power Quality Improvement,10.1109/PEDES.2006.344245,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4147952,0
+4,97,Next generation space voltage vector ZVT-PWM AC-DC active power converter with auxiliary transformer-assisted resonant DC link,10.1109/PESC.1994.349669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=349669,0
+4,98,Harmonic suppression of multi-pulse AC-DC converter with recycling system of harmonic energy at DC side,10.1109/IPEMC.2012.6259297,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6259297,0
+4,99,An Improved Model-free Predictive Power Control for Three-Phase AC/DC Converters,10.1109/ECCE50734.2022.9948040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9948040,0
+5,0,Bidirectional Buck Three-Phase AC/DC Converter Using SiC MOSFETs,10.1109/ICRERA.2018.8566832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8566832,0
+5,1,Input impedance matched AC-DC converter in wireless power transfer for EV charger,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401932,0
+5,2,Robust Frequency Lock Loop based Power Control and Harmonic Compensation Method for Bidirectional AC/DC Converter,10.1109/EI250167.2020.9346693,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9346693,0
+5,3,Design and development of T- connected transformer based 24-pulse AC-DC rectifier,10.1109/PESC.2008.4592138,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4592138,0
+5,4,Performance characteristics digital boundary current control AC-DC converter,10.1109/ICRERA.2012.6477298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6477298,0
+5,5,A novel digital boundary current control AC-DC converter,10.1109/COMPEL.2012.6251805,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6251805,0
+5,6,Power Quality Improvements Using Delta-Polygon Connected Autotransformer Based Nine Phase AC-DC Converter,10.1109/ICIT.2006.372603,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4237925,0
+5,7,A Parameter Design Method Suitable for Single-Phase Single-Stage AC/DC LLC Converter,10.1109/PEAS53589.2021.9628713,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628713,0
+5,8,ITER PF in Series AC/DC Converters Starting Mechanism Assisted by External Bypass,10.1109/ICPES56491.2022.10073069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10073069,0
+5,9,A Five-level AC/DC Converter for MV Solid-State Transformer,10.1109/APEC48139.2024.10509501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10509501,0
+5,10,AC/DC Converter Integrated into the Aircraft Generator,10.1109/SED51197.2021.9444501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9444501,0
+5,11,A 24-Pulse AC-DC Converter for improving power quality using fork connected transformer,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5204495,0
+5,12,Saddle-node bifurcation of voltage profiles of small integrated AC/DC power systems,10.1109/PESS.2000.867657,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=867657,0
+5,13,AC/DC/AC converter drives simulation using SIMNON,10.1109/PEDS.1995.404867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=404867,0
+5,14,Experimental measurement of non-characteristic harmonic power generated by thyristor pulse-controlled AC/DC three phase converters,10.1109/ISIE.1996.548548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=548548,0
+5,15,An integrated high power factor three-phase AC-DC-AC converter for AC-machines implemented in one microcontroller,10.1109/PESC.1993.471915,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=471915,0
+5,16,A high power factor AC-DC-AC converter using the valley-fill filter,10.1109/PEDES.1998.1330015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1330015,0
+5,17,"An integrated power, area and noise efficient AFE for large scale multichannel neural recording systems",10.1109/EMBC.2014.6944167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6944167,0
+5,18,High power factor PWM rectifiers with an analog pulsewidth prediction controller,10.1109/63.491639,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=491639,0
+5,19,A long-range RFID IC with on-chip ADC in 0.25 /spl mu/m CMOS,10.1109/RFIC.2005.1489810,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1489810,0
+5,20,A high power factor rectifier associated with a ZCZVS PWM full-bridge inverter in a rectifier/inverter system,10.1109/INTLEC.2010.5525667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5525667,0
+5,21,A Wide Input Range All-NMOS Rectifier With Gate Voltage Boosting Technique for Wireless Power Transfer,10.1109/TCSII.2023.3285620,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149519,0
+5,22,Analysis and design of a novel integrated three-phase single-stage ac-dc PWM full-bridge converter,10.1109/APEC.2010.5433571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5433571,0
+5,23,A Complete Harmonic Elimination Approach to DC Link Voltage Balancing for a Cascaded Multilevel Rectifier,10.1109/TIE.2007.906993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4373444,0
+5,24,Concurrent and Simple Controller for AC/DC Power Converters - Theoretical Design and Experimental Evaluation,10.1109/ISIE.2007.4374604,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4374604,0
+5,25,A Reconfigurable CMOS Stack Rectifier With 22.8-dB Dynamic Range Achieving 47.91% Peak PCE for IoT/WSN Application,10.1109/TVLSI.2023.3299075,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10213212,0
+5,26,System Accuracy Analysis of the Multiphase Voltage Regulator Module,10.1109/TPEL.2007.897098,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4182486,0
+5,27,A unity power factor buck type PWM rectifier for medium/high power DC motor drive applications,10.1109/IAS.2001.955436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=955436,0
+5,28,A Single-Input Multiple-Output Unity Power Factor Rectifier,10.1109/TPEL.2020.3045130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296237,0
+5,29,An Interleaved Bi-Directional AC–DC Converter With Reduced Switches and Reactive Power Control,10.1109/TCSII.2019.2903389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8661550,0
+5,30,Soft-switching three-phase matrix based isolated AC-DC converter for DC distribution system,10.1109/ECCE.2015.7310605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7310605,0
+5,31,Multi-port bidirectional three-phase AC-DC converter with high frequency isolation,10.1109/APEC.2018.8341198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8341198,0
+5,32,A Single-Stage Three-Phase Isolated AC-DC Converter for Medium Voltage Solid State Transformer Applications,10.1109/APEC43580.2023.10131313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10131313,0
+5,33,An AC-DC Power Converter for Electrolytic Capacitor-less LED Driver with High Luminous Efficacy,10.23919/IPEC.2018.8507848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8507848,0
+5,34,Isolated and Bidirectional Three-phase AC-DC Converter composed of Three Unfolding Bridges cascaded with a Quad-Active-Bridge Series-Resonant DC-DC converter,10.23919/EPE21ECCEEurope50061.2021.9570658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9570658,0
+5,35,Modeling and Control of Single-Stage Bidirectional Isolated AC-DC Converter with PFC for EV Battery Charging,10.1109/PEDES56012.2022.10080477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10080477,0
+5,36,A Hierarchical Power Routing Scheme for Interlinking Converters in Unbalanced Hybrid AC-DC Microgrids,10.1109/IECON.2018.8591674,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8591674,0
+5,37,Energy Density Enhancement of a Merged-Energy-Buffer-based Two-Stage AC-DC Converter,10.1109/ECCE44975.2020.9236079,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9236079,0
+5,38,Operation of Hybrid AC-DC Microgrid with Multiple ILCs,10.1109/STPEC52385.2021.9718726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718726,0
+5,39,A single-phase isolated AC-DC converter using an interleaved MMC,10.1109/COBEP.2015.7420237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7420237,0
+5,40,Decentralized and Coordinated Virtual Synchronous Generator control for Hybrid AC-DC Microgrids,10.1109/PESGRE45664.2020.9070695,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9070695,0
+5,41,A Simple Ripple Voltage Compensation Method in Hybrid AC-DC Microgrids,10.1109/ISEE2.2019.8921122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8921122,0
+5,42,High Frequency Isolated AC-DC Converter With High Power Factor Based On ZVS Push-Pull Converters,10.1109/SPEC56436.2023.10408697,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10408697,0
+5,43,Power Management Controller for Renewable Energy based hybrid AC-DC Microgrid,10.1109/EPEE59859.2023.10351886,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10351886,0
+5,44,A Combined Deadbeat Predictive and Repetitive Control method for the Single-/Three-Phase AC-DC converter in Charging System for EVs,10.1109/IPEMC-ECCEAsia60879.2024.10567662,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10567662,0
+5,45,A Simple Method to Improve the Dynamic Response of Single-Phase PWM Rectifiers,10.1109/TIE.2008.928113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4559374,0
+5,46,Single-phase bidirectional AC-DC converters for plug-in hybrid electric vehicle applications,10.1109/VPPC.2008.4677506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4677506,0
+5,47,The control method of bidirectional AC/DC converter with unbalanced voltage in hybrid micro-grid,10.1109/ICIEA.2015.7334143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7334143,0
+5,48,Isolated AC/DC Converter Using Simple PWM Strategy,10.23919/IPEC.2018.8507469,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8507469,0
+5,49,Supervisory controller for power management of AC/DC microgrid,10.1109/SEGE.2016.7589516,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7589516,0
+5,50,Digital Multi-Loop Control of a 3-Level Rectifier for Electric Vehicle Ultra-Fast Battery Chargers,10.23919/AEIT50178.2020.9241196,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9241196,0
+5,51,Bit-Stream control of three phase reversible rectifiers,10.1109/ECCE.2009.5316274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5316274,0
+5,52,Nine-Phase AC-DC Converter for Vector Controlled Induction Motor Drives,10.1109/INDCON.2005.1590141,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590141,0
+5,53,High-frequency link AC/DC converter using matrix converter with soft-switching technique,10.1109/ECCE.2017.8096000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8096000,0
+5,54,Input switched single phase high performance bridgeless CûK AC-DC converter,10.1109/PEDES.2012.6484336,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6484336,0
+5,55,Switched Inductor Multi-cascaded High Transfer Ratio Boost AC-DC Converter,10.1109/ECCE-Asia49820.2021.9479144,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479144,0
+5,56,Three-Phase AC/DC Converter fed Two Parallel Interleaved DC-DC Converters for Fast Charging Applications with Improved Power Quality,10.1109/PEDS57185.2023.10246676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10246676,0
+5,57,Isolated Three–Phase AC/DC Converter Using a Soft–Switching Technique for Battery Charger,10.23919/IPEC.2018.8507773,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8507773,0
+5,58,Finite states model predictive direct power control for phase leg faults tolerant operation of bidirectional AC/DC converter,10.1109/APEC.2018.8341341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8341341,0
+5,59,Soft-switching parameter design for an isolated three-phase AC/DC converter,10.1109/ECCE.2017.8095997,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8095997,0
+5,60,Control Strategy of Isolated Bi-Directional AC/DC Converter Controlled by Single Phase Shift Control,10.1109/ICPSAsia55496.2022.9949942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9949942,0
+5,61,Functional Features of Isolated AC/DC Converter Interface in Future Low-Voltage DC Microgrids,10.23919/EPE23ECCEEurope58414.2023.10264615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10264615,0
+5,62,Paralleled Two-Stage Single-Phase AC-DC Converter Modules Utilizing a Second-Stage Input-Current based Droop Control Strategy,10.1109/ECCE47101.2021.9595634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9595634,0
+5,63,A new power flow method for mixed AC-DC power systems,10.1109/PTC.2017.7981104,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7981104,0
+5,64,DCM Operating Characteristics and Harmonic Suppression Study of AC-DC Converter,10.1109/DRPT.2008.4523804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4523804,0
+5,65,Dynamic-Circulating-Current-Minimization Control for Isolated Three-phase AC-DC Converter with Matrix Converter,10.1109/ECCE50734.2022.9948031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9948031,0
+5,66,An EV On-Board Charger Based on Dual-Boost AC-DC Converter,10.1109/ITC-Egypt61547.2024.10620552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10620552,0
+5,67,Optimal Design of a Constant Frequency Series-Resonant DC/DC Converter with Wide Voltage Gain Range for Single-Stage Isolated AC/DC Power Conversion,10.23919/IPEC-Himeji2022-ECCE53331.2022.9806822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9806822,0
+5,68,Impedance Modeling and Small Signal Stability Analysis of the Cascaded AC/DC Converter,10.1109/IPEMC-ECCEAsia60879.2024.10567208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10567208,0
+5,69,Research on a Leg Multiplexed Low-switch-ripple Bidirectional AC/DC Converter,10.1109/CIEEC58067.2023.10166100,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10166100,0
+5,70,The analysis and development of controlled 3φ wavelet modulated AC-DC converter,10.1109/PEDES.2012.6484282,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6484282,0
+5,71,An Inductor-Less AC/DC Converter Using a Bipolar Cockcroft-Walton Multilier and a Cross-Coupled Charge Pump,10.1109/ICPEA49807.2020.9280117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9280117,0
+5,72,Model-based Disturbance Rejection for Current Control of Bidirectional Single-Phase AC/DC Converters Used in Household Energy Router,10.1109/ICEMS.2019.8922233,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8922233,0
+5,73,AC-DC-AC Power Converters with Novel Approach to Power Factor Correction in Three-Phase Systems,10.1109/APEC.2009.4802733,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4802733,0
+5,74,A novel multilevel PWM control scheme of the AC/DC/AC converter for AC drives,10.1109/ISIE.1999.798715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=798715,0
+5,75,Direct power and torque control for three-level NPC based PWM ac/dc/ac converter,10.1109/IPEMC.2009.5157682,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5157682,0
+5,76,Implementation of three-level AC/DC/AC converter with power factor correction and harmonic reduction,10.1109/PEDES.1998.1330698,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1330698,0
+5,77,Indirect current control of a single-phase voltage-sourced boost-type bridge converter operated in the rectifier mode,10.1109/TPEL.2003.816188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1224469,0
+5,78,Digital control for efficiency improvements in interleaved boost PFC rectifiers,10.1109/APEC.2010.5433671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5433671,0
+5,79,A 6.78 MHz active voltage doubler with near-optimal on/off delay compensation for wireless power transfer systems,10.1109/VLSI-DAT.2018.8373261,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8373261,0
+5,80,"A unified theory of uncontrolled rectifiers, discharge lamps and arc furnaces. II. An analog model for educational purposes",10.1109/ICHQP.1998.760193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=760193,0
+5,81,A three-phase Ac-Dc rectifier with reduced switch count,10.1109/INTLEC.2010.5525717,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5525717,0
+5,82,Three-Phase Matrix-Based Isolated AC-DC Converter for Battery Energy Storage System,10.1109/PEDG51384.2021.9494235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9494235,0
+5,83,A Novel Soft-Switched Three-Phase Three-Wire Isolated AC-DC Converter With Power Factor Correction,10.1109/APEC43599.2022.9773554,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773554,0
+5,84,FLC-FPGA based digital controller for boost PFC SMPS without current measurement,10.1109/INDICON.2016.7839148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839148,0
+5,85,A three-phase ZVT boost rectifier with improved analog controller,10.1109/PESC.1996.548622,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=548622,0
+5,86,A New Clock Phase Calibration Method in High-Speed and High-Resolution DACs,10.1109/TCSII.2018.2850922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8398410,0
+5,87,A Ka Band Power Amplifier with Varactor-Based Analog Predistortion in pMOS-SOI,10.1109/PAWR53092.2022.9719848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9719848,0
+5,88,EH performance of an hybrid energy harvester for autonomous nodes,10.1109/WISNET.2016.7444325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7444325,0
+5,89,A Current-mode CMOS Sample-and-Hold Circuit for ADC,10.1109/SICE.2006.314649,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4108606,0
+5,90,Research of the input converter operation of an off-line power-supply system at the rated load mode,10.1109/EDM.2012.6310244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6310244,0
+5,91,A scalable multiphase buck converter with average current share bus,10.1109/APEC.2003.1179250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1179250,0
+5,92,Fuzzy Controller Using Circulating Mode for ITER Poloidal Field AC/DC Converter System,10.1109/TPS.2019.2911090,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698438,0
+5,93,A Single-Stage Bridgeless Isolated AC–DC Conversion System for Light Electric Vehicles Charging Application,10.1109/TTE.2022.3193314,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837098,0
+5,94,Comparison between two single-switch isolated flyback and forward high-quality rectifiers for low power applications,10.1109/APEC.2002.989255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=989255,0
+5,95,A Compact 0.9uW Direct-Conversion Frequency Analyzer for Speech Recognition with Wide-Range Q-Controlable Bandpass Rectifier,10.23919/VLSITechnologyandCir57934.2023.10185164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185164,0
+5,96,Angle controlled current regulated rectifiers for AC/AC converters,10.1109/63.85914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=85914,0
+5,97,Angle controlled current regulated rectifiers for AC/AC converters,10.1109/PESC.1989.48551,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=48551,0
+5,98,A novel reversible boost rectifier with unity power factor,10.1109/APEC.1999.749694,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=749694,0
+5,99,Grid to vehicle and vehicle to grid energy transfer using single-phase bidirectional AC-DC converter and bidirectional DC-DC converter,10.1109/ICEAS.2011.6147084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6147084,0

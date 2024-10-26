@@ -99,3 +99,403 @@
 1,97,A Broadband Microwave Photonic Mixer with the Capability of Phase Shifting,10.1109/OGC.2018.8529946,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529946,1
 1,98,Equidistant mixer-based frequency generation for 60 GHz FBMC transmitter topologies,10.1109/APCCAS.2016.7803963,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803963,1
 1,99,Mixer sequence design for N-path filters,10.1109/ICASSP.2014.6854072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6854072,1
+2,0,A Wideband Subharmonic Mixer With Low Conversion Loss and High Port-to-Port Isolations,10.1109/TCSII.2019.2943749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848602,0
+2,1,A K-band BiCMOS low duty-cycle resistive mixer,10.1109/SiRF.2014.6828506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6828506,0
+2,2,Analysis of process and temperature variations on a 2.4 GHz RF CMOS down conversion subthreshold mixer,10.1109/ICEETS.2016.7583847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7583847,0
+2,3,Precise phase and frequency measurement using all digital dual mixer time difference technique,10.1109/FCS.2016.7546811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546811,0
+2,4,A 1.5-V 5 GHz CMOS Down-conversion mixer for wireless LAN Applications,10.1109/MWSCAS.2006.381823,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4267447,0
+2,5,A Self-Biased Mixer in $0.18\mu \text{m}$ CMOS for an Ultra-Wideband Receiver,10.1109/TMTT.2016.2640949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7829350,0
+2,6,A simple pre-filtering for spectral smoothing in a radio frequency digital to analog converter,10.1109/ICCircuitsAndSystems.2012.6408313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6408313,0
+2,7,Analysis of Direct-Conversion IQ Transmitters With 25% Duty-Cycle Passive Mixers,10.1109/TCSI.2011.2142790,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5771077,0
+2,8,Quadrature Mismatch Shaping for Digital-to-Analog Converters,10.1109/TCSI.2006.883842,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4026696,0
+2,9,Analog-to-Information Converter Based on Off-the-Shelf Components and SoC-FPGA,10.1109/LASCAS.2019.8667546,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667546,0
+2,10,"A Current-Mode, Low Out-of-Band Noise LTE Transmitter With a Class-A/B Power Mixer",10.1109/JSSC.2014.2315643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6803088,0
+2,11,"Low voltage, low power folded-switching mixer with current-reuse in 0.18 /spl mu/m CMOS",10.1109/ISCAS.2004.1328258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328258,0
+2,12,A BIST procedure for analog mixers in software radio,10.1109/SBCCI.2001.953011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=953011,0
+2,13,A 2.2GHz sub-harmonic mixer for directconversion receivers in 0.13/spl mu/m CMOS,10.1109/ISSCC.2006.1696241,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1696241,0
+2,14,0.3GHz to 3.5GHz High Linearity downconverting Mixer on 0.18um SiGe BiCMOS Process,10.1109/ICSICT.2018.8565745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8565745,0
+2,15,A Compact Ultra-High-Linearity 7-to-20 GHz Passive Mixer Achieving up to 37 dBm IIP3 and 25.1 dBm IP1dB in 45nm CMOS SOI,10.1109/RFIC61187.2024.10599963,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599963,0
+2,16,Time-Domain Analog Front-End for UWB WLAN Transform-Domain Receiver,10.1109/CJMW.2008.4772509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4772509,0
+2,17,A high IIP2 direct down-conversion active mixer calibrated by RLS adaptive filter,10.1109/PRIMEASIA.2009.5397455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5397455,0
+2,18,A novel IP2 calibration method for low-voltage downconversion mixers,10.1109/RFIC.2006.1651148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651148,0
+2,19,On the Design of Low-Power RF Mixers,10.1109/ACIT57182.2022.9994142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994142,0
+2,20,Advanced Modeling Methodology for Expedient RF SoC Verification and Performance Estimation,10.1109/SMACD.2018.8434866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8434866,0
+2,21,A divide-by-three regenerative frequency divider using a subharmonic mixer,10.1109/NORCHP.2011.6126726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126726,0
+2,22,A VCO-Based ADC Using Ring Oscillator,10.1109/ICSCSS60660.2024.10624892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10624892,0
+2,23,Characterization of distortionless analog signal multicasting by parametric mixer,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5465859,0
+2,24,A VCO-Based ADC With Inherent Mixing Capability and Local Oscillator Suppression in 55-nm CMOS,10.1109/TCSII.2023.3276301,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10124160,0
+2,25,A novel low-voltage switched load CMOS active mixer,10.1109/RFIT.2005.1598903,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1598903,0
+2,26,A new family of very low-voltage analog circuits based on quasi-floating-gate transistors,10.1109/TCSII.2003.811434,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1198361,0
+2,27,Design Constraints for Image-Reject Frequency-Translating  $\Delta\Sigma$ Modulators,10.1109/TCSII.2009.2035266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5353863,0
+2,28,A Digitally Reconfigurable Sensor Interface for SOC using Delta-Sigma Modulators,10.1109/IMTC.2006.328474,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4124346,0
+2,29,Digital Adaptive IIP2 Calibration Scheme for CMOS Downconversion Mixers,10.1109/JSSC.2008.2005453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4685427,0
+2,30,An Interference-Resilient Wideband Mixer-First Receiver With LO Leakage Suppression and I/Q Correlated Orthogonal Calibration,10.1109/TMTT.2016.2532867,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7425272,0
+2,31,A 3.1-4.8 GHz CMOS Mixer Design using Current Bleeding Technique for UWB MB-OFDM Receivers,10.1109/ICSPC.2007.4728262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4728262,0
+2,32,Design of a sampling mixer for use in UWB radar applications,10.1109/CoBCom49975.2020.9174151,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174151,0
+2,33,Process tolerant highly linear mixer output stage with feedforward linearity improvement method for a high-IF converter,10.1109/NORCHIP.2015.7364403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7364403,0
+2,34,A Linearity Enhancement Method for CMOS Mixers Using Digital Assist,10.1109/ICUWB.2015.7324405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324405,0
+2,35,A Mixer-First Analog Front-End for Dry-Electrode Bioimpedance Spectroscopy,10.1109/BioCAS58349.2023.10388966,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10388966,0
+2,36,Radio frequency digital-to-analog converter,10.1109/JSSC.2004.829377,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1327743,0
+2,37,"A 0.8V, 152 μW, 433 MHz Mixer-First Receiver with a Self-Adjusted Frequency Tracking Loop",10.1109/ACCESS.2021.3092893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9466126,0
+2,38,Analysis and Design of Reactive Passive Mixers for High-Order Modulation IoT Cartesian Transmitters,10.1109/TMTT.2023.3341393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10363629,0
+2,39,Cost-Effective Allan Deviation Measurement in SDRs Using Integrated ADC,10.1109/RWS56914.2024.10438558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10438558,0
+2,40,A Reactive Passive Mixer for 16-QAM Cartesian IoT Transmitters in 22 nm FD-SOI CMOS,10.1109/RFIC54547.2023.10186126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10186126,0
+2,41,CMOS Full-Duplex Mixer-First Receiver With Adaptive Self-Interference Cancellation,10.1109/TCSI.2020.3034905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9250606,0
+2,42,A flexible 10-300 MHz receiver IC employing a bandpass sigma-delta ADC,10.1109/RFIC.2001.935645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=935645,0
+2,43,A wideband flexible digital receiver using polyphase harmonic mixer,10.1109/RWS.2014.6830148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6830148,0
+2,44,Sine Approximation-Based Comparison Method for Determining the Phase–Frequency Characteristic of Analog-to-Digital Converters,10.1109/TIE.2023.3253953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10068412,0
+2,45,An RF-to-BB-Current-Reuse Wideband Receiver With Parallel N-Path Active/Passive Mixers and a Single-MOS Pole-Zero LPF,10.1109/JSSC.2014.2354647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6905856,0
+2,46,Comparison between Mixer and Track and Hold UWB receivers for SATCOM applications,10.23919/EuMC.2019.8910800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910800,0
+2,47,A +7.6 dBm IIP3 2.4-GHz Double-Balanced Mixer With 10.5 dB NF in 65-nm CMOS,10.1109/TCSII.2021.3072487,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9400470,0
+2,48,An analog signal interface with constant performance for SoCs,10.1109/ISCAS.2003.1205678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205678,0
+2,49,The Concurrent Dual-Band Receiver Architecture with One Mixer,10.1109/PACCS.2011.5990294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5990294,0
+2,50,Determining the reciprocity of mixers through 3-port large signal network analyser measurements,10.1109/ARFTGF.2003.1459768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1459768,0
+2,51,Suppression of Aliasing Errors Introduced by Non-Ideal Mixers and Spectrum Partitioning Methods in the FI-DAC System,10.1109/I2MTC60896.2024.10560984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10560984,0
+2,52,A novel method to remove the mismatch of the up-conversion mixer for a low IF transmitter,10.1109/MWSCAS.2004.1354017,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1354017,0
+2,53,"Low Noise, High Gain and Low Power Bulk Injection Mixer for MB-OFDM based UWB Receiver",10.1109/ICCSP.2019.8697970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8697970,0
+2,54,A 1 MHz BW 34.2 fJ/step Continuous Time Delta Sigma Modulator With an Integrated Mixer for Cardiac Ultrasound,10.1109/TBCAS.2016.2580462,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7558137,0
+2,55,A low-voltage LNA and current mode mixer design for energy harvesting sensor node,10.1109/MIXDES.2014.6872256,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6872256,0
+2,56,A 16 Path All-Passive Harmonic Rejection Mixer With Watt-Level In-Band IIP3 in 45-nm CMOS SOI,10.1109/LMWC.2020.3004546,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134904,0
+2,57,Noise-sensitive feedback loop identification in linear time-varying analog circuits,10.23919/DATE.2017.7927190,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7927190,0
+2,58,A scalable microradio receiver used in radiation pattern measurement technology,10.1109/ICECS.2014.7049913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7049913,0
+2,59,Real-time simulation of impairments in the analog parts of the transmitter-receiver,10.1109/VETECS.2005.1543450,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1543450,0
+2,60,Adaptive calibration of IIP2 in direct down-conversion mixers with modified LMS algorithm,10.1109/ISCAS.2011.5937622,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5937622,0
+2,61,Ultra-wide IF bandwidth — The next frontier for SIS receivers,10.1109/MWSYM.2015.7166804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7166804,0
+2,62,Mixer Residual Phase Noise Measurements Using Clock-locked DDS Sources and Receivers,10.1109/ARFTG52954.2022.9844065,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844065,0
+2,63,"15 dB gain, DC-20 GHz InP HBT balanced analog mixer and variable gain amplifier with 27 dB of dynamic range",10.1109/RFIC.1999.805249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=805249,0
+2,64,A 256MHz 60dB gain analog baseband chain with current-mode programmable gain amplifiers and low-pass filter,10.1109/EDSSC.2014.7061170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061170,0
+2,65,A Sub-mW Integrating Mixer SAR Spectrum Sensor for Portable Cognitive Radio Applications,10.1109/TCSI.2017.2772208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125778,0
+2,66,A 77 GHz Low LO Power Mixer With a Split Self-Driven Switching Cell in 65 nm CMOS Technology,10.1109/LMWC.2012.2213076,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6279473,0
+2,67,A CMOS Wideband Low Noise Mixer for LTE Application,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337385,0
+2,68,Open-Source Synthesizable Analog Blocks for High-Speed Link Designs: 20-GS/s 5b ENOB Analog-to-Digital Converter and 5-GHz Phase Interpolator,10.1109/VLSICircuits18222.2020.9162800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162800,0
+2,69,Distortion analysis of MOS track-and-hold sampling mixers using time-varying Volterra series,10.1109/82.752910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=752910,0
+2,70,Sine-shaping mixer for continuous-time ΣΔ ADCs,10.1109/ISCAS.2011.5937765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5937765,0
+2,71,SiGe BiCMOS Voltage-Controlled Oscillator and Mixer IP-blocks for the Next-Generation Communication Transceivers,10.1109/MIEL52794.2021.9569068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9569068,0
+2,72,A 2 GHz to 40 GHz Gilbert Cell Mixer in 0.15 um GaN Technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10644928,0
+2,73,Analog controlled amplifiers and voltage multipliers based on modified Gilbert cells,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733876,0
+2,74,Experimental characterization of a RF mixer for wideband data acquisition systems,10.1109/I2MTC.2017.7969884,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969884,0
+2,75,"Multiple independent gate field effect transistor (MIGFET) - multi-fin RF mixer architecture, three independent gates (MIGFET-T) operation and temperature characteristics",10.1109/.2005.1469267,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1469267,0
+2,76,A 50 mW bandpass /spl Sigma//spl Delta/ ADC with 333 kHz BW and 90 dB DR,10.1109/ISSCC.2002.993013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=993013,0
+2,77,A Boundary Mixing Architecture for Two-Channel Frequency-Interleaving Analog-to-Digital Converters,10.1109/ACCESS.2023.3298025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10190555,0
+2,78,A novel high-speed parallel sampling technique by analog and digital twice mixing,10.1109/PIERS.2017.8262257,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8262257,0
+2,79,Analog CMOS Design for Optical Coherence Tomography Signal Detection and Processing,10.1109/TBME.2007.905402,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4360116,0
+2,80,Distortion in Current Commutating Passive CMOS Downconversion Mixers,10.1109/TMTT.2009.2031930,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5276803,0
+2,81,A low power RF CMOS direct-conversion transmitter using high conversion gain front end for IEEE 802.15.4 standard,10.1109/ISOCC.2015.7401632,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401632,0
+2,82,A harmonic rejection mixer in wideband transmitter,10.1109/IECON.2012.6389029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389029,0
+2,83,Analogue CMOS DSSS CDLL synchronisation scheme employing complex spreading sequences,10.1109/MELCON.2008.4618464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4618464,0
+2,84,A parallel structure for CMOS four-quadrant analog multipliers and its application to a 2-GHz RF downconversion mixer,10.1109/4.678647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=678647,0
+2,85,Jitter requirements of the sampling clock in software radio receivers,10.1109/TCSII.2005.856893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1593962,0
+2,86,A Microwave Photonic Mixer Using a Frequency-Doubled Local Oscillator,10.1109/JPHOT.2018.2838587,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8361441,0
+2,87,Digital centric IF-DAC based heterodyne transmitter architecture,10.1109/NORCHIP.2017.8124956,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8124956,0
+2,88,IIP2 Calibration by Injecting DC Offset at the Mixer in a Wireless Receiver,10.1109/TCSII.2007.905376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358634,0
+2,89,A 0.5-to-3.5-GHz Full-Duplex Mixer-First Receiver With Cartesian Synthesized Self-Interference Suppression Interface in 65-nm CMOS,10.1109/TMTT.2020.2989386,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088219,0
+2,90,Full-duplex WiFi analog transmission in RSOA-based radio-over-fiber system with wavelength-reuse,10.1109/ECOC.2014.6964114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6964114,0
+2,91,An linear correlation investigation of transient tube-wall pressure signal in the static mixer with twisted leaves,10.1109/ICCET.2010.5486109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5486109,0
+2,92,Behavioral models for noise in bipolar and MOSFET mixers,10.1109/82.799679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=799679,0
+2,93,A double balanced 81–86GHz EBAND active down conversion mixer in SiGe technology,10.1109/BCTM.2013.6798171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6798171,0
+2,94,Complex IF Harmonic Rejection Mixer for Non-Contiguous Dual Carrier Reception in 65 nm CMOS,10.1109/JSSC.2013.2253406,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6490433,0
+2,95,Wide-band Direct Sampling Mixer with complex-pole synthesis,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728569,0
+2,96,A 24dB gain Gilbert-type down-sampling mixer with increased DC-input range through exploiting the body effect,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4600881,0
+2,97,An analog synchronous QPSK demodulator for ultra-high rate wireless communications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5760738,0
+2,98,Design in Optoelectronic Oscillator Integrated on Vibration Sensor of GPS Drone,10.1109/APWCS61586.2024.10679299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679299,0
+2,99,On-die self-healing of mixer image-rejection ratio for mixed-signal electronic systems,10.1109/BCTM.2012.6352658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6352658,0
+3,0,Design of wideband mixer and VGA for Software Defined Radio in RFID application,10.1109/NORCHIP.2014.7004731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7004731,0
+3,1,A Dual-Band GNSS RF Front End With a Pseudo-Differential LNA,10.1109/TCSII.2011.2106352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5730482,0
+3,2,Analog Multiband: Efficient Bandwidth Scaling for mm-Wave Communication,10.1109/JSTSP.2016.2535184,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7420546,0
+3,3,Phase measurement system operating at constant frequency,10.1109/EITech.2015.7162991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7162991,0
+3,4,A 130nm low power Software-Defined radio receiver,10.1109/APMC.2012.6421812,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421812,0
+3,5,Frequency-Stability Measurement System Using High-Speed ADCs and Digital Signal Processing,10.1109/TIM.2007.895588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4303427,0
+3,6,A Wideband Digital Receiver With Hard-Switching Mixers for Cognitive Radio,10.1109/JETCAS.2013.2284613,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6636121,0
+3,7,Noise analysis for sampling mixers using stochastic differential equations,10.1109/82.769778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=769778,0
+3,8,A 2G/3G Cellular Analog Baseband Based on a Filtering ADC,10.1109/TCSII.2012.2188458,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165342,0
+3,9,A Cryo-CMOS Homodyne-Demodulation Qubit Readout IC With Continuous-Time Analog Integration for SNR Improvement,10.1109/LSSC.2023.3307456,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10226428,0
+3,10,Estimating the impact of complete analog channel selection on zero-IF multi-standard radio receivers power consumption,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6226220,0
+3,11,A Full-Band Multi-Standard Global Analog & Digital Car Radio SoC with a Single Fixed-Frequency PLL,10.1109/RFIC.2019.8701825,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701825,0
+3,12,mm-Wave Mixer-First Receiver With Selective Passive Wideband Low-Pass Filtering,10.1109/JSSC.2021.3063726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9380731,0
+3,13,Analysis of Nonlinear Distortion in Direct Sampling Mixers,10.1109/KJMW.2007.4402239,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4402239,0
+3,14,Design and measurement of harmonic rejection Direct Sampling Mixer,10.1109/APMC.2009.5385391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385391,0
+3,15,"A multiband LTE SAW-less CMOS transmitter with source-follower-drived passive mixers, envelope-tracked RF-PGAs, and Marchand baluns",10.1109/RFIC.2012.6242308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242308,0
+3,16,The BiFET-technology voltage analog multipliers based on the radiation resistant ABMC «Integral»,10.1109/SIBCON.2009.5044864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5044864,0
+3,17,Design and Measurement of a Doppler Radar With New Quadrature Hybrid Mixer for Vehicle Applications,10.1109/TMTT.2009.2035874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5340549,0
+3,18,A complete DVB-T/ATSC tuner analog base-band implemented with a single filtering ADC,10.1109/ESSCIRC.2011.6044989,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6044989,0
+3,19,S-band active phased array antenna with analog phase shifters using double-balanced mixers for mobile SATCOM vehicles,10.1109/TAP.2005.852305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1492597,0
+3,20,A Low Power Transmitter for Phase-Shift Keying Modulation Schemes,10.1109/PIMRC.2006.254480,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4022734,0
+3,21,Wideband OFDM Transmitter for Wireless Communications,10.1109/MWSYM.2006.249513,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014890,0
+3,22,Reconfigurable and simultaneous dual band Galileo/GPS front-end receiver in 0.13μm RFCMOS,10.1109/PLANS.2008.4569990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4569990,0
+3,23,Implementation of dual-channel receiver suitable for 3G power amplifiers characterization in RF/Digital predistortion systems,10.1109/ICECS.2008.4674818,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4674818,0
+3,24,"A BiCMOS 50 MHz input bandwidth, 1-to-16 channelizer optimized for low power analog signal classification",10.1109/BCTM.2014.6981289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6981289,0
+3,25,Digital-Centric RF CMOS Technology,10.1109/RFIT.2007.4443934,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443934,0
+3,26,RF Receiver Front-End and Pipelined Analog to Digital Chip Design,10.1109/ICCE-Asia53811.2021.9641898,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9641898,0
+3,27,Towards a denser frequency grid in phase measurements using mixer-based receivers,10.1109/ARFTG.2015.7162893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7162893,0
+3,28,High-frequency distortion analysis of analog integrated circuits,10.1109/82.754866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=754866,0
+3,29,A low-cost modular transmit front-end with analog beamforming capability,10.1109/IMOC.2017.8121119,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8121119,0
+3,30,A high frequency read-out channel for bio-impedance measurement,10.1109/ISCAS.2016.7527546,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527546,0
+3,31,A 28-GHz CMOS 2 × 4 Phased Array Chip with High-Precision Phase-Adjusting Function Between Subarrays for Beam Multiplexing,10.23919/EuMC.2018.8541612,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8541612,0
+3,32,A 28-GHz CMOS 2×4 Phased Array Chip with High-Precision Phase-Adjusting Function Between Subarrays for Beam Multiplexing,10.23919/EuMIC.2018.8539933,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8539933,0
+3,33,Design and Analysis of Harmonic Rejection Mixers With Programmable LO Frequency,10.1109/JSSC.2013.2275652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6583261,0
+3,34,An RF Based Analog Linear Demodulator,10.1109/LMWC.2011.2154318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5871697,0
+3,35,A biosignal analog front-end leveraging frequency translation,10.1109/ICSENS.2017.8234411,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8234411,0
+3,36,A Harmonic Rejection Strategy for 25% Duty-Cycle IQ-Mixers Using Digital-to-Time Converters,10.1109/TCSII.2019.2937654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8815876,0
+3,37,Phase sensitive parametric mixers for coherent all-optical signal processing,10.1109/PHOSST.2011.6000088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6000088,0
+3,38,High-performance RF mixer and operational amplifier BiCMOS circuits using parasitic vertical bipolar transistor in CMOS technology,10.1109/JSSC.2004.840982,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1388628,0
+3,39,Analysis and implementation of a CMOS even harmonic mixer with current reuse for heterodyne/direct conversion receivers,10.1109/TCSI.2005.852487,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1506974,0
+3,40,A direct-conversion receiver for multi-carrier 3G/4G small-cell base stations in 65nm CMOS,10.1109/RFIC.2016.7508253,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508253,0
+3,41,A sub-nyquist analog front-end with subarray beamforming for ultrasound imaging,10.1109/ULTSYM.2015.0324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7329107,0
+3,42,Mixer-based subarray beamforming for sub-Nyquist sampling ultrasound architectures,10.1109/ICASSP.2015.7178096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178096,0
+3,43,Digital-Preprocessed Analog-Multiplexed DAC for High-Speed Optical Communications,10.23919/PS.2019.8817838,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8817838,0
+3,44,"21 fJ/step OTA-Less, Mismatch-Tolerant Continuous-Time VCO-Based Band-Pass ADC",10.1109/LSSC.2020.3019784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9178737,0
+3,45,A 2.4 GHz CMOS sub-sampling mixer with integrated filtering,10.1109/JSSC.2005.857364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1522555,0
+3,46,The New Party Line: Power-Frequency Tradeoff in Linear BiCMOS Passive Mixers for Cellular Base Stations,10.1109/MMM.2013.2296215,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6763352,0
+3,47,A carrier frequency generator for multi-band UWB radios,10.1109/RFIC.2006.1651124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651124,0
+3,48,Mixed signal frequency mixers with intermodulation product cancellation,10.1109/ISCAS.2009.5118210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5118210,0
+3,49,Gain and noise optimization of a passive sliding IF architecture,10.1109/RFIC.2015.7337774,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337774,0
+3,50,A Millimeter-Wave Mixer-First Receiver with Non-Uniform Time-Approximation Filter Achieving $> 45\text{-dB}$ Blocker Rejection,10.1109/RFIC54546.2022.9863107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9863107,0
+3,51,Reconfigurable Digital Audio Mixer for Electroacoustic Music,10.1109/ReConFig.2010.28,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5695294,0
+3,52,30.4 A 370µW 5.5dB-NF BLE/BT5.0/IEEE 802.15.4-Compliant Receiver with >63dB Adjacent Channel Rejection at >2 Channels Offset in 22nm FDSOI,10.1109/ISSCC19947.2020.9062973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9062973,0
+3,53,"A high-dynamic range, broadband, RF transmit modulator IC",10.1109/RFIC.2012.6242289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242289,0
+3,54,Performance Enhancement of a Sub-Sampling Circuit for Ultra-Wideband Signal Processing,10.1109/LMWC.2007.910500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4385758,0
+3,55,A 120 GHz I/Q Transmitter Front-end in a 40 nm CMOS for Wireless Chip to Chip Communication,10.1109/RFIC.2018.8429019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8429019,0
+3,56,Wideband inductorless CMOS RF front-end for LTE receivers,10.1109/ICICDT.2017.7993505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7993505,0
+3,57,Online estimation of pulp mixing in paper industries,10.1109/GET.2015.7453815,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7453815,0
+3,58,Atomic model learning: A machine learning paradigm for post silicon debug of RF/analog circuits,10.1109/VTS.2014.6818791,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6818791,0
+3,59,A CMOS quadrature down-conversion mixer with analog I/Q correction obtaining 55 dB of image rejection for TV on mobile applications,10.1109/RFIC.2006.1651156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651156,0
+3,60,A digital-RF converter architecture for IQ modulator with discrete-time low resolution quadrature LO,10.1109/ICECS.2013.6815496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815496,0
+3,61,A direct conversion GPS/Galileo receiver front-end for space applications,10.1109/NAVITEC.2010.5707986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5707986,0
+3,62,An I/Q mismatch-free switched-capacitor complex sigma-delta Modulator,10.1109/TCSII.2004.827552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1299040,0
+3,63,Terahertz Even-Order Subharmonic Mixer Using Symmetric MOS Varactors,10.1109/JSSC.2020.3024177,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9205316,0
+3,64,Low voltage mixer biasing using monolithic integrated transformer dc-coupling,10.1109/ISCAS.1999.780648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=780648,0
+3,65,A 220- $\mu$ W −83-dBm 5.8-GHz Third-Harmonic Passive Mixer-First LP-WUR for IEEE 802.11ba,10.1109/TMTT.2019.2913654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8716702,0
+3,66,A 100–800 MHz 8-Path Polyphase Transmitter With Mixer Duty-Cycle Control Achieving $<-$40 dBc for ALL Harmonics,10.1109/JSSC.2013.2297410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6716097,0
+3,67,A 110–125 GHz 27.5 dB Gain Low-power I/Q Receiver Front-end in 65 nm CMOS Technology,10.1109/MWSYM.2018.8439204,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8439204,0
+3,68,An On-Chip Configurable Receiver With >55-dB Tx Leakage Suppression for UHF RFID Reader,10.1109/LMWC.2019.2907173,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8692406,0
+3,69,A low-power SiGe BiCMOS 190 GHz receiver with 47 dB conversion gain and 11 dB noise figure for ultra-large-bandwidth applications,10.1109/RFIC.2016.7508308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508308,0
+3,70,A Zero-IF Auto-Calibration System For Phased Array Antennas,10.23919/EuRAD.2018.8546617,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8546617,0
+3,71,A new architecture for concurrent dual-band digital predistortion,10.1109/APMC.2013.6695221,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6695221,0
+3,72,Carrier recovery loop for millimeter-wave heterodyne receiver,10.1109/BSC.2008.4563247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4563247,0
+3,73,340GHz High Speed Communication System Based on Solid State Transceiver,10.1109/UCMMT45316.2018.9015917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9015917,0
+3,74,Digital OFDM transmitter based on multi-bit delta sigma modulator,10.1109/COMCAS.2015.7360437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360437,0
+3,75,A Zero-IF Auto-Calibration System for Phased Array Antennas,10.23919/EuMC.2018.8541635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8541635,0
+3,76,A low voltage SiGe HBT up-conversion mixer for 5.8 GHz WLAN,10.1109/RWS.2006.1615188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1615188,0
+3,77,Modulated wideband converter with non-ideal lowpass filters,10.1109/ICASSP.2010.5495912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5495912,0
+3,78,"4.5 A Reconfigurable, Multi-Channel Quantized-Analog Transmitter with <-35dB EVM and <-51dBc ACLR in 22nm FDSOI",10.1109/ISSCC49657.2024.10454269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10454269,0
+3,79,Modified Gilbert-Cell Mixer With an LO Waveform Shaper and Switched Gate-Biasing for 1/f Noise Reduction in 28-nm CMOS,10.1109/TCSII.2019.2923595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8738877,0
+3,80,0.18-/spl mu/m CMOS Bluetooth analog receiver with -88-dBm sensitivity,10.1109/JSSC.2003.821769,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1263664,0
+3,81,Design of Fully-Printed Organic Circuits on Plastic Foils for Wireless Systems,10.1109/JETCAS.2016.2611381,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7812662,0
+3,82,Dual-band linear frequency-modulated continuous wave radar receiver with high image rejection based on microwave photonic I/Q mixer,10.1109/MWP.2017.8168715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8168715,0
+3,83,The Implementation of High-Precision Ranging Technology Based on Dual Mixer Time Difference,10.1109/ICCSN.2019.8905374,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905374,0
+3,84,A High IIP2 Direct-Conversion Receiver Using Even-Harmonic Reduction Technique for Cellular CDMA/PCS/GPS Applications,10.1109/TCSI.2008.925960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4530860,0
+3,85,IoT enabled communication device with mixer less low complex QPSK based transmitter architecture for low frequency applications,10.1109/WPMC.2014.7014837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7014837,0
+3,86,Second order nonlinearity analysis of Gilbert mixer,10.1109/RFIC.2003.1214008,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1214008,0
+3,87,Second order nonlinearity analysis of Gilbert mixer,10.1109/MWSYM.2003.1211030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1211030,0
+3,88,"A design tool for weakly nonlinear analog integrated circuits with multiple inputs (mixers, multipliers)",10.1109/CICC.1991.164062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=164062,0
+3,89,Challenges and considerations of analog front-ends design for portable ultrasound systems,10.1109/ULTSYM.2010.5935843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5935843,0
+3,90,Direct-Conversion receiver Front-end for LTE wireless network,10.1109/STA.2019.8717261,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8717261,0
+3,91,Analog-to-Digital Converters with embedded IF mixing using variable reference voltages,10.1109/ISCAS.2014.6865072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865072,0
+3,92,A Sub-Nyquist Rate Sampling Receiver Exploiting Compressive Sensing,10.1109/TCSI.2010.2072430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5678599,0
+3,93,Implementation and simulation of the impact of mixer phase mismatch in cartesian feedback linearization systems,10.1109/ICECS.2016.7841247,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841247,0
+3,94,"Chopper Stabilization of Analog Multipliers, Variable Gain Amplifiers, and Mixers",10.1109/JSSC.2008.2004328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4639537,0
+3,95,An 8–30 GHz High-Linearity Harmonic-Rejection Mixer in 45 nm CMOS SOI,10.1109/TMTT.2023.3327884,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10308530,0
+3,96,"A 1-V 4-mW Differential-Folded Mixer With Common-Gate Transconductor Using Multiple Feedback Achieving 18.4-dB Conversion Gain, +12.5-dBm IIP3, and 8.5-dB NF",10.1109/TVLSI.2020.2969679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003496,0
+3,97,A 2-V 1.9-GHz Si down-conversion mixer with an LC phase shifter,10.1109/4.668998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=668998,0
+3,98,Double Quadrature Mixer for adaptive spur cancellation in ultra-wideband radios,10.1109/RWS.2015.7129780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129780,0
+3,99,A low-IF direct sampling mixer with complex transfer function for ISDB-T one segment applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728437,0
+4,0,A Sub-Band-Aliasing Architecture for Frequency-Interleaved Analog-to-Digital Converters,10.1109/TIM.2024.3413133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10555283,0
+4,1,A High IIP2 Mixer Enhanced by a New Calibration Technique for Zero-IF Receivers,10.1109/TCSII.2008.918998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4469993,0
+4,2,A CMOS Time Domain Microwave Broadband Dielectric Spectroscopy System with a Contact-less Sensor for Liquid Chemical Detection,10.1109/MWSYM.2019.8700726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700726,0
+4,3,Prediction of the performance of graphene-based analog mixers and amplifiers,10.1109/TENCON.2013.6718514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6718514,0
+4,4,A simple macromodeling approach for analysing substrate coupling in an RF mixer IC,10.1109/ICASIC.2003.1277387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733575,0
+4,5,A Two-Stage Approach to Harmonic Rejection Mixing Using Blind Interference Cancellation,10.1109/TCSII.2008.926796,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4653516,0
+4,6,Efficient analog multiband channelization for bandwidth scaling in mm-wave systems,10.1109/ICC.2015.7248505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7248505,0
+4,7,425-to-25-GHz CMOS-Integrated Downconverter,10.1109/LSSC.2021.3067192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9381398,0
+4,8,"Design of an RF-DAC in 65nm CMOS for multistandard, multimode transmitters",10.1109/RFIT.2009.5383742,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383742,0
+4,9,"A New Scheme for Low-Power, Low-Latency, and Interferer-Tolerant Wake-Up Receivers",10.1109/LSSC.2023.3325186,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287127,0
+4,10,A Low-Noise and High-Gain Folded Mixer for a UWB System in 0.18-μm SiGe Bi-CMOS Technology,10.1109/TCSII.2020.3019486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179794,0
+4,11,Simplified Harmonic Rejection Mixer Analysis and Design Based on a Filtered Periodic Impulse Model,10.1109/TCSII.2021.3051769,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9324800,0
+4,12,Generalized Quadrature Data Weighted Averaging,10.1109/TCSII.2014.2368620,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6949670,0
+4,13,"A Multiband FDD SAW-Less Transmitter for 5G-NR Featuring a BW-Extended N-Path Filter-Modulator, a Switched-BB Input, and a Wideband TIA-Based PA Driver",10.1109/JSSC.2020.3021687,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9203953,0
+4,14,A DC-coupled biomedical radar sensor with analog DC offset calibration circuit,10.1109/I2MTC.2018.8409872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8409872,0
+4,15,A 0.5–20GHz quadrature downconverter,10.1109/BIPOL.2008.4662740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4662740,0
+4,16,A 4-phase blocker tolerant wideband receiver with MMSE harmonic rejection equalizer,10.1109/RFIC.2016.7508296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508296,0
+4,17,A direct RF signal sampling integrated receiver for IoT applications,10.1109/ATC.2015.7388326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7388326,0
+4,18,A direct-conversion receiver for low-voltage low-power multi-band UWB with a novel single-level mixer,10.1109/EURAD.2005.1605612,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1605612,0
+4,19,A direct-conversion receiver for low-voltage low-power multi-band UWB with a novel single-level mixer,10.1109/EUMC.2005.1610355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1610355,0
+4,20,GNN-Based Hierarchical Annotation for Analog Circuits,10.1109/TCAD.2023.3236269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10015088,0
+4,21,Full Four-Channel 6.3-Gb/s 60-GHz CMOS Transceiver With Low-Power Analog and Digital Baseband Circuitry,10.1109/JSSC.2012.2218066,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6339016,0
+4,22,Jitter-Robust Multicarrier ADC-Based Serial Link Receiver Architecture : (Invited Special Session Paper),10.1109/MWSCAS.2019.8884927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884927,0
+4,23,Automation design for a syrup production line using Siemens PLC S7-1200 and TIA Portal software,10.1109/ICCCCEE.2017.7866702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7866702,0
+4,24,Dynamic Stochastic Computing for Digital Signal Processing Applications,10.23919/DATE48585.2020.9116562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9116562,0
+4,25,A 28-GHz Phased-array Receiver with an On-chip BIST Function by using a Shielded Symmetrical Signal Distributor,10.23919/EuMC.2019.8910722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910722,0
+4,26,SuperCam: A 64 pixel SIS receiver array for submillimeter-wave astronomy,10.1109/MWSYM.2015.7166873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7166873,0
+4,27,An S-band CMOS transceiver front-end for digital array radars,10.1109/APMC.2017.8251679,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251679,0
+4,28,A Tuneable Fully Single-Ended 39GHz to 28GHz Gilbert Micromixer for 5G Using Analog Predistortion in a 130nm BiCMOS Technology,10.1109/RWS45077.2020.9050135,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050135,0
+4,29,A 1GHz-bandwidth CMOS integrator for compressive sensing and RF applications,10.1109/NAECON.2011.6183093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6183093,0
+4,30,Joint I/Q mixer and filter imbalance compensation and channel equalization with novel preamble design,10.1109/EUSIPCO.2016.7760341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7760341,0
+4,31,Digital Equalization of a Polyphase Harmonic Mixer,10.1109/TCSII.2013.2268315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6553097,0
+4,32,20 GHz 5 dB gain analog multipliers with AlGaAs/GaAs HBTs,10.1109/MWSYM.1991.147258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=147258,0
+4,33,Multi-channel Low-noise receiver and transmitter for 76-81 GHz automotive radar systems in 65 nm CMOS,10.1109/EuMC.2014.6986504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986504,0
+4,34,A dual band FMCW radar receiver with integrated active balun and baseband AGC loop,10.1109/ISCAS.2017.8050526,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050526,0
+4,35,A Distributed RF Front-End for UWB Receivers,10.1109/CICC.2006.321013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4115075,0
+4,36,Noise in current-commutating CMOS mixers,10.1109/4.766811,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=766811,0
+4,37,A 3.15-mW +16.0-dBm IIP3 22-dB CG Inductively Source Degenerated Balun-LNA Mixer With Integrated Transformer-Based Gate Inductor and IM2 Injection Technique,10.1109/TVLSI.2019.2950961,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910348,0
+4,38,A 45Gb/s Analog Multi-Tone Receiver Utilizing a 6-Tap MIMO-FFE in 22nm FDSOI,10.1109/OJCAS.2024.3414252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556759,0
+4,39,A 1.2 GHz CMOS quadrature self-oscillating mixer,10.1109/ISCAS.1999.777602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=777602,0
+4,40,High linearity CMOS SOI mixer,10.1109/RFIC.2003.1213976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1213976,0
+4,41,Superconductor Analog-to-Digital Converter for High-Resolution Magnetic Resonance Imaging,10.1109/TASC.2014.2361132,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6915692,0
+4,42,Improve the Sensing Matrix Model for Random Demodulation in the Case of Mixer With Non-Ideal Characteristics,10.1109/I2MTC50364.2021.9459877,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459877,0
+4,43,Design and Analysis of a Programmable Receiver Front End Based on Baseband Analog-FIR Filtering Using an LPTV Resistor,10.1109/JSSC.2018.2804044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304757,0
+4,44,A 0.5-to-3.5 GHz Self-Interference-Canceling Receiver for In-Band Full-Duplex Wireless,10.1109/RFIC.2019.8701837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701837,0
+4,45,Software radio performance improvement through combined RF and digital design,10.1109/RWS.2008.4463486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463486,0
+4,46,A 1V 14mW-per-Channel Flexible-IF CMOS Analog-Baseband IC for 802.11a/b/g Receivers,10.1109/VLSIC.2006.1705396,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1705396,0
+4,47,A CMOS lock-in-amplifier with semi-digital automatic phase tuning,10.1109/BioCAS.2016.7833791,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7833791,0
+4,48,Photonic downconverting link with digital linearization,10.1109/MWSYM.2015.7167007,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7167007,0
+4,49,Interference rejection in delay line based quadrature band-pass ΣΔ modulators,10.1109/ISCAS.2012.6271950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6271950,0
+4,50,An IIP2 calibration technique for CMOS multi-standard mixers,10.1109/ISCAS.2008.4541568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541568,0
+4,51,Analog Signal Processing in High Frequency Circuits Using Crossbar Configurations,10.1109/COMCAS52219.2021.9629041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9629041,0
+4,52,Improving the linearity of wideband receiver systems by component IM3 phasor manipulation,10.1109/RFIC.2017.7969004,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969004,0
+4,53,"A 0.35-V 520- $\mu \text{W}$ 2.4-GHz Current-Bleeding Mixer With Inductive-Gate and Forward-Body Bias, Achieving >13-dB Conversion Gain and >55-dB Port-to-Port Isolation",10.1109/TMTT.2016.2636143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7801875,0
+4,54,A Frequency-Folded ADC Channelizer With Digital Equalization and Relaxed Anti-Alias Filtering,10.1109/TCSI.2017.2776918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8248640,0
+4,55,A Current Re-Use Mixer and a Push–Pull Buffer for Base Station Applications,10.1109/LMWC.2006.880699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1683810,0
+4,56,A low-voltage folded-switching mixer in 0.18-/spl mu/m CMOS,10.1109/JSSC.2005.848034,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1435603,0
+4,57,Composite RF tuner models and their object oriented implementation,10.1109/TSP.2011.6043753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6043753,0
+4,58,A SiGe frequency quadrupler for M-QAM carrier recovery,10.1109/SMIC.2010.5422848,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5422848,0
+4,59,All-Electronic 100-GHz Bandwidth Digital-to-Analog Converter Generating PAM Signals up to 190 GBaud,10.1109/JLT.2016.2614126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7600393,0
+4,60,Yield-Aware Pareto Front Extraction for Discrete Hierarchical Optimization of Analog Circuits,10.1109/TCAD.2014.2331563,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6899766,0
+4,61,A 100-GS/s Four-to-One Analog Time Interleaver in 55-nm SiGe BiCMOS,10.1109/JSSC.2021.3057575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358984,0
+4,62,Survey on Compensation for Analog Front End Imperfections by Means of Adaptive Digital Front End for On-Chip OFDM Wireless Transmitters,10.1109/CERMA.2011.63,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6125854,0
+4,63,A Reconfigurable Power-Efficient Quantized Analog RF Front-End With Smart Calibration,10.1109/OJSSCS.2022.3218494,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9933817,0
+4,64,A Low-IF/Zero-IF Reconfigurable Analog Baseband IC With an I/Q Imbalance Cancellation Scheme,10.1109/JSSC.2010.2102510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5708186,0
+4,65,Array of 296-GHz CMOS Concurrent Transceiver Pixels With Phase and Amplitude Extraction Circuits for Improving Reflection-Mode Imaging Resolution,10.1109/TTHZ.2024.3350515,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381731,0
+4,66,A Low-Power Single-Weight-Combiner 802.11abg SoC in 0.13 µm CMOS for Embedded Applications Utilizing An Area and Power Efficient Cartesian Phase Shifter and Mixer Circuit,10.1109/JSSC.2008.920338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4494642,0
+4,67,A design of the full-duplex voice mixer for multi-user voice over sensor networks (VoSN) systems,10.1109/ICNIDC.2012.6418721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6418721,0
+4,68,Doubly balanced dual-gate CMOS mixer,10.1109/4.766822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=766822,0
+4,69,Radio receiver mixer model for event-driven simulators to support functional verification of RF-SOC wireless links,10.1109/BMAS.2010.6156596,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6156596,0
+4,70,Comparison between Mixer and Track and Hold UWB receivers for SATCOM applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8904657,0
+4,71,Efficient Measurement of Impulses Based on Frequency-Domain Approach,10.1109/TIM.2012.2184012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6146427,0
+4,72,A high-level VHDL-AMS model design methodology for analog RF LNA and mixer,10.1109/BMAS.2004.1393994,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1393994,0
+4,73,A Phase-Encoded Voice Features Extraction Circuit Using Digital Mixers and Analog Filters based on Ring Oscillators,10.1109/ISCAS48785.2022.9938001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9938001,0
+4,74,"Quadrature mismatch shaping with a complex, tree structured DAC",10.1109/ISCAS.2006.1693248,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693248,0
+4,75,Design and Evaluation of 2-bit-Input Single-Flux-Quantum Autocorrelator System for Astronomical Data Analysis,10.1109/TASC.2021.3053919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333648,0
+4,76,A wideband downconverter and analog baseband for radio astronomy applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6173980,0
+4,77,A ContinuousWave Pseudo Random Noise Radar System using MIMO and Analog Correlation,10.23919/IRS.2019.8768148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8768148,0
+4,78,A four-band TD-LTE transmitter with wide dynamic range and LPF bandwidth calibration,10.1109/VLSI-DAT.2017.7939680,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7939680,0
+4,79,2.1 mm-Wave 5G Radios: Baseband to Waves,10.1109/ISSCC42613.2021.9365980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9365980,0
+4,80,On IIP2 Improvement by Injecting DC Offset at the Mixer in a Wireless Receiver,10.1109/CICC.2007.4405818,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4405818,0
+4,81,First-Order Recursive CIC Filters in Time-Interleaved VCO-Based ADCs for Direct-RF Sampling Receivers,10.1109/APCCAS47518.2019.8953087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953087,0
+4,82,A Novel Approach for Mitigation of AM/PM Delay Mismatch in Polar Transmitters,10.1109/ICCNC.2018.8390331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8390331,0
+4,83,Analog RF Circuit Sizing by a Cascade of Shallow Neural Networks,10.1109/TCAD.2023.3282570,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10143358,0
+4,84,Millimeter-wave TX phased array with phase adjusting function between transmitters for hybrid beamforming with interleaved subarrays,10.1109/EuMC.2016.7824658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824658,0
+4,85,Millimeter-wave TX phased array with phase adjusting function between transmitters for hybrid beamforming with interleaved subarrays,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7811738,0
+4,86,Towards suppression of all harmonics in a polyphase multipath transmitter,10.1109/ISCAS.2011.5938033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5938033,0
+4,87,A Survey of Low-cost Lock-in Amplifiers for Sensor Applications,10.1109/ICACCI.2018.8554932,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8554932,0
+4,88,A Highly Integrated Dual Band FMCW Radar Receiver for Indoor Positioning Applications,10.23919/EuRAD.2018.8546639,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8546639,0
+4,89,X-Band receiver front-end in fully depleted SOI technology,10.1109/ICUWB.2012.6340507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6340507,0
+4,90,A 1024-QAM Analog Front-End for Broadband Powerline Communication Up to 60 MHz,10.1109/JSSC.2009.2017008,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4907330,0
+4,91,Automated over speeding detection and reporting system,10.1109/EPEPEMC.2014.6980657,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6980657,0
+4,92,A Closed-Loop Reconfigurable Analog Baseband Circuitry With Open-Loop Tunable Notch Filters to Improve Receiver Tx Leakage and Close-in Blocker Tolerance,10.1109/TCSII.2021.3125305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9601299,0
+4,93,Analysis and design of a low-voltage RF CMOS mixer,10.1109/TCSII.2005.857762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1605436,0
+4,94,All digital implementation of dual mixer time difference technique for precise phase and frequency measurement,10.23919/URSIGASS.2017.8105343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8105343,0
+4,95,Analogue baseband processing for single chip radar proximity sensor,10.1109/EuRAD48048.2021.00116,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337439,0
+4,96,Generalized Linear Periodic Time-Varying Analysis for Noise Reduction in an Active Mixer,10.1109/JSSC.2007.896519,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4214975,0
+4,97,On the implications of Analog-to-Digital Conversion on variable-rate BandPass Sampling GNSS receivers,10.1109/ACSSC.2008.5074799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5074799,0
+4,98,Design and implementation of analog multitone signal generator using regenerative frequency divider for OFDM transceiver,10.1109/DELTA.2006.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1581182,0
+4,99,Incorporating analog integrated circuits in the undergraduate curriculum,10.1109/FIE.1993.405459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=405459,0
+5,0,Multi-mode sub-Nyquist rate digital-to-analog conversion for direct waveform synthesis,10.1109/SIPS.2008.4671747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4671747,0
+5,1,Monolithic RF active mixer design,10.1109/82.754857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=754857,0
+5,2,A Rel-12 2G/3G/LTE-Advanced 2CC Transmitter,10.1109/JSSC.2015.2511167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7458130,0
+5,3,Suppression of Inter-channel Higher Order Four Wave Mixing in Four-Mode Phase-Sensitive Parametric Wavelength Multicasting,10.1109/JLT.2015.2391187,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7008476,0
+5,4,From digital user to analog airwaves and back,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5342676,0
+5,5,Characterizing metastability and jitter in CMOS latch/flip-flop used as a digital mixer,10.1109/MWSCAS.2002.1187098,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187098,0
+5,6,A Highly Integrated Distributed Mixer Receiver for Low-Power Wireless Radios,10.1109/JSSC.2023.3317778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269154,0
+5,7,Monolithic ka-band 180-degree analog phase shifter employing HEMT-based varactor diodes,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=755608,0
+5,8,Using capacitive cross-coupling technique in RF low noise amplifiers and down-conversion mixer design,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1471217,0
+5,9,"A high gain, low voltage folded-switching mixer with current-reuse in 0.18 /spl mu/m CMOS",10.1109/RFIC.2004.1320517,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1320517,0
+5,10,A low-noise analog baseband in 65nm CMOS,10.1109/CICC.2010.5617614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5617614,0
+5,11,An eight channel analog-FFT based 450MS/s hybrid filter bank ADC with improved SNDR for multi-band signals in 40nm CMOS,10.1109/CICC.2015.7338459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7338459,0
+5,12,Double quadrature harmonic rejection architecture insensitive to gain and phase mismatch for analog/digital TV tuner IC,10.1109/RFIC.2011.5940674,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940674,0
+5,13,Quantized Analog RX Front-End for SAW-Less Applications,10.1109/ESSCIRC.2018.8494308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494308,0
+5,14,Narrow-Band Interference Removing Filter for Mobile Communication Systems,10.1109/ICUFN.2018.8436631,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8436631,0
+5,15,Superconductor analog-to-digital converters and their applications,10.1109/MWSYM.2011.5972910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972910,0
+5,16,Independently driven DG MOSFETs for mixed-signal circuits: part II-applications on cross-coupled feedback and harmonics generation,10.1109/TED.2004.838337,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1362973,0
+5,17,Sub-volt supply analog circuits based on quasi-floating gate transistors,10.1109/ISCAS.2003.1205680,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205680,0
+5,18,Novel Design Methodology for Low-power Image-reject Mixers,10.1109/SMIC.2007.322808,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4117375,0
+5,19,A +78 dBm IIP2 CMOS direct downconversion mixer for fully integrated UMTS receivers,10.1109/JSSC.2005.864123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1599524,0
+5,20,2.4 GHz ISM-Band Receiver Design in a 0.18 $\mu{\hbox{m}}$ Mixed Signal CMOS Process,10.1109/LMWC.2007.905641,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4336140,0
+5,21,Design of RF front end receiver for biomedical applications,10.1109/ECS.2015.7124957,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7124957,0
+5,22,A 10-300-MHz IF-digitizing IC with 90-105-dB dynamic range and 15-333-kHz bandwidth,10.1109/JSSC.2002.804331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1088090,0
+5,23,A Nearly All-Digital Frequency Mixer Based on Nonlinear Digital-to-Analog Conversion and Intermodulation Cancellation,10.1109/TCSI.2011.2106051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5721761,0
+5,24,A Diagonal Structure for Analog-to-Information Conversion in Compressed Sampling,10.1109/VTCSpring.2015.7145596,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7145596,0
+5,25,Explicit analysis of subADCs mismatch errors in band-interleaved ADC systems,10.1109/I2MTC.2019.8827066,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8827066,0
+5,26,Optimal specification of a receiver blocks from global specifications: Example of IEEE 802.15.4,10.1109/ICECS.2010.5724588,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5724588,0
+5,27,Proving the usefulness of a 3-port nonlinear vectorial network analyser through mixer measurements,10.1109/MWSYM.2003.1210454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1210454,0
+5,28,Proving the usefulness of a three-port nonlinear vectorial network analyzer through mixer measurements,10.1109/TIM.2003.820467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1246557,0
+5,29,A 1.55mW mixed-signal integrating mixer for direct spectrum estimation in 0.13μm CMOS,10.1109/IPEC.2012.6522634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6522634,0
+5,30,An 8GHz multi-beam spatio-spectral beamforming receiver using an all-passive discrete time analog baseband in 65nm CMOS,10.1109/CICC.2012.6330615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6330615,0
+5,31,Low-Cost Analog Pulse Compression Technique Based on Mixing With an Auxiliary Pulse,10.1109/LMWC.2012.2184274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6157652,0
+5,32,A 0.5 V fully differential transimpedance amplifier in 65-nm CMOS technology,10.1109/MWSCAS.2017.8053035,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053035,0
+5,33,A Quadrature Modulation Transmitter Using Two Frequency Synthesizers,10.1109/TCSII.2007.901625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4349227,0
+5,34,Design and Analysis of a Programmable Receiver Front End With Time-Interleaved Baseband Analog-FIR Filtering,10.1109/JSSC.2018.2862892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8444743,0
+5,35,Soft breakdown and hot carrier reliability of CMOS RF mixer and redesign,10.1109/RFIC.2002.1012076,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1012076,0
+5,36,Soft breakdown and hot carrier reliability of CMOS RF mixer and redesign,10.1109/MWSYM.2002.1011668,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011668,0
+5,37,Study of Performance Impact from Powering RF Receiver Front-End Circuits with a DC-DC Converter,10.1109/ISCAS.2018.8351124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351124,0
+5,38,"A T-DMB mobile TV SoC tuner with compact size, low power and BoM in 65nm CMOS",10.1109/RFIC.2013.6569628,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6569628,0
+5,39,An Energy-Efficient FD-fNIRS Readout Circuit Employing a Mixer-First Analog Frontend and a $\Sigma$-$\Delta$ Phase-to-Digital Converter,10.1109/TBCAS.2024.3372887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10459051,0
+5,40,A 30-MHz-to-3-GHz CMOS array receiver with frequency and spatial interference filtering for adaptive antenna systems,10.1109/RFIC.2016.7508318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508318,0
+5,41,Analog Carrier Recovery for Broadband Wireless Communication Links,10.23919/EuMC.2018.8541539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8541539,0
+5,42,Analog Carrier Recovery for Broadband Wireless Communication Links,10.23919/EuRAD.2018.8546665,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8546665,0
+5,43,A Polyphase Decimation Filter for Time-Interleaved ADCs in Direct-RF Sampling Receivers,10.1109/APCCAS.2018.8605669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605669,0
+5,44,Design of A Modulated Wideband Converter for Low-Speed Sampling of Sparse Analog Signals,10.1109/ICSICT55466.2022.9963192,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963192,0
+5,45,Doppler Frequency-Shift Unit for Digital-Analog Automobile Radar Target Simulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8874747,0
+5,46,A 0.6–4.0 GHz RF-Resampling Beamforming Receiver With Frequency-Scaling True-Time-Delays up to Three Carrier Cycles,10.1109/LSSC.2020.3012654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152038,0
+5,47,Techniques for dynamic range enhancement in a frequency-folded broadband channelizer,10.1109/DCAS.2014.6965349,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6965349,0
+5,48,Single-chip multi-band SAW-less LTE WCDMA and EGPRS CMOS receiver with diversity,10.1109/RFIC.2011.5940614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940614,0
+5,49,A DDS/PLL architecture for highly stable local oscillators,10.1109/RADAR.2014.7060407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7060407,0
+5,50,"Carrier Cancelling RF for Multi-Mode SDR Terminal Applicable to CDMA-Cellular, WCDMA, and WiBro",10.1109/ISSSE.2007.4294458,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4294458,0
+5,51,A bi-directional autozeroing amplifier for designing bi-directional time-continuous frequency mixer/extractor,10.1109/TENCON.2009.5395984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5395984,0
+5,52,"An RF sub-sampling mixer, PGA and /spl Sigma//spl Delta/ ADC for conversion at 900 MHz",10.1109/ISCAS.2004.1328235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328235,0
+5,53,High-performance all-digital quadrature frequency synthesizer/mixer,10.1109/MWSCAS.2002.1187138,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187138,0
+5,54,C-band FMCW radar analog-front-end for SAR/ISAR applications,10.1109/SPS.2015.7168307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168307,0
+5,55,The R-2R and C-2C Ladders [A Circuit for All Seasons],10.1109/MSSC.2019.2922886,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8811812,0
+5,56,High Conversion Efficiency Photonic Microwave Mixer With Image Rejection Capability,10.1109/JPHOT.2016.2592327,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7514246,0
+5,57,Self-linearization in analog parametric sampling gate using higher-order parametric mixing,10.1364/ECEOC.2012.Th.1.F.2,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6706090,0
+5,58,An ultra-low-power RF receiver for IoT applications using 65nm CMOS technology,10.1109/MOCAST.2018.8376581,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376581,0
+5,59,"A 265 mW, 225 MHz signal bandwidth, and <1-dB gain step software defined cable receiver front-end enabling ultra-HDTV in 28nm CMOS",10.1109/RFIC.2015.7337786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337786,0
+5,60,Digital correction of mismatches in time-interleaved ADCs for digital-RF receivers,10.1109/ICECS.2017.8292022,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8292022,0
+5,61,A Downconversion Link for a 5G Repeater using a Passive Power Adjustment Technique and Analog Predistortion,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337491,0
+5,62,A 97.2 mW 1.8 GHz Low Power CMOS Transmitter for Mobile WiBro and WiMAX,10.1109/RFIC.2007.380990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266538,0
+5,63,Design of frequency agile filters in RF frontend circuits,10.1109/RWS.2012.6175361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6175361,0
+5,64,I/Q Balance-Enhanced Wideband Receiver Front-End for 2G/3G/4G/5G NR Cellular Applications,10.1109/TCSI.2020.2974486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9011591,0
+5,65,Mixer-free all digital quadrature demodulation,10.1109/ICOSP.1998.770959,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=770959,0
+5,66,60-GHz 0.18-um CMOS dual-conversion receiver using Schottky diode mixer and slow-wave rat-race hybrid,10.1109/GSMM.2012.6314070,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6314070,0
+5,67,A 320μW Receiver with -58dB SIR Leveraging a Time-Varying N-Path Filter,10.1109/RFIC54546.2022.9863165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9863165,0
+5,68,"Design of a highly linear, low noise, broad band up-converter for cognitive radio applications",10.1109/NORCHIP.2015.7364393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7364393,0
+5,69,12 GHz monolithic double-balanced down converter in 65 nm CMOS,10.1109/ICSICT.2012.6467909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6467909,0
+5,70,Almost all-digital sinewave-product generation for frequency synthesis applications,10.1109/FREQ.2009.5168239,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5168239,0
+5,71,Evaluation techniques of frequency-dependent I/Q imbalances in wideband quadrature mixers,10.1109/TEST.2010.5699223,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5699223,0
+5,72,A 2G/3G/4G SAW-Less Receiver Front-End Adopting Switchable Front-End Architecture,10.1109/TMTT.2014.2326616,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6834814,0
+5,73,A Pseudodifferential Class AB DAC for Low-Power Wireless Transmitter,10.1109/TCSI.2008.2012230,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4738422,0
+5,74,Impact of stress acceleration on mixed-signal gate oxide lifetime,10.1109/IMS3TW.2015.7177872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7177872,0
+5,75,A 1 GHz CMOS current-folded direct digital RF quadrature modulator,10.1109/RFIC.2005.1489177,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1489177,0
+5,76,A highly integrated CMOS direct digital RF quadrature modulator,10.1109/ESSCIRC.2003.1257200,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1257200,0
+5,77,Wide-Band Compact 1.8 V-0.18 μm CMOS Analog Front-End for Impedance Spectroscopy,10.1109/TCSII.2021.3107613,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9522008,0
+5,78,Design of a Programmable Upsampler of Broadband Data for High Speed Operation,10.1109/ICCCAS.2006.285054,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4064280,0
+5,79,An intermodulation products generator for predistortion of base station HPAs,10.1109/RWS.2009.4957423,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4957423,0
+5,80,A noise cancelling 0.7–3.8 GHz resistive feedback receiver front-end in 65 nm CMOS,10.1109/RFIC.2014.6851651,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6851651,0
+5,81,A MOS analog mixer using a cross-coupled pair with source followers,10.1109/APCAS.1996.569233,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=569233,0
+5,82,Integrated balanced mixer receiver on InP,10.1109/ICIPRM.1992.235592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=235592,0
+5,83,Generation of High Data Rate MSK-Modulated 180-GHz Signals,10.1109/LMWC.2019.2940552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848594,0
+5,84,A notch filter alignment circuit for wireless communication FDD systems,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728502,0
+5,85,Design of Dual-Channel AIS Digital Receiver,10.1109/IMCCC.2012.61,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6428894,0
+5,86,A Quantized Analog RF Front End,10.1109/JSSC.2019.2914576,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8732418,0
+5,87,Noise in Josephson effect mm-wave mixers,10.1109/TMAG.1975.1058615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1058615,0
+5,88,A CMOS low voltage down-converter mixer for sub IV applications,10.1109/WMED.2006.1678279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678279,0
+5,89,A comprehensive design method for dual-gate MOSFET mixers,10.1109/82.899638,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=899638,0
+5,90,The design of ground shield spiral inductor using 0.13 μm CMOS technology for millimeter-wave radio over fiber applications,10.1109/RSM.2015.7354979,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7354979,0
+5,91,A reconfigurable active retrodirective/direct conversion receiver array for wireless sensor systems,10.1109/MWSYM.2001.967088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=967088,0
+5,92,A high-IP3 RF receiver chip set for mobile radio base stations up to 2 GHz,10.1109/4.933472,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=933472,0
+5,93,A low power 2.4-GHz CMOS direct-conversion transmitter for IEEE 802.15.4,10.1109/IEEE-IWS.2014.6864244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6864244,0
+5,94,A 2–18 GHz Compressed Sensing Receiver With Broadband LO Chain in 0.13- $\mu$ m BiCMOS,10.1109/LMWC.2019.2928331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772201,0
+5,95,A Synchronous Baseband Receiver for High-Data-Rate Millimeter-Wave Communication Systems,10.1109/LMWC.2019.2910661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695873,0
+5,96,Analog VHF IQ Receiver with Low IF,10.1109/IMS37962.2022.9865521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865521,0
+5,97,A Novel Circuit Architecture for Generating Narrow Pulses via Spectrum Stitching,10.1109/ACCESS.2020.2969545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970307,0
+5,98,Dual-Signal Transmission Using RF Precoding and Analog Beamforming With TMAs,10.1109/LCOMM.2018.2848274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8387783,0
+5,99,A 24-GHz 90-nm CMOS beamforming receiver front-end with analog baseband phase rotation,10.1109/ESSCIRC.2010.5619714,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5619714,0

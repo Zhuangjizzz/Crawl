@@ -45,35 +45,35 @@ def main():
     }
     # keywords.txt中每行为一个搜索关键词
     keywords_list = read_keywords('keywords.txt')
-    # search_session_num = len(keywords_list)
-    # search_threads = []
-    # search_sessions = create_sessions(search_session_num)
+    search_session_num = len(keywords_list)
+    search_threads = []
+    search_sessions = create_sessions(search_session_num)
 
-    # for id, session in enumerate(search_sessions):
-    #     thread = threading.Thread(target=main_search, args=(headers, session, keywords_list[id]+'.json', keywords_list[id], id))
-    #     search_threads.append(thread)
-    #     thread.start()
-    # for thread in search_threads:
-    #     thread.join()
-    # for session in search_sessions:
-    #     session.close()
+    for id, session in enumerate(search_sessions):
+        thread = threading.Thread(target=main_search, args=(headers, session, keywords_list[id]+'.json', keywords_list[id], id))
+        search_threads.append(thread)
+        thread.start()
+    for thread in search_threads:
+        thread.join()
+    for session in search_sessions:
+        session.close()
     
     # # record pigcha location
     # location = record_location(2)
     # proxy_num = 0
     # download 
-    download_session_num = 2
-    download_threads = []
-    download_sessions = create_sessions(download_session_num)
+    # download_session_num = 2
+    # download_threads = []
+    # download_sessions = create_sessions(download_session_num)
 
-    while True:
-        download_threads = []
-        for id, session in enumerate(download_sessions):
-            thread = threading.Thread(target=main_download, args=(headers, session, keywords_list[id]+'.json', 0, id))
-            download_threads.append(thread)
-            thread.start()
-        for thread in download_threads:
-            thread.join()
+    # while True:
+    #     download_threads = []
+    #     for id, session in enumerate(download_sessions):
+    #         thread = threading.Thread(target=main_download, args=(headers, session, keywords_list[id]+'.json', 0, id))
+    #         download_threads.append(thread)
+    #         thread.start()
+    #     for thread in download_threads:
+    #         thread.join()
 
     #     bug_repair(location,proxy_num)
     #     proxy_num = update_proxy(proxy_num)

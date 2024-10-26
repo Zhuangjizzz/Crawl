@@ -99,3 +99,403 @@
 1,97,Design of low power and high speed comparator with sub-32-nm Double Gate-MOSFET,10.1109/CircuitsAndSystems.2013.6671626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6671626,1
 1,98,Temperature Characterization of a Fully-synthesizable Rail-to-Rail Dynamic Voltage Comparator operating down to 0.15-V : (Invited paper),10.1109/NEWCAS50681.2021.9462749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9462749,1
 1,99,A 0.5 V 12-bit SAR ADC using adaptive timedomain comparator with noise optimization,10.1109/ASSCC.2017.8240254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8240254,1
+2,0,Optimized body-biasing calibration methodology for high-speed comparators in 22nm FDX,10.1109/LASCAS51355.2021.9459121,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459121,0
+2,1,Low-voltage and Low-power Systems using Common Gate Comparator,10.1109/INOCON57975.2023.10101158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10101158,0
+2,2,A Novel Ultra-Low Voltage Fully Synthesizable Comparator exploiting NAND Gates,10.1109/PRIME58259.2023.10161936,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161936,0
+2,3,High speed with low power folding and interpolating ADC using two types of comparator in CMOS 0.18um technology,10.1109/SHUSER.2012.6268907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6268907,0
+2,4,Expandable MVL Inverter Compatible with Standard CMOS Process and Its Application to MVL Hysteresis Comparator,10.1109/ISMVL.2013.27,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6524674,0
+2,5,Resolution enhanced latch comparator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955466,0
+2,6,Rail-to-Rail Dynamic Voltage Comparator Scalable Down to pW-Range Power and 0.15-V Supply,10.1109/TCSII.2021.3059164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9353717,0
+2,7,A Micro-Resonator-Based Programmable Hysteresis Comparator,10.1109/MEMS51670.2022.9699797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9699797,0
+2,8,Enhancing Performance of Ultra-Low Voltage Body-Driven Comparators Through Clocked Supply Voltage,10.1109/PRIME61930.2024.10559722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559722,0
+2,9,Dynamic Properties Of Ultra Low-Voltage Rail-to-Rail Comparator Designed In 130 nm CMOS Technology,10.1109/DDECS50862.2020.9095746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9095746,0
+2,10,Application of Voltage Comparator and its Multisim Simulation,10.1109/ICPICS52425.2021.9524134,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9524134,0
+2,11,On-Fly Offset-Correction Method for High-Speed Comparators using All-Digital Phase Measurement,10.1109/ISCAS.2018.8351268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351268,0
+2,12,Analysis & characterization of dual tail current based dynamic latch comparator with modified SR latch using 90nm technology,10.1109/ISVDAT.2015.7208136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208136,0
+2,13,Design and analysis of a low-power high-speed charge-steering based StrongARM comparator,10.1109/ICM.2016.7847852,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7847852,0
+2,14,Optimization of Comparator Selection Algorithm for TIQ Flash ADC Using Dynamic Programming Approach,10.1109/ISVLSI.2019.00095,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8839388,0
+2,15,"Design of a low power, high speed double tail comparator",10.1109/ICCPCT.2017.8074370,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8074370,0
+2,16,45nm CMOS Two-Stage Latched Comparator,10.1109/IC2SPM56638.2022.9988906,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9988906,0
+2,17,"Fully Synthesizable, Rail-to-Rail Dynamic Voltage Comparator for Operation down to 0.3 V",10.1109/ISCAS.2018.8351106,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351106,0
+2,18,A high-speed dynamic comparator with low-power supply voltage,10.1109/ICSICT.2018.8565749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8565749,0
+2,19,A Single-Inductor Eight-Channel Output DC–DC Converter With Time-Limited Power Distribution Control and Single Shared Hysteresis Comparator,10.1109/TCSI.2013.2265960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6605628,0
+2,20,Comparator design for linearized statistical flash A-to-D converter,10.23919/MIXDES.2017.8005159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8005159,0
+2,21,Analysis of Errors in a Comparator-Based Switched-Capacitor Biquad Filter,10.1109/TCSII.2009.2027965,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5208231,0
+2,22,Delay area efficient low voltage FVF based current comparator,10.1109/SCES.2012.6199088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6199088,0
+2,23,Design and Performance Analysis of Ultra-Low Voltage Rail-to-Rail Comparator in 130 nm CMOS Technology,10.1109/DDECS.2018.00016,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410525,0
+2,24,"Improved StrongARM latch comparator: Design, analysis and performance evaluation",10.1109/PRIME.2017.7974114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7974114,0
+2,25,A 40-Gb/s CMOS clocked comparator with bandwidth modulation technique,10.1109/JSSC.2005.852014,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1487612,0
+2,26,Low power latched comparator based second order sigma delta modulator (SDM),10.1109/CARE.2013.6733726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6733726,0
+2,27,Analysis of Bias Effects on the Total-Dose Response of a Bipolar Voltage Comparator,10.1109/TNS.2006.885002,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4033237,0
+2,28,Low-Power High-Speed CNTFET-based 1-bit Comparator Design using CCT and STT Techniques,10.1109/ICEARS56392.2023.10084990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10084990,0
+2,29,Comparison and Design of Dynamic Comparator in 180nm SCL Technology for Low Power and High Speed Flash ADC,10.1109/iNIS.2017.37,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8293920,0
+2,30,"Analysis of a Comparator for Low Delay, High Speed and Compact Area for Portable Device Application",10.1109/ICDATE58146.2023.10248863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10248863,0
+2,31,Performance Analysis Of Ultra Low-Voltage Rail-to-Rail Comparator In 130 nm CMOS Technology,10.1109/AFRICON46755.2019.9133843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133843,0
+2,32,"A Fully Synthesizable, 0.3V, 10nW Rail-to-rail Dynamic Voltage Comparator",10.1109/MWSCAS48704.2020.9184498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184498,0
+2,33,A comparative study of high performance dynamic comparators using strained silicon technology,10.1109/ECS.2015.7124794,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7124794,0
+2,34,"A High-Gain, Low-Power Latch Comparator Design for Oversampled ADCs",10.1109/SPIN.2018.8474156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8474156,0
+2,35,Modified 555 Timer IC Using Only Two Comparators,10.1109/ICE3IS54102.2021.9649709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9649709,0
+2,36,Designs of switched-capacitor comparator using low-voltage floating-gate MOS transistors,10.1109/ECTICON.2009.5137071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5137071,0
+2,37,A Low-Power Low-Voltage Dynamic Comparator in 180nm CMOS Technology,10.1109/ICEE50131.2020.9261011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261011,0
+2,38,"A 0.8-V, 2.88-GHz Double-Tail Latched Comparator in 22-nm FDSOI CMOS Technology",10.1109/NorCAS53631.2021.9599873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599873,0
+2,39,A current-comparator-based system for on-site calibrations of high voltage PMU systems,10.1109/CPEM.2012.6250981,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6250981,0
+2,40,"A High-Precision, Low Offset Voltage, Delay Stability Comparator",10.1109/IHMSC.2013.117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6643929,0
+2,41,VCO-Based Comparator: A Fully Adaptive Noise Scaling Comparator for High-Precision and Low-Power SAR ADCs,10.1109/TVLSI.2021.3119691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9585069,0
+2,42,"High-speed comparator used for high-speed, high-resolution A/D converter",10.1109/ICASID.2010.5551835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5551835,0
+2,43,A Self-Calibration Logic Circuit Agnostic To Offset Calibration Technique For High-Precision Dynamic Comparator,10.1109/WINTECHCON58518.2023.10277170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10277170,0
+2,44,A re-configurable high-speed CMOS track and latch comparator with rail-to-rail input for IF digitization [software radio receiver applications],10.1109/ISCAS.2005.1465849,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465849,0
+2,45,Ultra Low-Voltage Rail-to-Rail Comparator Design in 130 nm CMOS Technology,10.1109/DDECS.2019.8724650,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8724650,0
+2,46,Low-Power High-Accuracy VCO-Based Comparator for Sensor Interface Applications,10.1109/NEWCAS49341.2020.9159801,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9159801,0
+2,47,High-speed and low-power dynamic latch comparator,10.1109/ICDCSyst.2012.6188715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6188715,0
+2,48,Cross coupled digital NAND gate comparator based flash ADC,10.1109/ICCSP.2015.7322814,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322814,0
+2,49,High-speed CMOS ramp generator using proteretic comparator,10.1109/APCCAS51387.2021.9687792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687792,0
+2,50,A 0.5-V 28-nm CMOS Inverter-Based Comparator with Threshold Voltage Control,10.1109/PRIME55000.2022.9816784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816784,0
+2,51,A low-voltage low-offset dual strong-arm latch comparator,10.1109/ASSCC.2017.8240271,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8240271,0
+2,52,A 1.2-V Dynamic Bias Latch-Type Comparator in 65-nm CMOS With 0.4-mV Input Noise,10.1109/JSSC.2018.2820147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8345180,0
+2,53,A High-Voltage Fast-Speed Pulse Generator With Current-Mode Dead-Time Control Comparator for Shoot-Through Current Suppression,10.1109/LSSC.2022.3172959,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9770183,0
+2,54,No Static Power Excess Bias Voltage Monitoring Circuit (EBVMC) for SPAD Applications,10.23919/MIXDES.2018.8436780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8436780,0
+2,55,Variation of offset voltage in the irradiated bipolar voltage comparators,10.1109/ICRMS.2014.7107168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107168,0
+2,56,A Digital LDO with Adaptive Loop Control and Reset-Voltage Optimization for Comparator,10.1109/ISOCC59558.2023.10395942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10395942,0
+2,57,"A 43-fJ/Conv, 1-GS/s Energy-Efficient Charge-Steering Comparator with Floating-Inverter-Based Preamplifier in 40nm CMOS",10.1109/ICCE-Asia59966.2023.10326349,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10326349,0
+2,58,Relaxation Oscillator Using Closed-loop Dual Comparator for Biomedical Applications,10.1109/ICoICT52021.2021.9527517,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527517,0
+2,59,High resolution CMOS voltage comparator for high speed SAR ADCs,10.1109/IranianCEE.2017.7985091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985091,0
+2,60,Design of a high speed and low area latch-based comparator in 90-nm CMOS technology having low offset voltage,10.1109/ICESA.2015.7503425,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7503425,0
+2,61,A low-power area-efficient wide-range offset calibration technique for high-speed high-resolution comparator,10.1109/EDSSC.2017.8333237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8333237,0
+2,62,Analysis of energy efficient double tail regenerative comparators,10.1109/ICCPCT.2016.7530219,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7530219,0
+2,63,Area and power efficient 4-bit comparator design by using 1-bit full adder module,10.1109/PDGC.2014.7030705,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7030705,0
+2,64,A Low-Power High-Speed Dynamic Comparator With a Transconductance-Enhanced Latching Stage,10.1109/ACCESS.2019.2927514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8758098,0
+2,65,An Area-Efficient and Low-Power Comparator for Type-III Compensated Voltage-Mode Control DC-DC Buck Converter in 65nm CMOS Technology Process,10.1109/ISCIT.2019.8905205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905205,0
+2,66,A Fully Synthesizable Dynamic Voltage Comparator with Time-Domain Offset Calibration,10.1109/MWSCAS57524.2023.10406039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10406039,0
+2,67,Pseudo-Resistor based Low-Power Differential Voltage Comparator,10.1109/ICAIA57370.2023.10169735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10169735,0
+2,68,Analysis and design of dynamic comparators in ultra-low supply voltages,10.1109/IranianCEE.2014.6999543,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999543,0
+2,69,An Ultra Low-power Low-offset Double-tail Comparator,10.1109/NEWCAS44328.2019.8961248,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961248,0
+2,70,Behavioral Analysis of Regenerative and Dynamic Comparators in Terms of Speed and Thermal Reliability in Low-Power Applications,10.1109/I2CT61223.2024.10543806,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10543806,0
+2,71,Modelling pre-latching delay of track and latch comparator,10.1109/IranianCEE.2017.7985464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985464,0
+2,72,Analysis and Design of a Low-Voltage Low-Power Double-Tail Comparator,10.1109/TVLSI.2013.2241799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6459609,0
+2,73,A 20-GHz Bipolar Latched Comparator With Improved Sensitivity Implemented in InP HBT Technology,10.1109/TMTT.2011.2104974,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5710035,0
+2,74,Design Analysis of an Energy-Efficient Low-Power Dynamic Comparator Using NMOS Based Preamplifier,10.1109/ICCCNT56998.2023.10307939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10307939,0
+2,75,Performance Improvement of Order Statistics Based Flash ADC Using Multiple Comparator Groups,10.1109/NEWCAS52662.2022.9842172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9842172,0
+2,76,Ultra Low-Power Rail-to-Rail Voltage Comparator in 65 nm CMOS Technology,10.1109/ICECCME55909.2022.9988140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9988140,0
+2,77,A low-power 2-GSample/s comparator in 120 nm CMOS technology,10.1109/ESSCIR.2005.1541671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1541671,0
+2,78,Bulk controlled offset cancellation mechanism for single-stage latched comparator,10.1109/MIXDES.2016.7529726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7529726,0
+2,79,A comparator-based cyclic analog-to-digital converter with boosted preset voltage,10.1109/ISLPED.2011.5993636,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5993636,0
+2,80,High-Speed Comparator Design for RF-to-Digital Receivers,10.1109/NRSC49500.2020.9235091,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9235091,0
+2,81,A 288-μW 6-GHz hybrid dynamic comparator with 54-ps delay in 40-nm CMOS,10.1109/IEEE-IWS.2016.7585447,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585447,0
+2,82,"Performance analysis of low voltage, low power dynamic double tail comparator for data convertor application",10.1109/STARTUP.2016.7583918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7583918,0
+2,83,Noise-Aided Demodulation With One-Bit Comparator for Multilevel Pulse-Amplitude-Modulated Signals,10.1109/LWC.2018.2831683,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8352817,0
+2,84,A 68.36 dB 12 bit 100MS/s SAR ADC with a low-noise comparator in 14-nm CMOS FinFet,10.1109/ASICON52560.2021.9620375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9620375,0
+2,85,StrongARM Latch Comparator Performance Enhancement by Implementing Clocked Forward Body Biasing,10.1109/ICECS.2018.8617903,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617903,0
+2,86,A high-temperature comparator with rail-to-rail input voltage range,10.1109/MWSCAS.2013.6674703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6674703,0
+2,87,Evaluation and Comparison of Offset Compensation Techniques for a Multi-Stage Comparator,10.1109/SBCCI60457.2023.10261948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10261948,0
+2,88,A Measurement Technique To Obtain The Delay Time Of A Comparator In 120nm CMOS,10.1109/MIXDES.2006.1706643,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1706643,0
+2,89,Design of a High Performance BICMOS Voltage Comparator for DC-DC Converter Applications,10.1109/ICCCAS.2006.285120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4064367,0
+2,90,Design of Low Leakage Current Average Power CMOS Current Comparator Using SVL Technique,10.1109/ACCT.2015.95,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7079056,0
+2,91,A High-Speed Energy-Efficient CMOS Dynamic Latch Comparator for Low-Voltage Applications,10.1109/UPCON47278.2019.8980209,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8980209,0
+2,92,A Reference Generating Voltage Wide Range Low Power Current Comparator,10.1109/ICACCCN.2018.8748345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8748345,0
+2,93,Critical Technologies For Dynamic Comparator Design,10.1109/EIECS53707.2021.9587981,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9587981,0
+2,94,Analysis and Design of a 32nm FinFET Dynamic Latch Comparator,10.1109/ICAEE48663.2019.8975615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8975615,0
+2,95,"A Low-Noise, Low-Power, Dynamic Latched Comparator Using Cascoded Structure",10.1109/ICEENG45378.2020.9171746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171746,0
+2,96,Energy Efficient Double Tailed Cascaded Comparator for EEG Application,10.1109/CSNT57126.2023.10134694,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10134694,0
+2,97,A 0.5-V 12-bit SAR ADC Using Adaptive Time-Domain Comparator With Noise Optimization,10.1109/JSSC.2018.2862880,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447228,0
+2,98,Voltage Transformer Calibration System Based on a Digital Current Comparator,10.1109/EPIM.2018.8756431,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756431,0
+2,99,A 5-bit 1.5 GS/s ADC using reduced comparator architecture,10.1109/IDT.2013.6727113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6727113,0
+3,0,A DC Offset Cancellation Circuit Using Digital Assistance Technique and Self-Calibrating Comparator for RF Transceiver,10.1109/ASICON58565.2023.10396145,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396145,0
+3,1,A 0.9V 12-bit 200-kS/s 1.07µW SAR ADC with ladder-based reconfigurable time-domain comparator,10.1109/MWSCAS.2014.6908363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908363,0
+3,2,Design and Analysis of Enhanced Cascode Cross-Coupled Comparator,10.1109/ICSSES62373.2024.10561347,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10561347,0
+3,3,Comparator-Controlled Rectification at Monolithic Buck Converters for Higher Input Voltages,10.1109/TPEL.2011.2171506,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6043910,0
+3,4,Design and Analysis of high speed low power CMOS comparator with charge distribution technique,10.1109/CONECCT55679.2022.9865691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865691,0
+3,5,Low power discontinous-time comparator,10.1109/SMICND.2009.5336664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5336664,0
+3,6,Closed-loop Dual Comparator and Its Applications,10.1109/ICECIE52348.2021.9664733,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664733,0
+3,7,Analysis and Design of Low Voltage Low Power Inverter Based Double Tail Comparator,10.1109/ICICCIS.2017.8660927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8660927,0
+3,8,A 4 bit medium speed flash ADC using inverter based comparator in 0.18μm CMOS,10.1109/ISVDAT.2015.7208069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208069,0
+3,9,The comparator design research,10.1109/MLBDBI54094.2021.00127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731046,0
+3,10,A 24-MHZ Relaxation Oscillator without Comparators,10.1109/ICET58434.2023.10211597,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10211597,0
+3,11,Low-Power Single-Slope ADC with a Replica Comparator for Always-on CIS Applications,10.1109/NEWCAS57931.2023.10198119,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198119,0
+3,12,Voltage Comparator With 60% Faster Speed by Using Charge Pump,10.1109/TCSII.2020.2983928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050662,0
+3,13,Compact and Low-Power Under-Voltage Lockout and Thermal-Shutdown Protection Circuits Using a Novel Low-Iq All-in-One Bandgap Comparator,10.1109/ISCAS51556.2021.9401682,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401682,0
+3,14,Improved Dynamic Comparator With Adaptive Delay Line for the Latch Conduction and Regenerative Feedback Assisted FIA,10.1109/NEWCAS57931.2023.10198166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198166,0
+3,15,A comparative analysis of optimized low-power comparators for biomedical-ADCs,10.1109/ICM.2017.8268879,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8268879,0
+3,16,Comparator Power Minimization Analysis for SAR ADC Using Multiple Comparators,10.1109/TCSI.2015.2466831,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7244259,0
+3,17,"A 800MS/s, 150µV input-referred offset single-stage latched comparator",10.1109/MIXDES.2016.7529714,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7529714,0
+3,18,A sub-nW mV-range programmable threshold comparator for near-zero-energy sensing,10.1109/ISCAS.2016.7527425,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527425,0
+3,19,Speed and accuracy enhancement techniques for high-performance switched-current comparators,10.1109/4.913747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=913747,0
+3,20,Design of a Novel High Speed and Low kick back noise Dynamic Latch Comparator,10.1109/ICEE50131.2020.9260821,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9260821,0
+3,21,A Two-stage Dynamic Comparator with Low Delay and Low Offset,10.1109/ICIPS59254.2023.10405319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10405319,0
+3,22,Analyses of Static and Dynamic Random Offset Voltages in Dynamic Comparators,10.1109/TCSI.2009.2015207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4783032,0
+3,23,A novel 1.25GSPS ultra high-speed comparator in 0.18μm CMOS,10.1109/ICSICT.2008.4734944,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4734944,0
+3,24,Development of a PVT Verification Methodology for Robust Ultra-Low Power Dynamic Comparators,10.1109/ICSE62991.2024.10681345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681345,0
+3,25,Hybrid Comparator and Window Switching Scheme for low-power SAR ADC,10.1109/LASCAS53948.2022.9789046,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9789046,0
+3,26,Low Power CMOS Comparator with low offset voltage and good resolution for 10-bit SAR ADC,10.1109/EDKCON56221.2022.10032889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10032889,0
+3,27,A high speed dynamic comparator with automatic offset compensation,10.1109/PACET60398.2024.10497049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10497049,0
+3,28,A 73-dB-SNDR 2nd-Order Noise-Shaping SAR With a Low-Noise Time-Domain Comparator,10.1109/TCSII.2024.3368893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443650,0
+3,29,A current-comparator-based high-voltage reference inductor,10.1109/CPEM.2014.6898229,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898229,0
+3,30,A 30fJ/comparison dynamic bias comparator,10.1109/ESSCIRC.2017.8094528,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094528,0
+3,31,A high-speed method of dynamic comparators for SAR analog to digital converters,10.1109/MWSCAS.2016.7869961,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7869961,0
+3,32,Design of a High Speed and Low Power Charge Shared Based Dynamic Comparator for ADC Application,10.1109/ICACFCT53978.2021.9837362,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837362,0
+3,33,Low Power High Speed Inverter Based Differential Input Dynamic Comparator,10.1109/ECAI61503.2024.10607538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607538,0
+3,34,"A 6.25GHz, 2.7μw at 0.5V, double-tail comparator using charge-steering approach",10.1109/NRSC.2018.8354398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354398,0
+3,35,A modified structure for high-speed and low-overshoot comparator-based switched-capacitor integrator,10.1109/IranianCEE.2013.6599653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599653,0
+3,36,A New Built-in-Threshold CMOS Comparator,10.1109/KBEI.2019.8734942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8734942,0
+3,37,An adaptive analog-to-digital converter based on low-power dynamic latch comparator,10.1109/EIT.2005.1627029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1627029,0
+3,38,Research on High Quality Comparator Design,10.1109/ICETCI55101.2022.9832124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9832124,0
+3,39,Design of Adiabatic Logic Two Tail Comparator for Low Power and Analyze with CMOS Comparator,10.1109/ICAC3N56670.2022.10074436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10074436,0
+3,40,Improved Low-Power Low-Voltage CMOS Comparator for 4-Bit Flash ADCS for UWB Applications,10.1109/MIXDES.2007.4286170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4286170,0
+3,41,Design of comparator using Domino Logic and CMOS Logic,10.1109/GET.2016.7916829,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7916829,0
+3,42,"Low power, area efficient dynamic comparator with reduced activity factor",10.1109/ICOMICON.2017.8279054,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8279054,0
+3,43,A low-power comparator-reduced flash ADC using dynamic comparators,10.1109/ICECS.2017.8292010,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8292010,0
+3,44,A Low Voltage CMOS Current Comparator with Offset Compensation,10.1109/APCCAS47518.2019.8953117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953117,0
+3,45,Implementation of highly accurate NMOS Vt based clamping technique in low current comparator,10.1109/APCCAS.2010.5774917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5774917,0
+3,46,A new robust over rail to rail comparator based on DCG-FGT transistor,10.1109/SMICND.2012.6400728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6400728,0
+3,47,High Speed and Low Power Modified Dynamic Double Tail Comparator on 90nm Technology using Cadence,10.1109/ICPECTS56089.2022.10047598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10047598,0
+3,48,A novel 6GHz/ 573µwatt/ 30ps Dynamic Comparator with complementary differential input in 65nm CMOS Technology,10.1109/IranianCEE.2019.8786451,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786451,0
+3,49,Design of rectifier with comparator using unbalanced body biasing for wireless power transfer,10.1109/ISOCC.2013.6864049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6864049,0
+3,50,Design of Ultra-Low Power Comparator in 65 NM CMOS Technology with Rail-to-Rail Input Range,10.1109/AFRICON55910.2023.10293614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10293614,0
+3,51,"A 1-V, 3-GHz Strong-Arm Latch Voltage Comparator for High Speed Applications",10.1109/TCSII.2020.2993064,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9089238,0
+3,52,Differential double tail dynamic CMOS voltage comparator,10.1109/INTELCCT.2017.8324011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8324011,0
+3,53,"A low-power, high-resolution, 1 GHz differential comparator with low-offset and low-kickback",10.1109/ICECS.2017.8292027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8292027,0
+3,54,"A Very High Speed, High Resolution Dynamic Current Comparator",10.1109/JAC-ECC54461.2021.9691448,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691448,0
+3,55,Low-Power Dynamic Comparator with Complementary Push-Pull Pre-amplifier For Pipelined ADCs,10.1109/ICICM56102.2022.10011270,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011270,0
+3,56,A Low Power Programmable Switch Supply Dynamic Comparator,10.1109/ISCAS58744.2024.10558322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558322,0
+3,57,A study on power and delay reduction techniques of latched comparator,10.1109/ICAECA56562.2023.10200715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10200715,0
+3,58,New improved high speed low power double tail comparator design for 2.5 GHz input signal,10.1109/TechSym.2014.6808047,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6808047,0
+3,59,A Linearity-Enhanced 10-Bit 160-MS/s SAR ADC With Low-Noise Comparator Technique,10.1109/TVLSI.2019.2912504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8706684,0
+3,60,A 4 bit Quantum Voltage Comparator based flash ADC for low noise applications,10.1109/ICEDSS.2016.7587689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7587689,0
+3,61,The influence of hysteresis voltage on single event transients in a 65nm CMOS high speed comparator,10.1109/ETS.2016.7519300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7519300,0
+3,62,Simulations of single event transient effects in the LM139 voltage comparator,10.1109/ICRMS.2014.7107167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107167,0
+3,63,A Low Power Dynamic Comparator with Floating Inverter Amplifier for Column-Parallel ADC,10.1109/ICICM56102.2022.10011258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011258,0
+3,64,Design of an Energy efficiency Comparator using Dynamic Cancellation,10.1109/AESPC52704.2021.9708515,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9708515,0
+3,65,Single-event transients in high-speed comparators,10.1109/TNS.2002.805397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1134264,0
+3,66,A 6-bit 700-MS/s single-channel SAR ADC with low kickback noise comparator in 40-nm CMOS,10.1109/ASICON.2017.8252551,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252551,0
+3,67,Flash ADC Utilizing Offset Voltage Variation With Order Statistics Based Comparator Selection,10.1109/ISQED51717.2021.9424288,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424288,0
+3,68,A low power and high-speed current latched comparator for weak current operations,10.1109/APCCAS.2004.1412738,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1412738,0
+3,69,A new rail-to-rail ultra low voltage high speed comparator,10.1109/IranianCEE.2013.6599850,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599850,0
+3,70,Enhancement-mode p-GaN Comparators for power applications,10.1109/PRIME58259.2023.10161779,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161779,0
+3,71,A High-Speed High-Resolution Latch Comparator for Pipeline Analog-to-Digital Converters,10.1109/IWASID.2007.373688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4244774,0
+3,72,A new ultra low power high speed dynamic comparator,10.1109/IranianCEE.2015.7146410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146410,0
+3,73,Two-dimensional hysteresis comparators to control multistage inverters with maximum number of levels,10.1109/ICPE.2011.5944651,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5944651,0
+3,74,The voltage coefficient determination of high voltage capacitive divider by serial summation of voltage transformers,10.1109/CPEM.2014.6898614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898614,0
+3,75,Low-Voltage Clocked Comparator With Flexible Oxide TFT Technology *,10.1109/ISCAS46773.2023.10181745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181745,0
+3,76,A 125MS/s self-latch low-power comparator in 0.35μm CMOS process,10.1109/IranianCEE.2013.6599865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599865,0
+3,77,A current-comparator-based high-voltage R-L-C bridge,10.1109/CPEM.2014.6898230,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898230,0
+3,78,Noise and uncertainty in comparator/TDC sensor readout circuits,10.1109/ICNF.2017.7985972,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7985972,0
+3,79,Design of a Low-Power Ultra High Speed Dynamic Latched Comparator in 90-nm CMOS Technology,10.1109/IC4ME2.2018.8465625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8465625,0
+3,80,Design and Optimization of a Low-Power Comparator for a 10-Bit Successive Approximation Register (SAR) Analog-to-Digital Converter (ADC) for General-Purpose Applications,10.1109/IITCEE59897.2024.10468012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10468012,0
+3,81,A Low-Power 1-V Supply Dynamic Comparator,10.1109/LSSC.2020.3009437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141323,0
+3,82,"A 2.5 GHz, 0.6 V Body Driven Dynamic Comparator Exploiting Charge Pump Based Dynamic Biasing",10.1109/PRIME58259.2023.10161910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161910,0
+3,83,Low Power High Speed Dynamic Comparator,10.1109/ISCAS.2018.8351548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351548,0
+3,84,A Synchronized Current-Comparator Bridge for the Calibration of Analog Merging Units,10.1109/TIM.2018.2882117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599066,0
+3,85,A Kick-Back Reduced Comparator for a 4-6-Bit 3-GS/s Flash ADC in a 90nm CMOS Process,10.1109/MIXDES.2007.4286149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4286149,0
+3,86,An Automatic Comparator Offset Calibration for High-Speed Flash ADCs in FDSOI CMOS Technology,10.1109/LASCAS45839.2020.9069018,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9069018,0
+3,87,High performance CMOS current comparator using MTCMOS technique design,10.1109/CIPECH.2014.7019090,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7019090,0
+3,88,Low-power bulk-driven rail-to-rail comparator in 130 nm CMOS technology,10.1109/AFRCON.2017.8095559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8095559,0
+3,89,5-Gb/s Peak Detector Using a Current Comparator and a Three-State Charge Pump,10.1109/TCSII.2011.2124830,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5771061,0
+3,90,Low Power High Speed Body Driven Comparator for Implantable Electronics,10.1109/ISOCC50952.2020.9333059,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333059,0
+3,91,High Resolution Latched Comparator Implemented in 22 nm FD-SOI Process,10.23919/MIXDES.2018.8436803,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8436803,0
+3,92,Experimentally Measured Input Referred Voltage Offsets and Kickback Noise in RHBD Analog Comparator Arrays,10.1109/TNS.2007.908654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4395036,0
+3,93,"Low Power, Area Efficient Dynamic Comparator Without Cross Coupled Inverter",10.1109/ICCUBEA.2017.8463849,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8463849,0
+3,94,A low-power high-speed charge-steering comparator for high-speed applications,10.1109/NEWCAS.2016.7604813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7604813,0
+3,95,A Survey on the Design of Current Comparator,10.1109/ICEICT.2019.8846425,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8846425,0
+3,96,An 8-bit 0.35-V 5.04-fJ/Conversion-Step SAR ADC With Background Self-Calibration of Comparator Offset,10.1109/TVLSI.2014.2337236,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6876033,0
+3,97,Investigation of Comparator Circuit Base-on Voltage Reference on Visible Light Communication System,10.1109/ECTI-CON49241.2020.9158326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158326,0
+3,98,3-bit Flash ADC Using TIQ Comparator,10.1109/INCET61516.2024.10593264,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10593264,0
+3,99,Design of a High-Precision Inverter-Based CMOS Comparator for High Accuracy Applications,10.1109/MWSCAS60917.2024.10658797,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658797,0
+4,0,Design of Power Efficient Low-Offset Dynamic Latch Comparator using 90nm CMOS Process,10.1109/CIPECH.2018.8724234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8724234,0
+4,1,Review on Comparator Design for High Speed ADCs,10.1109/ICCUBEA.2015.206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7155991,0
+4,2,A 6-b 20-GS/s 2-Way Time-Interleaved Flash ADC with Automatic Comparator Offset Calibration in 28-nm FDSOI,10.1109/ISCAS45731.2020.9180695,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180695,0
+4,3,An 8 bit 0.3–0.8 V 0.2–40 MS/s 2-bit/Step SAR ADC With Successively Activated Threshold Configuring Comparators in 40 nm CMOS,10.1109/TVLSI.2014.2304733,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6748934,0
+4,4,Negative body biased comparator design for biomedical applications,10.1109/ICICICT1.2017.8342562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8342562,0
+4,5,1.81 kHz Relaxation Oscillator With Forward Bias Comparator and Leakage Current Compensation Based Techniques,10.1109/SOCC52499.2021.9739396,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9739396,0
+4,6,The methods for High-Speed Low-Power Dynamic ADC Comparators design,10.1109/EIECS53707.2021.9588144,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588144,0
+4,7,Design and Analysis of High Speed Dynamic Comparator for Area Minimization,10.1109/ICIET48527.2019.9290619,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9290619,0
+4,8,Design and simulation of high speed comparator for LVDS receiver application,10.1109/INDICON.2015.7443604,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443604,0
+4,9,Low-power CMOS voltage-Mode quaternary latched comparator,10.1109/IranianCEE.2015.7146373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146373,0
+4,10,Low voltage low power current comparator circuit,10.1109/STA.2017.8314947,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8314947,0
+4,11,A 300-mV Auto Shutdown Comparator-Based Continuous Time Δ∑ Modulator,10.1109/TVLSI.2020.2995626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9104008,0
+4,12,Comparator-Based Digitally Controlled Power Factor Correction Rectifier Using Digital Ripple Injection,10.1109/ICECET61485.2024.10698020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10698020,0
+4,13,A Two-Stage Dynamic Comparator with a PMOS Intermediate Stage,10.1109/ICCS56666.2022.9936348,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9936348,0
+4,14,Power Efficient Dynamic Comparator for High Speed Digital Circuit,10.1109/iSES50453.2020.00063,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9426158,0
+4,15,A 0.5 V 10 b 3 MS/s 2-Then-1b/Cycle SAR ADC With Digital-Based Time-Domain Reference and Dual-Mode Comparator,10.1109/TCSII.2021.3125780,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606183,0
+4,16,"A new offset cancelled latch comparator for high-speed, low-power ADCs",10.1109/APCCAS.2010.5774892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5774892,0
+4,17,Analysis of Total-Dose Response of a Bipolar Voltage Comparator Combining Radiation Experiments and Design Data,10.1109/TNS.2006.880950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1684037,0
+4,18,Design and comparative analysis of differential current sensing comparator in deep sub — Micron region,10.1109/CICT.2013.6558055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6558055,0
+4,19,A 0.5V 300µW 50MS/s 180nm 6bit Flash ADC using inverter based comparators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6216025,0
+4,20,Open-Loop Fractional Division Using a Voltage-Comparator-Based Digital-to-Time Converter,10.1109/TCSII.2015.2468930,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7206565,0
+4,21,A novel hybrid DC comparator,10.1109/TDC.2005.1546763,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1546763,0
+4,22,Investigation on current comparator with electrical shielding to improve the measured values,10.1109/ECTICON.2011.5947913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5947913,0
+4,23,High-Performance Stacked Dynamic Comparator for Analog to Digital Converters,10.1109/VDAT63601.2024.10705708,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10705708,0
+4,24,Techniques for offset calibration in comparators,10.1109/EIECS53707.2021.9588097,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588097,0
+4,25,A Novel Common-Gate Comparator with Auto-Zeroing Offset Cancellation,10.1109/PRIME55000.2022.9816755,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816755,0
+4,26,Design of 3-bit flash ADC using inverter threshold comparator in 45 nm CMOS technology,10.1109/ICICICT1.2017.8342813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8342813,0
+4,27,"Flash ADC's low power, high speed dynamic comparator",10.1109/WIECON-ECE57977.2022.10151081,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10151081,0
+4,28,A 12.7 Bit Accurate and 5.3nJ·µV2·ns Comparator with Dynamic-cum-Body Bias Technique in SOI,10.1109/ISCAS58744.2024.10558620,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558620,0
+4,29,An Analysis of Latch Comparator Offset Due to Load Capacitor Mismatch,10.1109/TCSII.2006.883204,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4033159,0
+4,30,Performance Analysis of Fast & Power Efficient Dynamic Comparator Topologies,10.1109/DICCT61038.2024.10533168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10533168,0
+4,31,Asynchronous phase comparator for characterization of devices and PMU calibrator,10.1109/CPEM.2016.7540459,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7540459,0
+4,32,Design and Analysis of high Efficient Latched Comparator,10.1109/ICASERT.2019.8934632,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8934632,0
+4,33,Driving Control of GaN Devices for Transient Response Improvement of Voltage Regulator,10.1109/TPEL.2022.3192401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833336,0
+4,34,Low kickback noise techniques for CMOS latched comparators,10.1109/ISCAS.2004.1328250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328250,0
+4,35,Automatic repositioning technique for digital cell based window comparators and implementation within mixed-signal DfT schemes,10.1109/ISQED.2003.1194771,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1194771,0
+4,36,Low-Power Rail-to-Rail Comparator in 130 nm CMOS Technology,10.1109/RADIOELEKTRONIKA54537.2022.9764953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9764953,0
+4,37,A simulation method for accurately determining DC and dynamic offsets in comparators,10.1109/MWSCAS.2005.1594475,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594475,0
+4,38,A 1.8 V 64.9 uW 54.1 dB SNDR 1st order sigma-delta modulator design using clocked comparator Based Switched Capacitor technique,10.1109/ASQED.2013.6643591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6643591,0
+4,39,Investigation on novel comparator design,10.1109/ICDSCA56264.2022.9988168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9988168,0
+4,40,Methods of Further Optimizations on Low-power CMOS Dynamic Comparators,10.1109/EIECS53707.2021.9587977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9587977,0
+4,41,Bias voltage control of avalanche photo-diode using a window comparator,10.1109/PHOSST.2011.6000026,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6000026,0
+4,42,A novel torque hysteresis comparator for torque and current ripple reduction of direct torque control of induction machine,10.1109/CIEP.2004.1437566,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1437566,0
+4,43,Design of a High-speed 8-bit Flash ADC using Double-Tail Comparator on 180nm CMOS Process,10.1109/NICS54270.2021.9701505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9701505,0
+4,44,High speed low power voltage comparator in 0.18μm CMOS Process for flash ADCs,10.1109/KBEI.2017.8325013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8325013,0
+4,45,Low Power High Speed Switched Current Comparator,10.1109/MIXDES.2007.4286173,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4286173,0
+4,46,Single-Event-Transient tolerant comparators with auto-zeroing techniques,10.1109/MNRC.2008.4683366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4683366,0
+4,47,Resolution enhanced latch comparator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955793,0
+4,48,An integrated low power buck converter with a comparator controlled low-side switch,10.1109/DDECS.2010.5491813,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5491813,0
+4,49,Design of Voltage Reference Comparator Circuit for Receiver Circuit in VLC System,10.1109/ISCIT.2018.8587997,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587997,0
+4,50,A Dual-Comparator based Low-Cost Low-Ripple Buck DC-DC Converter,10.1109/ICCS59502.2023.10367351,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367351,0
+4,51,A Low-Power High-Speed Comparator for Precise Applications,10.1109/TVLSI.2018.2833037,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360153,0
+4,52,A 9.4-ENOB 1V 3.8μW 100kS/s SAR ADC with Time-Domain Comparator,10.1109/ISSCC.2008.4523149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4523149,0
+4,53,Delay analysis of a dynamic latched comparator,10.1109/RISE.2017.8378198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8378198,0
+4,54,An Auto-Zero Comparator for Monolithic GaN Power Integration,10.1109/PRIME61930.2024.10559688,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559688,0
+4,55,Four transistor comparator based PWM for DC-DC Converters,10.1109/NGCT.2015.7375177,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7375177,0
+4,56,Efficient Design of a Double Tail Dynamic Comparator for High Speed and Low Power Applications in 90nm Technology,10.1109/ICITEICS61368.2024.10625424,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10625424,0
+4,57,Novel Four-Stage Comparator with High Speed and Low Kickback Noise,10.1109/SCEECS57921.2023.10063006,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10063006,0
+4,58,Design of Dynamic Latched Comparator Using the Offset Calibration Technique,10.1109/SMARTGENCON60755.2023.10442854,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10442854,0
+4,59,"Design of a low power, high speed self calibrated dynamic latched comparator",10.1109/ISDCS49393.2020.9262972,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9262972,0
+4,60,Analytical design optimization of sub-ranging ADC based on stochastic comparator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7459364,0
+4,61,Low Power and High Speed Charge Pump based Dual Stage Dynamic Comparator using 45nm CMOS Technology,10.1109/ICCES57224.2023.10192627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192627,0
+4,62,Ultra-low Power Current Comparator,10.1109/ISCAS46773.2023.10181727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181727,0
+4,63,Analysis of power in dynamic comparators,10.1109/IranianCEE.2013.6599853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599853,0
+4,64,A Three-Stage Comparator with High Speed and Low Power,10.1109/ASICON52560.2021.9620370,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9620370,0
+4,65,Designing a precision comparator for 10-bit synchronization SAR ADC,10.1109/ICASID.2014.7064965,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7064965,0
+4,66,A 7GHz 1mV-input-resolution comparator with 40mV-input-referred-offset compensation capability in 65NM CMOS,10.1109/CCECE.2011.6030467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6030467,0
+4,67,Frequency Response Analysis of Latch Utilized in High-Speed Comparator,10.1109/ICECS.2006.379625,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263557,0
+4,68,An 11.2-Gb/s LVDS Receiver With a Wide Input Range Comparator,10.1109/TVLSI.2013.2288420,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678795,0
+4,69,A Threshold Voltage Generator Circuit with Automatic Refresh and Dynamic Updating for Ultra-Low-Power Continuous-Time Comparators,10.1109/ISCAS46773.2023.10181834,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181834,0
+4,70,Low Power High-Speed Optimized Comparator for Flash ADC,10.1109/SMARTGENCON56628.2022.10083567,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083567,0
+4,71,Stochastic Flash Analog to Digital Converter Compared with Conventional Resistor ladder Flash Analog to Digital Converter,10.1109/INCOFT55651.2022.10094440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094440,0
+4,72,A New High Precision Low Offset Dynamic Comparator for High Resolution High Speed ADCs,10.1109/APCCAS.2006.342249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4145318,0
+4,73,Improved single-stage kickback-rejected comparator for high speed and low noise flash ADCs,10.1109/ECCTD.2013.6662323,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6662323,0
+4,74,An ultra-low power active diode using a hysteresis common gate comparator for low-voltage and low-power energy harvesting systems,10.1109/VLSI-SoC.2018.8644968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8644968,0
+4,75,Design of Flash ADC using low offset comparator for analog signal processing application,10.1109/SPIN52536.2021.9566050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9566050,0
+4,76,Investigation of Comparator Architectures in 32 nm Silicon-On-Insulator(SOI) Technology,10.1109/VLSIDCS47293.2020.9179914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179914,0
+4,77,Design of Dynamic comparator using CMOS and FINFET technologies,10.1109/ICCCNT56998.2023.10307360,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10307360,0
+4,78,Ratioed Logic Comparator Based Digital LDO Regulator in 22nm FDSOI,10.1109/ISCAS45731.2020.9181174,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181174,0
+4,79,Electromagnetic interference effects in the bipolar voltage comparators,10.1109/ICRMS.2014.7107166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107166,0
+4,80,"A 120nW, 121 kHz, -20~100°C CMOS Relaxation Oscillator with Digital Current Comparator and On-Chip Voltage and Current Reference",10.1109/ICTA56932.2022.9963069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963069,0
+4,81,Domino logic based high speed dynamic comparator,10.1109/ICIIECS.2015.7192985,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7192985,0
+4,82,Area and power efficient high speed voltage comparator,10.1109/ICACDOT.2016.7877578,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877578,0
+4,83,"Low power, high precision and reduced size CMOS Comparator for high speed ADC design",10.1109/ICIINFS.2010.5578706,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5578706,0
+4,84,A Study on Optimization of Dual Rail and Charge Sharing based Dynamic Latched Comparator,10.1109/ICESC54411.2022.9885478,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885478,0
+4,85,The enhanced performance of the DCC current comparator using AccuBridge® technology,10.1109/CPEM.2016.7540592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7540592,0
+4,86,A low-voltage low-power comparator With current-controlled dynamically-biased preamplifiers For DCM buck regulators,10.1109/ICECS.2009.5410915,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5410915,0
+4,87,An offset reduction technique for dynamic voltage comparators,10.1109/PRIME.2016.7519549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7519549,0
+4,88,A non-volatile comparator based on 1T1M crossbar arrays using memristor-aided logic,10.1109/IECON.2017.8216986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8216986,0
+4,89,Monolithic Comparator and Sawtooth Generator of AlGaN/GaN MIS-HEMTs With Threshold Voltage Modulation for High-Temperature Applications,10.1109/TED.2021.3075425,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424183,0
+4,90,Development of Voltage-Doubling Method for Measuring the Voltage Dependence of Compressed Gas Capacitors up to 400 kV,10.1109/CPEM49742.2020.9191810,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9191810,0
+4,91,A high speed power efficient dynamic comparator designed in 90nm CMOS technology,10.1109/CCIntelS.2015.7437942,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7437942,0
+4,92,Low Input Resistance CMOS Current Comparator Based on the FVF for Low-Power Applications,10.1109/CJECE.2015.2496903,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7478184,0
+4,93,Comparative analysis of comparators in 90nm CMOS Technology,10.1109/PEEIC.2018.8665656,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8665656,0
+4,94,Design of a Low Power Dynamic Comparator in 180nm CMOS Technology,10.1109/ICACCCN.2018.8748719,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8748719,0
+4,95,A Post-Silicon Validation Method for Low-Power 180 nm Dynamic Comparator in Differential 10-bit SAR ADC,10.1109/ICSIMA59853.2023.10373500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10373500,0
+4,96,High temperature bipolar master-slave comparator and frequency divider in 4H-SiC technology,10.4028/www.scientific.net/MSF.897.681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7921358,0
+4,97,A low-power 4-b 2.5 Gsample/s pipelined flash analog-to-digital converter using differential comparator and DCVSPG encoder,10.1109/ISCAS.2005.1466042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1466042,0
+4,98,A Back-Gate-Input Clocked Comparator with Improved Speed and Reduced Noise in 22-nm SOI CMOS,10.1109/ISCAS51556.2021.9401638,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401638,0
+4,99,Kick-back Noise Reduction and Offset Cancellation Technique for Dynamic Latch Comparator,10.1109/ICEE52715.2021.9544395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9544395,0
+5,0,"Design and Implementation of Low Power, High Speed Flash ADC using Double Tail Comparator",10.1109/ICICT60155.2024.10544526,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10544526,0
+5,1,A 1-MHz Relaxation Oscillator Core Employing a Self-Compensating Chopped Comparator Pair,10.1109/TCSI.2019.2895288,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8648468,0
+5,2,An analysis of offset calibration based additional load capacitor imbalance for two-stage dynamic comparator,10.1109/INFOCOMAN.2016.7784255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7784255,0
+5,3,Single-stage offset-cancelled latched comparator scheduled by multi-level control on reset switch,10.1109/APCCAS.2016.7803901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803901,0
+5,4,Calibration of voltage transformer test set by employing voltage divider,10.1109/CPEM.2014.6898419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898419,0
+5,5,Low-power and high performance clocked regenerative comparator at 90nm CMOS technology,10.1109/ICACCI.2016.7732213,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7732213,0
+5,6,Experimental demonstration of stochastic comparators for fine resolution ADC without calibration,10.1109/ICECS.2016.7841124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841124,0
+5,7,Edge-Pursuit Comparator: An Energy-Scalable Oscillator Collapse-Based Comparator With Application in a 74.1 dB SNDR and 20 kS/s 15 b SAR ADC,10.1109/JSSC.2016.2631299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7815388,0
+5,8,Digitally programmable offset compensation of comparators in flash ADCs for hybrid ADC architectures,10.1109/MWSCAS.2015.7282059,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282059,0
+5,9,A Comparator Speed Enhancement Technique for Near- and Sub-Threshold ADCs,10.1109/ICECS53924.2021.9665467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665467,0
+5,10,Susceptibility of CMOS Voltage Comparators to Radio Frequency Interference,10.1109/TEMC.2011.2167749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6035771,0
+5,11,Design of voltage comparator integrated circuit with normally-on MESFETs on 4H-SiC semiconductor,10.1109/SMICND.2015.7355198,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7355198,0
+5,12,Design of CNFET based ternary comparator using grouping logic,10.1109/FTFC.2012.6231748,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6231748,0
+5,13,Design considerations for current domain regenerative comparators,10.1049/cp:19940545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=346583,0
+5,14,An Effective Transconductance Controlled Offset Calibration for Dynamic Comparators,10.1109/ISCAS45731.2020.9180938,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180938,0
+5,15,An 11 bit SAR ADC combining a split capacitor array with a resistive ladder and a configurable noise time domain comparator,10.1109/MWSCAS.2012.6291967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6291967,0
+5,16,Cascode Cross-Coupled Stage High-Speed Dynamic Comparator in 65 nm CMOS,10.1109/TVLSI.2023.3276000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10132392,0
+5,17,A fast comparator with integrated small dual hysteresis and offset control,10.1109/ET.2017.8124336,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8124336,0
+5,18,Implementation of Dynamic Comparator Using Improved Diode Free Adiabatic Logic Design,10.1109/ICDCS59278.2024.10561082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10561082,0
+5,19,A High Speed Voltage Comparator with Adjustable MOM Capacitor Based on a Strong-Arm Latch,10.1109/CSRSWTC50769.2020.9372637,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9372637,0
+5,20,Sense Amplifier Based Comparator Design for SAR ADC,10.1109/IMCEC46724.2019.8983883,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8983883,0
+5,21,Noise Analysis in Comparator Circuits,10.1109/ElCon61730.2024.10468446,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10468446,0
+5,22,A Modified Technique for Calibration of Current-Comparator-Based Capacitance Bridge and Its Verification,10.1109/TIM.2010.2096952,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5677471,0
+5,23,Design of a low power 0.25 µm CMOS comparator for sigma-delta Analog-to-Digital Converter,10.1109/SCORED.2015.7449416,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7449416,0
+5,24,Analysis of Low Voltage Ride Through Techniques for Grid-Connected Photovoltaic Systems,10.1109/PESGRE45664.2020.9070365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9070365,0
+5,25,High speed comparator for flash ADC and UWB application in 130 nm CMOS technology,10.1109/ICSIPA.2009.5478686,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5478686,0
+5,26,Dynamic Comparator Design for High Speed ADCs,10.1109/ICEEICT53079.2022.9768408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768408,0
+5,27,A Review of Improved CMOS Dynamic Comparators,10.1109/EEBDA53927.2022.9745016,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745016,0
+5,28,Implementation of Power Efficient Dynamic Comparator at 180 nm Process Technology for high-speed applications,10.1109/ICSES52305.2021.9633896,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9633896,0
+5,29,Investigation of Transient Dose-Rate Effect on High-Speed Comparator SB9696,10.1109/TNS.2023.3288897,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160048,0
+5,30,A virtual III-V tunnel FET technology platform for ultra-low voltage comparators and level shifters,10.1109/PRIME.2017.7974128,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7974128,0
+5,31,High-speed low input impedance CMOS current comparator,10.1109/ISCAS.2003.1205520,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1205520,0
+5,32,Energy efficient comparators for superscalar datapaths,10.1109/TC.2004.29,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1321049,0
+5,33,Design of low-power high-speed double-tail dynamic CMOS comparator using novel latch structure,10.1109/UPCON.2017.8251050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251050,0
+5,34,Design and operating characteristics of voltage comparator using MTCMOS circuits,10.1109/ISCO.2013.6481158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6481158,0
+5,35,"A 1-to-1-kHz, 4.2-to-544-nW, Multi-Level Comparator Based Level-Crossing ADC for IoT Applications",10.1109/TCSII.2018.2854862,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8411440,0
+5,36,A 400-μW 3-GHz comparator in 65-nm CMOS,10.1109/RFIT.2012.6401633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401633,0
+5,37,High Speed Comparator Design for the Implementation of Successive Approximation Register ADC,10.1109/ISMSIT.2019.8932893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932893,0
+5,38,Designs Analysis for Comparator’s Performance Improvement,10.1109/ICAICA54878.2022.9844467,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844467,0
+5,39,A study on the design of flash analog to quaternary converter using DLC comparator,10.1109/ISMVL.2003.1201409,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1201409,0
+5,40,A ZVS Active Rectifier with Adaptive On/Off Delay Compensation for WPT Systems,10.1109/APCCAS.2018.8605681,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605681,0
+5,41,A comparator with reduced regeneration time for continuous-time delta-sigma modulator,10.1109/APMC.2013.6694922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6694922,0
+5,42,Analysis and Background Self-Calibration of Comparator Offset in Loop-Unrolled SAR ADCs,10.1109/TCSI.2017.2723799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7994614,0
+5,43,A Level Crossing ADC with Variable Symtem Hysteresis,10.1109/CCDC.2019.8832731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832731,0
+5,44,"High speed, low offset, low power differential comparator with constant common mode voltage",10.1109/ASICON.2017.8252615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8252615,0
+5,45,Digital LDO with Time-Interleaved Comparators for Fast Response and Low Ripple,10.1109/ISVLSI.2016.137,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7560220,0
+5,46,CNFET based ternary magnitude comparator,10.1109/ISCIT.2012.6381040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6381040,0
+5,47,Low power dynamic comparator for 4 — bit Flash ADC,10.1109/ICCIC.2016.7919550,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7919550,0
+5,48,A threshold control technique for CMOS comparator design,10.1109/EDSSC.2014.7061169,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061169,0
+5,49,A high efficiency acoustic energy scanvage circuit applied on ECG signal detection,10.1109/ICISCE50968.2020.00014,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9532182,0
+5,50,Design of a Polychromatic Color Sensor – Based Voltage Comparator Circuit of Soil pH and Nutrient Management Device for Fertilizer Recommendation,10.1109/HNICEM48295.2019.9073338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9073338,0
+5,51,Low Power 3-Bit Flash ADC Design with Leakage Power Reduction at 45 nm Technology,10.1109/ICIST.2018.8426136,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8426136,0
+5,52,A Three-Stage Comparator and Its Modified Version With Fast Speed and Low Kickback,10.1109/TVLSI.2021.3077624,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9433715,0
+5,53,A novel dual-modulation design low input impedance current comparator,10.1109/TENCON.2012.6412233,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6412233,0
+5,54,A comparator with flexible programming of the hysteresis,10.1109/ICASID.2010.5551525,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5551525,0
+5,55,A CMOS Rectifier With a Cross-Coupled Latched Comparator for Wireless Power Transfer in Biomedical Applications,10.1109/TCSII.2012.2198977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6205613,0
+5,56,One-comparator counter-based PWM control for DC-AC converter,10.1109/ISIE.2009.5213283,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5213283,0
+5,57,Low power comparator with offset cancellation technique for Flash ADC,10.1109/SMACD.2017.7981602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7981602,0
+5,58,A High Speed and Low Power 32nm FinFET Dynamic Latch Comparator Design,10.1109/ICASERT.2019.8934511,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8934511,0
+5,59,"Design of Low Power, High Speed, Low Offset and Area Efficient Dynamic-Latch Comparator for SAR-ADC",10.1109/ITCE48509.2020.9047792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9047792,0
+5,60,The theoretical analysis of open-loop characteristic for double magnetic detector comparator,10.1109/TIM.2004.843350,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1408241,0
+5,61,Comparator Power Reduction in Low-Frequency SAR ADC Using Optimized Vote Allocation,10.1109/TVLSI.2014.2362545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6936370,0
+5,62,Design & Analysis of Performance-efficient Comparator for IoT Application,10.1109/UPCON56432.2022.9986363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9986363,0
+5,63,Rail to Rail Comparator for SAR ADC in Biomedical Applications,10.23919/MIXDES52406.2021.9497556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497556,0
+5,64,Single-Event Effect Mitigation in Switched-Capacitor Comparator Designs,10.1109/TNS.2008.2006895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4723733,0
+5,65,Minimizing Quiescent Power in a Dynamically Biased Comparator and its Application in Relaxation Oscillator,10.1109/PRIME58259.2023.10161905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161905,0
+5,66,An offset cancellation technique for comparators using body-voltage trimming,10.1109/NEWCAS.2011.5981308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5981308,0
+5,67,A CMOS low-power low-offset and high-speed fully dynamic latched comparator,10.1109/SOCC.2010.5784646,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5784646,0
+5,68,Modelling impact of digital substrate noise on embedded regenerative comparators,10.1109/ESSCIRC.2003.1257120,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1257120,0
+5,69,A multi-GHz area-efficient comparator with dynamic offset cancellation,10.1109/CICC.2011.6055311,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6055311,0
+5,70,CNTFET-based 1-bit Comparator Design using Low-power Logic Circuit Techniques,10.1109/ICSCDS56580.2023.10104888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10104888,0
+5,71,A Novel Hybrid CMOS-Memristor Based 2-Bit Magnitude Comparator using Memristor Ratioed Logic Universal Gate for Low Power Applications,10.1109/ICAECA52838.2021.9675534,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9675534,0
+5,72,A circuit-based approach for the compensation of self-heating-induced timing errors in bipolar comparators,10.1109/BCTM.2012.6352647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6352647,0
+5,73,A kind of 3-bit flash ADC core,10.1109/ICoOM.2013.6626486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6626486,0
+5,74,On improving the performance of Traff's comparator,10.1109/IICPE.2012.6450418,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6450418,0
+5,75,A 200-MS/s Phase-Detector-Based Comparator With 400-$\mu\text{V}_{\mathrm{rms}}$ Noise,10.1109/TCSII.2016.2534678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7419908,0
+5,76,Automated Design of a Strong-ARM Dynamic Comparator,10.1109/ISEDA62518.2024.10617721,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10617721,0
+5,77,A 0.41 µA Standby Leakage 32 kb Embedded SRAM with Low-Voltage Resume-Standby Utilizing All Digital Current Comparator in 28 nm HKMG CMOS,10.1109/JSSC.2012.2237571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6412734,0
+5,78,Overshoot cancelation of residue voltage in fully differential comparator-based pipelined ADC,10.1109/IranianCEE.2015.7146367,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146367,0
+5,79,Synchronous coarse-fine comparators based zero-current detector for DC-DC converter operating in switching frequency beyond 10 MHz,10.1109/EDSSC.2017.8126530,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8126530,0
+5,80,"Low Power, Low Offset, Area Efficient Comparator Design in Nanoscale CMOS Technology",10.1109/EWDTS.2018.8524737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8524737,0
+5,81,A fast-transient digital LDO using a double edge-triggered comparator with a completion signal,10.23919/ELINFOCOM.2018.8330666,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8330666,0
+5,82,A 0.2-V 10-bit 5-kHz SAR ADC with Dynamic Bulk Biasing and Ultra-Low-Supply-Voltage Comparator,10.1109/CICC48029.2020.9075917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9075917,0
+5,83,An Improved Dynamic Latch Based Comparator for 8-Bit Asynchronous SAR ADC,10.1109/ISVLSI.2015.68,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7309559,0
+5,84,Statistical behavior of a comparator with weak repetitive signal and additive white Gaussian noise,10.1109/I2MTC.2016.7520420,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7520420,0
+5,85,A Configurable Hysteresis Comparator for Asynchronous Sigma-Delta Modulators,10.1109/NORCHIP.2018.8573454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8573454,0
+5,86,Study and analysis of Low Power Dynamic Comparator for IOT Application,10.1109/IBSSC47189.2019.8973040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8973040,0
+5,87,Analysis of Different Magnitude Comparator Using Subtraction Logic,10.1109/ICICS.2018.00015,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8479396,0
+5,88,Design and Simulation of CCII based CMOS current comparator in 130nm technology,10.1109/ICDCS54290.2022.9780756,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780756,0
+5,89,A High Frequency Active Voltage Doubler in Standard CMOS Using Offset-Controlled Comparators for Inductive Power Transmission,10.1109/TBCAS.2012.2198649,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6220262,0
+5,90,Design and Evaluation of AlGaN/GaN High Electron Mobility Transistor Comparator,10.1109/ICICDT.2019.8790910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8790910,0
+5,91,Low-Voltage Dynamic Comparator with Bulk-Driven Floating Inverter Amplifier,10.1109/SBCCI50935.2020.9189918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189918,0
+5,92,Investigation on the Voltage Dependence of Compressed-Gas-Insulated Capacitors up to 400 kV by Improved Voltage-Doubling Method,10.1109/TIM.2022.3210954,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906302,0
+5,93,An ultra high-resolution low propagation delay time and low power with 1.25GS/s CMOS dynamic latched comparator for high-speed SAR ADCs in 180nm technology,10.1109/KBEI.2017.8324983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8324983,0
+5,94,Replica biased complementary CMOS comparator,10.1109/ET.2017.8124374,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8124374,0
+5,95,One-comparator sampling design for digital power converters,10.1109/ISNE.2018.8394746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8394746,0
+5,96,A Power Efficient 5-bit 5-GS/s Parallel Comparator Analogue-To-Digital Converter,10.1109/ECAI.2018.8678947,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678947,0
+5,97,A GaN HEMTs half-bridge driver with bandgap reference comparator clamping for high-frequency DC-DC converter,10.1109/IECON.2017.8216095,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8216095,0
+5,98,An Intensive Study of Thermal Effects in High Speed Low Power CMOS Dynamic Comparators,10.1109/ICCES51350.2021.9488992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9488992,0
+5,99,Design of Low Power 2-Bit Flash ADC using High Performance Dynamic Double Tail Comparator,10.1109/5NANO53044.2022.9828927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828927,0

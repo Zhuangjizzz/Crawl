@@ -99,3 +99,402 @@
 1,97,A DEM-Free Sturdy MASH Delta-Sigma Modulator with a Highly-Linear Tri-level DAC,10.1109/EDSSC.2019.8754500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8754500,1
 1,98,The 5th Order Single-Bit Sigma-Delta Modulator with Passive Adder Design,10.1109/EDM61683.2024.10615071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10615071,1
 1,99,Superconducting high-order cascaded lowpass sigma-delta modulator,10.1109/TASC.2005.849799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1439633,1
+2,0,Superconducting high-order cascaded lowpass sigma-delta modulator,10.1109/TASC.2005.849799,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1439633,0
+2,1,A Highly Linear Multi-Level SC DAC in a Power-Efficient Gm-C Continuous-Time Delta-Sigma Modulator,10.1109/ISCAS45731.2020.9180765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180765,0
+2,2,Differentially Encoded Photonic Analog-to-Digital Conversion Based on Phase Modulation and Interferometric Demodulation,10.1109/LPT.2011.2170408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6032711,0
+2,3,A Differential Quantizer-Based Error Feedback Modulator for Analog-to-Digital Converters,10.1109/TCSII.2017.2666822,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849169,0
+2,4,Optical Linearization of Silicon Photonic Ring-Assisted Mach-Zehnder Modulator,10.1109/JLT.2023.3345350,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368281,0
+2,5,A New DAC Mismatch Shaping Technique for Sigma–Delta Modulators,10.1109/TCSII.2010.2083172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5624575,0
+2,6,Silicon-based electro-optic modulators for linear and nonlinear radio-over-fiber applications,10.1109/MWP.2012.6474083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6474083,0
+2,7,Concurrent Design of Delta-Sigma Modulator Using Behavioral Modeling and Simulation with the Verilog-A,10.1109/CICC.2006.320917,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4114974,0
+2,8,Multibit Delta-Sigma Modulator With Two-Step Quantization and Segmented DAC,10.1109/TCSII.2006.881825,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1705052,0
+2,9,Continuous-Time Delta-Sigma Modulator based on High-Speed Low-Resolution A/D Converter,10.1109/NEWCAS.2007.4487992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487992,0
+2,10,Serial photonic digital-to-analog converter based on time and wavelength interleaving processing,10.1109/WOCC.2016.7506627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7506627,0
+2,11,Segmented Mach-Zehnder Modulator for Orthogonal Sampling Based High Bandwidth THz Transmitters,10.23919/GeMiC59120.2024.10485347,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10485347,0
+2,12,Multi-bit Quantizer Delta-Sigma Modulator with the Feedback DAC Mismatch Error Shaping,10.1109/IranianCEE.2019.8786758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786758,0
+2,13,A 5.35-mW 10-MHz Single-Opamp Third-Order CT  $\Delta\Sigma$  Modulator With CTC Amplifier and Adaptive Latch DAC Driver in 65-nm CMOS,10.1109/JSSC.2018.2852326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419079,0
+2,14,Digital to Pulse Converter for Analog in Memory Compute Applications,10.1109/APCCAS60141.2023.00025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10509941,0
+2,15,Enhancing resolution of delta sigma modulator using 1-bit adaptive DAC,10.1109/ISOCC.2013.6863992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6863992,0
+2,16,Modulation Format Aggregation of Nyquist channels by Spectral Superposition with Electro-Optic Modulators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9748601,0
+2,17,Analog design retargeting by design knowledge reuse and circuit synthesis,10.1109/ISCAS.2008.4541562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541562,0
+2,18,Excess Loop Delay Compensation in Continuous-Time Delta-Sigma Modulators,10.1109/TCSII.2008.2008051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703533,0
+2,19,OBT applied to a 2nd order continuous time Feedforward Sigma Delta modulator,10.1109/LATW.2019.8704622,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704622,0
+2,20,Design of Continuous-Time Sigma-Delta Modulator with Noise Reduction for Robotic Light Communication and Sensing,10.1109/ARIS50834.2020.9205776,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9205776,0
+2,21,Continuous-Time Sigma–Delta Modulator With a Fast Tracking Quantizer and Reduced Number of Comparators,10.1109/TCSI.2010.2043991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5433328,0
+2,22,Dynamic Range Improvement for an Analog Photonic Link Using an Integrated Electro-Optic Dual-Polarization Modulator,10.1109/JPHOT.2016.2547844,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7442521,0
+2,23,Digital Background Calibration for Binary DACs in Continuous Time Delta Sigma Modulators,10.1109/IranianCEE.2019.8786483,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786483,0
+2,24,Compensation of the chromatic dispersion in long-reach analog optical links incorporating parallel electro-optic phase and intensity modulators,10.1109/MWP.2011.6088722,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6088722,0
+2,25,Cascaded feedforward sigma-delta modulator for wide bandwidth applications,10.1109/ICECS.2001.957661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=957661,0
+2,26,Aliasing-free variable gain Delta Sigma Modulator for use in an analog frontend,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5551697,0
+2,27,Integrated continuous-time Sigma-Delta Modulator and low noise amplifier for tracheostomy tube wireless application,10.1109/ISNE.2016.7543373,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7543373,0
+2,28,A digitally enhanced low-distortion delta-sigma modulator for wideband application,10.1109/ISOCC.2012.6407051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6407051,0
+2,29,A 0.5-V Wideband Amplifier for a 1-MHz CT Complex Delta-Sigma Modulator,10.1109/TCSII.2009.2029163,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5280389,0
+2,30,Suppression of intermodulation distortion (IMD) in coherent system using polymeric dual parallel Mach-Zehnder modulators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5500149,0
+2,31,A Time-Interleaved 2nd-Order ΔΣ Modulator Achieving 5-MHz Bandwidth and 86.1-dB SNDR Using Digital Feed-Forward Extrapolation,10.1109/JSSC.2021.3060859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373902,0
+2,32,Analog testing stimulus optimization for generating by means of Sigma-Delta modulation,10.1109/MIXDES.2015.7208577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208577,0
+2,33,A second-order Switched Capacitor Passive Sigma Delta Modulator with Bootstrapped switches in FinFET Technology,10.1109/ICECCE52056.2021.9514234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9514234,0
+2,34,Linearity Analysis of Phase-Domain Delta-Sigma Modulator,10.1109/MWSCAS54063.2022.9859407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859407,0
+2,35,A 345 nW Power Continuous Time Delta Sigma Modulator for Biomedical Applications,10.1109/INDICON49873.2020.9342206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9342206,0
+2,36,A MASH2-2 Sigma Delta Modulator with NTF Zero Optimization Technique,10.1109/ICCET55794.2022.00021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844934,0
+2,37,Ring resonator-based electrooptic polymer traveling-wave modulator,10.1109/JLT.2006.878514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1688143,0
+2,38,General Analysis of Feedback DAC's Clock Jitter in Continuous-Time Sigma-Delta Modulators,10.1109/TCSII.2014.2327379,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6823157,0
+2,39,Demonstration of a Large Stretch-Ratio $({\rm M}=41)$ Photonic Analog-to-Digital Converter With 8 ENOB for an Input Signal Bandwidth of 10 GHz,10.1109/LPT.2012.2198881,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6211403,0
+2,40,Experimental Demonstration of a Photonic Analog-to-Digital Converter Architecture With Pseudorandom Sampling,10.1109/LPT.2008.2007747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4663603,0
+2,41,Analyzing the Effect of Clock Jitter on Self-Oscillating Sigma Delta Modulators,10.1109/TCSI.2015.2512738,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7393535,0
+2,42,Top-Down Design Process for Continuous-Time Delta Sigma Modulators,10.1109/DTIS.2008.4540250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540250,0
+2,43,256/64-QAM Multicarrier Analog Radio-over-Fiber Modulation using a Linear Differential Drive Silicon Mach-Zehnder Modulator,10.1109/MWP.2018.8552919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8552919,0
+2,44,MATLAB model of analog multiplier based on the sigma-delta modulation,10.1109/CADSM.2015.7230886,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7230886,0
+2,45,A K-Delta-1-Sigma modulator for wideband analog to digital conversion,10.1109/MWSCAS.2009.5236069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5236069,0
+2,46,A novel quantization scheme by slicing supercontinuum spectrum for all-optical analog-to-digital conversion,10.1109/LPT.2004.839397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1386350,0
+2,47,Gm-cell nonlinearity compensation technique using single-bit quantiser and FIR DAC in Gm-C based delta-sigma modulators,10.1109/ISCAS.2016.7527545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527545,0
+2,48,"33-200Mbps, 3pJ/Bit True Random Number Generator Based on CT Delta-Sigma Modulator",10.1109/ISCAS51556.2021.9401507,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401507,0
+2,49,DAC-less PAM4 Transmitter Using Electro-Optic Polymer Dual-Drive Mach-Zehnder Modulator with Imbalanced Binary Driving Electronics,10.1364/CLEO_SI.2019.STh1N.7,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8749666,0
+2,50,A Sixth-Order 200 MHz IF Bandpass Sigma-Delta Modulator With Over 68 dB SNDR in 10 MHz Bandwidth,10.1109/JSSC.2010.2048505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5482513,0
+2,51,Demonstration of a 40 gigasample/s real-time photonic analog-to-digital converter,10.1109/MWP.2005.203544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590272,0
+2,52,IMDD Transmission at Net Data Rate of 333 Gb/s Using Over-100-GHz-Bandwidth Analog Multiplexer and Mach–Zehnder Modulator,10.1109/JLT.2019.2898675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8638947,0
+2,53,Analog performance of compact lithium niobate optical modulators on silicon,10.1109/AVFOP.2016.7789915,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7789915,0
+2,54,A continuous-time delta-sigma modulator with novel data-weighted averaging algorithm for audio application,10.1109/EDSSC.2015.7285105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7285105,0
+2,55,A continuous-time delta-sigma modulator using feedback resistors,10.1109/VDAT.2009.5158140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158140,0
+2,56,A Tracking Quantizer for Continuous Time Quadrature Bandpass Sigma-Delta Modulators,10.1109/ICECS.2018.8618055,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618055,0
+2,57,On the Implicit Anti-Aliasing Feature of Continuous-Time Cascaded Sigma–Delta Modulators,10.1109/TCSI.2007.906070,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358607,0
+2,58,Combining Multipath and Single-Path Time-Interleaved Delta-Sigma Modulators,10.1109/TCSII.2008.2008062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4698874,0
+2,59,A high-frequency double-sampling second-order /spl Delta//spl Sigma/ modulator,10.1109/TCSII.2005.853513,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1556803,0
+2,60,Multi-octave operation of analog optical link using parallel intensity modulators,10.1109/ICOCN.2013.6617237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6617237,0
+2,61,MASH sigma-delta modulators with reduced sensitivity to the circuit non-idealities,10.1109/ISCAS.2009.5118465,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5118465,0
+2,62,Pulse-width modulation in sigma-delta modulators,10.1109/ISCAS.2010.5537341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537341,0
+2,63,Maximum Sequence Length MASH Digital Delta–Sigma Modulators,10.1109/TCSI.2007.905653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358599,0
+2,64,Analysis of Gain and Bandwidth Limitations of Operational Amplifiers in Sigma-Delta Modulators,10.1109/PRIME.2018.8430341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8430341,0
+2,65,A Reconfigurable Continuous-Time Delta-Sigma Modulator Structure Using Hybrid Loop Filter and Time-Interleaved Quantizer,10.1109/ISCAS58744.2024.10558512,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558512,0
+2,66,An analog GFSK modulator in 0.35 /spl mu/m CMOS [Bluetooth transmitter applications],10.1109/ISSCC.2004.1332655,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1332655,0
+2,67,All-Optical Analog-to-Digital Conversion Using Inherent Multiwavelength Phase Shift in LiNbO$_{3}$  Phase Modulator,10.1109/LPT.2008.924189,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4529244,0
+2,68,Green Bandpass Sigma Delta Modulator with Capacitive Feedforward Summation and Series-Peaking LNA Chip Design for Communication System Application,10.1109/iThings.2014.101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7059727,0
+2,69,A FinFET based 2nd-Order Fully Differential Passive Sigma Delta Modulator for Low Power ADC,10.1109/ICCCNT49239.2020.9225635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9225635,0
+2,70,Electromechanical-Filter-Based Bandpass Sigma–Delta Modulator,10.1109/TCSII.2009.2022211,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5071171,0
+2,71,A 20 GS/sec Analog-to-Digital Sigma-Delta Modulator in SiGe HBT Technology,10.1109/CICC.2006.320909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4114944,0
+2,72,A 24.7 mW 65 nm CMOS SAR-Assisted CT $\Delta\Sigma $ Modulator With Second-Order Noise Coupling Achieving 45 MHz Bandwidth and 75.3 dB SNDR,10.1109/JSSC.2016.2594953,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7547292,0
+2,73,A 4-MHz Bandwidth Continuous-Time Sigma-Delta Modulator With Stochastic Quantizer and Digital Accumulator,10.1109/TCSII.2018.2880912,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8532284,0
+2,74,Methods for Simulating Continuous Time Delta Sigma Modulators,10.1109/ICSEng.2017.30,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8121679,0
+2,75,Low-voltage sigma-delta modulator topologies for broadband applications,10.1109/ISCAS.2004.1328232,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328232,0
+2,76,An Analog-to-Digital Converter Using Delta-Sigma Modulator Network,10.1109/ISMVL.2018.00013,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8416916,0
+2,77,A Low Power Sigma-Delta Modulator Using Class-C Inverter,10.1109/VLSIC.2007.4342734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4342734,0
+2,78,Performance prospects of compact silicon microring-based electro-optic modulator for analog optical links,10.1109/ECOC.2008.4729451,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4729451,0
+2,79,Two-bit all-optical analog-to-digital conversion by filtering broadened and split spectrum induced by soliton effect or self-phase modulation in fiber,10.1109/JSTQE.2006.872726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1632176,0
+2,80,Digital Calibration of Capacitor Mismatch in Sigma-Delta Modulators,10.1109/TCSI.2010.2073870,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5641627,0
+2,81,A 372 μW 10 kHz-BW 109.2 dB-SNDR Nested Delta-Sigma Modulator Using Hysteresis-Comparison MSB-Pass Quantization,10.1109/JSSC.2023.3262300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10092527,0
+2,82,Modeling of non-ideal switch-capacitor integrator and its effect on baseband sigma-delta modulator stability and output dynamic range,10.1109/ICM.2005.1590045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590045,0
+2,83,An Elaborate Design and Optimization of Low Order Bandpass Sigma-Delta Modulator,10.1109/ICM.2005.1590025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590025,0
+2,84,Testing analog circuits by using a sigma-delta modulator,10.1109/ETC.1993.246613,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=246613,0
+2,85,A low-distortion and swing-suppression sigma-delta modulator with extended dynamic range,10.1109/APASIC.2002.1031519,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1031519,0
+2,86,Modulators And Detectors For VLSI/FLC Smart Spatial Light Modulators,10.1109/LEOSST.1992.697481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=697481,0
+2,87,Live demonstration: High-level optimization of ΣΔ modulators using multi-objetive evolutionary algorithms,10.1109/ISCAS.2016.7527521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527521,0
+2,88,Generation method of a driving signal for a dual-mode supply modulator in a 3-level envelope delta-sigma modulator transmitter,10.1109/EuMC.2014.6986609,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986609,0
+2,89,Realization of the 2nd-order NTF enhancement in a time-encoded continuous-time sigma-delta modulator using passive elements,10.1109/IranianCEE.2015.7146398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7146398,0
+2,90,Analog Quadrature Modulator and Coupling Circuit for Narrowband Power Line Communication,10.23919/MIXDES55591.2022.9837975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837975,0
+2,91,A Three-Stage Operational Transconductance Amplifier for Delta Sigma Modulator,10.1109/DISCOVER.2018.8674124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674124,0
+2,92,Multirate-cascade sigma-delta (MC-SD) modulators,10.1109/ISCAS.2001.921873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921873,0
+2,93,Self-testing second-order delta-sigma modulators using digital stimulus,10.1109/VTS.2002.1011122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011122,0
+2,94,Verification of an Active Time Constant Tuning Technique for Continuous-Time Delta-Sigma Modulators,10.1109/SMACD55068.2022.9816223,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816223,0
+2,95,A comparison of simulation methods for continuous time sigma delta modulators,10.1109/CCWC.2018.8301689,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8301689,0
+2,96,A second order hybrid continuous-discreet time sigma-delta modulator,10.1109/ECAI.2013.6636201,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6636201,0
+2,97,DAC-less and amplifier-less generation and transmission of 16QAM signals using a sub-volt silicon photonic modulator,10.1109/ECOC.2014.6964272,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6964272,0
+2,98,A 1 MHz BW 34.2 fJ/step Continuous Time Delta Sigma Modulator With an Integrated Mixer for Cardiac Ultrasound,10.1109/TBCAS.2016.2580462,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7558137,0
+2,99,Precision calibration of an optically sampled analog-to-digital converter,10.1109/LEOSST.2003.1224333,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1224333,0
+3,0,A 2.5-V sigma-delta modulator for broadband communications applications,10.1109/4.972139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=972139,0
+3,1,Second-order Incremental Delta-sigma Modulator with 3-bit SAR ADC and Capacitor Sharing Scheme,10.1109/ISOCC56007.2022.10031430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10031430,0
+3,2,An analog optical computational approach to RF image formation,10.1109/AERO.2006.1655911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1655911,0
+3,3,A case study on a 2-1-1 cascaded continuous-time sigma-delta Modulator,10.1109/TCSI.2005.852024,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1495718,0
+3,4,Compressed sense sigma delta modulators for bio-medical image acquisition,10.1109/ISED.2016.7977101,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7977101,0
+3,5,Acoustooptic Binary Coding Based on Space-Time Integration and Its Application to Ultrafast High-Resolution Digital-Analog Conversion,10.1109/LPT.2008.2006690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4663576,0
+3,6,Arbitrary waveform generation by a 4-bit photonic digital-to-analog converter with 3.49 effective number of bits,10.1109/MWP.2016.7791298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7791298,0
+3,7,Dual Frequency Comb Photonic Analog to Digital Conversion,10.1109/SUM48678.2020.9161029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161029,0
+3,8,All-digital transmitter based on cascaded delta-sigma modulators for relaxing the analog filtering requirements,10.1109/MWSYM.2017.8058892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8058892,0
+3,9,On-line calibration and digital correction of multi-bit sigma-delta modulators,10.1109/VLSIC.2005.1469363,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1469363,0
+3,10,2nd Order Distortion Cancellation in Photonic Time Stretch Analog-to-Digital Converter,10.1109/MWSYM.2007.380369,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263786,0
+3,11,Comparison of Analogue and Digital Driving Methods for the LC Cell of a Spatial Light Modulator,10.1109/EDM61683.2024.10615089,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10615089,0
+3,12,Subtractive dithering technique for delta-sigma modulator,10.1109/ISCAS.2017.8050371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050371,0
+3,13,A multi-level cascaded delta-sigma modulator with reduced quantization noise leakage,10.1109/ISMVL51352.2021.00042,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459649,0
+3,14,A 3.3mw 91dB SNR sigma-delta modulator in 0.18μm CMOS process,10.1109/ASICON.2009.5351494,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351494,0
+3,15,Continuous-Time Sigma-Delta Modulator with Oscillator for Phase Locked Loop Wireless Controlled Power Applications,10.1109/CENCON51869.2021.9627274,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9627274,0
+3,16,Design of single-loop CT sigma-delta modulators for high resolution -wideband applications using GUI,10.1109/ICECDS.2017.8389764,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8389764,0
+3,17,Integral nonlinearity of third order single bit sigma-delta modulator,10.1109/ICCAS.2016.7832514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7832514,0
+3,18,Design of efficient digital interpolation filters and sigma-delta modulator for audio DAC,10.1109/DTIS.2008.4540251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540251,0
+3,19,Broadband LiNbO/sub 3/ modulator for digital and analog applications,10.1109/MWP.2003.1422907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1422907,0
+3,20,An Energy-Efficient Discrete-Time Delta–Sigma Modulator With Dynamic-Range Enhancement and Tri-Level CDAC,10.1109/JSSC.2024.3371878,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10462157,0
+3,21,Using dither to improve the performance of lossy sigma-delta modulators,10.1109/DELTA.2006.94,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1581180,0
+3,22,A Design of 14-bits ADC and DAC for CODEC Applications in 0.18 µm CMOS Process,10.1109/DELTA.2008.124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4459499,0
+3,23,A 134-μW 99.4-dB SNDR Audio Continuous-Time Delta-Sigma Modulator With Chopped Negative-R and Tri-Level FIR-DAC,10.1109/JSSC.2020.3032152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9252136,0
+3,24,A passive 2nd-order sigma-delta modulator for low-power analog-to-digital conversion,10.1109/MWSCAS.2014.6908485,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908485,0
+3,25,High order sigma-delta modulator design via sliding mode control,10.1109/ACC.2003.1239137,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1239137,0
+3,26,A MATLAB toolbox synthesizing reconfigurable delta-sigma modulators for multi-standard wireless applications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733892,0
+3,27,A Continuous-Time Delta-Sigma Modulator for RF Subsampling Receivers,10.1109/TCSII.2012.2190860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6187715,0
+3,28,A low-voltage switched-current memory cell based delta sigma modulator,10.1109/ASIC.2001.954746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954746,0
+3,29,Simulation model of delta-sigma modulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5446003,0
+3,30,Linearity and ultra-linearization of ring resonator modulators for sub-octave bandpass analog optical links,10.1109/OFC.2006.215804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1636835,0
+3,31,Novel Baseband Analog Beamforming through Resistive DACs and Sigma Delta Modulators,10.1109/ECCTD49232.2020.9218408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218408,0
+3,32,Time-Interleaved Noise-Coupling Delta-Sigma Modulator Using Modified Noise-Shaped Integrating Quantizer,10.1109/JETCAS.2015.2502163,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7358456,0
+3,33,Differential Drive I/Q Modulator Based on Silicon Photonic Electro-Absorption Modulators,10.1109/JLT.2020.2978190,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9024100,0
+3,34,"0.36-mW, 52-Mbps True Random Number Generator Based on a Stochastic Delta–Sigma Modulator",10.1109/LSSC.2020.3010901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9145702,0
+3,35,Built-In Self-Test for Low-Voltage High-Speed Analog-to-Digital Converters,10.1109/TIM.2007.908343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4389150,0
+3,36,Digitizing the feedback signal in a magnetic field (AMR) sensor system using delta sigma modulator topology,10.1109/ISOCC.2012.6407052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6407052,0
+3,37,A 4th Order CIFB High Dynamic Range Sigma-Delta Modulator with Multi-level Quantizer and Intrinsically Linear Capacitive DACs,10.1109/ISCAS58744.2024.10558399,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558399,0
+3,38,All Optical GSPS Analog-Digital Converters (ADC),10.1109/IPCon.2019.8908296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8908296,0
+3,39,120 GHz Sub-2 V Thin-Film Lithium Niobate Modulators on Silicon Substrate Using Thick Capacitively Loaded Slow Wave Electrodes,10.1109/JPHOT.2024.3477311,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711217,0
+3,40,Adaptive Noise Cancellation Techniques in Sigma–Delta Analog-to-Digital Converters,10.1109/TCSI.2007.904655,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4303293,0
+3,41,Linearization of an interferometric modulator at microwave frequencies by polarization mixing,10.1109/BAODS.1990.205503,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=205503,0
+3,42,An Inverter-Based Continuous Time Sigma Delta ADC With Latency-Free DAC Calibration,10.1109/TCSI.2020.3009652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9146678,0
+3,43,A Comparative Study on Excess-Loop-Delay Compensation Techniques for Continuous-Time Sigma–Delta Modulators,10.1109/TCSI.2008.925362,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4526189,0
+3,44,An audio ADC Delta-Sigma modulator with 100-dB peak SINAD and 102-dB DR using a second-order mismatch-shaping DAC,10.1109/4.910472,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=910472,0
+3,45,Detection and Removal of Limit Cycles in Sigma Delta Modulators,10.1109/TCSI.2008.925078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4518931,0
+3,46,Integrated Ferroelectric BaTiO3/Si Plasmonic Modulator for 100 Gbit/s and Beyond,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8385754,0
+3,47,A Mach-Zehnder modulator model for the design of optical-fiber analog transmitters,10.1109/INMMIC.2011.5773315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5773315,0
+3,48,Photonic Analog-to-Digital Conversion Using Electro-Absorption Modulator and Supercontinuum Light,10.1109/ECOC.2006.4800972,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4800972,0
+3,49,A 1-V 92.28-dB DR Sigma-Delta Modulator for Sensing Applications,10.1109/ICICM56102.2022.10011391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011391,0
+3,50,SNR Analysis and Estimation of Non-idealities in Continuous-Time Sigma-Delta Modulators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8991176,0
+3,51,Gain Limit in Analog Links Using Electroabsorption Modulators,10.1109/LPT.2006.883292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1703637,0
+3,52,A delta-sigma modulator with a phase-to-digital and digital-to-phase quantizer,10.1109/NEWCAS.2011.5981292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5981292,0
+3,53,Superconducting High-Resolution Low-Pass Analog-to-Digital Converters,10.1109/TASC.2007.898613,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4277786,0
+3,54,A comparison of continuous time sigma delta modulator simulation methods,10.1109/MWSCAS.2014.6908460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908460,0
+3,55,Investigation of integral nonlinearity of second order sigma-delta modulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6192430,0
+3,56,Continuous time delta sigma modulators with reduced clock jitter sensitivity,10.1109/ISCAS.2006.1693847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693847,0
+3,57,A Pseudorandom Sampled High Speed Photonic Analog-to-Digital Converter Architecture,10.1109/LEOS.2007.4382299,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4382299,0
+3,58,Progress toward a high-speed pseudorandom photonic sampled analog to digital converter,10.1109/LEOS.2008.4688468,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4688468,0
+3,59,All-Optical Analog-to-Digital Conversion Based on Polarization-Differential Interference and Phase Modulation,10.1109/LPT.2007.894939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4139642,0
+3,60,An Input-Feedforward Delta-Sigma Modulator With Relaxed Timing Constraints,10.1109/TCSII.2017.2689246,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7890488,0
+3,61,A True 0.4-V Delta–Sigma Modulator Using a Mixed DDA Integrator Without Clock Boosted Switches,10.1109/TCSII.2014.2305214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6754134,0
+3,62,20-MHz bandwidth continuous-time delta-sigma modulator for EPWM transmitter,10.1109/ISWCS.2012.6328495,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6328495,0
+3,63,A Reconfigurable Continuous-Time Delta-Sigma Modulator for Dual-Mode Ultrasonic Application,10.1109/ISICIR.2007.4441859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441859,0
+3,64,Bitwise ELD Compensation under Integrator Nonidealities in ΔΣ Modulators,10.1109/NEWCAS57931.2023.10198050,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198050,0
+3,65,A calibration method for current steering digital to analog converters in continuous time multi-bit sigma delta modulators,10.1109/ISCAS.2004.1328188,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328188,0
+3,66,Advantages of high-pass /spl Delta//spl Sigma/ modulators in interleaved /spl Delta//spl Sigma/ analog to digital converter,10.1109/MWSCAS.2002.1187175,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187175,0
+3,67,Bandpass Delta-Sigma modulators synthesis with high loop delay,10.1109/ISCAS.2001.921863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921863,0
+3,68,A dynamic element matching technique for multi-bit quadrature delta-sigma modulators,10.1109/EDSSC.2009.5394246,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5394246,0
+3,69,Library of structural analog cell macromodels for design of continuous-time reconfigurable /spl Delta//spl Sigma/ modulators,10.1109/ISCAS.2006.1692947,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692947,0
+3,70,Correlated Dual-Loop Sturdy MASH Continuous-Time Delta-Sigma Modulators,10.1109/JSSC.2022.3186079,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9817120,0
+3,71,Continuous-time Delta-Sigma Modulators: Single-loop versus MASH,10.1109/ISOCC53507.2021.9613910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9613910,0
+3,72,A 14-bit oversampled delta-sigma modulator for silicon condenser microphones,10.1109/IMTC.2009.5168609,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5168609,0
+3,73,A 290-µW 25-kHz continuous-time delta-sigma modulator for acoustic sensor networks,10.1109/ASICON.2009.5351278,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351278,0
+3,74,A fractional-order IMC controller for high-order Sigma-Delta modulator,10.1109/CAC53003.2021.9727656,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9727656,0
+3,75,An incremental delta-sigma modulator with self-making capacitors for multi-cell battery packs,10.1109/ICAM.2017.8242147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8242147,0
+3,76,Robust NTF design for continuous time Sigma-Delta modulators,10.1109/ICM.2009.5418581,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5418581,0
+3,77,Analysis of sigma-delta modulator with distributed feedback,10.1109/UKRCON.2017.8100332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100332,0
+3,78,A 2.3mW quadrature bandpass continuous-time ΔΣ modulator with reconfigurable quantizer,10.1109/PRIME.2016.7519526,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7519526,0
+3,79,Wideband Continuous-Time MASH Delta-Sigma Modulators: A Tutorial Review,10.1109/TCSII.2022.3163766,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745556,0
+3,80,A Low-Voltage Fourth-Order Cascade Delta–Sigma Modulator in 0.18-$\mu\hbox{m}$  CMOS,10.1109/TCSI.2010.2046231,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5456228,0
+3,81,Design of a 1-V operational passive sigma-delta modulator,10.1109/ECCTD.2009.5275088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5275088,0
+3,82,"Top-down, constraint driven design: application to sigma-delta modulator",10.1109/ICIT.2004.1490270,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1490270,0
+3,83,An Unscented Kalman Filter for the estimation of circuit nonidealities with implicit decimation in continuous-time multibit Sigma-Delta modulators,10.1109/MWSCAS.2007.4488748,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4488748,0
+3,84,A High-Speed Delta-Sigma Modulator with Relaxed DEM Timing Requirement,10.1109/ISCAS.2007.377990,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252739,0
+3,85,A novel cascade sigma-delta modulator architecture for broadband applications,10.1109/ISCIT.2007.4391993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4391993,0
+3,86,Discrete-time simulation of arbitrary digital/analog converter waveforms in continuous-time sigma-delta modulators,10.1109/ICECS.2012.6463657,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6463657,0
+3,87,4/spl times/2.5 GHz repetitive photonic sampler for high-speed analog-to-digital signal conversion,10.1109/LPT.2004.823696,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1269825,0
+3,88,High-speed Digital-to-analog Conversion by Fiber-dispersion-based Temporal Compression,10.1109/ICOCN55511.2022.9901143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9901143,0
+3,89,A Band-Pass Noise-Shaping Modulator Using the Error-Feedback Structure on a 10-bit SAR ADC,10.1109/MWSCAS.2019.8884863,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884863,0
+3,90,A Low-Power Continuous-Time Delta-Sigma Modulator Using a Resonant Single Op-Amp Third-Order Loop Filter,10.1109/TCSII.2017.2729595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7987064,0
+3,91,Fully differential sigma-delta modulator structure for current-mode sensors,10.1109/ICSES.2016.7593816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7593816,0
+3,92,A heuristic finite frequency H-infinity filtering technique with application to cascaded 2-1 sigma-delta modulators,10.1109/ICSSE.2010.5551821,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5551821,0
+3,93,A Robust Hybrid CT/DT 0-2 MASH DSM with Passive Noise-Shaping SAR ADC,10.1109/ISCAS48785.2022.9937224,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937224,0
+3,94,Pipeline time-interleaved all-photonic sampling and quantization analogue-to-digital converter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6078974,0
+3,95,Photonic digital-to-analog conversion and M-PAM signal generation via direct-digital-drive microring modulator,10.1109/IPCon.2016.7831005,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7831005,0
+3,96,A 4.2-mW 10-MHz BW 74.4-dB SNDR Continuous-Time Delta-Sigma Modulator With SAR-Assisted Digital-Domain Noise Coupling,10.1109/JSSC.2017.2778284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8226992,0
+3,97,Automatic Tuning of Negative-R Circuit for High-Performance 95-dB DR 5-kHz Bandwidth Continuous-Time Delta-Sigma Modulator,10.1109/TCSI.2024.3383455,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10497177,0
+3,98,A 4 Bit Continuous-Time  $\Sigma \Delta $  Modulator With Fully Digital Quantization Noise Reduction Algorithm Employing a 7 Bit Quantizer,10.1109/JSSC.2016.2557809,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7479477,0
+3,99,Wide-band frequency synthesis using hardware-efficient band-pass single-bit multi-step look-ahead sigma-delta modulators,10.1109/FCS.2017.8088966,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8088966,0
+4,0,Sigma-delta modulators transfer functions derivation,10.1109/ELNANO.2016.7493087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7493087,0
+4,1,A low-power dual-mode sigma-delta modulator using charge-steering opamps,10.1109/NRSC.2016.7450856,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7450856,0
+4,2,A $63-\mu \mathrm{W}$ 92.68-dB SNDR Sigma-Delta Modulator using Self-biased Inverter-based Amplifiers,10.1109/ISEE51682.2021.9418716,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9418716,0
+4,3,The Application of Monte Carlo Analysis in the Sigma-Delta Modulators Stability Design,10.1109/CSIE.2009.773,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5170867,0
+4,4,A 4.95mW 114dB SNDR delta-sigma modulator based on SC circuits for audio chip,10.1109/EDSSC.2016.7785255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7785255,0
+4,5,A continuous time sigma-delta modulator using time-domain quantizer and feedback element,10.1109/ASICON.2011.6157220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6157220,0
+4,6,The Design of a High-Accuracy Sigma-Delta Modulator with 2-2 Mash Structure,10.1109/ICET58434.2023.10211909,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10211909,0
+4,7,One-Bit Sigma-Delta Modulator for Nonlinear Visible Light Communication Systems,10.1109/LPT.2014.2376971,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6975115,0
+4,8,A $720\mu \mathrm{W}$ 77.93dB SNDR $\Delta\Sigma \text{AD}$ Modulator Using Dynamic Analog Components With Simplified Operation Phase,10.1109/ISPACS.2018.8923396,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8923396,0
+4,9,Highly integrated laser-modulator module for high-speed high dynamic range analog transmission,10.1109/LPT.2005.856404,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512315,0
+4,10,Inductorless 96 Gb/s PAM-4 Optical Modulators Driver in SiGe:C BiCMOS,10.23919/EuMIC54520.2022.9923427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923427,0
+4,11,A dynamic element matching circuit for multi-bit delta-sigma modulators,10.1109/ASPDAC.2004.1337653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1337653,0
+4,12,A new sigma-delta modulator architecture for testing using digital stimulus,10.1109/TCSI.2003.821305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1259506,0
+4,13,Quick method for parameter research of higher order sigma-delta modulators using dynamically reprogrammable FPAA,10.23919/MIXDES.2017.8005222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8005222,0
+4,14,An Active Feedback Coefficient Tuning Technique for Compensating Time-Constant Variations in Continuous-Time Delta-Sigma Modulators,10.1109/APCCAS51387.2021.9687676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687676,0
+4,15,A digital PWM controlled KY step-up converter based on passive sigma-delta modulator,10.1109/IFEEC.2017.7992047,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7992047,0
+4,16,A 72.9-dB SNDR 20-MHz BW 2-2 discrete-time sturdy MASH delta-sigma modulator using source-follower-based integrators,10.1109/ASSCC.2017.8240273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8240273,0
+4,17,Dual Extended Noise Shaping for High Performance Cross-Coupled Sigma-Delta Modulators,10.1109/NGMAST.2014.45,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6982918,0
+4,18,A Novel Structure Optimizer Based on Heuristic Search for Delta-Sigma Modulator in Mobile Fronthaul,10.1109/LPT.2022.3204605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878063,0
+4,19,A 0.5-V sigma-delta modulator using analog T-switch scheme for the subthreshold leakage suppression,10.1109/ASPDAC.2006.1594655,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594655,0
+4,20,Dynamic element matching using simultaneity tow different techniques for multibit Delta Sigma Modulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955645,0
+4,21,Bandpass Continuous-time Sigma-delta Modulators for PLL Chip Design in Wireless Charging Module,10.1109/IFEEC53238.2021.9661796,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9661796,0
+4,22,Dual mode reconfigurable continuous time delta-sigma modulator for GS M/WCDMA standards,10.1109/IranianCEE.2012.6292355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6292355,0
+4,23,Delta-Sigma Modulator Design Using a Memristive FIR DAC,10.1109/ICECS202256217.2022.9970832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9970832,0
+4,24,A 56-Gbaud 7.3-Vppd Linear Modulator Transmitter with AMUX-Based Reconfigurable FFE and Dynamic Triple-Stacked Driver in 130-nm SiGe BiCMOS,10.1109/CICC60959.2024.10529032,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10529032,0
+4,25,High-performance 8-bit modulator used for Sigma-Delta Analog to Digital Converter,10.1109/STA.2014.7086678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7086678,0
+4,26,High Resolution ADC for Ultrasound Color Doppler Imaging Based on MASH Sigma-Delta Modulator,10.1109/TBME.2019.2938275,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8820023,0
+4,27,DAC-Less PAM-4 Slow-Light Silicon Photonic Modulator Providing High Efficiency and Stability,10.1109/JLT.2021.3083140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439808,0
+4,28,Wireless Platform for Multi-Channel Analog Measurements,10.1109/IEMBS.2006.259899,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463152,0
+4,29,Laboratory implementation of some analog and digital modulation schemes using single circuit,10.1109/MITE.2013.6756376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6756376,0
+4,30,A three bit second order audio band delta sigma modulator with 98.2dB SQNR,10.1109/ISICIR.2016.7829750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7829750,0
+4,31,Discrete-Time MASH Delta-Sigma Modulator with Second-Order Digital Noise Coupling for Wideband High-Resolution Applications,10.1109/ISCAS51556.2021.9401651,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401651,0
+4,32,New approach for continuous time sigma delta modulators,10.1109/NORCHP.2005.1597017,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1597017,0
+4,33,A Compact Verilog-A Model of Silicon Carrier-Injection Ring Modulators for Optical Interconnect Transceiver Circuit Design,10.1109/JLT.2015.2505239,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7346397,0
+4,34,A multi-bit Sigma-Delta modulator using ratio-independent feedback DAC,10.1109/MWSCAS.2009.5236072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5236072,0
+4,35,Sigma-delta analog to digital converter architecture based upon a modulator design employing a mirrored integrator,10.1109/ISCAS.2004.1328399,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328399,0
+4,36,A DEM Scheme for I/Q Mismatch Compensation in Multi-Bit CT ΔΣ Modulator,10.1109/ISCAS.2007.378322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252617,0
+4,37,Design and FPGA Implementation of a 2nd Order Adaptive Delta Sigma Modulator with One Bit Quantization,10.1109/FPL.2010.82,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5694282,0
+4,38,Maximum RF Input Signal on the Electro-Optic Modulator Transmission Boundary Area for Harmonic Distortion Compensation in Analog Radio Over Fiber,10.1109/ACCESS.2022.3201841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9868007,0
+4,39,Two-step quantization in multibit /spl Delta//spl Sigma/ modulators,10.1109/82.917785,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=917785,0
+4,40,A/D conversion using an Asynchronous Delta-Sigma Modulator and a time-to-digital converter,10.1109/ISCAS.2008.4541751,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541751,0
+4,41,High-order single-loop double-sampling sigma-delta modulator topologies for broadband applications,10.1109/ISCAS.2005.1465905,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465905,0
+4,42,DLL-based pulse-width modulation digital-to-analog converter for continuous-time sigma delta modulators,10.1109/MWSCAS.2014.6908525,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908525,0
+4,43,Optimization of the integrator output swing in low-voltage sigma-delta modulators,10.1109/ISCAS.2001.921929,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921929,0
+4,44,A 0.89-mW 1-MHz 62-dB SNDR Continuous-Time Delta–Sigma Modulator With an Asynchronous Sequential Quantizer and Digital Excess-Loop-Delay Compensation,10.1109/TCSII.2011.2172709,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6088003,0
+4,45,A 0.7-V 870-$\mu$ W Digital-Audio CMOS Sigma-Delta Modulator,10.1109/JSSC.2009.2014708,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4804967,0
+4,46,A low power continuous time band pass sigma delta modulator using linearity enhanced OTA,10.1109/PrimeAsia.2013.6731168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6731168,0
+4,47,Highly linear electrooptic modulator with suppression of even-order distortions,10.1109/IMOC.2009.5427601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5427601,0
+4,48,Simulating the Effect of Electro Optic or Acousto Optic Modulator along with Noise in Spice,10.1109/ICEES51510.2021.9383765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383765,0
+4,49,High-speed Silicon Mach-Zehnder Modulator with Corrugated Waveguides for Data Center Interconnects,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9573026,0
+4,50,Design of a Design-for-Digital-Testability Third-Order S-? Modulator,10.1109/IMS3TW.2011.28,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6132749,0
+4,51,High-Level Design of a 14-bit Continuous-Time Sigma-Delta Modulator with FIR DAC for Low-Voltage Audio Devices,10.1109/SBCCI55532.2022.9893239,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893239,0
+4,52,The Power-efficient biomedical acquisition system by variable-resolution sigma-delta modulator,10.1109/IEMBS.2007.4352998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4352998,0
+4,53,On the implementation of input-feedforward delta-sigma modulators,10.1109/TCSII.2006.873829,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1643460,0
+4,54,Behavioral Modeling of Opamp Gain and Dynamic Effects for Power Optimization of Delta-Sigma Modulators and Pipelined ADCs,10.1109/LPE.2006.4271859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4271859,0
+4,55,Modeling of Sigma-Delta Modulator Non-idealities with Two Step Quantization in MATLAB/SIMULINK,10.1109/CICN.2011.114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6112925,0
+4,56,Photonic Signal Transport on Aerospace Platforms: is Analog Signaling Ever Useful?,10.1109/RAPID54473.2023.10264726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10264726,0
+4,57,A High DR High-Input-Impedance Programmable-Gain ECG Acquisition Interface with Non-inverting Continuous Time Sigma-Delta Modulator,10.1109/A-SSCC47793.2019.9056891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9056891,0
+4,58,Dual-path delta-sigma modulators,10.1109/MWSCAS.2005.1594197,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594197,0
+4,59,Estimating Circuit Nonidealities of Continuous-Time Multibit Delta-Sigma Modulators,10.1109/ISCAS.2007.378734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4253125,0
+4,60,An impact of introducing multi-level signals to a bandpass cascaded delta-sigma modulator,10.1109/ISMVL.2002.1011071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011071,0
+4,61,Analysis of Timing Error Aperture Jitter on the Performance of Sigma Delta ADC for Software Radio Mobile Receivers,10.1109/ARTCom.2009.22,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5329250,0
+4,62,N-path multirate sigma-delta modulator for high-frequency applications,10.1109/ICECS.2002.1045397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1045397,0
+4,63,A 3.3 V high-resolution sigma-delta modulator for digital audio,10.1109/ICM.2001.997504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=997504,0
+4,64,Optimum selection of capacitive array for multibit Sigma-Delta modulators without DEM,10.1109/ICECS.2009.5410766,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5410766,0
+4,65,General expressions for IM/DD dispersive analog optical links with external modulation or optical up-conversion in a Mach-Zehnder electrooptical modulator,10.1109/22.954816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=954816,0
+4,66,4 /spl times/ 2.5 GHz repetitive photonic sampler for high-speed analog to digital signal conversion,10.1109/MWP.2002.1158926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1158926,0
+4,67,Breathing analog to digital converter of modulator for wireless sensor and communication applications,10.1109/ICEIEC.2017.8076634,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8076634,0
+4,68,A Low Area and Low Power Digital Band-Pass Sigma-Delta Modulator for Wireless Transmitters,10.1109/ISCAS.2007.378211,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4253379,0
+4,69,Implementation of a high speed digital band-pass sigma-delta modulator for a wireless transmitter,10.1109/DCAS.2005.1611172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1611172,0
+4,70,Bandpass Sigma-Delta Modulator for Sensor Signal Processing,10.1109/ICONS.2009.38,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4976340,0
+4,71,Noise shaping advantages of band-pass multi-step look-ahead sigma-delta modulators over conventional ones in signal synthesis,10.1109/PACET.2017.8259968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8259968,0
+4,72,Digital OFDM transmitter based on multi-bit delta sigma modulator,10.1109/COMCAS.2015.7360437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7360437,0
+4,73,320Gbps Physical Random Bit Generation from Chaotic Optoelectronic Oscillator with Silicon Modulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700074,0
+4,74,Loss-Induced Transparency Based ITO Monolithic Modulator in Integrated Photonics,10.1109/IPC57732.2023.10360619,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360619,0
+4,75,A low OSR multi-bit cascaded delta-sigma modulator,10.1109/ICIEA.2009.5138673,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5138673,0
+4,76,A 1.8V 109.3 dB SNDR Continuous Time Sigma-Delta Modulator for Audio Applications,10.1109/ICICM59499.2023.10365904,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365904,0
+4,77,A 0.8 V Low-Power 3rd order Sigma-Delta Modulator in 22 nm FDSOI CMOS Process for Sensor Interfaces,10.1109/NEWCAS44328.2019.8961236,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961236,0
+4,78,Design of high-performance fourth-order single-loop sigma-delta modulator for inertial sensor,10.1109/ICoOM.2012.6316315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6316315,0
+4,79,A 4.2-mW 77.1-dB SNDR 5-MHz BW DT 2-1 MASH $\Delta \Sigma $ Modulator With Multirate Opamp Sharing,10.1109/TCSI.2017.2693921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7913658,0
+4,80,Incremental Delta-Sigma Modulators for Temperature Sensing Applications,10.1109/MMVIP.2008.4749508,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4749508,0
+4,81,Dynamic Element Matching Techniques for Static and Dynamic Errors in Continuous-Time Multi-Bit $\Delta\Sigma$ Modulators,10.1109/JETCAS.2015.2502160,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7347463,0
+4,82,A Fifth-Order Continuous-Time Delta-Sigma Modulator With Single-Opamp Resonator,10.1109/JSSC.2010.2042244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5437488,0
+4,83,Delta-Sigma Modulators for Power-Efficient A/D Conversion in High-Speed Wireless Communications,10.1109/ICECS.2006.379735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263319,0
+4,84,Design and analysis of a first-order sigma-delta analog-to-digital converter for MEMS resistive sensor,10.1109/SMELEC.2010.5549366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5549366,0
+4,85,Simplified logic for first-order and second-order mismatch-shaping digital-to-analog converters,10.1109/82.982352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=982352,0
+4,86,770-Gb/s PDM-32QAM Coherent Transmission Using InP Dual Polarization IQ Modulator,10.1109/LPT.2017.2655441,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7822973,0
+4,87,A MZ Modulator Bias Control System Based on Variable Step P&O Algorithm,10.1109/LPT.2020.3036093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9249017,0
+4,88,Compensation of loop delay in a continuous-time Delta Sigma modulator through HRZ DAC feedback,10.1109/ICET.2012.6375454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6375454,0
+4,89,Proposal of Photonic Analog-to-digital Conversion Using Weighted Multiwavelength Pulses and Balanced Photodetector,10.1109/MWP.2019.8892045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892045,0
+4,90,Processing Optical Temporal Signal Using Optical-Eletrical Feedback of Silicon Optical Modulator Towards Japanese Vowel Recognition,10.1109/SiPhotonics55903.2023.10141943,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10141943,0
+4,91,BandPass Dynamic Element Matching for low OSR high resolution Delta Sigma Modulators,10.1109/ICEDSA.2011.5959048,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5959048,0
+4,92,A 12-bit 3.125 MHz Bandwidth 0–3 MASH Delta-Sigma Modulator,10.1109/JSSC.2009.2021916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5109771,0
+4,93,A Single Op-Amp Resonator-Based Continuous-Time Sigma–Delta Modulator With Time-Division Switching for Excess Loop Delay Compensation,10.1109/TCSII.2023.3330837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310228,0
+4,94,Optimal Low-Frequency Filter Design for Uncertain 2-1 Sigma-Delta Modulators,10.1109/LSP.2009.2016456,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4802177,0
+4,95,Active-pasisve delta-sigma modulator ADC for MEMS accelecrometers,10.1109/RAEE.2017.8246036,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8246036,0
+4,96,400-G Single Carrier 500-km Transmission With an InP Dual Polarization IQ Modulator,10.1109/LPT.2016.2532238,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7412674,0
+4,97,Stochastic analysis of the /spl Sigma//spl Delta/ modulator and differential pulse code modulator,10.1109/82.633434,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=633434,0
+4,98,Photonic analog-to-digital conversion based on photonic time stretch and compressive sensing with optical random mixing,10.1109/ICOCN.2013.6617228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6617228,0
+4,99,103.1-dB DR Switched-Resistor Delta-Sigma Modulator With Chopped Negative-R for Suppressing Low-Bandwidth Noise,10.1109/ACCESS.2023.3317975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258273,0
+5,0,A low power 1.1 MHz CMOS continuous-time delta-sigma modulator with active-passive loop filters,10.1109/ISCAS.2006.1693610,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693610,0
+5,1,Multilevel optical modulator with PLC and LiNbO3 hybrid integrated circuit,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5875761,0
+5,2,A Continuous-Time MASH 1-1-1 Delta–Sigma Modulator With FIR DAC and Encoder-Embedded Loop-Unrolling Quantizer in 40-nm CMOS,10.1109/TVLSI.2017.2780272,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8241442,0
+5,3,Hybrid Digital-Analog Mobile Fronthaul over Free Space Optical Channel with Flexible Carriers Allocation,10.1109/ACP55869.2022.10088944,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10088944,0
+5,4,High-level Comparison of Control-Bounded A/D Converters and Continuous- Time Sigma-Delta Modulators,10.1109/NorCAS57515.2022.9934426,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9934426,0
+5,5,A 70dB SNDR 20MHz-BW VCO-Based CT Sturdy MASH Delta-Sigma Modulator with Robust Quantization Error Extraction,10.1109/ISCAS58744.2024.10558509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558509,0
+5,6,Mixed analog/digital behavioral simulation of continuous-time multi-bit delta-sigma modulators,10.1109/ICEEC.2004.1374493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1374493,0
+5,7,On-line digital compensation of analog circuit imperfections for cascaded /spl Sigma//spl Delta/ modulators,10.1109/AMICD.1996.569394,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=569394,0
+5,8,Novel technique for nonlinearity postcompensation of Mach-Zehnder modulator in an analog-optical link,10.1109/ATC.2014.7043374,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7043374,0
+5,9,Compact Agnostic Nyquist WDM Transmission System Based on Cascaded Silicon Ring Modulators,10.1109/ACP55869.2022.10088523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10088523,0
+5,10,High Signal-to-Noise Ratio second-order Delta-Sigma modulator,10.1109/ICACTE.2010.5579572,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5579572,0
+5,11,A comparison between two different FPGA-based topologies of first order sigma-delta modulator,10.1109/CircuitsAndSystems.2015.7394077,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7394077,0
+5,12,Overload analysis of continuous time sigma delta modulators,10.1109/MWSCAS.2015.7282163,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282163,0
+5,13,Optical sinc-shaped Nyquist pulse generation by using of an intensity modulator in a Sagnac Loop,10.1109/WOCC.2016.7506608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7506608,0
+5,14,A spur-reduction Delta-Sigma Modulator with efficient dithering for fractional frequency synthesizer,10.1109/IMCEC.2016.7867460,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7867460,0
+5,15,A low power low voltage gain controllable sigma-delta modulator,10.1109/TENCON.2009.5396126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5396126,0
+5,16,Designer Oriented Analysis Of An All-Optical Binary Delta Sigma Modulator,10.1109/ACP.2018.8596001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8596001,0
+5,17,Switched Current 12-Bit Capacity to Digital Delta-Sigma Modulator,10.1109/ENICS.2008.16,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4641237,0
+5,18,Two effective single-loop high-performance sigma-delta modulators based on 0.13µm CMOS,10.1109/ICSICT.2010.5667728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5667728,0
+5,19,An I/Q mismatch-free switched-capacitor complex sigma-delta Modulator,10.1109/TCSII.2004.827552,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1299040,0
+5,20,A reconfigurable double sampling sigma delta modulator for 4G mobile terminals,10.1109/CISP.2010.5647762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5647762,0
+5,21,Post-optimization of Delta-Sigma modulators considering circuit non-idealities,10.1109/ISCAS.2008.4541975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541975,0
+5,22,A wideband adaptive delta modulator for digitalized video signal,10.1109/CSQRWC.2012.6295007,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6295007,0
+5,23,A 170.7-dB FoM-DR 0.45/0.6-V Inverter-Based Continuous-Time Sigma–Delta Modulator,10.1109/TCSII.2019.2939740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8825557,0
+5,24,A wideband CMOS sigma-delta modulator with incremental data weighted averaging,10.1109/4.974541,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=974541,0
+5,25,Analog bandwidth optimization in photonic sampling system based on cavity-less optical pulse source,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9738385,0
+5,26,Sturdy-MASH Delta-Sigma Modulator with Improved Resolution Using Noise-coupling Multi-bit Quantizer,10.1109/MWSCAS54063.2022.9859279,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859279,0
+5,27,130-GSa/s photonic analog-to-digital converter with time stretch preprocessor,10.1109/68.998725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=998725,0
+5,28,A third-order /spl Sigma//spl Delta/ modulator in 0.18-/spl mu/m CMOS with calibrated mixed-mode integrators,10.1109/JSSC.2005.845558,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1424223,0
+5,29,Analysis of a multirate CT/DT cascade ΣΔ modulator — impact of using a lowest output sampling frequency,10.1109/ATEE.2017.7905018,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7905018,0
+5,30,Robust Filter Design for Uncertain 2-1 Sigma-Delta Modulators via the Central Polynomial Method,10.1109/LSP.2008.2003992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4682551,0
+5,31,Design of High Resolution Delta Sigma Modulator in 180 nm CMOS technology,10.1109/ISED48680.2019.9096220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096220,0
+5,32,Design and Implementation in VHDL-AMS of a Novel Reconfigurable Mono-bit Sigma Delta Modulator,10.1109/IW_MSS59200.2023.10369711,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10369711,0
+5,33,An Open-Source Micro-Watt 130-dB Delta-Sigma Modulator with 600mVpp Input Range for DC-Coupled Biosignal Acquisition,10.1109/NorCAS58970.2023.10305484,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10305484,0
+5,34,An Extremely Linear Multi-Level DAC for Continuous-Time Delta-Sigma Modulators,10.1109/TCSII.2018.2859776,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419205,0
+5,35,A 72.9-dB SNDR 20-MHz BW 2-2 Discrete-Time Resolution-Enhanced Sturdy MASH Delta–Sigma Modulator Using Source-Follower-Based Integrators,10.1109/JSSC.2018.2859401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8434200,0
+5,36,A 0.4-V  $G_{m}$ – $C$  Proportional-Integrator-Based Continuous-Time  $\Delta\Sigma$  Modulator With 50-kHz BW and 74.4-dB SNDR,10.1109/JSSC.2018.2866084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8482314,0
+5,37,Third-Order Switched-Current Delta-Sigma Modulator with ADC and IDWA,10.1109/IS3C.2016.91,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7545201,0
+5,38,Transmission of 400-Gbps Discrete Multi-Tone Signal Using >100-GHz-Bandwidth Analog Multiplexer and InP Mach-Zehnder Modulator,10.1109/ECOC.2018.8535527,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8535527,0
+5,39,A 100-MHz BW 72.6-dB-SNDR CT ΔΣ Modulator Utilizing Preliminary Sampling and Quantization,10.1109/JSSC.2020.2978384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046837,0
+5,40,On-Chip Touch Sensor Readout Circuit Using Passive Sigma-Delta Modulator Capacitance-to-Digital Converter,10.1109/JSEN.2015.2403132,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7039262,0
+5,41,An efficient first order sigma delta modulator design,10.1109/CCECE.2008.4564489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4564489,0
+5,42,A 25-kHz 3rd-order continuous-time Delta-Sigma modulator using tri-level quantizer,10.1109/ISNE.2016.7543371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7543371,0
+5,43,A 20-MS/s sigma delta modulator for 802.11a applications,10.1109/ISCAS.2006.1692978,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692978,0
+5,44,A low EVM SiGe BiCMOS 40–100 GHz Direct Conversion IQ Modulator for Multi-Gbps Communications Systems,10.1109/RFIC.2018.8428968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8428968,0
+5,45,A Single-Opamp Third Order CT ΔΣ Modulator With SAB-ELD-Merged Integrator and Three-Stage Hybrid Compensation Opamp,10.1109/TCSI.2021.3098826,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9501162,0
+5,46,Analysis and Design of Low-Power Continuous-Time Delta-Sigma Modulator Using Negative-R Assisted Integrator,10.1109/JSSC.2018.2871111,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486729,0
+5,47,On the parasitic-sensitivity of switched-capacitor summing-integrator structures for /spl Sigma//spl Delta/ modulators,10.1109/TCSII.2003.816940,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1232538,0
+5,48,A Mach-Zehnder Modulator Bias Controller Based on OMA and Average Power Monitoring,10.1109/LPT.2017.2762331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8066353,0
+5,49,The Linearity-Improvement Sigma-Delta Modulator for Single-ended Biomedical Sensors,10.1109/IEMBS.2007.4352378,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4352378,0
+5,50,Managing subthreshold leakage in charge-based analog circuits with low-V/sub TH/ transistors by analog T- switch (AT-switch) and super cut-off CMOS (SCCMOS),10.1109/JSSC.2006.870761,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1610630,0
+5,51,Semidefinite Programming in Analysis and Optimization of Performance of Sigma-Delta Modulators for Low Frequencies,10.1109/ACC.2007.4283096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4283096,0
+5,52,A 15 bits 12 MS/s 5th-Order Sigma-Delta modulator for communication applications,10.1109/ICM.2008.5393499,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5393499,0
+5,53,Stability analysis in Higher order Delta Sigma modulator,10.1109/ICACCS.2013.6938746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6938746,0
+5,54,Discrete-time Binary Controller using Variable-order Delta-Sigma Modulator,10.1109/IECON49645.2022.9969000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9969000,0
+5,55,A Dual-Mode Continuous–Time Sigma-Delta Modulator With a Reconfigurable Loop Filter Based on a Single Op-Amp Resonator,10.1109/TVLSI.2024.3414298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10566710,0
+5,56,RF gain and IMD Characteristics of Electroabsorption Modulator for Analog Applications,10.1109/MWP.2005.203562,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1590290,0
+5,57,A simple Analog to Digital Converter for Capacitive Sensors,10.1109/ECTIDAMTNCON51128.2021.9425693,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425693,0
+5,58,Neural Network Activation Functions with Electro-Optic Absorption Modulators,10.1109/ICRC.2018.8638590,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8638590,0
+5,59,Design of a 2-Bit Sigma-Delta Modulator for Scintillation Waveform Capture,10.1109/NSSMIC.2017.8532727,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8532727,0
+5,60,A fifth-order continuous-time sigma-delta modulator with 62-dB dynamic range and 2MHz bandwidth,10.1109/RME.2007.4401800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4401800,0
+5,61,Active power filter with sigma-delta modulator in control section,10.1109/EDPE.2017.8123268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8123268,0
+5,62,1-phase Active Power Filter with modified sigma-delta modulator in control section,10.1109/PAEE.2017.8009002,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8009002,0
+5,63,Stability and performance analysis of an adaptive sigma-delta modulator,10.1109/82.924066,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=924066,0
+5,64,A CT DSM with DAC Scaling Technique for Direct Neural Recording Front-End,10.1109/ASICON58565.2023.10396405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396405,0
+5,65,Analog to digital conversion using a Pulse Width Modulator and an irregular sampling decoder,10.1109/ICECS.2006.379889,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263467,0
+5,66,Development of One Bit Delta-Sigma Analog to Digital Converter,10.1109/CICN.2012.98,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6375121,0
+5,67,Improved Delta Sigma Analog to Digital Converter,10.1109/CICN.2011.93,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6112906,0
+5,68,A 20-MHz Bandwidth Continuous-Time Sigma-Delta Modulator With Jitter Immunity Improved Full Clock Period SCR (FSCR) DAC and High-Speed DWA,10.1109/JSSC.2011.2164296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6021342,0
+5,69,Amplitude adaptive asynchronous Sigma-delta modulator,10.1109/ISPA.2013.6703786,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6703786,0
+5,70,A VCO-Based 2nd-Order Continuous Time Sigma-Delta Modulator for Current-Sensing Systems,10.1109/ISCAS48785.2022.9937661,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937661,0
+5,71,A Spur-Free Low-Complexity Hybrid Nested Bus-Splitting/SP-MASH Digital Delta-Sigma Modulator,10.1109/APCCAS50809.2020.9301657,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9301657,0
+5,72,A Comprehensive Equivalent Circuit Model of Silicon-Based Segmented Microring Modulators for Electronic and Photonic Integrated Circuit Codesign,10.1109/ACP/POEM59049.2023.10369115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10369115,0
+5,73,A 160 Gb/s Two-Segment Silicon Microring Modulator with Z-Shape Doping Profile,10.1109/IPC57732.2023.10360779,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360779,0
+5,75,A 25-kHz-BW 97.4-dB-SNDR SAR-Assisted Continuous-Time 1–0 MASH Delta-Sigma Modulator With Digital Noise Coupling,10.1109/JSSC.2024.3391902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10510428,0
+5,76,Digital Calibration of Nonlinear Memory Errors in Sigma–Delta Modulators,10.1109/TCSI.2010.2046243,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5473087,0
+5,77,"A 1.8V, SNDR 96.3dB analog front-end circuit design for ECG signal acquisition",10.1109/ICNLP60986.2024.10692516,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10692516,0
+5,78,A 10MHz-BW 85dB-DR CT 0-4 Mash Delta-Sigma Modulator Achieving +5dBFS MSA,10.1109/TCSI.2023.3299931,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10217346,0
+5,79,Switched Current Flash Analog to Digital Converter,10.1109/ICONS.2008.68,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4497147,0
+5,80,A circuit based behavioral modeling of Continuous-Time Sigma Delta modulators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403962,0
+5,81,A 0.5-V 74-dB SNDR 25-kHz Continuous-Time Delta-Sigma Modulator With a Return-to-Open DAC,10.1109/JSSC.2006.891716,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4114760,0
+5,82,A Direct Current-Sensing VCO-Based 2nd-Order Continuous-Time Sigma-Delta Modulator for Biosensor Readout Applications,10.1109/TBCAS.2023.3322901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274113,0
+5,83,Linear AWG-based modulators,10.1109/ICTON.2015.7193712,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7193712,0
+5,84,A 0.25-V 28-nW 58-dB Dynamic Range Asynchronous Delta Sigma Modulator in 130-nm Digital CMOS Process,10.1109/TVLSI.2014.2330698,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848840,0
+5,85,Sigma delta analog to digital converter: Design and implementation with reduction in power consumption,10.1109/ICOEI.2017.8300866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8300866,0
+5,86,Novel flexible-format optical modulator with selectable combinations of carrier numbers and modulation levels based on silica-PLC and LiNbO3 hybrid integration,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5875762,0
+5,87,Demonstration of 50 Gbit/s 16QAM signal generation by novel 16QAM generation method using a dual-drive InP Mach-Zehnder modulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5875348,0
+5,88,A 0.9-V DAC-Calibration-Free Continuous-Time Incremental Delta–Sigma Modulator Achieving 97-dB SFDR at 2 MS/s in 28-nm CMOS,10.1109/JSSC.2022.3160325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9744725,0
+5,89,Enhanced Linearity in FD-SOI CMOS Body-Input Analog Circuits – Application to Voltage-Controlled Ring Oscillators and Frequency-Based ΣΔ ADCs,10.1109/TCSI.2020.2978926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9040558,0
+5,90,A triple-mode continuous-time ΣΔ modulator with switched-capacitor feedback DAC for a GSM-EDGE/CDMA2000/UMTS receiver,10.1109/JSSC.2003.819165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1253853,0
+5,91,An Unbalanced MZM based Photonic Analog-to-Digital Converter,10.1109/LEOS.2007.4382300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4382300,0
+5,92,High Speed Arbitrary Waveform Generation and Processing using a Photonic Digital-to-Analog Converter,10.1109/LEOSST.2007.4288389,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4288389,0
+5,93,A 1.55 GHz to 2.45 GHz center frequency continuous-time bandpass delta-sigma modulator for frequency agile transmitters,10.1109/RFIC.2009.5135511,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135511,0
+5,94,Considerations for high-speed configurable-bandwidth time-interleaved digital delta-sigma modulators and synthesis in 28 nm UTBB FDSOI,10.1109/NEWCAS.2015.7182049,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7182049,0
+5,95,A Very Low Power Delta Sigma Modulator Using Optimized Bulk Driven Telescopic OTA for Biomedical Devices,10.1109/DTS48731.2020.9196036,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196036,0
+5,96,A 3.86mW 106.4dB SNDR Delta-Sigma modulator based on Switched-Opamp for audio codec,10.1109/MWSCAS.2014.6908526,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908526,0
+5,97,System-level design of single-bit sigma-delta modulators based on MSA and SNR data graphics,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460301,0
+5,98,Design Constraints for Image-Reject Frequency-Translating  $\Delta\Sigma$ Modulators,10.1109/TCSII.2009.2035266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5353863,0
+5,99,Effects of crosstalk in demultiplexers for photonic analog-to-digital converters,10.1109/50.917890,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=917890,0

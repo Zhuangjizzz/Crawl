@@ -99,3 +99,403 @@
 1,97,A 1∶8 cascaded Wilkinson power divider,10.1109/EuMC.2014.6986409,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986409,1
 1,98,Design of N-way Dual-Frequency Power Divider Base on Genetic Algorithm,10.1109/NSWCTC.2009.65,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4908263,1
 1,99,3-way equal filtering power divider using compact folded-arms square open-Loop resonator,10.23919/MIKON60251.2024.10633981,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633981,1
+2,0,3-way equal filtering power divider using compact folded-arms square open-Loop resonator,10.23919/MIKON60251.2024.10633981,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633981,0
+2,1,4-40 GHz In-Phase/ 180° Out-of-Phase Power Dividers with Enhanced Isolation,10.23919/EuCAP48036.2020.9135849,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9135849,0
+2,2,W-band four-way E-plane waveguide power divider,10.1109/IMWS-AMP.2016.7588450,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7588450,0
+2,3,A novel compact Gysel power divider with harmonic suppression,10.1109/IranianCEE.2014.6999808,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6999808,0
+2,4,A high speed wide band low phase noise multi-mode frequency divider for DRM/DAB/AM/FM frequency synthesizer,10.1109/EDSSC.2011.6117667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6117667,0
+2,5,Design of a Novel Compact Dual-Band Wilkinson Power Divider With Wide Frequency Ratio,10.1109/LMWC.2013.2290226,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678330,0
+2,6,24-GHz Self-Injection-Locked Vital-Sign Radar Sensor With CMOS Injection-Locked Frequency Divider Based on Push–Push Oscillator Topology,10.1109/LMWC.2018.2869044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8472163,0
+2,7,An ultra low power analog frequency divider,10.1109/MWSYM.2008.4633062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633062,0
+2,8,Small die area capacitive cross-coupled injection-locked frequency divider,10.1109/ICAM.2017.8242127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8242127,0
+2,9,Ring-Based Direct Injection-Locked Frequency Divider in Display Technology,10.1109/LMWC.2008.2005235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4666758,0
+2,10,Distributed Injection-Locked Frequency Dividers,10.1109/JSSC.2017.2701325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7933963,0
+2,11,A 60 GHz CMOS PLL synthesizer using a wideband injection-locked frequency divider with fast calibration technique,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174055,0
+2,12,A 31.2% locking range K-band divide-by-6 injection-locked frequency divider using 90 nm CMOS technology,10.1109/MWSYM.2015.7166893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7166893,0
+2,13,Design and Parametric Study of a GYSEL Power Divider for Mobile Applications,10.1109/NILES59815.2023.10296676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10296676,0
+2,14,Design of filtering power dividers for desired filter responses using parallel coupled-line filters,10.23919/EuMC.2017.8230871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8230871,0
+2,15,High-Modulus Injection-Locked Frequency Divider Using Multi-Resonance Tank,10.1109/MWSYM.2019.8701114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701114,0
+2,16,Evaluation of a D-band divide-by-3 injection-locked frequency divider in 65 nm CMOS process,10.1109/RFIT.2015.7377928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7377928,0
+2,17,The design of microwave planar power dividers and couplers with distinct power division ratio in two different frequency bands,10.1109/UkrMiCo.2016.7739593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7739593,0
+2,18,Dual-Band Out-of-Phase Power Divider With Impedance Transformation and Wide Frequency Ratio,10.1109/LMWC.2015.2496784,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332339,0
+2,19,A Novel L-CRLH Based Compact Wide Band Filtered Power Divider for WLAN Applications,10.1109/APUSNCURSINRSM.2018.8609080,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8609080,0
+2,20,Two Options of 3-dB Microstrip Coupled-Line Power Dividers Terminated with Frequency-Dependent Complex Impedances,10.1109/TCSET55632.2022.9767060,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9767060,0
+2,21,Microstrip power divider for integration of an Instantaneous Frequency Measurement system,10.1109/IMOC.2011.6169345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6169345,0
+2,22,A high speed low power pulse swallow frequency divider for DRM/DAB frequency synthesizer,10.1109/WCSP.2009.5371501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5371501,0
+2,23,Dual band power divider for wlan applications,10.1109/ICCONS.2017.8250553,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8250553,0
+2,24,Wideband Filtering Balun Power Divider Using Schiffman Phase Shifter,10.23919/ACES48530.2019.9060505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9060505,0
+2,25,Development of Compact HMSIW Gysel Power Dividers With Microstrip Isolation Networks,10.1109/ACCESS.2018.2875268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488354,0
+2,26,A miniaturized filtering power divider with wide stopband,10.1109/ISANP.2014.7026527,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7026527,0
+2,27,A 2.9mW 53.4–79.4GHz frequency-tracking injection-locked frequency divider with 39.2% locking range in 65nm CMOS,10.1109/RFIC.2012.6242294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6242294,0
+2,28,A novel dual-band power divider based on coupled-lines,10.1109/APMC.2009.5384353,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384353,0
+2,29,Wide-Locking Range Divide-by-3 Injection-Locked Frequency Divider Using Sixth-Order  $RLC$  Resonator,10.1109/TVLSI.2015.2509254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7384537,0
+2,30,A Compact Filtering Power Divider With Quasi-Elliptic Bandpass Response,10.1109/RFIT52905.2021.9565244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565244,0
+2,31,Design of a low power static frequency divider,10.1109/ICAEES.2016.7888038,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7888038,0
+2,32,A 71.8-87.9 GHz CMOS Injection-Locked Frequency Divider with Coupled Inductance,10.1109/ICICM48536.2019.8977141,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977141,0
+2,33,Noise analysis in injection locked frequency divider using frequency modulation,10.1109/APEMC.2016.7522936,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7522936,0
+2,34,Design of a Compact UWB Out-of-Phase Power Divider,10.1109/LMWC.2007.892979,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4141068,0
+2,35,Low Phase Noise 20 GHz Microwave Frequency Divider Based on a Super-Harmonic Injection Locked Optoelectronic Oscillator,10.1109/FCS.2018.8597443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8597443,0
+2,36,Tunable millimeter-wave power divider for future 5G cellular networks,10.1109/APS.2016.7696564,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7696564,0
+2,37,A 60GHz wideband injection-locked frequency divider with adaptive-phase-enhancing technique,10.1109/RFIC.2011.5940605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940605,0
+2,38,Regenerative Frequency Divider with Synchronous Fractional Outputs,10.1109/RFIC.2007.380983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266531,0
+2,39,Dual-Band Semi-Lumped-Element Power Dividers at UHF/SHF Bands,10.23919/EuMC48046.2021.9338021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338021,0
+2,40,Wideband power divider using radial stub for six-port interferometer,10.1109/APACE.2016.7915868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7915868,0
+2,41,A W-band divide-by-1.5 injection-locked frequency divider in 90 nm CMOS process,10.1109/MWSYM.2014.6848332,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848332,0
+2,42,Design of Wideband Wilkinson Power Divider for Sub-6Ghz Applications,10.1109/AIC57670.2023.10263948,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10263948,0
+2,43,Bandpass Power Divider Module Based on Integrated Passive Fabrication Process,10.1109/ISNE56211.2023.10221578,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221578,0
+2,44,Dual-Band Filtering Power Divider With Tunable First Passband Frequency and Isolator Functionality,10.1109/ACCESS.2024.3480051,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10716636,0
+2,45,A 5.5-GHz multi-modulus frequency divider in 0.35μm SiGe BiCMOS technology for delta-sigma fractional-N frequency synthesizers,10.1109/ICMMT.2010.5524820,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5524820,0
+2,46,A low-power dual-modulus injection-locked frequency divider for medical implants,10.1109/RWS.2011.5725450,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5725450,0
+2,47,A Miniaturized Wilkinson Power Divider with Harmonic Suppression Characteristics Using Planar Artificial Transmission Lines,10.1109/APMC.2007.4555112,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4555112,0
+2,48,Four Way Power Divider and Combiner Based on a Luzzatto Divider Using Vertically Installed Planar Bridge Isolator,10.23919/EuMC.2018.8541360,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8541360,0
+2,49,High-modulus Current-reused Injection-Locked Frequency Dividers (FDs) with an Odd-modulus Sub-FD,10.1109/ICICM54364.2021.9660255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660255,0
+2,50,Wide-Locking Range Divide-by-4 Injection-Locked Frequency Divider Using Dual-Resonance RLC Resonator for Biomedical Sensor Applications,10.1109/BIBE.2016.12,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7789973,0
+2,51,Static Frequency Divider with Enhanced Frequency Performance,10.1109/WMED.2008.4510658,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4510658,0
+2,52,Nonreciprocal Filtering Power Divider Using Mixed Static and Time-Modulated Resonators: Numerical Design Approach and Experimental Validation,10.23919/EuMC58039.2023.10290566,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10290566,0
+2,53,Divide-By-3 Dual-Resonance Injection-Locked Frequency Divider,10.1109/ICICM48536.2019.8977193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977193,0
+2,54,Design of an ultra-wideband power divider,10.23919/CISS51089.2021.9652224,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652224,0
+2,55,A CMOS injection-locked frequency divider with FSK signal deviations for high-order division,10.1109/RFIT.2005.1598900,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1598900,0
+2,56,A 3.9 mw 1–39 GHz static frequency divider employing series inductive peaking technique,10.1109/RFIT.2014.6933255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6933255,0
+2,57,General Design of Multiway Multisection Power Dividers by Interconnecting Two-Way Dividers,10.1109/TMTT.2007.906541,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4339639,0
+2,58,A V-band wide locking range CMOS frequency divider,10.1109/MWSYM.2008.4633228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4633228,0
+2,59,A 60 GHz PLL synthesizer with an injection locked frequency divider using a fast VCO frequency calibration algorithm,10.1109/APMC.2012.6421690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421690,0
+2,60,A Gysel power divider with enhanced isolation bandwidth,10.1109/APMC.2015.7413356,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7413356,0
+2,61,Ultra-Wide Locking Range Regenerative Frequency Dividers With Quadrature-Injection Current-Mode-Logic Loop Divider,10.1109/LMWC.2013.2291864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6710207,0
+2,62,A Self-Packaged SISL Dual-Band Power Divider for WLAN Application with Low Loss and Compact Size,10.1109/MWSYM.2019.8700888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700888,0
+2,63,Broadband Three-Way LC-Ladder Divider on a Double-Sided PCB,10.1109/RFIT.2018.8524041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8524041,0
+2,64,Millimeter wave tunable power divider using modified Wilkinson design,10.1109/AUSMS.2016.7593465,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7593465,0
+2,65,Compact Wilkinson power divider with simultaneous bandpass response and harmonic suppression,10.1109/MWSYM.2010.5517748,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5517748,0
+2,66,A Semi-Lumped Miniaturized Spurious Less Frequency Tunable Three-port Divider\Combiner with 20 dB Isolation Between Output Ports,10.1109/MWSYM.2006.249710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4015278,0
+2,67,CMOS High-Speed 1/14 Dynamic Frequency Divider,10.1109/RFM.2006.331073,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4133588,0
+2,68,Single-ended-to-balanced balun-based dual-band power divider with open-ended stubs,10.1109/IEEE-IWS.2018.8401007,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8401007,0
+2,69,Improved Frequency Divider Based on Frequency Response Model of Grid-Following VSC,10.1109/SPIES55999.2022.10082171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10082171,0
+2,70,A W-Band Wide Locking Range Divide-by-Three Injection-Locked Frequency Divider in 40-nm CMOS,10.1109/IMS37962.2022.9865600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865600,0
+2,71,A V-Band CMOS Direct Injection-Locked Frequency Divider Using Forward Body Bias Technology,10.1109/LMWC.2010.2049436,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5483150,0
+2,72,A 24-GHz triple-mode programmable frequency divider in 0.13-µm CMOS technology,10.1109/APMC.2009.5384523,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384523,0
+2,73,A novel design of ultra-wideband strip-line power divider for 2–18 GHz,10.1109/ICATT.2013.6650765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6650765,0
+2,74,Injection-Locked Millimeter Wave Frequency Divider Utilizing Optoelectronic Oscillator Based Optical Frequency Comb,10.1109/JPHOT.2019.2916919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714038,0
+2,75,"Low-Voltage, Wide-Locking-Range, Millimeter-Wave Divide-by-5 Injection-Locked Frequency Dividers",10.1109/TMTT.2011.2180397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6138886,0
+2,76,Compact planar ultra-wideband power dividers with frequency range up to 67 GHz for multichannel receivers,10.1109/EuMC.2016.7824312,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824312,0
+2,77,Tri-band Wilkinson power divider for TD-LTE/3G/GPS systems,10.1109/iWEM.2014.6963700,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6963700,0
+2,78,On the Design of Truncated T-Type Power Dividers for X-Band with SIW Technology,10.1109/ANDESCON50619.2020.9271978,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9271978,0
+2,79,A low power programmable frequency divider intended for frequency synthesizer designed in accordance with IEEE 802.15.4a standard,10.1109/ICCircuitsAndSystems.2012.6408300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6408300,0
+2,80,Active Dual-Band Power Divider and Active Quad-Plexer Based on Traveling Wave Amplification and D-CRLH Transmission Line,10.1109/TCSII.2019.2917750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8718330,0
+2,81,W-Band Divide-by-3 Injection-Locked Frequency Divider Using Stacked Cross-Coupled Transistors in 90 nm CMOS,10.1109/RWS.2019.8714280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714280,0
+2,82,60GHz CMOS divide-by-5 injection-locked frequency divider with an open-stub-loaded floating-source injector,10.1109/RFIC.2011.5940608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5940608,0
+2,83,Analysis and Design of Tuning-Less mm-Wave Injection-Locked Frequency Dividers With Wide Locking Range Using 8th-Order Transformer-Based Resonator in 40 nm CMOS,10.1109/JSSC.2022.3152346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9728743,0
+2,84,Comments on “Microstrip T-Junction Power Divider With Exponentially Tapered Transmission Lines”,10.1109/LMWC.2017.2751305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8054681,0
+2,85,Design of Unequal Dual Band Gysel Power Divider With Isolation Bandwidth Improvement,10.1109/LMWC.2016.2646918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7827123,0
+2,86,A 12-GHz All-Digital Calibration-Free FMCW Signal Generator Based on a Retiming Fractional Frequency Divider,10.1109/A-SSCC47793.2019.9056984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9056984,0
+2,87,A 44-/spl mu/W 4.3-GHz injection-locked frequency divider with 2.3-GHz locking range,10.1109/JSSC.2005.843609,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1408087,0
+2,88,Compact dual band three way bagley polygon power divider using composite right/left handed (CRLH) transmission lines,10.1109/MWSYM.2009.5165739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5165739,0
+2,89,Balanced-to-single-ended filtering power dividers,10.1109/ICUWB.2016.7790445,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7790445,0
+2,90,Design of A Balanced-to-Balanced Filtering Power Divider With High Selectivity,10.1109/ICMMT58241.2023.10276443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10276443,0
+2,91,Dual-Band 2:1 LC-tank Injection-Locked Frequency Divider Using Distributed Transformer,10.1109/WAMICON47156.2021.9444292,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9444292,0
+2,92,Design of Semi-Lumped-Element Power Divider with Arbitrary Three Matching Frequencies,10.1109/APMC52720.2021.9661766,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9661766,0
+2,93,A Cross-Coupling-Based Design of Filtering Power Divider,10.23919/ACES-China60289.2023.10249708,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10249708,0
+2,94,Performance Prediction of Dual-band Power Divider Using Multi-layer Fully Connected Neural Network,10.1109/ICMMT52847.2021.9618614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9618614,0
+2,95,A V-Band CMOS Low-DC-Power Wide-Locking-Range Divide-by-6 Injection-Locked Frequency Divider Using Transformer Coupling,10.1109/LMWC.2020.2992107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9093885,0
+2,96,Design of Filtering Power Divider Based on LTCC with Double Folded Substrate Integrated Waveguide,10.1109/ACES-China62474.2024.10699611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10699611,0
+2,97,Design of Power Divider for Groove Gap Waveguide at Millimeter Wave Spectrum,10.1109/INMIC56986.2022.9972969,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9972969,0
+2,98,Wideband Unequal Filtering Power Divider Without Additional Impedance-matching Circuits at Outputs,10.1109/ACES-China56081.2022.10065025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10065025,0
+2,99,Implementation of 6-Port 3D transformer in injection-locked frequency divider,10.1109/VDAT.2009.5158135,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158135,0
+3,0,Design Architectures of Ring-Oscillator Based Injection-Locked Frequency Divider for Centimetre Wave RF Devices: An Overview,10.1109/CoNTESA52813.2021.9657139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9657139,0
+3,1,A 5/6-bit multi-modulus frequency divider in 0.13μm CMOS technology,10.1109/ISICir.2011.6131911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6131911,0
+3,2,A 94 GHz programmable frequency divider with inductive peaking for wideband and highly stable frequency synthesizers,10.23919/EuMIC.2017.8230647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8230647,0
+3,3,A W-band Quadrature Voltage-Controlled Oscillator with an Injection-Locked Frequency Divider in 40-nm CMOS Process,10.1109/RFIT52905.2021.9565268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565268,0
+3,4,A low spurious level fractional-N frequency divider based on a DDS-like phase accumulation operation,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6015963,0
+3,5,Miniature broadband four-way power divider in glass-based thin-film integrated passive device technology,10.1109/MWSYM.2013.6697574,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6697574,0
+3,6,High-Isolation Resistorless Tunable Filtering Power Divider,10.1109/RWS45077.2020.9050093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050093,0
+3,7,Fully 3-D-Printed Frequency-Scanning Slotted Waveguide Array With Wideband Power-Divider,10.1109/LAWP.2019.2951324,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8890877,0
+3,8,K-band wide-locking-range divide-by-5 injection-locked frequency divider in a 0.18-µm CMOS technology,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6483720,0
+3,9,Time-Domain Characterization of Frequency Dividers,10.1109/LMWC.2019.2939538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8846073,0
+3,10,New Wilkinson Power Dividers and Their Integration Applications to Four-Way and Filtering Dividers,10.1109/TCPMT.2014.2348571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6891282,0
+3,11,Divide-by-2 Injection-Locked Frequency Divider Using 3-path Transformer-Coupled Resonator,10.1109/ICECS49266.2020.9294876,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294876,0
+3,12,Divide-by-2 Transformer-Based Injection-Locked Frequency Dividers with Two Active Cores,10.1109/ICICM48536.2019.8977158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977158,0
+3,13,A Dual-Band Out-of-Phase Power Divider,10.1109/LMWC.2008.916800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4459067,0
+3,14,Divide-by-4 Injection-Locked Frequency Divider (ILFD) Using Stacked 2:1 ILFDs,10.1109/GSMM.2019.8797660,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8797660,0
+3,15,Analysis and Design of a 0.6 V 2.2 mW 58.5-to-72.9 GHz Divide-by-4 Injection-Locked Frequency Divider With Harmonic Boosting,10.1109/TCSI.2013.2256240,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6496171,0
+3,16,An Efficient Power Divider for Dual-Band Microwave Applications,10.1109/FIT.2013.15,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6717223,0
+3,17,A wide frequency range series-parallel coupled quadrature phase injection locked frequency divider,10.1109/MWSCAS.2015.7282159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282159,0
+3,18,Modeling and design of a low-power injection-locked frequency divider in 90nm CMOS for 60GHz applications,10.1109/SIRF.2011.5719315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5719315,0
+3,19,Design of a Miniature X-Band Broadband Unequal Power Divider MMIC Using Bridged-T Coils,10.23919/ACES-China52398.2021.9581725,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9581725,0
+3,20,Design and stability analysis of an injection-locked frequency divider by two,10.1109/IRANIANCEE.2010.5507102,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5507102,0
+3,21,A power efficient 26-GHz 32:1 static frequency divider in 130-nm bulk CMOS,10.1109/LMWC.2005.858998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1525053,0
+3,22,Research on key technology on designing high-frequency resistive voltage divider design,10.1109/CPEM.2014.6898542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898542,0
+3,23,LC-Tank Colpitts Injection-Locked Frequency Divider With Even and Odd Modulo,10.1109/LMWC.2008.2011338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4770116,0
+3,24,Microstrip bandpass power divider with high frequency selectivity and good in-band isolation,10.1109/MWSYM.2014.6848273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848273,0
+3,25,Triple Capacitive Cross-Coupled Divide-by-2 Injection-Locked Frequency Divider,10.1109/IEEE-IWS.2019.8803966,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8803966,0
+3,26,Low-power High-speed Folded MCML-based Frequency Divider for High-frequency Applications,10.1109/MysuruCon55714.2022.9972577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9972577,0
+3,27,A miniaturized wilkinson power divider for ultra wide-band operation,10.1109/MIKON.2016.7492081,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7492081,0
+3,28,A 44-94.7 GHz Injection-Locked Frequency Divider Using Series-Resonating Technique,10.1109/ICET51757.2021.9451159,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451159,0
+3,29,A Low-Power RF Programmable Frequency Divider,10.1109/ICCCS57501.2023.10150629,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10150629,0
+3,30,Design method of unequal Wilkinson power divider using LC-ladder circuits for multi-way power dividers,10.1109/APMC.2016.7931419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7931419,0
+3,31,Adjustable millimeter wave in-phase power divider for 5G using a three-line coupler structure,10.1109/APS.2016.7696563,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7696563,0
+3,32,A 27.9–53.5-GHz transformer-based injection-locked frequency divider with 62.9% locking range,10.1109/RFIC.2017.7969083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969083,0
+3,33,A wide locking range and low Voltage CMOS direct injection-locked frequency divider,10.1109/LMWC.2006.873489,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1626267,0
+3,34,A 90 nm CMOS LC-Tank Divide-by-3 Injection-Locked Frequency Divider With Record Locking Range,10.1109/LMWC.2010.2042561,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5431060,0
+3,35,A Dual Band Four Ports WILKINSON Power Divider Design,10.1109/CiSt49399.2021.9357289,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357289,0
+3,36,A Single-Inductor Two-Step-Mixing Injection-Locked Frequency Divider by Four with Concurrent Tail-Injection,10.1109/ICECS.2018.8618045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618045,0
+3,37,Wideband Three-Way Filtering Power Divider on One Single Multimode Patch Resonator,10.1109/TPS.2022.3192143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841430,0
+3,38,Quadrature Injection-Locked Frequency Dividers Using Dual-Resonance Resonator,10.1109/LMWC.2010.2091264,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5659494,0
+3,39,Design of Power Combiner and Power Divider at Ku Frequency Band Applications,10.1109/ICMNWC60182.2023.10435831,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10435831,0
+3,40,Analysis and Design of a 2.9-mW 53.4–79.4-GHz Frequency-Tracking Injection-Locked Frequency Divider in 65-nm CMOS,10.1109/JSSC.2013.2272371,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6567975,0
+3,41,Compact lumped-element 5-way wilkinson power divider with broadband operation,10.1109/EuMC.2016.7824313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7824313,0
+3,42,Compact and wideband modified wilkinson power dividers,10.1109/ICSIMA.2017.8311977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8311977,0
+3,43,A New Wideband Filtering Power Divider Based on Rectangle Patch Resonator With Compact Size,10.1109/IMWS-AMP53428.2021.9643864,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9643864,0
+3,44,A compact reconfigurable concurrent dual-band Wilkinson power divider for noninvasive vital sign detection applications,10.1109/ICSPCT.2014.6885006,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6885006,0
+3,45,The Design of 220GHz Four-way Power Divider Based on E-plane Directional Waveguide Hybrid,10.1109/UCMMT53364.2021.9569868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9569868,0
+3,46,An ultra-broadband 3-dB power divider,10.1109/GSMM.2012.6314071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6314071,0
+3,47,Compact Filtering Power Divider with Distributed Combline Coupled-Resonators,10.1109/IMFW49589.2021.9642331,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642331,0
+3,48,A 3.26-to-4.38 GHz divide-by-3 injection-locked frequency divider,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728316,0
+3,49,A tunable flipflop-based frequency divider up to 113 GHz and a fully differential 77GHz push-push VCO in SiGe BiCMOS technology,10.1109/RFIC.2009.5135487,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5135487,0
+3,50,A miniaturized Wilkinson power divider with CMOS active inductors,10.1109/LMWC.2005.859020,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1525071,0
+3,51,Ultra-wideband Wilkinson Power Divider Using Stepped Impedance For Communication System,10.1109/TSSA59948.2023.10366921,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10366921,0
+3,52,A wide locking range Q-band injection-locked frequency divider,10.1109/IEEE-IWS.2013.6616809,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6616809,0
+3,53,3dB Wilkinson Power Divider Using Monolithic Microwave Integrated Circuit Technology,10.1109/ELTICOM61905.2023.10443193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443193,0
+3,54,Reconfigurable Dual-Band Filtering Power Divider With Ultra-Wide Stopband Using Hybrid Microstrip/Square Defected Ground Structure,10.1109/MWSYM.2019.8700805,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700805,0
+3,55,Design of a high isolation F-band E-plane Waveguide Power Divider,10.1109/ICMMT52847.2021.9618224,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9618224,0
+3,56,Compact Four-Way Wilkinson Power Divider Network with Meander High-Impedance Lines and Port Impedance Matching Networks,10.1109/CSRSWTC56224.2022.10098391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098391,0
+3,57,Numerical Analysis on Slinky 3 dB Power Divider for High Speed RF Sensor System,10.1109/CONECCT55679.2022.9865701,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865701,0
+3,58,Design of Unequal Dual-Band Gysel Power Divider With Arbitrary Termination Resistance,10.1109/TMTT.2011.2153872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5783957,0
+3,59,A Miniaturized Bandpass Filtering Power Divider Using Quasi-Lumped Elements,10.1109/TCSII.2021.3087699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449891,0
+3,60,A Dual Band Reconfigurable Power Divider for WLAN Applications,10.1109/MWSYM.2006.249592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4014933,0
+3,61,Miniaturized Reconfigurable Filtering Power Divider with Arbitrary Output Phase Difference and Improved Isolation,10.1109/IMS19712.2021.9574902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574902,0
+3,62,A Wide Locking Range $LC$-Tank Injection-Locked Frequency Divider,10.1109/LMWC.2007.901796,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4285670,0
+3,63,A 60.8–67GHz and 6.3mW injection-locked frequency divider with switching-inductor loaded transformer in 65nm CMOS,10.1109/MWSYM.2014.6848272,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6848272,0
+3,64,A wide-locking range divide-by-2 LC-tank injection-locked frequency divider,10.1109/VDAT.2010.5496698,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5496698,0
+3,65,Novel dual-band power divider with three transmission zeros using 180-degree line sections,10.1109/APMC.2012.6421539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421539,0
+3,66,A 305–330+ GHz 2:1 Dynamic Frequency Divider Using InP HBTs,10.1109/LMWC.2010.2050871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5481995,0
+3,67,A Novel Design of Triple-Band Gysel Power Divider,10.1109/TMTT.2013.2279078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6588316,0
+3,68,A 8∶1 static frequency divider operating up to 34 GHz in 0.13-µm CMOS technology,10.1109/IMWS3.2011.6061869,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6061869,0
+3,69,Odd phase switching prescaler based on Injection Locked Frequency Divider,10.1109/MWSYM.2007.380365,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263782,0
+3,70,A Novel CMOS High Frequency Frequency Divider,10.1109/SCC59637.2023.10527605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10527605,0
+3,71,The design of an integrated diplexer-power divider based on dual-band impedance transformers and a five-port power-divider,10.1109/AFRCON.2017.8095555,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8095555,0
+3,72,Miniature filtering power divider using folded stub-loaded resonator,10.1109/IEEE-IWS.2016.7585453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7585453,0
+3,73,Wideband out-of-phase SIW power divider with enhanced stopband,10.1109/IEEE-IWS.2013.6616702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6616702,0
+3,74,A New Enhanced Design of broadband Gysel Power Divider and Combiner,10.1109/IMAS55807.2023.10066898,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10066898,0
+3,75,Planar dual-frequency three-way Wilkinson power dividers with open-circuited stubs,10.23919/EuMC.2013.6686611,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6686611,0
+3,76,Optimization of injection locked frequency divider with tunable active inductor,10.1109/RFIT.2012.6401618,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401618,0
+3,77,The Design of a Wideband Static Frequency Divider,10.1109/IMCEC.2018.8469515,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8469515,0
+3,78,An Integrated Frequency Selective Power Divider with Double-Slot Antenna Radiation and Wide Stopband for Sub-6 GHz 5G,10.1109/WMCS52222.2021.9493298,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9493298,0
+3,79,An On-Chip Analog Spectrum Analyzer Based on Miller Frequency Divider,10.1109/Austrochip51129.2020.9232983,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9232983,0
+3,80,RF Reflectionless Filtering Power Dividers,10.1109/TCSII.2018.2875172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488501,0
+3,81,Design Equations for a Coupled-Line Type Filtering Power Divider,10.1109/LMWC.2017.2661968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7865967,0
+3,82,Reconfigurable Unequal Power Divider With a High Dividing Ratio,10.1109/LMWC.2015.2440774,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7128758,0
+3,83,Sub-1 V Low Power Wide Range Injection-Locked Frequency Divider,10.1109/LMWC.2007.899318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266861,0
+3,84,Design of a 5G Application CML Frequency Divider for Improved Efficiency,10.23919/EuMIC54520.2022.9923472,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923472,0
+3,85,Determination of frequency characteristics of high voltage dividers in frequency domain,10.1109/EPE.2016.7521821,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7521821,0
+3,86,Microstrip quad mode reconfigurable power divider,10.1109/EuMC.2014.6986410,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986410,0
+3,87,A 7–12 GHz multi-modulus frequency divider,10.1109/APMC.2012.6421879,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421879,0
+3,88,Speed enhancement technique for divide-by-4 injection-locked frequency divider and its application to fractional division,10.1109/MWSYM.2011.5972626,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972626,0
+3,89,Analysis and Design of Ultra-Wideband mm-Wave Injection-Locked Frequency Dividers Using Transformer-Based High-Order Resonators,10.1109/JSSC.2018.2822710,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8341957,0
+3,90,A CMOS Direct Injection-Locked Frequency Divider With High Division Ratios,10.1109/LMWC.2009.2017603,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4840521,0
+3,91,"A 5 GHz, integrated transformer based, variable power divider design in CMOS process",10.1109/APMC.2013.6695148,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6695148,0
+3,92,A 5.5-GHz 1-mW Full-Modulus-Range Programmable Frequency Divider in 90-nm CMOS Process,10.1109/TCSII.2011.2161167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5985510,0
+3,93,A programmable high-speed pulse swallow divide-by-N frequency divider for PLL frequency synthesizer,10.1109/ICCASM.2010.5619385,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5619385,0
+3,94,Dual-band power divider with high frequency-ratio,10.1109/ICMMT.2012.6230027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6230027,0
+3,95,Design of a Wideband Power Divider Based on Coupled Striplines,10.1109/APCAP59480.2023.10469774,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10469774,0
+3,96,A Compact and Wideband Wilkinson Power Divider Using Lowpass Microstrip Filters,10.1109/AE58099.2023.10274379,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274379,0
+3,97,A Photonic Frequency Divider using a DO-MZM-based Optoelectronic Oscillator,10.1109/MWP58203.2023.10416593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416593,0
+3,98,Compact Microstrip Wilkinson Power Dividers With Harmonic Suppression and Arbitrary Power Division Ratios,10.1109/TMTT.2012.2226054,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6365776,0
+3,99,3-way wide-band planar power divider,10.1109/TELFOR.2014.7034487,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7034487,0
+4,0,A compact Wilkinson power divider/combiner with two-section coupled lines for harmonics suppression,10.1109/APMC.2012.6421803,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421803,0
+4,1,Multi-Functional Balanced-to-Unbalanced Filtering Power Dividers With Extended Upper Stopband,10.1109/TCSII.2018.2877984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509136,0
+4,2,Dual-Band Filtering Power Divider Based on a Single Circular Patch Resonator With Improved Bandwidths and Good Isolation,10.1109/TCSII.2021.3081266,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9432930,0
+4,3,A novel power-divider design with variable dividing ratio,10.1109/APMC.2009.5384355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5384355,0
+4,4,An adjustable unequal power divider design,10.1109/iWEM.2014.6963642,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6963642,0
+4,5,Design and analysis of compact unequal-split Wilkinson power divider using non-uniform transmission lines,10.1109/AEECT.2011.6132504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6132504,0
+4,6,A 132.7-to-143.5GHz injection-locked frequency divider in 65nm CMOS,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205341,0
+4,7,A Millimeter-Wave Filtering Power Divider Based on Rectangular SIW Resonator,10.1109/APCAP59480.2023.10470343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10470343,0
+4,8,Design of triband wilkinson power divider using Extended T-shaped stubs,10.1109/ICGCCEE.2014.6922377,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6922377,0
+4,9,High speed static frequency divider design with 111.6 GHz self-oscillation frequency (SOF) in 0.13 µm SiGe BiCMOS technology,10.1109/GEMIC.2015.7107798,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107798,0
+4,10,Frequency-Tunable Filtering Power Divider With New Topology,10.1109/TCPMT.2017.2708723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7950999,0
+4,11,Modeling and analysis of directly-forced divide-by-3 analog frequency dividers,10.1109/MWSCAS.2013.6674760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6674760,0
+4,12,Analysis and design of divide-by-three LC-CMOS frequency dividers,10.1109/FTFC.2013.6577760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6577760,0
+4,13,A new design of compact microstrip Wilkinson power dividers,10.1109/RFIT.2014.6933252,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6933252,0
+4,14,Dual-Band Filtering Power Divider With High Selectivity and Good Isolation,10.1109/LMWC.2016.2604878,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7567500,0
+4,15,Bandpass filtering power divider with sharp roll-off skirt and enhanced in-band isolation,10.1109/MWSYM.2016.7540285,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7540285,0
+4,16,High-Selectivity Balanced-to-Unbalanced Filtering Power Divider,10.23919/APMC.2018.8617498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617498,0
+4,17,A PLL-Stabilized W-Band MHEMT Push-Push VCO with Integrated Frequency Divider Circuit,10.1109/MWSYM.2007.379986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4263901,0
+4,18,A 0.35µm CMOS divide-by-3 LC injection-locked frequency divider,10.1109/VDAT.2009.5158155,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158155,0
+4,19,A New Synthesis for Tri-band Filtering Power Dividers Applying Equal-Ripple Level,10.1109/ICMMT58241.2023.10276782,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10276782,0
+4,20,3D-Printed Frequency Scanning Slotted Waveguide Array with Wide Band Power Divider,10.23919/USNC-URSI-NRSM.2019.8712999,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8712999,0
+4,21,Novel compact power dividers designs and comparison,10.1109/ICEMIS.2017.8273033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8273033,0
+4,22,Reduction of the Occupied Area of the Broadband Power Divider,10.1109/SYNCHROINFO55067.2022.9840995,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9840995,0
+4,23,A stacking voltage-controlled oscillator and injection-locked frequency divider for low-power and 12-GHz operation,10.1109/ICECC.2011.6066595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6066595,0
+4,24,A Capacitive-Gap Coupled Terahertz Planar-Goubau-Line Power Divider,10.1109/TTHZ.2023.3303849,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10214166,0
+4,25,One port to 4 port power divider using SIW technology for 60GHz applications,10.1109/AEMC.2017.8325755,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8325755,0
+4,26,A Novel Out-of-Phase Unequal Filtering Power Divider With Good Isolation and Out-of-Band Suppression,10.1109/iWEM58222.2023.10234879,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10234879,0
+4,27,Design of the Filtering Power Divider With a Wide Passband and Stopband,10.1109/LMWC.2018.2835446,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8365086,0
+4,28,A Dual-Modulus Frequency Divider up to 128 GHz in SiGe BiCMOS Technology,10.23919/EuMIC54520.2022.9923549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923549,0
+4,29,RF Performance Improvement of InP Frequency Divider by Using Enhanced fT-Doubler Technique,10.1109/LMWC.2022.3169807,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9766429,0
+4,30,Synthesis of a Ring Divider Having Small Dimensions and Weight,10.1109/SYNCHROINFO55067.2022.9840957,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9840957,0
+4,31,CPW uniplanar and monobloc balanced 3-way power divider for wearable antennas,10.1109/CAMA.2016.7815736,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7815736,0
+4,32,Compact Substrate Integrated Waveguide Power Divider with Slot-Loaded Ground Plane for Dual-Band Applications,10.1109/IMaRC.2018.8877282,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8877282,0
+4,33,Bandwidth- and Gain-Enhanced Vivaldi Antenna Array Fed by Non-uniform T-junction Power Divider for Radio Astronomy Application,10.1109/ISAPE.2018.8634078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8634078,0
+4,34,Ultra-Simple All-Optical Microwave Frequency Divider,10.1109/LPT.2022.3148239,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9698226,0
+4,35,45 GHz low power static frequency divider in 90 nm CMOS,10.1109/RFIT.2012.6401615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6401615,0
+4,36,A Novel Ultra-wide band Power Divider Based on Klopfenstein Tapered Line,10.1109/APCAP59480.2023.10470325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10470325,0
+4,37,Dual-Band Filtering Power Divider Based on CSRRs Loaded SIW Cavity,10.1109/TCSII.2021.3100568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499126,0
+4,38,A Circularly Polarized Planar 2×2 Dipole Array Antenna Fed by a Modified 4-way Gysel Power Divider,10.1109/APUSNCURSINRSM.2019.8888941,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8888941,0
+4,39,LC-Tank Colpitts Injection-Locked Frequency Divider With Record Locking Range,10.1109/LMWC.2008.2001023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4589000,0
+4,40,Novel Design of Wilkinson Power Dividers With Arbitrary Power Division Ratios,10.1109/TIE.2010.2066536,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5546961,0
+4,41,Design of Filtering Power Divider Based on Half Mode Substrate Integrated Waveguide,10.1109/ICMMT49418.2020.9386746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9386746,0
+4,42,A Compact K-/Ka-Band Waveguide Transition with Integrated Diplexer and Power Divider,10.23919/EuMC50147.2022.9784180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9784180,0
+4,43,Design of a Traveling-Wave Slot Array Power Divider Using the Method of Moments and a Genetic Algorithm,10.1109/TMTT.2015.2495099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7321060,0
+4,44,Generalized dual-frequency Wilkinson power dividers with a series/parallel RLC circuit,10.1109/MWSYM.2011.5972671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972671,0
+4,45,Compact Quasi-Planar Four-Way Power Divider With Wide Isolation Bandwidth,10.1109/ACCESS.2019.2919124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723182,0
+4,46,An ultra wide-band adaptive frequency divider for mm-wave PLL applications,10.1109/NORCHIP.2015.7364366,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7364366,0
+4,47,Compact Power Divider using Defected Ground Structure for Wireless Applications,10.1109/ICSCN.2008.4447155,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4447155,0
+4,48,"A Compact, Low Power and High Sensitivity E-Band Frequency Divider SiGe HBT MMIC",10.1109/Austrochip.2017.12,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8114740,0
+4,49,Wide-locking range divide-by-5 injection-locked frequency divider for wireless communication application,10.1109/ICCSNT.2016.8070214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8070214,0
+4,50,Bandpass Power Divider Design in Advanced 45nm CMOS Process,10.1109/ICMMT61774.2024.10671824,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10671824,0
+4,51,Compact Filtering Power Divider With Enhanced Second-Harmonic Suppression,10.1109/LMWC.2013.2274993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6574276,0
+4,52,Filtering Power Divider With Ultrawide Stopband and Wideband Low Radiation Loss Using Substrate Integrated Defected Ground Structure,10.1109/LMWC.2020.3036419,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261443,0
+4,53,Three-Way Substrate-Integrated Waveguide Filtering Power Divider with In-Phase and Anti-Phase Outputs,10.1109/APMC52720.2021.9661726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9661726,0
+4,54,Filtering Power Divider With Arbitrary Prescribed Phase Difference,10.1109/APMC47863.2020.9331678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331678,0
+4,55,Miniaturised equal and unequal power divider for C band application,10.1109/ICECA.2017.8203591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8203591,0
+4,56,An Injection-Locked Frequency Divider With Multiple Highly Nonlinear Injection Stages and Large Division Ratios,10.1109/TCSII.2007.895071,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4155071,0
+4,57,A 104- to 112.8-GHz CMOS Injection-Locked Frequency Divider,10.1109/TCSII.2009.2023280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5075639,0
+4,58,Experimental Study of UHF/SHF Dual-Band Semi-Lumped-Element Power Dividers,10.1109/RFIT52905.2021.9565259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565259,0
+4,59,Optimum Design of Asymmetrical Multisection Two-Way Power Dividers With Arbitrary Power Division and Impedance Matching,10.1109/TMTT.2011.2124468,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5746632,0
+4,60,Super compact on-chip wilkinson power divider using bridged-T coils,10.1109/RFIT.2016.7578152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7578152,0
+4,61,A New Unequal Power-Divider Design With Enhanced Insertion Loss Flatness,10.1109/LMWC.2009.2033504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5320193,0
+4,62,A 60-GHz 0.13-$\mu{\hbox{m}}$ CMOS Divide-by-Three Frequency Divider,10.1109/TMTT.2008.2004895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4652552,0
+4,63,A 1V 2mW 17GHz multi-modulus frequency divider based on TSPC logic using 65nm CMOS,10.1109/ESSCIRC.2014.6942114,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6942114,0
+4,64,Design of a compact UWB Wilkinson power divider,10.1109/ICMMT.2008.4540387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540387,0
+4,65,A Compact Dual-Band Out of Phase Power Divider Having Microstrip Compatibility,10.1109/TCSII.2020.2992753,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9087849,0
+4,66,Quad-band unequal power divider with coupled line section using stepped-impedance transformers,10.1109/ICACCI.2014.6968317,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6968317,0
+4,67,A 44 GHz 0.18μm CMOS Superharmonic Frequency Divider,10.1109/MWSYM.2007.380495,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4264100,0
+4,68,"Analysis, Simulation, and Implementation of Dual-Band Filtering Power Divider Based on Terminated Coupled Lines",10.1109/TCSII.2020.2981355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9039607,0
+4,69,A Divide-by-3 0.4–1.4 GHz Injection-Locked Frequency Divider Based on Relaxation Oscillator,10.1109/LMWC.2013.2254705,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6494350,0
+4,70,Divide-by-six injection-locked frequency divider by employing two down-conversions,10.1109/EuMIC.2015.7345115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7345115,0
+4,71,A 113.92 $\sim$  118.08 GHz Injection-Locked Frequency Divider With Triple-Split-Inductor Technique,10.1109/LMWC.2011.2160161,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5948394,0
+4,72,Miniaturized and Process-Tolerant Ku-Band Power Dividers Using GaN on SiC,10.23919/EuMC50147.2022.9784393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9784393,0
+4,73,A novel power divider structure using the gysel and wilkinson power dividers with only one grounded resistor,10.1109/IMaRC.2015.7411382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7411382,0
+4,74,A Novel Design of Wideband Gysel Power Divider,10.23919/ACES-China52398.2021.9581447,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9581447,0
+4,75,Design of In-Phase and Out-of-Phase Filtering Power Dividers with Thin-Film IPD Technology,10.23919/ACES-China52398.2021.9581521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9581521,0
+4,76,Compact unequal Wilkinson power divider with large power dividing ratio,10.1109/EuMIC.2014.6997930,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6997930,0
+4,77,Compact unequal Wilkinson power divider with large power dividing ratio,10.1109/EuMC.2014.6986746,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6986746,0
+4,78,Injection-locked Frequency Divider Using an 8-shaped Transformer,10.1109/IWS61525.2024.10713762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713762,0
+4,79,A wide-locking range V-Band injection-locked frequency divider,10.1109/ICSICT.2012.6467789,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6467789,0
+4,80,Investigation of wideband Wilkinson power divider using multi-section approach,10.1109/SCOReD.2013.7002609,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7002609,0
+4,81,A 4-Way 6∼18 GHz Stripline Power Divider Based on $35-\Omega$ Environment,10.1109/ICMMT55580.2022.10022471,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10022471,0
+4,82,Ultra-wideband Wilkinson Power Dividers Based on Substrate Integrated Coaxial Line,10.1109/IMWS-AMP54652.2022.10107128,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107128,0
+4,83,A 0.8-mW 55-GHz Dual-Injection-Locked CMOS Frequency Divider,10.1109/TMTT.2008.916868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4449066,0
+4,84,A 1V 50 GHz digital-controlled CMOS frequency divider,10.1109/APMC.2006.4429525,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4429525,0
+4,85,Synthesis of an N-way arbitrary power divider,10.23919/EuMC.2017.8230872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8230872,0
+4,86,A Power Divider with Controllable Transmission Zeros Using Lumped Artificial Transmission Line,10.23919/APMC.2018.8617405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617405,0
+4,87,Compact UWB Unequal Split Wilkinson Power Divider Using Nonuniform Transmission Lines,10.1109/ICCCEEE.2018.8515887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8515887,0
+4,88,Millimeter Wave Reconfigurable Vivaldi Antenna using Power Divider for 5G Applications,10.1109/ICPEICES.2018.8897361,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897361,0
+4,89,Design of UWB Four-channel Power Divider Based on Compound Multilayers,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9528749,0
+4,90,Dual-Mode Filtering Power Divider With High Passband Selectivity and Wide Upper Stopband,10.1109/LMWC.2017.2711556,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7955008,0
+4,91,THz Multimode Interference Power Divider Based on Groove Gap Waveguide Configuration,10.1109/TNANO.2022.3177440,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780584,0
+4,92,A Horst-Type Power Divider With Wide Frequency Tuning Range Using Varactors,10.1109/ACCESS.2018.2889222,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8584999,0
+4,93,A Varactor Diode based Power Divider with Frequency-Bandwidth Tuning,10.1109/InCAP52216.2021.9726449,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9726449,0
+4,94,A 40-GHz static frequency divider with quadrature outputs in 80-nm CMOS,10.1109/LMWC.2006.882382,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1704864,0
+4,95,A divide-by-two injection-locked frequency divider with 13-GHz locking range in 0.18-μm CMOS technology,10.1109/ISICir.2011.6131916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6131916,0
+4,96,A High-Performance Dual-Mode Filtering Power Divider With Simple Layout,10.1109/LMWC.2018.2789821,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8276284,0
+4,97,Compact three-way filtering power divider based on three-line coupled structure with good isolation,10.1109/ICMMT58241.2023.10277158,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10277158,0
+4,98,Dual-Band and Triple-Band Filtering Power Dividers Using Coupled Lines,10.1109/TCSII.2022.3223922,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9961958,0
+4,99,10 GHz GaInP/GaAs HBT Injection-Locked Frequency Divider,10.1109/ICMMT.2007.381437,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266196,0
+5,0,Novel Broadband Circular Waveguide Four-Way Power Divider for Dual Polarization Applications,10.1109/LMWC.2016.2517123,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7390020,0
+5,1,Design and fabrication of 2-way Wilkinson power divider for dual operating frequencies,10.1109/TSSA.2014.7065918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7065918,0
+5,2,"A 9.3-GHz-tuning-range, 58-GHz CMOS direct injection-locked frequency divider using input-power-matching technique",10.1109/ECTC.2009.5074270,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5074270,0
+5,3,30-GHz mHEMT divide-by-three injection-locked frequency divider with Marchand balun,10.1109/RWS.2015.7129713,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129713,0
+5,4,Multi-Modulus LC Injection-Locked Frequency Dividers Using Single-Ended Injection,10.1109/LMWC.2009.2017599,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4895252,0
+5,5,A Novel Tri-Band Wilkinson Power Divider for Multiband Wireless Applications,10.1109/LMWC.2017.2746685,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8031282,0
+5,6,A compact filtering power divider based on SIW triangular cavities,10.1109/EDAPS.2017.8276951,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8276951,0
+5,7,Design of a Microstrip Diplexing Filtering Power Divider,10.1109/APMC46564.2019.9038352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9038352,0
+5,8,Dual-Band Power Divider With Wide Passbands and Wide Harmonic Suppression Utilizing Multi-Mode T-Stub Loaded Slotline Resonators,10.1109/TCSII.2022.3225795,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9968143,0
+5,9,A Novel Two-Way Gysel Power Divider Based on Ridge-Gap Waveguide Technology,10.1109/ICRSS48293.2019.9026548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9026548,0
+5,10,RF Balanced-to-Single-Ended Out-of-Phase/3-dB Filtering Power Divider With Differential-Mode Input-Quasi-Reflectionless Behavior,10.1109/LMWT.2024.3372393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10470462,0
+5,11,A Miniaturized and Hybrid SIW Resonator Solution for Filtering Power Divider and Antenna Array,10.23919/EuMC50147.2022.9784380,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9784380,0
+5,12,Performance evaluation of 1×2 patch antenna array based on power divider characterises,10.1109/SGCAC.2016.7457998,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7457998,0
+5,13,Novel Dual-Band Out-of-Phase Power Divider With High Power-Handling Capability,10.1109/TMTT.2012.2190745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6182727,0
+5,14,Frequency Dividers Implementing Custom Cells with Resistor Tail Bias,10.1109/ISSSE.2007.4294521,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4294521,0
+5,15,Controllable Arbitrary Integer Frequency Divider Based on VHDL,10.1109/JCAI.2009.62,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5159097,0
+5,16,Compact microstrip electronically tunable power divider with Chebyshev bandpass response,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7067696,0
+5,17,A 19–48.3-GHz 6th-Order Transformer-Based Injection-Locked Frequency Divider With 87.1% Locking Range in 40-nm CMOS,10.1109/TCSII.2021.3085499,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9445060,0
+5,18,A Frequency Divider Implemented With a Subharmonic Mixer and a Divide-by-Two Divider,10.1109/LMWC.2006.885645,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4020324,0
+5,19,Filtering Power Divider With Good Isolation Performance and Harmonic Suppression,10.1109/LMWC.2016.2623244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7738413,0
+5,20,Proposal and Synthesis Design of Multi-band Filtering Power Dividers,10.23919/ACES-China52398.2021.9582011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9582011,0
+5,21,3.93-MHz/328-μW Dynamic Frequency Divider in Flexible a-IGZO TFT Technology,10.1109/LSSC.2020.3008027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136723,0
+5,22,3-dB Filtering Power Dividers With Quasi-Reflectionless Behavior at All Their Ports,10.1109/IMWS-AMP.2019.8880092,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8880092,0
+5,23,A Compact Gysel Power Divider With Unequal Power-Dividing Ratio Using One Resistor,10.1109/TMTT.2014.2326841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6824871,0
+5,24,A novel Gysel power divider with arbitrary power ratio for high-power application,10.1109/IEEE-IWS.2013.6616719,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6616719,0
+5,25,Tunable Power Divider With Varactors Based Schiffman Phase Shifters for Antenna Arrays Beam Steering,10.1109/MMS.2017.8497153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8497153,0
+5,26,Design of a low power wide-band high resolution programmable frequency divider,10.1109/TVLSI.2005.857153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1525043,0
+5,27,G-Band Injection-Locked Frequency Dividers Using $\pi$-type LC Networks,10.1109/TCSI.2011.2162462,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5999739,0
+5,28,An ultra wide-band ÷3 injection-locked frequency divider,10.1109/WOCC.2018.8372734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8372734,0
+5,29,Design of 2.1-4.8GHz Fractional-N Frequency Divider based on Digital Delta-Sigma Modulator and Clock Distribution Technique,10.1109/APMC57107.2023.10439924,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439924,0
+5,30,Design of a dual-band Wilkinson power divider using metamaterial transmission lines,10.1109/IMOC.2015.7369139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7369139,0
+5,31,Miniaturized Bailey Power Divider Using SRRs,10.1109/APUSNCURSINRSM.2018.8608976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8608976,0
+5,32,Synthesis of filtering power divider with complex source and load impedances,10.1109/APS.2016.7696566,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7696566,0
+5,33,Low Power Frequency Dividers using TSPC logic in 28nm FDSOI Technology,10.1109/LASCAS53948.2022.9789073,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9789073,0
+5,34,A 60-GHz push-push InGaP HBT VCO with dynamic frequency divider,10.1109/LMWC.2005.856847,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512220,0
+5,35,Observations Concerning the Locking Range in a Complementary Differential $LC$  Injection-Locked Frequency Divider—Part I: Qualitative Analysis,10.1109/TCSI.2009.2018930,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4804643,0
+5,36,Novel Wideband Microstrip Filtering Power Divider Using Multiple Resistors for Port Isolation,10.1109/ACCESS.2019.2913093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698281,0
+5,37,A Novel Wideband Power Divider With Multi-Transmission Zeros and Poles,10.1109/CAMA56352.2022.10002600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10002600,0
+5,38,Divide-by-2 Injection-Locked Frequency Dividers with Twisted Inductors,10.1109/iWEM49354.2020.9237415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9237415,0
+5,39,A Radial Multi-Mode Filtering Power Divider for Antenna Array Applications,10.1109/APUSNCURSINRSM.2018.8608478,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8608478,0
+5,40,Differential unequal power divider with bandpass response,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7821554,0
+5,41,Filter-Based Wilkinson Power Divider,10.1109/LMWC.2014.2299543,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6717045,0
+5,42,Reconfigurable beam shaping antenna with Wilkinson Power Divider at 5.8GHz,10.1109/RFM.2008.4897375,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4897375,0
+5,43,Power divider with substrate integrated waveguide and CSRR for C band application,10.1109/IPACT.2017.8245019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8245019,0
+5,44,A Compact Three-dimensional Wilkinson Power Divider Based on TSV,10.1109/ICET58434.2023.10212083,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10212083,0
+5,45,A Dual Band Unequal Wilkinson Power Divider Without Reactive Components,10.1109/TMTT.2008.2008981,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711146,0
+5,46,A 30-GHz Wideband Low-Power CMOS Injection-Locked Frequency Divider for 60-GHz Wireless-LAN,10.1109/LMWC.2007.915144,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4441358,0
+5,47,A 198.9GHz-to-201.0GHz injection-locked frequency divider in 65nm CMOS,10.1109/VLSIC.2010.5560265,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5560265,0
+5,48,"A 2 mW, 55.8-GHz CMOS injection-locked frequency divider with 7.1-GHz locking range",10.1109/RWS.2009.4957418,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4957418,0
+5,49,CMOS circuit techniques for millimeter-wave voltage-controlled oscillator and injection-locked frequency divider,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6174057,0
+5,50,A Novel Design Method of SOF for InP DHBT ECL and CML Static Frequency Dividers,10.1109/LMWC.2021.3064075,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9370119,0
+5,51,A CMOS Multi-Phase Injection-Locked Frequency Divider for V-Band Operation,10.1109/LMWC.2009.2015509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4804637,0
+5,52,Microwave Parametric Frequency Dividers With Conversion Gain,10.1109/TMTT.2007.906490,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4339613,0
+5,53,Miniaturized Microstrip Wilkinson Power Divider With Harmonic Suppression,10.1109/LMWC.2009.2022124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5109489,0
+5,54,Dual-Band Wilkinson Divider With Coupled Output Port Extensions,10.1109/TMTT.2009.2027169,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5204116,0
+5,55,A Power-Efficient 5.6-GHz Process-Compensated CMOS Frequency Divider,10.1109/TCSII.2006.889741,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4155063,0
+5,56,"Microstrip Four-Way Reconfigurable Single/Dual/Wideband Filtering Power Divider With Tunable Frequency, Bandwidth, and PDR",10.1109/TIE.2017.2787577,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8240677,0
+5,57,Design and analysis of 1-to-4 wilkinson power divider for antenna array feeding network,10.1109/ICIRD.2018.8376338,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376338,0
+5,58,Filtering power divider for differential input and output signals,10.1109/APMC.2013.6695149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6695149,0
+5,59,In-Phase and Anti-Phase Power Dividers for UWB Differentially Fed Antenna Arrays,10.1109/LAWP.2010.2050571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5466220,0
+5,60,Design of Power Divider Circuit for a Massive MIMO Antenna Feeding System,10.1109/APCC49754.2021.9609858,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609858,0
+5,61,Design Approach of The Wideband Power Divider,10.1109/ICEICT61637.2024.10670881,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670881,0
+5,62,Research of a wideband frequency ac resistive divider,10.1109/ICEMI.2011.6037777,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6037777,0
+5,63,Extended Frequency Divider Formula with Inclusion of DER Control Dynamics,10.1109/PESGM52003.2023.10253005,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10253005,0
+5,64,2:1 Injection-Locked Frequency Dividers Using Multi-Resonance Spiral-Inductor Resonator,10.1109/ACCESS.2020.3031723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9226447,0
+5,65,A Compact Power Divider Using Dual Composite Right-/Left-Handed Resonators (D-CRLH) with Filtering Response,10.23919/APMC.2018.8617544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617544,0
+5,66,High Power Ratio Waveguide Power Divider,10.1109/MAPCON56011.2022.10047607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10047607,0
+5,67,A Multigigahertz Multimodulus Frequency Divider in 90-nm CMOS,10.1109/TCSII.2006.885069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4033141,0
+5,68,A Wide-Locking-Range Injection-Locked Frequency Divider with Second-Harmonic Enhanced Resonator,10.1109/ICCCAS55266.2022.9824194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824194,0
+5,69,Compact SIW Power Divider with CSRRs for WLAN Application,10.23919/PIERS.2018.8598220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598220,0
+5,70,"Design of Low Power Consumption, High-Speed and Wide Division Ratio Range Programmable Frequency Divider",10.1109/ICICM50929.2020.9292273,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9292273,0
+5,71,Simple miniaturized Wilkinson power divider using a compact stub structure,10.1109/ATC.2015.7388313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7388313,0
+5,72,Modified Gysel Power Divider for Dual-Band Applications,10.1109/LMWC.2010.2091113,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5658127,0
+5,73,Integrated High Speed Current-Mode Frequency Divider with Inductive Peaking Structure,10.1109/EMS.2014.33,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7154047,0
+5,74,A Ring-Oscillator-Based Wide Locking Range Frequency Divider,10.1109/LMWC.2006.879480,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1661647,0
+5,75,"Modified Wilkinson Power Divider 1 to 4 at S-band as the part of smart antenna for satellite tracking, telemetry, and command subsystem",10.1109/ICCEREC.2016.7814967,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7814967,0
+5,76,Modified Wilkinson Power Divider with Resonating Stubs for Physical Isolation of Output Ports,10.1109/ISOCC56007.2022.10031408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10031408,0
+5,77,Dual-band Wilkinson power divider using cross-paired coupled lines,10.1109/APMC.2012.6421798,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421798,0
+5,78,A Low Loss Self-Packaged Power Divider Using Right-Angled Isosceles Triangular Patch Based on the SISL Platform,10.1109/IMS37964.2023.10187970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10187970,0
+5,79,24 GHz Low Power VCOs and Analog Frequency Dividers,10.1109/MWSYM.2006.249744,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4015304,0
+5,80,Miniaturized Dual-Band Power Dividers Based on Conjugately Characteristic-Impedance Transmission Lines (CCITLs),10.1109/iEECON51072.2021.9440319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9440319,0
+5,81,High-Selective and Compact-Size Diplexer-Integrated Filtering Power Divider Using Tri-Mode Stub-Loaded Resonators,10.1109/APMC57107.2023.10439949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439949,0
+5,82,Dual-Band Gysel Power Divider With Different Power Dividing Ratios,10.1109/LMWC.2019.2919164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8736243,0
+5,83,Development of Filtering Power Divider for WLAN Application Using SIW Bandpass Filter,10.1109/APWiMob51111.2021.9435257,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9435257,0
+5,84,Design analysis and testing of Wilkinson Power Divider with harmonics suppression using Defected Ground Structures,10.1109/ICSCCN.2011.6024513,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6024513,0
+5,85,Design of dual-band power divider using shunt open-stubs with enhanced attenuation characteristics,10.1109/APMC.2012.6421868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421868,0
+5,86,Wide-band triple-resonance divide-by-4 injection-locked frequency divider,10.1109/MWSYM.2017.8059039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8059039,0
+5,87,A 70 GHz static dual-modulus frequency divider in SiGe BiCMOS technology,10.1109/EuMIC.2015.7345069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7345069,0
+5,88,Wide-Locking Range Divide-by-3 Injection-Locked Frequency Divider Through Enhanced 2nd Harmonic,10.1109/LMWC.2016.2574835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7491297,0
+5,89,A high frequency tunable differential active inductor and its application to power dividers,10.1109/MWSCAS.2008.4616792,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4616792,0
+5,90,A 0.18-μm BiCMOS wide locking-range divide-by-2 injection-locked frequency divider with dual-injection,10.1109/IEEE-IWS.2014.6864194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6864194,0
+5,91,Frequency dividers with enhanced locking range,10.1109/RFIC.2008.4561524,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561524,0
+5,92,Meander Line-based Wilkinson Power Divider for Unmanned Aerial Vehicle Application,10.1109/Comnetsat50391.2020.9328980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328980,0
+5,93,Compact Equal and Unequal Dual-Frequency Power Dividers Based on Composite Right-/Left-Handed Transmission Lines,10.1109/TIE.2011.2171178,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6041028,0
+5,94,A Novel Coupled-Line Tunable Wilkinson Power Divider With Perfect Port Match and Isolation in Wide Frequency Tuning Range,10.1109/TCPMT.2016.2565601,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7482831,0
+5,95,A Radial Four-Way Power Divider With the Proposed Isolation Network,10.1109/LMWC.2018.2800532,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8293856,0
+5,96,A modified Wilkinson divider using zero-degree phase shifting composite right/left-handed transmission line,10.1109/MWSYM.2010.5516639,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5516639,0
+5,97,Analytical Design of the Radial Power Divider With Wide Isolation Bandwidths,10.23919/EuMC.2019.8910858,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910858,0
+5,98,A low power Charge Steering Based Frequency Divider,10.1109/NRSC49500.2020.9235096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9235096,0
+5,99,A 56.5–72.2 GHz Transformer-Injection Miller Frequency Divider in 0.13 $\mu{\rm m}$ CMOS,10.1109/LMWC.2010.2049435,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5483190,0

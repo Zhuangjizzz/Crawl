@@ -1,2 +1,23 @@
+comparator OR voltage comparator
+differential amplifier OR multi-stage amplifier OR amplifier OR instrumentation amplifier
+operational amplifier OR opamp OR ota OR operational transconductance amplifier OR precision opamp
+vga OR variable gain amplifier
+analog multiplier OR analog divider OR analog adder OR analog subtractor OR analog integrator OR analog differentiator OR analog arithmetic
+AC-DC OR analog rectifier
+DC-DC OR buck converter OR boost converter OR buck-boost converter
 power amplifier OR rf power amplifier OR audio power amplifier OR class amplifier
+voltage reference OR bandgap reference OR temperature compensated reference
+analog regulator
+ldo OR low dropout regulator OR linear voltage regulator OR linear regulator
+switching regulator OR smps OR buck-boost regulator OR step-down regulator OR step-up regulator
+analog filter OR rf filter
 transmitter OR receiver OR transceiver OR RF transceiver OR analog transceiver
+analog oscillator OR vco OR voltage-controlled oscillator OR LC oscillator OR crystal oscillator
+phase-locked loop OR pll OR frequency synthesizer
+analog mixer
+frequency divider OR divider
+analog modulator
+analog demodulator
+analog switch OR rf switch
+adc OR analog to digital OR sigma-delta ADC OR successive approximation ADC
+dac OR digital to analog OR R-2R ladder DAC OR delta-sigma DAC
